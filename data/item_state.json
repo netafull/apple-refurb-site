@@ -55,10 +55,10 @@
   ],
   "sold_out_at": null
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -69,10 +69,10 @@
   ],
   "sold_out_at": null
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -461,20 +461,6 @@
   ],
   "sold_out_at": null
  },
- "FWUV3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-30",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
-  "category": "mac",
-  "price": 275800,
-  "price_history": [
-   [
-    "2026-07-30",
-    275800
-   ]
-  ],
-  "sold_out_at": null
- },
  "FWV03J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
@@ -577,20 +563,6 @@
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 288800,
-  "price_history": [
-   [
-    "2026-07-30",
-    288800
-   ]
-  ],
-  "sold_out_at": null
- },
- "FFEW4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-30",
-  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
   "category": "mac",
   "price": 288800,
   "price_history": [
@@ -741,10 +713,10 @@
   ],
   "sold_out_at": null
  },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -755,10 +727,10 @@
   ],
   "sold_out_at": null
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -4016,5 +3988,33 @@
    ]
   ],
   "sold_out_at": null
+ },
+ "FWUV3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-07-30",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+  "category": "mac",
+  "price": 275800,
+  "price_history": [
+   [
+    "2026-07-30",
+    275800
+   ]
+  ],
+  "sold_out_at": "2026-07-30"
+ },
+ "FFEW4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-07-30",
+  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 288800,
+  "price_history": [
+   [
+    "2026-07-30",
+    288800
+   ]
+  ],
+  "sold_out_at": "2026-07-30"
  }
 }
