@@ -373,11 +373,15 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     related = CONFIG.get("related_sites") or []
     related_html = ""
     if related:
+        # 説明文は既存2サイト(電書ポチ・家電ポチ)と同じく可視テキストで出す。
+        # title属性だけだとマウスを乗せるまで読めず、モバイルでは全く見えない
         links = "\n".join(
-            f'<a href="{esc(s["url"])}" title="{esc(s.get("desc", ""))}">{esc(s["name"])}</a>'
+            f'<a href="{esc(s["url"])}">{esc(s["name"])}'
+            + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
+            + "</a>"
             for s in related
         )
-        related_html = f'<nav class="sites"><span class="lbl">姉妹サイト</span>\n{links}\n</nav>'
+        related_html = f'<nav class="sites"><span class="lbl">関連サイト</span>\n{links}\n</nav>'
 
     json_ld = json.dumps(
         {
