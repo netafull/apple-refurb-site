@@ -334,6 +334,13 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     tagline = CONFIG.get("site_tagline", "")
     page_title = f'{CONFIG["site_title"]}｜{tagline}' if tagline else CONFIG["site_title"]
 
+    # Search Consoleの所有権確認。既存2サイトはGA連携で済んだためタグ不要
+    # だったが、その方式が使えない場合に備えて設定できるようにしておく
+    gsv = CONFIG.get("google_site_verification", "")
+    gsv_tag = (
+        f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
+    )
+
     ga_id = CONFIG.get("ga_measurement_id")
     ga_tag = ""
     if ga_id:
@@ -391,6 +398,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <title>{esc(page_title)}</title>
 <meta name="description" content="{esc(CONFIG["site_description"])}">
 <link rel="canonical" href="{esc(site_url)}">
+{gsv_tag}
 {ga_tag}
 {chr(10).join(icon_tags)}
 <meta property="og:type" content="website">

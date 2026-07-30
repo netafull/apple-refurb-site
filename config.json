@@ -3,6 +3,7 @@
   "site_tagline": "Apple整備済製品の入荷情報",
   "site_description": "Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします",
   "site_url": "https://apple.netaful.jp/",
+  "ga_measurement_id": "G-GMC2GL9VM8",
   "base_url": "https://www.apple.com",
   "related_sites": [
     { "name": "電書ポチ", "desc": "Kindle本セール", "url": "https://book.netaful.jp/" },
