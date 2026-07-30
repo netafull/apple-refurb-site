@@ -341,6 +341,26 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
 
+    # メディアポリシー(プライバシーポリシー・AdSenseのCookie告知を含む)は
+    # netaful.jp/policy.html に既にある。3サイトとも netaful.jp 配下なので
+    # 各サイトに複製せずリンクで参照する
+    policy_url = CONFIG.get("policy_url", "")
+    policy_link = (
+        f'｜ <a href="{esc(policy_url)}" style="color:inherit">メディアポリシー</a>\n'
+        if policy_url
+        else ""
+    )
+
+    # AdSenseの広告コード。ads.txtはルートドメイン(netaful.jp)のものが
+    # サブドメインにも適用されるため、各サイトでの設置は不要
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    adsense_tag = (
+        '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+        f'adsbygoogle.js?client={esc(adsense_id)}" crossorigin="anonymous"></script>'
+        if adsense_id
+        else ""
+    )
+
     ga_id = CONFIG.get("ga_measurement_id")
     ga_tag = ""
     if ga_id:
@@ -404,6 +424,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <link rel="canonical" href="{esc(site_url)}">
 {gsv_tag}
 {ga_tag}
+{adsense_tag}
 {chr(10).join(icon_tags)}
 <meta property="og:type" content="website">
 <meta property="og:title" content="{esc(page_title)}">
@@ -430,7 +451,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-｜ <a href="rss.xml" style="color:inherit">RSS</a>
+{policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
 {related_html}
 </footer>
 </body>
