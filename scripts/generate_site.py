@@ -521,8 +521,12 @@ def main() -> int:
         CONFIG.get("site_url", "").replace("https://", "").strip("/") + "\n",
         encoding="utf-8",
     )
+    # このサイトのPagesはブランチ(main /docs)直参照で配信しており、
+    # そのままではJekyllが走って「_」で始まるファイルが黙って除外される。
+    # 姉妹2サイトはアーティファクト方式なのでこの問題は起きない
+    (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     print(
-        f"generated: index.html, rss.xml, sitemap.xml, robots.txt, CNAME "
+        f"generated: index.html, rss.xml, sitemap.xml, robots.txt, CNAME, .nojekyll "
         f"(在庫{data['count']}件 / 新着{len(events['arrivals'])}件 "
         f"値下げ{len(events['drops'])}件 売り切れ{len(events['gone'])}件)"
     )
