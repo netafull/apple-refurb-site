@@ -1,0 +1,25 @@
+{
+  "site_title": "林檎ポチ",
+  "site_tagline": "Apple整備済製品の入荷情報",
+  "site_description": "Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします",
+  "site_url": "https://apple.netaful.jp/",
+  "base_url": "https://www.apple.com",
+  "related_sites": [
+    { "name": "電書ポチ", "desc": "Kindle本セール", "url": "https://book.netaful.jp/" },
+    { "name": "家電ポチ", "desc": "ガジェット・家電セール", "url": "https://kaden.netaful.jp/" },
+    { "name": "ネタフル", "desc": "運営ブログ", "url": "https://netafull.net/" }
+  ],
+  "new_arrival_days": 7,
+  "price_drop_days": 14,
+  "sold_out_days": 7,
+  "categories": [
+    { "slug": "mac", "name": "Mac" },
+    { "slug": "ipad", "name": "iPad" },
+    { "slug": "iphone", "name": "iPhone" },
+    { "slug": "watch", "name": "Apple Watch" },
+    { "slug": "appletv", "name": "Apple TV" },
+    { "slug": "homepod", "name": "HomePod" },
+    { "slug": "accessories", "name": "アクセサリ", "display": false }
+  ],
+  "state_retention_days": 365
+}
