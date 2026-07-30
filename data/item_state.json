@@ -643,38 +643,10 @@
   ],
   "sold_out_at": null
  },
- "FDE64J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-30",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-07-30",
-    318800
-   ]
-  ],
-  "sold_out_at": null
- },
  "G1LY2J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 331800,
-  "price_history": [
-   [
-    "2026-07-30",
-    331800
-   ]
-  ],
-  "sold_out_at": null
- },
- "G1M22J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-30",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 331800,
   "price_history": [
@@ -3051,10 +3023,10 @@
   ],
   "sold_out_at": null
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3065,10 +3037,10 @@
   ],
   "sold_out_at": null
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-30",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3960,6 +3932,34 @@
    ]
   ],
   "sold_out_at": null
+ },
+ "FDE64J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-07-30",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-07-30",
+    318800
+   ]
+  ],
+  "sold_out_at": "2026-07-30"
+ },
+ "G1M22J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-07-30",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 331800,
+  "price_history": [
+   [
+    "2026-07-30",
+    331800
+   ]
+  ],
+  "sold_out_at": "2026-07-30"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
