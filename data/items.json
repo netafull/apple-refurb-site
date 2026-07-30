@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-30T16:55:39+09:00",
- "count": 285,
+ "generated_at": "2026-07-30T19:33:49+09:00",
+ "count": 283,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -819,23 +819,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FVVC3J/A",
-   "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-   "price": 190800,
-   "url": "https://www.apple.com/jp/shop/product/fvvc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RncWozWHZrUkVsYVVyS0hVRGlPYStneGk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmorQ1BxT0FOTW1CelQ0d3liWkpBZ25B",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "11inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FVVD3J/A",
    "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
    "price": 190800,
@@ -849,6 +832,23 @@
    "capacity": "512gb",
    "screen": "11inch",
    "color": "silver",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FVVC3J/A",
+   "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "price": 190800,
+   "url": "https://www.apple.com/jp/shop/product/fvvc3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RncWozWHZrUkVsYVVyS0hVRGlPYStneGk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmorQ1BxT0FOTW1CelQ0d3liWkpBZ25B",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadpro_11",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "11inch",
+   "color": "",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -1666,23 +1666,6 @@
    "screen": "16inch",
    "color": "spaceblack",
    "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MK9J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
-   "price": 1473800,
-   "url": "https://www.apple.com/jp/shop/product/g1mk9j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -4806,23 +4789,6 @@
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
    "model": "watchseries10",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FEHG4J/A",
-   "title": "Apple Watch SE 3（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
-   "price": 39800,
-   "url": "https://www.apple.com/jp/shop/product/fehg4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-nc-alum-starlight-sport-band-starlight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Z2VZc2VtVnFXam9ZZ0t1YkNEWFR6T1Z6bnBsQXlmQ1JlLzNRTjN5bis0b1A4cGZ3Q2I5QjJxdkFhb2tIR0JEYXI0TmMzV2hFS05KNDJ0RVhtQ2tCMGZZb2EvZ2gySXVPSk1nRlo4SlhUZktqdkdsU2pIaFNSM3NUTWtCVTcwOWpxVWx5aXVhMFFUTzBmdEV4SEVDQU9R",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
    "year": "",
    "capacity": "",
    "screen": "",
