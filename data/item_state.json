@@ -321,6 +321,20 @@
   ],
   "sold_out_at": null
  },
+ "G1LQ0J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-07-31",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 253800,
+  "price_history": [
+   [
+    "2026-07-31",
+    253800
+   ]
+  ],
+  "sold_out_at": null
+ },
  "G1LT0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-31",
@@ -2617,20 +2631,6 @@
   ],
   "sold_out_at": null
  },
- "FV6R3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-31",
-  "title": "13インチiPad Air（M2）Wi-Fi+Cellular 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 132800,
-  "price_history": [
-   [
-    "2026-07-30",
-    132800
-   ]
-  ],
-  "sold_out_at": null
- },
  "FV6T3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-07-31",
@@ -3848,6 +3848,20 @@
    ]
   ],
   "sold_out_at": null
+ },
+ "FV6R3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-07-31",
+  "title": "13インチiPad Air（M2）Wi-Fi+Cellular 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 132800,
+  "price_history": [
+   [
+    "2026-07-30",
+    132800
+   ]
+  ],
+  "sold_out_at": "2026-07-31"
  },
  "FDHF4J/A": {
   "first_seen": "2026-07-30",

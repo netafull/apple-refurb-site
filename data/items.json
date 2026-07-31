@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T08:17:57+09:00",
+ "generated_at": "2026-07-31T10:09:59+09:00",
  "count": 275,
  "items": [
   {
@@ -1257,23 +1257,6 @@
    "capacity": "128gb",
    "screen": "13inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FV6R3J/A",
-   "title": "13インチiPad Air（M2）Wi-Fi+Cellular 128GB - ブルー [整備済製品]",
-   "price": 132800,
-   "url": "https://www.apple.com/jp/shop/product/fv6r3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-13inch-m2-cell-blue-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bGRBRm5zZ1daaUJNYVdJU3dTNnFuSEtCTkRvcWFMM25pdDZTTmhjNlV1azgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHE1WFEwNmhGTVIvbjZKdVBhc0dveWw",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "blue",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -4166,6 +4149,23 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1LQ0J/A",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 253800,
+   "url": "https://www.apple.com/jp/shop/product/g1lq0j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTA3Y0czSVNtZnZuMFAvNHZmM1RYd1k",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookair",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "15inch",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-31"
   },
   {
    "part_number": "G1LT0J/A",
