@@ -59,10 +59,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -74,10 +74,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -704,10 +704,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -719,10 +719,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -3809,21 +3809,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FTMR3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-01",
-  "title": "iPhone 15 256GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-07-31",
-    104800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FU083J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-01",
@@ -4214,21 +4199,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FEHQ4J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-08-01",
-  "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 39800,
-  "price_history": [
-   [
-    "2026-08-01",
-    39800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FWYD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -4348,6 +4318,36 @@
   ],
   "sold_out_at": null,
   "baseline": true
+ },
+ "FTMR3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-01",
+  "title": "iPhone 15 256GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-07-31",
+    104800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
+  "baseline": null
+ },
+ "FEHQ4J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-08-01",
+  "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 39800,
+  "price_history": [
+   [
+    "2026-08-01",
+    39800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
+  "baseline": null
  },
  "G1MNLJ/A": {
   "first_seen": "2026-07-30",
