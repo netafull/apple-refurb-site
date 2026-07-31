@@ -11,7 +11,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFD4J/A": {
   "first_seen": "2026-07-30",
@@ -25,7 +26,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFF4J/A": {
   "first_seen": "2026-07-30",
@@ -39,7 +41,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFH4J/A": {
   "first_seen": "2026-07-30",
@@ -53,7 +56,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFE4J/A": {
   "first_seen": "2026-07-30",
@@ -67,7 +71,8 @@
     116800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFC4J/A": {
   "first_seen": "2026-07-30",
@@ -81,7 +86,8 @@
     116800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFG4J/A": {
   "first_seen": "2026-07-30",
@@ -95,7 +101,8 @@
     116800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FHFJ4J/A": {
   "first_seen": "2026-07-30",
@@ -109,7 +116,8 @@
     116800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
@@ -123,7 +131,8 @@
     210800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWUE3J/A": {
   "first_seen": "2026-07-30",
@@ -137,7 +146,8 @@
     210800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWUF3J/A": {
   "first_seen": "2026-07-30",
@@ -151,7 +161,8 @@
     210800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1CW0J/A": {
   "first_seen": "2026-07-30",
@@ -165,7 +176,8 @@
     222800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1H80J/A": {
   "first_seen": "2026-07-30",
@@ -179,7 +191,8 @@
     222800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDV94J/A": {
   "first_seen": "2026-07-30",
@@ -193,7 +206,8 @@
     223800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVD4J/A": {
   "first_seen": "2026-07-30",
@@ -207,7 +221,8 @@
     223800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVH4J/A": {
   "first_seen": "2026-07-30",
@@ -221,7 +236,8 @@
     223800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVQ4J/A": {
   "first_seen": "2026-07-30",
@@ -235,7 +251,8 @@
     223800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDH84J/A": {
   "first_seen": "2026-07-30",
@@ -249,7 +266,8 @@
     236800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDHJ4J/A": {
   "first_seen": "2026-07-30",
@@ -263,7 +281,8 @@
     236800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1L91J/A": {
   "first_seen": "2026-07-31",
@@ -277,7 +296,8 @@
     236800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": null
  },
  "FDE44J/A": {
   "first_seen": "2026-07-30",
@@ -291,7 +311,8 @@
     244800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWUY3J/A": {
   "first_seen": "2026-07-30",
@@ -305,7 +326,8 @@
     244800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWV13J/A": {
   "first_seen": "2026-07-30",
@@ -319,7 +341,8 @@
     244800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWV43J/A": {
   "first_seen": "2026-07-30",
@@ -333,7 +356,8 @@
     244800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LQ0J/A": {
   "first_seen": "2026-07-31",
@@ -347,7 +371,8 @@
     253800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1LT0J/A": {
   "first_seen": "2026-07-30",
@@ -361,7 +386,8 @@
     253800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LW0J/A": {
   "first_seen": "2026-07-30",
@@ -375,7 +401,8 @@
     253800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LZ0J/A": {
   "first_seen": "2026-07-30",
@@ -389,7 +416,8 @@
     253800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
@@ -403,7 +431,8 @@
     256800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1HE0J/A": {
   "first_seen": "2026-07-30",
@@ -417,7 +446,8 @@
     256800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVA4J/A": {
   "first_seen": "2026-07-30",
@@ -431,7 +461,8 @@
     270800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVE4J/A": {
   "first_seen": "2026-07-30",
@@ -445,7 +476,8 @@
     270800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVK4J/A": {
   "first_seen": "2026-07-30",
@@ -459,7 +491,8 @@
     270800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVT4J/A": {
   "first_seen": "2026-07-30",
@@ -473,7 +506,8 @@
     270800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWV03J/A": {
   "first_seen": "2026-07-30",
@@ -487,7 +521,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWV93J/A": {
   "first_seen": "2026-07-30",
@@ -501,7 +536,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EH0J/A": {
   "first_seen": "2026-07-30",
@@ -515,7 +551,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EH1J/A": {
   "first_seen": "2026-07-30",
@@ -529,7 +566,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EK1J/A": {
   "first_seen": "2026-07-30",
@@ -543,7 +581,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EP1J/A": {
   "first_seen": "2026-07-30",
@@ -557,7 +596,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1ER1J/A": {
   "first_seen": "2026-07-30",
@@ -571,7 +611,8 @@
     275800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDE54J/A": {
   "first_seen": "2026-07-30",
@@ -585,7 +626,8 @@
     288800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVC4J/A": {
   "first_seen": "2026-07-30",
@@ -599,7 +641,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVF4J/A": {
   "first_seen": "2026-07-30",
@@ -613,7 +656,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVN4J/A": {
   "first_seen": "2026-07-30",
@@ -627,7 +671,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDVU4J/A": {
   "first_seen": "2026-07-30",
@@ -641,7 +686,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1KJ2J/A": {
   "first_seen": "2026-07-30",
@@ -655,7 +701,8 @@
     311800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LX0J/A": {
   "first_seen": "2026-07-30",
@@ -669,7 +716,8 @@
     346800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EL3J/A": {
   "first_seen": "2026-07-30",
@@ -683,7 +731,8 @@
     351800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDR4J/A": {
   "first_seen": "2026-07-30",
@@ -697,7 +746,8 @@
     363800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDN4J/A": {
   "first_seen": "2026-07-30",
@@ -711,7 +761,8 @@
     363800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1KM0J/A": {
   "first_seen": "2026-07-30",
@@ -725,7 +776,8 @@
     364800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LY0J/A": {
   "first_seen": "2026-07-30",
@@ -739,7 +791,8 @@
     377800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2J3J/A": {
   "first_seen": "2026-07-30",
@@ -753,7 +806,8 @@
     379800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2T3J/A": {
   "first_seen": "2026-07-30",
@@ -767,7 +821,8 @@
     382800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2X3J/A": {
   "first_seen": "2026-07-30",
@@ -781,7 +836,8 @@
     382800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MH0J/A": {
   "first_seen": "2026-07-30",
@@ -795,7 +851,8 @@
     386800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1KJ3J/A": {
   "first_seen": "2026-07-30",
@@ -809,7 +866,8 @@
     387800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1EJ1J/A": {
   "first_seen": "2026-07-30",
@@ -823,7 +881,8 @@
     397800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FP3J/A": {
   "first_seen": "2026-07-30",
@@ -837,7 +896,8 @@
     405800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FT3J/A": {
   "first_seen": "2026-07-30",
@@ -851,7 +911,8 @@
     405800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FFEN4J/A": {
   "first_seen": "2026-07-30",
@@ -865,7 +926,8 @@
     406800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1LY3J/A": {
   "first_seen": "2026-07-30",
@@ -879,7 +941,8 @@
     408800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1K63J/A": {
   "first_seen": "2026-07-30",
@@ -893,7 +956,8 @@
     428800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MHAJ/A": {
   "first_seen": "2026-07-30",
@@ -907,7 +971,8 @@
     439800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MLAJ/A": {
   "first_seen": "2026-07-30",
@@ -921,7 +986,8 @@
     439800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGE44J/A": {
   "first_seen": "2026-07-30",
@@ -935,7 +1001,8 @@
     441800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGEA4J/A": {
   "first_seen": "2026-07-30",
@@ -949,7 +1016,8 @@
     441800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FFEQ4J/A": {
   "first_seen": "2026-07-30",
@@ -963,7 +1031,8 @@
     449800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FP4J/A": {
   "first_seen": "2026-07-30",
@@ -977,7 +1046,8 @@
     451800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FT4J/A": {
   "first_seen": "2026-07-30",
@@ -991,7 +1061,8 @@
     451800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MHEJ/A": {
   "first_seen": "2026-07-30",
@@ -1005,7 +1076,8 @@
     455800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MLEJ/A": {
   "first_seen": "2026-07-30",
@@ -1019,7 +1091,8 @@
     455800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MV0J/A": {
   "first_seen": "2026-07-30",
@@ -1033,7 +1106,8 @@
     464800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MZ0J/A": {
   "first_seen": "2026-07-30",
@@ -1047,7 +1121,8 @@
     464800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FFEL4J/A": {
   "first_seen": "2026-07-30",
@@ -1061,7 +1136,8 @@
     465800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDP4J/A": {
   "first_seen": "2026-07-30",
@@ -1075,7 +1151,8 @@
     466800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDT4J/A": {
   "first_seen": "2026-07-30",
@@ -1089,7 +1166,8 @@
     466800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2U3J/A": {
   "first_seen": "2026-07-30",
@@ -1103,7 +1181,8 @@
     473800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2Y3J/A": {
   "first_seen": "2026-07-30",
@@ -1117,7 +1196,8 @@
     473800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MHFJ/A": {
   "first_seen": "2026-07-30",
@@ -1131,7 +1211,8 @@
     478800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MLFJ/A": {
   "first_seen": "2026-07-30",
@@ -1145,7 +1226,8 @@
     478800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MH6J/A": {
   "first_seen": "2026-07-30",
@@ -1159,7 +1241,8 @@
     485800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1ML6J/A": {
   "first_seen": "2026-07-30",
@@ -1173,7 +1256,8 @@
     485800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1L51J/A": {
   "first_seen": "2026-07-30",
@@ -1187,7 +1271,8 @@
     496800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1L81J/A": {
   "first_seen": "2026-07-30",
@@ -1201,7 +1286,8 @@
     496800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2K3J/A": {
   "first_seen": "2026-07-30",
@@ -1215,7 +1301,8 @@
     506800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MH7J/A": {
   "first_seen": "2026-07-30",
@@ -1229,7 +1316,8 @@
     508800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FFEP4J/A": {
   "first_seen": "2026-07-30",
@@ -1243,7 +1331,8 @@
     509800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MHGJ/A": {
   "first_seen": "2026-07-30",
@@ -1257,7 +1346,8 @@
     531800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MLGJ/A": {
   "first_seen": "2026-07-30",
@@ -1271,7 +1361,8 @@
     531800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGE64J/A": {
   "first_seen": "2026-07-30",
@@ -1285,7 +1376,8 @@
     533800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGEC4J/A": {
   "first_seen": "2026-07-30",
@@ -1299,7 +1391,8 @@
     533800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MV3J/A": {
   "first_seen": "2026-07-30",
@@ -1313,7 +1406,8 @@
     540800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FQBJ/A": {
   "first_seen": "2026-07-30",
@@ -1327,7 +1421,8 @@
     542800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MH8J/A": {
   "first_seen": "2026-07-30",
@@ -1341,7 +1436,8 @@
     546800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1ML8J/A": {
   "first_seen": "2026-07-30",
@@ -1355,7 +1451,8 @@
     546800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1KK1J/A": {
   "first_seen": "2026-07-30",
@@ -1369,7 +1466,8 @@
     547800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2V3J/A": {
   "first_seen": "2026-07-30",
@@ -1383,7 +1481,8 @@
     549800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX303J/A": {
   "first_seen": "2026-07-30",
@@ -1397,7 +1496,8 @@
     549800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW0J/A": {
   "first_seen": "2026-07-30",
@@ -1411,7 +1511,8 @@
     556800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1M24J/A": {
   "first_seen": "2026-07-30",
@@ -1425,7 +1526,8 @@
     561800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MH9J/A": {
   "first_seen": "2026-07-30",
@@ -1439,7 +1541,8 @@
     569800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1ML9J/A": {
   "first_seen": "2026-07-30",
@@ -1453,7 +1556,8 @@
     569800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FF9J/A": {
   "first_seen": "2026-07-30",
@@ -1467,7 +1571,8 @@
     570800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FR3J/A": {
   "first_seen": "2026-07-30",
@@ -1481,7 +1586,8 @@
     572800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MM3J/A": {
   "first_seen": "2026-07-30",
@@ -1495,7 +1601,8 @@
     581800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDQ4J/A": {
   "first_seen": "2026-07-30",
@@ -1509,7 +1616,8 @@
     593800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGDU4J/A": {
   "first_seen": "2026-07-30",
@@ -1523,7 +1631,8 @@
     593800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW2J/A": {
   "first_seen": "2026-07-30",
@@ -1537,7 +1646,8 @@
     594800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N02J/A": {
   "first_seen": "2026-07-30",
@@ -1551,7 +1661,8 @@
     594800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N01J/A": {
   "first_seen": "2026-07-30",
@@ -1565,7 +1676,8 @@
     609800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW7J/A": {
   "first_seen": "2026-07-30",
@@ -1579,7 +1691,8 @@
     617800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MJ6J/A": {
   "first_seen": "2026-07-30",
@@ -1593,7 +1706,8 @@
     619800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MM6J/A": {
   "first_seen": "2026-07-30",
@@ -1607,7 +1721,8 @@
     619800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MMAJ/A": {
   "first_seen": "2026-07-30",
@@ -1621,7 +1736,8 @@
     619800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N05J/A": {
   "first_seen": "2026-07-30",
@@ -1635,7 +1751,8 @@
     632800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX2W3J/A": {
   "first_seen": "2026-07-30",
@@ -1649,7 +1766,8 @@
     635800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX313J/A": {
   "first_seen": "2026-07-30",
@@ -1663,7 +1781,8 @@
     635800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGE74J/A": {
   "first_seen": "2026-07-30",
@@ -1677,7 +1796,8 @@
     636800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGED4J/A": {
   "first_seen": "2026-07-30",
@@ -1691,7 +1811,8 @@
     636800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FV4J/A": {
   "first_seen": "2026-07-30",
@@ -1705,7 +1826,8 @@
     648800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MX0J/A": {
   "first_seen": "2026-07-30",
@@ -1719,7 +1841,8 @@
     659800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N10J/A": {
   "first_seen": "2026-07-30",
@@ -1733,7 +1856,8 @@
     659800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW3J/A": {
   "first_seen": "2026-07-30",
@@ -1747,7 +1871,8 @@
     670800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N03J/A": {
   "first_seen": "2026-07-30",
@@ -1761,7 +1886,8 @@
     670800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MKEJ/A": {
   "first_seen": "2026-07-30",
@@ -1775,7 +1901,8 @@
     685800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MNEJ/A": {
   "first_seen": "2026-07-30",
@@ -1789,7 +1916,8 @@
     685800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW8J/A": {
   "first_seen": "2026-07-30",
@@ -1803,7 +1931,8 @@
     693800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N08J/A": {
   "first_seen": "2026-07-30",
@@ -1817,7 +1946,8 @@
     693800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MNFJ/A": {
   "first_seen": "2026-07-30",
@@ -1831,7 +1961,8 @@
     708800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGE94J/A": {
   "first_seen": "2026-07-30",
@@ -1845,7 +1976,8 @@
     721800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FGEE4J/A": {
   "first_seen": "2026-07-30",
@@ -1859,7 +1991,8 @@
     721800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MK1J/A": {
   "first_seen": "2026-07-30",
@@ -1873,7 +2006,8 @@
     746800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MKAJ/A": {
   "first_seen": "2026-07-30",
@@ -1887,7 +2021,8 @@
     746800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN1J/A": {
   "first_seen": "2026-07-30",
@@ -1901,7 +2036,8 @@
     746800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N0AJ/A": {
   "first_seen": "2026-07-30",
@@ -1915,7 +2051,8 @@
     762800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MKLJ/A": {
   "first_seen": "2026-07-30",
@@ -1929,7 +2066,8 @@
     769800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MNLJ/A": {
   "first_seen": "2026-07-30",
@@ -1943,7 +2081,8 @@
     769800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MJ8J/A": {
   "first_seen": "2026-07-30",
@@ -1957,7 +2096,8 @@
     772800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FV1J/A": {
   "first_seen": "2026-07-30",
@@ -1971,7 +2111,8 @@
     773800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MX1J/A": {
   "first_seen": "2026-07-30",
@@ -1985,7 +2126,8 @@
     782800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MX3J/A": {
   "first_seen": "2026-07-30",
@@ -1999,7 +2141,8 @@
     805800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MY4J/A": {
   "first_seen": "2026-07-30",
@@ -2013,7 +2156,8 @@
     805800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N24J/A": {
   "first_seen": "2026-07-30",
@@ -2027,7 +2171,8 @@
     805800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW4J/A": {
   "first_seen": "2026-07-30",
@@ -2041,7 +2186,8 @@
     824800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N04J/A": {
   "first_seen": "2026-07-30",
@@ -2055,7 +2201,8 @@
     824800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MW9J/A": {
   "first_seen": "2026-07-30",
@@ -2069,7 +2216,8 @@
     846800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N09J/A": {
   "first_seen": "2026-07-30",
@@ -2083,7 +2231,8 @@
     846800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N22J/A": {
   "first_seen": "2026-07-30",
@@ -2097,7 +2246,8 @@
     897800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MY5J/A": {
   "first_seen": "2026-07-30",
@@ -2111,7 +2261,8 @@
     958800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N25J/A": {
   "first_seen": "2026-07-30",
@@ -2125,7 +2276,8 @@
     958800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MK4J/A": {
   "first_seen": "2026-07-30",
@@ -2139,7 +2291,8 @@
     991800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN4J/A": {
   "first_seen": "2026-07-30",
@@ -2153,7 +2306,8 @@
     991800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN5J/A": {
   "first_seen": "2026-07-30",
@@ -2167,7 +2321,8 @@
     1014800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MYEJ/A": {
   "first_seen": "2026-07-30",
@@ -2181,7 +2336,8 @@
     1027800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N2EJ/A": {
   "first_seen": "2026-07-30",
@@ -2195,7 +2351,8 @@
     1027800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FWLJ/A": {
   "first_seen": "2026-07-30",
@@ -2209,7 +2366,8 @@
     1040800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MY7J/A": {
   "first_seen": "2026-07-30",
@@ -2223,7 +2381,8 @@
     1050800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N27J/A": {
   "first_seen": "2026-07-30",
@@ -2237,7 +2396,8 @@
     1050800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MK6J/A": {
   "first_seen": "2026-07-30",
@@ -2251,7 +2411,8 @@
     1144800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN6J/A": {
   "first_seen": "2026-07-30",
@@ -2265,7 +2426,8 @@
     1144800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MK7J/A": {
   "first_seen": "2026-07-30",
@@ -2279,7 +2441,8 @@
     1167800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN7J/A": {
   "first_seen": "2026-07-30",
@@ -2293,7 +2456,8 @@
     1167800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FW2J/A": {
   "first_seen": "2026-07-30",
@@ -2307,7 +2471,8 @@
     1170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FW9J/A": {
   "first_seen": "2026-07-30",
@@ -2321,7 +2486,8 @@
     1170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MYFJ/A": {
   "first_seen": "2026-07-30",
@@ -2335,7 +2501,8 @@
     1180800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N2FJ/A": {
   "first_seen": "2026-07-30",
@@ -2349,7 +2516,8 @@
     1180800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FWMJ/A": {
   "first_seen": "2026-07-30",
@@ -2363,7 +2531,8 @@
     1193800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N28J/A": {
   "first_seen": "2026-07-30",
@@ -2377,7 +2546,8 @@
     1203800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN2J/A": {
   "first_seen": "2026-07-30",
@@ -2391,7 +2561,8 @@
     1205800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MK3J/A": {
   "first_seen": "2026-07-30",
@@ -2405,7 +2576,8 @@
     1228800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1FS6J/A": {
   "first_seen": "2026-07-30",
@@ -2419,7 +2591,8 @@
     1232800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MY6J/A": {
   "first_seen": "2026-07-30",
@@ -2433,7 +2606,8 @@
     1264800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N26J/A": {
   "first_seen": "2026-07-30",
@@ -2447,7 +2621,8 @@
     1264800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
@@ -2461,7 +2636,8 @@
     1450800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MN9J/A": {
   "first_seen": "2026-07-30",
@@ -2475,7 +2651,8 @@
     1473800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -2489,7 +2666,8 @@
     1486800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N2GJ/A": {
   "first_seen": "2026-07-30",
@@ -2503,7 +2681,8 @@
     1486800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1MY9J/A": {
   "first_seen": "2026-07-30",
@@ -2517,7 +2696,8 @@
     1509800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1N29J/A": {
   "first_seen": "2026-07-30",
@@ -2531,7 +2711,8 @@
     1509800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "G1CEMJ/A": {
   "first_seen": "2026-07-30",
@@ -2545,7 +2726,8 @@
     2140800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
@@ -2559,7 +2741,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FC9X4J/A": {
   "first_seen": "2026-07-30",
@@ -2573,7 +2756,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FC9Y4J/A": {
   "first_seen": "2026-07-30",
@@ -2587,7 +2771,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCA04J/A": {
   "first_seen": "2026-07-30",
@@ -2601,7 +2786,8 @@
     102800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FD4Y4J/A": {
   "first_seen": "2026-07-30",
@@ -2615,7 +2801,8 @@
     106800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCA64J/A": {
   "first_seen": "2026-07-30",
@@ -2629,7 +2816,8 @@
     116800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCFX4J/A": {
   "first_seen": "2026-07-30",
@@ -2643,7 +2831,8 @@
     124800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FV6T3J/A": {
   "first_seen": "2026-07-30",
@@ -2657,7 +2846,8 @@
     132800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
@@ -2671,7 +2861,8 @@
     135800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCNJ4J/A": {
   "first_seen": "2026-07-30",
@@ -2685,7 +2876,8 @@
     135800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCNK4J/A": {
   "first_seen": "2026-07-30",
@@ -2699,7 +2891,8 @@
     135800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCG34J/A": {
   "first_seen": "2026-07-30",
@@ -2713,7 +2906,8 @@
     138800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXF3J/A": {
   "first_seen": "2026-07-30",
@@ -2727,7 +2921,8 @@
     138800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -2741,7 +2936,8 @@
     146800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYD3J/A": {
   "first_seen": "2026-07-30",
@@ -2755,7 +2951,8 @@
     146800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCNN4J/A": {
   "first_seen": "2026-07-30",
@@ -2769,7 +2966,8 @@
     148800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ14J/A": {
   "first_seen": "2026-07-30",
@@ -2783,7 +2981,8 @@
     157800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ34J/A": {
   "first_seen": "2026-07-30",
@@ -2797,7 +2996,8 @@
     157800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ44J/A": {
   "first_seen": "2026-07-30",
@@ -2811,7 +3011,8 @@
     157800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVV83J/A": {
   "first_seen": "2026-07-30",
@@ -2825,7 +3026,8 @@
     159800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVV93J/A": {
   "first_seen": "2026-07-30",
@@ -2839,7 +3041,8 @@
     159800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYE3J/A": {
   "first_seen": "2026-07-30",
@@ -2853,7 +3056,8 @@
     162800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCG44J/A": {
   "first_seen": "2026-07-30",
@@ -2867,7 +3071,8 @@
     168800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ54J/A": {
   "first_seen": "2026-07-30",
@@ -2881,7 +3086,8 @@
     170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ64J/A": {
   "first_seen": "2026-07-30",
@@ -2895,7 +3101,8 @@
     170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ74J/A": {
   "first_seen": "2026-07-30",
@@ -2909,7 +3116,8 @@
     170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ84J/A": {
   "first_seen": "2026-07-30",
@@ -2923,7 +3131,8 @@
     170800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXP3J/A": {
   "first_seen": "2026-07-30",
@@ -2937,7 +3146,8 @@
     174800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXQ3J/A": {
   "first_seen": "2026-07-30",
@@ -2951,7 +3161,8 @@
     174800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCAJ4J/A": {
   "first_seen": "2026-07-30",
@@ -2965,7 +3176,8 @@
     177800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCAU4J/A": {
   "first_seen": "2026-07-30",
@@ -2979,7 +3191,8 @@
     177800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
@@ -2993,7 +3206,8 @@
     190800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVVD3J/A": {
   "first_seen": "2026-07-30",
@@ -3007,7 +3221,8 @@
     190800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW13J/A": {
   "first_seen": "2026-07-30",
@@ -3021,7 +3236,8 @@
     190800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW23J/A": {
   "first_seen": "2026-07-30",
@@ -3035,7 +3251,8 @@
     190800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYG3J/A": {
   "first_seen": "2026-07-30",
@@ -3049,7 +3266,8 @@
     192800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYH3J/A": {
   "first_seen": "2026-07-30",
@@ -3063,7 +3281,8 @@
     192800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP1X3J/A": {
   "first_seen": "2026-07-30",
@@ -3077,7 +3296,8 @@
     198800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP1Y3J/A": {
   "first_seen": "2026-07-30",
@@ -3091,7 +3311,8 @@
     198800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJ94J/A": {
   "first_seen": "2026-07-30",
@@ -3105,7 +3326,8 @@
     201800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP213J/A": {
   "first_seen": "2026-07-30",
@@ -3119,7 +3341,8 @@
     211800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW33J/A": {
   "first_seen": "2026-07-30",
@@ -3133,7 +3356,8 @@
     220800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW43J/A": {
   "first_seen": "2026-07-30",
@@ -3147,7 +3371,8 @@
     220800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXK3J/A": {
   "first_seen": "2026-07-30",
@@ -3161,7 +3386,8 @@
     226800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXL3J/A": {
   "first_seen": "2026-07-30",
@@ -3175,7 +3401,8 @@
     226800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FCJG4J/A": {
   "first_seen": "2026-07-30",
@@ -3189,7 +3416,8 @@
     231800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVXR3J/A": {
   "first_seen": "2026-07-30",
@@ -3203,7 +3431,8 @@
     239800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP223J/A": {
   "first_seen": "2026-07-30",
@@ -3217,7 +3446,8 @@
     241800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP233J/A": {
   "first_seen": "2026-07-30",
@@ -3231,7 +3461,8 @@
     241800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYJ3J/A": {
   "first_seen": "2026-07-30",
@@ -3245,7 +3476,8 @@
     247800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYK3J/A": {
   "first_seen": "2026-07-30",
@@ -3259,7 +3491,8 @@
     247800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW53J/A": {
   "first_seen": "2026-07-30",
@@ -3273,7 +3506,8 @@
     278800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW63J/A": {
   "first_seen": "2026-07-30",
@@ -3287,7 +3521,8 @@
     278800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXM3J/A": {
   "first_seen": "2026-07-30",
@@ -3301,7 +3536,8 @@
     281800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXN3J/A": {
   "first_seen": "2026-07-30",
@@ -3315,7 +3551,8 @@
     281800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRP3J/A": {
   "first_seen": "2026-07-30",
@@ -3329,7 +3566,8 @@
     292800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRQ3J/A": {
   "first_seen": "2026-07-30",
@@ -3343,7 +3581,8 @@
     292800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYL3J/A": {
   "first_seen": "2026-07-30",
@@ -3357,7 +3596,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNYM3J/A": {
   "first_seen": "2026-07-30",
@@ -3371,7 +3611,8 @@
     301800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRF3J/A": {
   "first_seen": "2026-07-30",
@@ -3385,7 +3626,8 @@
     311800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRG3J/A": {
   "first_seen": "2026-07-30",
@@ -3399,7 +3641,8 @@
     311800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVXW3J/A": {
   "first_seen": "2026-07-30",
@@ -3413,7 +3656,8 @@
     328800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNXY3J/A": {
   "first_seen": "2026-07-30",
@@ -3427,7 +3671,8 @@
     329800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FNY03J/A": {
   "first_seen": "2026-07-30",
@@ -3441,7 +3686,8 @@
     329800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW73J/A": {
   "first_seen": "2026-07-30",
@@ -3455,7 +3701,8 @@
     336800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVW83J/A": {
   "first_seen": "2026-07-30",
@@ -3469,7 +3716,8 @@
     336800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRY3J/A": {
   "first_seen": "2026-07-30",
@@ -3483,7 +3731,8 @@
     341800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWT03J/A": {
   "first_seen": "2026-07-30",
@@ -3497,7 +3746,8 @@
     341800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRR3J/A": {
   "first_seen": "2026-07-30",
@@ -3511,7 +3761,8 @@
     349800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWRT3J/A": {
   "first_seen": "2026-07-30",
@@ -3525,7 +3776,8 @@
     349800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP263J/A": {
   "first_seen": "2026-07-30",
@@ -3539,7 +3791,8 @@
     350800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FP273J/A": {
   "first_seen": "2026-07-30",
@@ -3553,7 +3806,8 @@
     350800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVX83J/A": {
   "first_seen": "2026-07-30",
@@ -3567,7 +3821,8 @@
     355800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVX93J/A": {
   "first_seen": "2026-07-30",
@@ -3581,7 +3836,8 @@
     355800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVXY3J/A": {
   "first_seen": "2026-07-30",
@@ -3595,7 +3851,8 @@
     385800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FVY03J/A": {
   "first_seen": "2026-07-30",
@@ -3609,7 +3866,8 @@
     385800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWT13J/A": {
   "first_seen": "2026-07-30",
@@ -3623,7 +3881,8 @@
     399800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWT23J/A": {
   "first_seen": "2026-07-30",
@@ -3637,7 +3896,8 @@
     399800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
@@ -3651,7 +3911,8 @@
     119800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
@@ -3665,7 +3926,8 @@
     151800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FTUH3J/A": {
   "first_seen": "2026-07-30",
@@ -3679,7 +3941,8 @@
     163800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FU6V3J/A": {
   "first_seen": "2026-07-30",
@@ -3693,7 +3956,8 @@
     181800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FU6W3J/A": {
   "first_seen": "2026-07-30",
@@ -3707,7 +3971,8 @@
     181800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FU6X3J/A": {
   "first_seen": "2026-07-30",
@@ -3721,7 +3986,8 @@
     181800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FTUQ3J/A": {
   "first_seen": "2026-07-30",
@@ -3735,7 +4001,8 @@
     193800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FU703J/A": {
   "first_seen": "2026-07-30",
@@ -3749,7 +4016,8 @@
     211800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FWYD3J/A": {
   "first_seen": "2026-07-30",
@@ -3763,7 +4031,8 @@
     98800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX4D3J/A": {
   "first_seen": "2026-07-30",
@@ -3777,7 +4046,8 @@
     104800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FX4P3J/A": {
   "first_seen": "2026-07-30",
@@ -3791,7 +4061,8 @@
     104800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FF0J4J/A": {
   "first_seen": "2026-07-30",
@@ -3805,7 +4076,8 @@
     120800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FN873J/A": {
   "first_seen": "2026-07-30",
@@ -3819,7 +4091,8 @@
     29800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FN893J/A": {
   "first_seen": "2026-07-30",
@@ -3833,7 +4106,8 @@
     37800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDEW4J/A": {
   "first_seen": "2026-07-30",
@@ -3847,7 +4121,8 @@
     50800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FDEY4J/A": {
   "first_seen": "2026-07-30",
@@ -3861,7 +4136,8 @@
     50800
    ]
   ],
-  "sold_out_at": null
+  "sold_out_at": null,
+  "baseline": true
  },
  "FV6R3J/A": {
   "first_seen": "2026-07-30",
@@ -3875,7 +4151,8 @@
     132800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "FDHF4J/A": {
   "first_seen": "2026-07-30",
@@ -3889,7 +4166,8 @@
     236800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "G1LY2J/A": {
   "first_seen": "2026-07-30",
@@ -3903,7 +4181,8 @@
     331800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "G1MN0J/A": {
   "first_seen": "2026-07-30",
@@ -3917,7 +4196,8 @@
     616800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "FCG14J/A": {
   "first_seen": "2026-07-30",
@@ -3931,7 +4211,8 @@
     138800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "FNXW3J/A": {
   "first_seen": "2026-07-30",
@@ -3945,7 +4226,8 @@
     275800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "FEHJ4J/A": {
   "first_seen": "2026-07-30",
@@ -3959,7 +4241,8 @@
     39800
    ]
   ],
-  "sold_out_at": "2026-07-31"
+  "sold_out_at": "2026-07-31",
+  "baseline": true
  },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
@@ -3973,7 +4256,8 @@
     318800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  },
  "G1M22J/A": {
   "first_seen": "2026-07-30",
@@ -3987,7 +4271,8 @@
     331800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -4001,7 +4286,8 @@
     1473800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  },
  "FEHG4J/A": {
   "first_seen": "2026-07-30",
@@ -4015,7 +4301,8 @@
     39800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  },
  "FWUV3J/A": {
   "first_seen": "2026-07-30",
@@ -4029,7 +4316,8 @@
     275800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  },
  "FFEW4J/A": {
   "first_seen": "2026-07-30",
@@ -4043,6 +4331,7 @@
     288800
    ]
   ],
-  "sold_out_at": "2026-07-30"
+  "sold_out_at": "2026-07-30",
+  "baseline": true
  }
 }

@@ -153,7 +153,13 @@ def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
         # 再入荷は初検出日が変わらないため、first_seenだけ見ると取り逃がす
         since_ago = days_ago(it.get("since", ""), today)
         restock_ago = days_ago(entry.get("restocked_at") or "", today)
-        is_new = since_ago is not None and since_ago <= new_days
+        # 初回実行で一括登録した商品は新着ではない。印が付いている間は
+        # first_seenが最近でも新着として扱わない(再入荷は別途拾う)
+        is_new = (
+            since_ago is not None
+            and since_ago <= new_days
+            and not entry.get("baseline")
+        )
         is_restock = restock_ago is not None and restock_ago <= new_days
         if is_new or is_restock:
             row = dict(it)
@@ -187,12 +193,14 @@ def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
         if gap is not None and gap <= gone_days:
             gone.append({**entry, "part_number": part, "sold_out_at": at})
 
-    # 初回実行の直後は全商品の初検出日が同じ日になり、在庫全件が「新着」に
-    # なってしまう。RSSにも287件が一斉に流れて購読者に無意味な通知が飛ぶため、
-    # 在庫と新着の件数が一致する日はベースライン扱いにして新着を出さない
-    baseline = bool(items) and len(arrivals) == len(items)
-    if baseline:
-        arrivals = []
+    # 初回実行の在庫は state 側の baseline 印で除外済み。ここでは
+    # 「まだ一度も新着が出ていない状態か」だけを判定して案内文の出し分けに使う。
+    # 以前は「新着の件数が在庫と一致するか」で初回を推測していたが、
+    # 初日の全在庫が7日間ずっと新着候補に残るため、その間ほんとうの新着まで
+    # 抑制される不具合があった(実際に7/31のMacBook Air 2件を取り逃がした)
+    baseline = bool(items) and all(
+        (state.get(it["part_number"]) or {}).get("baseline") for it in items
+    )
 
     arrivals.sort(key=lambda x: (x.get("event_date") or "", x["price"]), reverse=True)
     drops.sort(key=lambda x: x["off"], reverse=True)

@@ -214,6 +214,11 @@ def main() -> int:
                 # 変化があったときだけ追記するので件数は増えにくい
                 "price_history": [[today, item["price"]]],
                 "sold_out_at": None,
+                # 初回実行で一括登録した商品には印を付ける。これが無いと
+                # サイト側は「新着の件数が在庫と一致するか」で初回を推測する
+                # しかなく、初日の全在庫がnew_arrival_days(7日)の間ずっと
+                # 新着候補に残るため、その間ほんとうの新着まで抑制されてしまう
+                "baseline": True if first_run else None,
             }
             if not first_run:
                 new_arrivals.append(item)
