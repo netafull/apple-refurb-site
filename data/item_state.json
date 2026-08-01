@@ -3209,21 +3209,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FP233J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-01",
-  "title": "12.9インチiPad Pro Wi-Fi + Cellular 512GB - シルバー（第6世代）[整備済製品]",
-  "category": "ipad",
-  "price": 241800,
-  "price_history": [
-   [
-    "2026-07-30",
-    241800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true
- },
  "FNYJ3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -3658,6 +3643,22 @@
   ],
   "sold_out_at": null,
   "baseline": true
+ },
+ "FTMJ3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-01",
+  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-01"
  },
  "FTMK3J/A": {
   "first_seen": "2026-07-31",
@@ -4229,6 +4230,21 @@
   "sold_out_at": null,
   "baseline": true
  },
+ "FP233J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-01",
+  "title": "12.9インチiPad Pro Wi-Fi + Cellular 512GB - シルバー（第6世代）[整備済製品]",
+  "category": "ipad",
+  "price": 241800,
+  "price_history": [
+   [
+    "2026-07-30",
+    241800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
+  "baseline": true
+ },
  "FD4Y4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -4410,21 +4426,6 @@
   ],
   "sold_out_at": "2026-08-01",
   "baseline": true
- },
- "FTMJ3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-01",
-  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": "2026-08-01",
-  "baseline": null
  },
  "FEHQ4J/A": {
   "first_seen": "2026-08-01",
