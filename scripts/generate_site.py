@@ -91,7 +91,6 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
   color: var(--muted); border: 1px solid var(--line); border-radius: 4px;
   padding: 0 5px; margin-bottom: 3px; }
 .tag.new { color: #fff; background: var(--new); border-color: var(--new); }
-.tag.re { color: #fff; background: var(--accent); border-color: var(--accent); }
 .gone { font-size: 13px; color: var(--muted); }
 .gone li { list-style: none; padding: 3px 0; border-bottom: 1px solid var(--line); }
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
@@ -139,7 +138,7 @@ def days_ago(iso: str, today: datetime.date) -> int | None:
 
 
 def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
-    """在庫一覧と履歴を突き合わせて「新着入荷」「値下げ」「売り切れ」を作る。"""
+    """在庫一覧と履歴を突き合わせて「入荷」「値下げ」「売り切れ」を作る。"""
     new_days = CONFIG.get("new_arrival_days", 7)
     drop_days = CONFIG.get("price_drop_days", 14)
     gone_days = CONFIG.get("sold_out_days", 7)
@@ -170,6 +169,11 @@ def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
             row["event_date"] = (
                 entry.get("restocked_at") if row["is_restock"] else it.get("since")
             )
+            # サイト上では初入荷と再入荷を区別しない。Apple整備済製品は
+            # 同じ構成が繰り返し入荷するため、運用が続くほど「過去に見た型番」
+            # ばかりになり、いずれ大半が再入荷に該当して両者の意味が逆転する。
+            # 買う側の関心は「今あるかどうか」であって履歴上の初出ではない。
+            # ただしRSSでは区別を残す(特定モデルを待つ購読者には意味がある)
             arrivals.append(row)
 
         # 直近の価格変化が値下げなら拾う。値上げは表示しない
@@ -217,8 +221,6 @@ def render_item(it: dict, tag: str | None = None) -> str:
     tag_html = ""
     if tag == "new":
         tag_html = '<div class="tag new">NEW</div>'
-    elif tag == "restock":
-        tag_html = '<div class="tag re">再入荷</div>'
     elif tag:
         tag_html = f'<div class="tag">{esc(tag)}</div>'
 
@@ -236,7 +238,7 @@ def render_item(it: dict, tag: str | None = None) -> str:
     meta = []
     stamp = it.get("event_date") or it.get("since")
     if stamp:
-        meta.append(f"{md(stamp)}{'再入荷' if it.get('is_restock') else '入荷'}")
+        meta.append(f"{md(stamp)}入荷")
     if it.get("shipping"):
         meta.append(it["shipping"])
     meta_html = f'<div class="meta">{esc(" ・ ".join(meta))}</div>' if meta else ""
@@ -267,21 +269,21 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     arrivals = events["arrivals"]
     if arrivals:
         cards = "\n".join(
-            render_item(it, tag="restock" if it.get("is_restock") else "new")
+            render_item(it, tag="new")
             for it in arrivals
         )
         sections.append(
             '<details open id="new">\n'
-            f'<summary><h2>🆕 新着入荷 ({len(arrivals)}件)</h2></summary>\n'
+            f'<summary><h2>🆕 入荷 ({len(arrivals)}件)</h2></summary>\n'
             f'<p class="cmeta">直近{CONFIG.get("new_arrival_days", 7)}日以内に'
-            'Apple整備済製品ストアで確認された商品です</p>\n'
+            '在庫に現れた商品です（再入荷を含みます）</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n</details>'
         )
     elif events.get("baseline"):
         # 初日に「新着0件」とだけ出ると壊れているように見えるため理由を書く
         sections.append(
             '<details open id="new">\n'
-            '<summary><h2>🆕 新着入荷</h2></summary>\n'
+            '<summary><h2>🆕 入荷</h2></summary>\n'
             '<p class="cmeta">在庫の記録を開始しました。'
             '次回の更新以降、新しく入荷した商品をここに掲載します</p>\n</details>'
         )
