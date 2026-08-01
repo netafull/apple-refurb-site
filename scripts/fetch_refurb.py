@@ -192,7 +192,9 @@ def main() -> int:
         print("[error] 1件も取得できませんでした。状態ファイルは更新しません", file=sys.stderr)
         return 1
 
-    today_dt = datetime.datetime.now(JST).date()
+    now = datetime.datetime.now(JST)
+    now_iso = now.isoformat(timespec="seconds")
+    today_dt = now.date()
     today = today_dt.isoformat()
     state = load_state()
     first_run = not state
@@ -208,6 +210,9 @@ def main() -> int:
         if prev is None:
             entry = {
                 "first_seen": today,
+                # 入荷の窓を24時間で判定するため時刻も持つ。日付だけだと
+                # 深夜0時をまたいだ瞬間に入荷が消えてしまう
+                "first_seen_at": now_iso,
                 "last_seen": today,
                 "title": item["title"],
                 "category": item["category"],
@@ -238,6 +243,7 @@ def main() -> int:
                 # 再入荷は初検出日(first_seen)が変わらないため、これを
                 # 記録しないとサイト側で新着として扱えない
                 entry["restocked_at"] = today
+                entry["restocked_at_at"] = now_iso
             old_price = prev.get("price")
             if isinstance(old_price, int) and old_price != item["price"]:
                 history = list(prev.get("price_history") or [])

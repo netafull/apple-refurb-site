@@ -135,6 +135,22 @@ def md(iso: str) -> str:
         return ""
 
 
+def hours_ago(at: str, date_only: str, now: datetime.datetime,
+              today: datetime.date) -> float | None:
+    """出来事からの経過時間。時刻が無い既存データは日付から概算する。"""
+    if at:
+        try:
+            return (now - datetime.datetime.fromisoformat(at)).total_seconds() / 3600
+        except ValueError:
+            pass
+    if date_only:
+        try:
+            return (today - datetime.date.fromisoformat(date_only)).days * 24
+        except ValueError:
+            pass
+    return None
+
+
 def days_ago(iso: str, today: datetime.date) -> int | None:
     try:
         return (today - datetime.date.fromisoformat(iso)).days
@@ -169,9 +185,12 @@ def load_prev_counts(today: datetime.date) -> dict:
     return (history[past[-1]] or {}).get("categories") or {}
 
 
-def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
+def build_events(
+    items: list[dict], state: dict, today: datetime.date,
+    now: datetime.datetime,
+) -> dict:
     """在庫一覧と履歴を突き合わせて「入荷」「値下げ」「売り切れ」を作る。"""
-    new_days = CONFIG.get("new_arrival_days", 7)
+    new_hours = CONFIG.get("new_arrival_hours", 24)
     drop_days = CONFIG.get("price_drop_days", 14)
     gone_days = CONFIG.get("sold_out_days", 7)
 
@@ -182,16 +201,21 @@ def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
 
         # 新着は「初検出が最近」か「再入荷が最近」のいずれか。
         # 再入荷は初検出日が変わらないため、first_seenだけ見ると取り逃がす
-        since_ago = days_ago(it.get("since", ""), today)
-        restock_ago = days_ago(entry.get("restocked_at") or "", today)
+        since_ago = hours_ago(
+            entry.get("first_seen_at") or "", it.get("since", ""), now, today
+        )
+        restock_ago = hours_ago(
+            entry.get("restocked_at_at") or "", entry.get("restocked_at") or "",
+            now, today,
+        )
         # 初回実行で一括登録した商品は新着ではない。印が付いている間は
         # first_seenが最近でも新着として扱わない(再入荷は別途拾う)
         is_new = (
             since_ago is not None
-            and since_ago <= new_days
+            and since_ago <= new_hours
             and not entry.get("baseline")
         )
-        is_restock = restock_ago is not None and restock_ago <= new_days
+        is_restock = restock_ago is not None and restock_ago <= new_hours
         if is_new or is_restock:
             row = dict(it)
             # 再入荷と新規入荷が重なった場合は、より新しい出来事を採用する
@@ -307,8 +331,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         sections.append(
             '<details open id="new">\n'
             f'<summary><h2>🆕 入荷 ({len(arrivals)}件)</h2></summary>\n'
-            f'<p class="cmeta">直近{CONFIG.get("new_arrival_days", 7)}日以内に'
-            '在庫に現れた商品です（再入荷を含みます）</p>\n'
+            f'<p class="cmeta">直近{CONFIG.get("new_arrival_hours", 24)}時間以内に'
+            '在庫に現れた商品です（再入荷を含みます）</p>\n' 
             f'<div class="grid">\n{cards}\n</div>\n</details>'
         )
     elif events.get("baseline"):
@@ -574,8 +598,9 @@ def main() -> int:
         state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
     except FileNotFoundError:
         state = {}
-    today = datetime.datetime.fromisoformat(data["generated_at"]).astimezone(JST).date()
-    events = build_events(data["items"], state, today)
+    generated = datetime.datetime.fromisoformat(data["generated_at"]).astimezone(JST)
+    today = generated.date()
+    events = build_events(data["items"], state, today, generated)
 
     DOCS.mkdir(parents=True, exist_ok=True)
     (DOCS / "index.html").write_text(generate_html(data, state, events), encoding="utf-8")

@@ -22,7 +22,7 @@
       "url": "https://netafull.net/"
     }
   ],
-  "new_arrival_days": 7,
+  "new_arrival_hours": 24,
   "price_drop_days": 14,
   "sold_out_days": 7,
   "categories": [
