@@ -734,21 +734,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "G1LY0J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-01",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 377800,
-  "price_history": [
-   [
-    "2026-07-30",
-    377800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true
- },
  "FX2J3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -2699,21 +2684,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FCA64J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-01",
-  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-07-30",
-    116800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true
- },
  "FCFX4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -3059,10 +3029,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3074,10 +3044,10 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4302,6 +4272,36 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true
+ },
+ "G1LY0J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-01",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 377800,
+  "price_history": [
+   [
+    "2026-07-30",
+    377800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
+  "baseline": true
+ },
+ "FCA64J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-01",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-07-30",
+    116800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
   "baseline": true
  },
  "FTMJ3J/A": {
