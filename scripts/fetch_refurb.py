@@ -22,6 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.json"
 ITEMS_PATH = ROOT / "data" / "items.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
+# カテゴリ別の件数を日次で残す。前日比の表示に使う
+HISTORY_PATH = ROOT / "data" / "count_history.json"
 
 JST = datetime.timezone(datetime.timedelta(hours=9))
 USER_AGENT = (
@@ -289,6 +291,28 @@ def main() -> int:
     )
     STATE_PATH.write_text(
         json.dumps(new_state, ensure_ascii=False, indent=1), encoding="utf-8"
+    )
+
+    # 前日比を出すためにカテゴリ別の件数を日次で記録する。
+    # 毎時上書きするので、その日の最後の実行値が残る。
+    # 1日1行しか増えないためファイルは小さいままで済む
+    history = {}
+    try:
+        history = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        pass
+    except json.JSONDecodeError as e:
+        print(f"[warn] {HISTORY_PATH.name} が壊れています ({e})。作り直します", file=sys.stderr)
+    counts: dict[str, int] = {}
+    for item in items.values():
+        counts[item["category"]] = counts.get(item["category"], 0) + 1
+    history[today] = {"total": len(items), "categories": counts}
+    # 保持期間を超えた分は捨てる(state と同じ基準にそろえる)
+    cutoff = (today_dt - datetime.timedelta(days=retention)).isoformat()
+    history = {d: v for d, v in history.items() if d >= cutoff}
+    HISTORY_PATH.write_text(
+        json.dumps(history, ensure_ascii=False, indent=1, sort_keys=True),
+        encoding="utf-8",
     )
 
     # ---- レポート ----

@@ -1,0 +1,35 @@
+{
+ "2026-07-30": {
+  "categories": {
+   "appletv": 2,
+   "homepod": 2,
+   "ipad": 81,
+   "iphone": 8,
+   "mac": 183,
+   "watch": 5
+  },
+  "total": 281
+ },
+ "2026-07-31": {
+  "categories": {
+   "appletv": 2,
+   "homepod": 2,
+   "ipad": 79,
+   "iphone": 30,
+   "mac": 176,
+   "watch": 4
+  },
+  "total": 293
+ },
+ "2026-08-01": {
+  "categories": {
+   "appletv": 2,
+   "homepod": 2,
+   "ipad": 74,
+   "iphone": 31,
+   "mac": 171,
+   "watch": 4
+  },
+  "total": 284
+ }
+}

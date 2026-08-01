@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 ITEMS_PATH = ROOT / "data" / "items.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
+HISTORY_PATH = ROOT / "data" / "count_history.json"
 DOCS = ROOT / "docs"
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
@@ -66,6 +67,10 @@ summary:hover h2 { color: var(--accent); }
 details > .grid, details > .empty, details > .cmeta, details > .gone {
   margin-top: 12px; }
 .cmeta { color: var(--muted); font-size: 12px; }
+/* カテゴリ見出しの前日比。運営者が在庫の動きを追うための表示 */
+.delta { font-size: 12px; font-weight: 600; margin-left: 6px; }
+.delta.up { color: var(--new); }
+.delta.down { color: var(--hot); }
 .grid { display: grid; gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
 .item { display: flex; gap: 12px; background: var(--card);
@@ -135,6 +140,33 @@ def days_ago(iso: str, today: datetime.date) -> int | None:
         return (today - datetime.date.fromisoformat(iso)).days
     except (TypeError, ValueError):
         return None
+
+
+def delta_html(slug: str, now: int, prev: dict) -> str:
+    """前日比を見出しに添える。増減が無い日と比較できない日は何も出さない。"""
+    if slug not in prev:
+        return ""
+    diff = now - prev[slug]
+    if diff == 0:
+        return ""
+    cls = "up" if diff > 0 else "down"
+    return f'<span class="delta {cls}">{diff:+d}</span>'
+
+
+def load_prev_counts(today: datetime.date) -> dict:
+    """前日のカテゴリ別件数を返す。運営者が在庫の動きを追うための材料。
+
+    GitHub Actionsは発火をスキップすることがあり前日ぶんが無い場合もあるので、
+    直近の過去日を遡って探し、見つからなければ空を返す(比較を出さない)。
+    """
+    try:
+        history = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+    past = sorted(d for d in history if d < today.isoformat())
+    if not past:
+        return {}
+    return (history[past[-1]] or {}).get("categories") or {}
 
 
 def build_events(items: list[dict], state: dict, today: datetime.date) -> dict:
@@ -299,6 +331,10 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
             f'<div class="grid">\n{cards}\n</div>\n</details>'
         )
 
+    # 前日比はカテゴリ見出しにだけ添える。入荷・売り切れの節は増減の内訳
+    # そのものなので、そこに差分を出すと二重表現になる
+    prev_counts = load_prev_counts(today)
+
     # カテゴリ別の在庫一覧。config.jsonの並び順を保ち、0件は末尾に回す
     by_cat: dict[str, list[dict]] = {}
     for it in items:
@@ -322,7 +358,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
             body = '<p class="empty">現在在庫はありません。</p>'
         sections.append(
             f'<details open id="c{i}">\n'
-            f'<summary><h2>{esc(cat["name"])} ({len(rows)}件)</h2></summary>\n'
+            f'<summary><h2>{esc(cat["name"])} ({len(rows)}件)'
+            f'{delta_html(cat["slug"], len(rows), prev_counts)}</h2></summary>\n' 
             f'{body}\n</details>'
         )
 
