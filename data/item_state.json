@@ -2684,21 +2684,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FCFX4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-01",
-  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-07-30",
-    124800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true
- },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -4272,6 +4257,21 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true
+ },
+ "FCFX4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-01",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-07-30",
+    124800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
   "baseline": true
  },
  "G1LY0J/A": {
