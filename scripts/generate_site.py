@@ -330,7 +330,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         )
         sections.append(
             '<details open id="new">\n'
-            f'<summary><h2>🆕 入荷 ({len(arrivals)}件)</h2></summary>\n'
+            f'<summary><h2>🆕 新着 ({len(arrivals)}件)</h2></summary>\n'
             f'<p class="cmeta">直近{CONFIG.get("new_arrival_hours", 24)}時間以内に'
             '在庫に現れた商品です（再入荷を含みます）</p>\n' 
             f'<div class="grid">\n{cards}\n</div>\n</details>'
@@ -339,7 +339,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         # 初日に「新着0件」とだけ出ると壊れているように見えるため理由を書く
         sections.append(
             '<details open id="new">\n'
-            '<summary><h2>🆕 入荷</h2></summary>\n'
+            '<summary><h2>🆕 新着</h2></summary>\n'
             '<p class="cmeta">在庫の記録を開始しました。'
             '次回の更新以降、新しく入荷した商品をここに掲載します</p>\n</details>'
         )
@@ -354,6 +354,10 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
             '価格が下がった商品です</p>\n'
             f'<div class="grid">\n{cards}\n</div>\n</details>'
         )
+
+    # 各カテゴリの一覧にも同じ印を付ける。上部の節を見ていない人にも
+    # 新しく入ったものが分かるようにするため、判定は上部と共通にする
+    new_parts = {a["part_number"] for a in arrivals}
 
     # 前日比はカテゴリ見出しにだけ添える。入荷・売り切れの節は増減の内訳
     # そのものなので、そこに差分を出すと二重表現になる
@@ -377,7 +381,14 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         rows = sorted(by_cat.get(cat["slug"]) or [], key=lambda x: x["price"])
         rows.sort(key=lambda x: x.get("since") or "", reverse=True)
         if rows:
-            body = f'<div class="grid">\n' + "\n".join(render_item(r) for r in rows) + "\n</div>"
+            body = (
+                f'<div class="grid">\n'
+                + "\n".join(
+                    render_item(r, tag="new" if r["part_number"] in new_parts else None)
+                    for r in rows
+                )
+                + "\n</div>"
+            )
         else:
             body = '<p class="empty">現在在庫はありません。</p>'
         sections.append(
