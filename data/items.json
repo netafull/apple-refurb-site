@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-01T18:19:19+09:00",
- "count": 283,
+ "generated_at": "2026-08-01T19:19:54+09:00",
+ "count": 282,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1223,23 +1223,6 @@
    "capacity": "128gb",
    "screen": "13inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FD4Y4J/A",
-   "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
-   "price": 106800,
-   "url": "https://www.apple.com/jp/shop/product/fd4y4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-blue-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSnBSTFF4OHFHU2FPUUdGM3dnVy9RdnNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1d1WTZvVjhLMytTTUZRaW1ZT3NzUm8",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "10_9inch",
-   "color": "blue",
    "memory": "",
    "since": "2026-07-30"
   },

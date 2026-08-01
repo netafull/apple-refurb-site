@@ -2639,21 +2639,6 @@
   "sold_out_at": null,
   "baseline": true
  },
- "FD4Y4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-01",
-  "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 106800,
-  "price_history": [
-   [
-    "2026-07-30",
-    106800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true
- },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-01",
@@ -4242,6 +4227,21 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true
+ },
+ "FD4Y4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-01",
+  "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 106800,
+  "price_history": [
+   [
+    "2026-07-30",
+    106800
+   ]
+  ],
+  "sold_out_at": "2026-08-01",
   "baseline": true
  },
  "FTMR3J/A": {
