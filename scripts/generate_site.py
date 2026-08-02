@@ -485,16 +485,35 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         )
         related_html = f'<nav class="sites"><span class="lbl">関連サイト</span>\n{links}\n</nav>'
 
+    # 姉妹2サイトと揃えて、扱っているカテゴリの一覧も構造化データに出す。
+    # dateModified は毎時更新という強みを機械に伝えるため
+    # (画面上の「最終更新」表記は機械には読めない)
     json_ld = json.dumps(
-        {
-            "@context": "https://schema.org",
-            "@type": "WebSite",
-            "name": CONFIG["site_title"],
-            "url": site_url,
-            "description": CONFIG["site_description"],
-        },
+        [
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": CONFIG["site_title"],
+                "url": site_url,
+                "description": CONFIG["site_description"],
+                "dateModified": generated.isoformat(timespec="seconds"),
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": "在庫があるApple整備済製品のカテゴリ",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": i + 1,
+                        "name": cat["name"],
+                    }
+                    for i, cat in enumerate(cats)
+                ],
+            },
+        ],
         ensure_ascii=False,
-    )
+    ).replace("</", "<\\/")
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
