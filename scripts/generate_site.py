@@ -101,6 +101,14 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
+/* サイトの説明。訪問者の目的(セール情報)を邪魔しないよう本文の最後に置く。
+   AIは位置に関わらずページ全体を読むため、下でも検索・AI向けの効果は落ちない */
+.about { max-width: 960px; margin: 40px auto 0; padding: 20px 16px 0;
+  border-top: 1px solid var(--line); color: var(--muted); font-size: 13px;
+  line-height: 1.9; }
+.about h2 { font-size: 14px; border-left-width: 3px; margin-bottom: 8px;
+  color: var(--text); }
+.about p { margin-top: 8px; }
 """
 
 
@@ -472,6 +480,17 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         else ""
     )
 
+    # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
+    # 検索エンジンやAIが「このサイトは何者か」を判断できるようにする
+    about = CONFIG.get("about") or []
+    about_html = ""
+    if about:
+        paras = "\n".join(f"<p>{esc(x)}</p>" for x in about)
+        about_html = (
+            f'<section class="about">\n'
+            f'<h2>{esc(CONFIG["site_title"])}について</h2>\n{paras}\n</section>'
+        )
+
     related = CONFIG.get("related_sites") or []
     related_html = ""
     if related:
@@ -546,6 +565,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 </header>
 <main>
 {chr(10).join(sections)}
+{about_html}
 </main>
 <footer>
 価格・在庫は取得時点のものです。整備済製品は在庫が少なく売り切れが早いため、

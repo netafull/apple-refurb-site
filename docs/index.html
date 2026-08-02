@@ -103,6 +103,14 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 footer { max-width: 960px; margin: 0 auto; padding: 16px;
   color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
 .empty { color: var(--muted); font-size: 14px; padding: 12px 0; }
+/* サイトの説明。訪問者の目的(セール情報)を邪魔しないよう本文の最後に置く。
+   AIは位置に関わらずページ全体を読むため、下でも検索・AI向けの効果は落ちない */
+.about { max-width: 960px; margin: 40px auto 0; padding: 20px 16px 0;
+  border-top: 1px solid var(--line); color: var(--muted); font-size: 13px;
+  line-height: 1.9; }
+.about h2 { font-size: 14px; border-left-width: 3px; margin-bottom: 8px;
+  color: var(--text); }
+.about p { margin-top: 8px; }
 </style>
 </head>
 <body>
@@ -2754,6 +2762,12 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <li>7/30 ・ &yen;39,800 ・ Apple Watch SE 3（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド</li>
 </ul>
 </details>
+<section class="about">
+<h2>林檎ポチについて</h2>
+<p>Apple公式の整備済製品ストアの在庫を1時間ごとにチェックし、新しく入荷した製品と売り切れをお届けしています。整備済製品は在庫が不定期に補充され、人気モデルは早く売り切れるため、「今何があるか」が分かることを重視しました。</p>
+<p>カテゴリごとの前日比を添えて、在庫がどう動いているかが分かるようにしています。直近24時間以内に在庫に現れた製品にはNEWの印を付けています。</p>
+<p>当サイトはApple Inc.とは関係のない非公式サイトです。運営はブログ「ネタフル」のコグレです。姉妹サイトに電書ポチ・家電ポチがあります。</p>
+</section>
 </main>
 <footer>
 価格・在庫は取得時点のものです。整備済製品は在庫が少なく売り切れが早いため、
