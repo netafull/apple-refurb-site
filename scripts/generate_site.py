@@ -70,13 +70,17 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 /* カテゴリの絞り込みタブ。281件が縦に続くと目的の機種に辿り着けないため。
    別ページを作らずCSSで表示を切り替えるので、URLは1つのままで
    コンテンツも全てDOMに残る(検索エンジンからは従来どおり全件見える) */
-/* 折り返すとモバイルで縦に伸びて商品が押し下げられるので、
-   横スクロールで1行に収める(スクロールバーは隠す) */
+/* 狭い画面では折り返すと縦に伸びて商品が押し下げられるため横スクロールにする。
+   ただしPCはマウスホイールが縦スクロールに使われ、スクロールバーも隠している
+   ので横に動かす手段が無くなる。広い画面では折り返しに切り替える */
 .tabs { display: flex; gap: 6px; margin: 20px auto 4px; padding: 0 16px;
   max-width: 960px; overflow-x: auto; scrollbar-width: none;
   -webkit-overflow-scrolling: touch; }
 .tabs::-webkit-scrollbar { display: none; }
 .tabs button { flex: 0 0 auto; white-space: nowrap; }
+@media (min-width: 700px) {
+  .tabs { flex-wrap: wrap; overflow-x: visible; }
+}
 .tabs button { font-size: 13px; padding: 5px 12px; border-radius: 999px;
   border: 1px solid var(--line); background: var(--card); color: var(--text);
   cursor: pointer; font-family: inherit; }
