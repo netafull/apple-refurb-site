@@ -67,6 +67,28 @@ summary:hover h2 { color: var(--accent); }
 details > .grid, details > .empty, details > .cmeta, details > .gone {
   margin-top: 12px; }
 .cmeta { color: var(--muted); font-size: 12px; }
+/* カテゴリの絞り込みタブ。281件が縦に続くと目的の機種に辿り着けないため。
+   別ページを作らずCSSで表示を切り替えるので、URLは1つのままで
+   コンテンツも全てDOMに残る(検索エンジンからは従来どおり全件見える) */
+/* 折り返すとモバイルで縦に伸びて商品が押し下げられるので、
+   横スクロールで1行に収める(スクロールバーは隠す) */
+.tabs { display: flex; gap: 6px; margin: 20px auto 4px; padding: 0 16px;
+  max-width: 960px; overflow-x: auto; scrollbar-width: none;
+  -webkit-overflow-scrolling: touch; }
+.tabs::-webkit-scrollbar { display: none; }
+.tabs button { flex: 0 0 auto; white-space: nowrap; }
+.tabs button { font-size: 13px; padding: 5px 12px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card); color: var(--text);
+  cursor: pointer; font-family: inherit; }
+.tabs button:hover { border-color: var(--accent); }
+.tabs button[aria-selected="true"] { background: var(--text); color: var(--bg);
+  border-color: var(--text); font-weight: 600; }
+.tabs button .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
+.tabs button[aria-selected="true"] .n { color: var(--bg); opacity: .7; }
+.tabs button:disabled { opacity: .4; cursor: default; }
+/* JSが無い環境ではタブを出さない(全件表示のままにする) */
+.tabs { display: none; }
+.js .tabs { display: flex; }
 /* カテゴリ見出しの前日比。運営者が在庫の動きを追うための表示 */
 .delta { font-size: 12px; font-weight: 600; margin-left: 6px; }
 .delta.up { color: var(--new); }
@@ -480,6 +502,19 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         else ""
     )
 
+    # カテゴリの絞り込みタブ。件数を添え、0件は押せないようにする
+    tab_defs = [("all", "すべて", len(items))]
+    for i, cat in enumerate(cats):
+        tab_defs.append((f"c{i}", cat["name"], len(by_cat.get(cat["slug"]) or [])))
+    buttons = "\n".join(
+        f'<button type="button" data-target="{tid}" '
+        f'aria-selected="{"true" if tid == "all" else "false"}"'
+        f'{" disabled" if n == 0 and tid != "all" else ""}>'
+        f'{esc(name)}<span class="n">{n}</span></button>'
+        for tid, name, n in tab_defs
+    )
+    tabs_html = f'<nav class="tabs" aria-label="カテゴリ">\n{buttons}\n</nav>'
+
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
     # 検索エンジンやAIが「このサイトは何者か」を判断できるようにする
     about = CONFIG.get("about") or []
@@ -563,6 +598,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
+{tabs_html}
 <main>
 {chr(10).join(sections)}
 {about_html}
@@ -575,6 +611,41 @@ Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 {policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
 {related_html}
 </footer>
+<script>
+// カテゴリタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
+// 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
+document.documentElement.classList.add("js");
+(function () {{
+  var tabs = document.querySelector(".tabs");
+  if (!tabs) return;
+  var sections = Array.prototype.slice.call(
+    document.querySelectorAll("main > details")
+  );
+  function apply(target) {{
+    sections.forEach(function (s) {{
+      // 新着と売り切れは全体に関わる情報なので「すべて」のときだけ出す
+      s.style.display =
+        target === "all" || s.id === target ? "" : "none";
+    }});
+    tabs.querySelectorAll("button").forEach(function (b) {{
+      b.setAttribute(
+        "aria-selected", b.dataset.target === target ? "true" : "false"
+      );
+    }});
+    if (history.replaceState) {{
+      history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
+    }}
+  }}
+  tabs.addEventListener("click", function (e) {{
+    var b = e.target.closest("button");
+    if (!b || b.disabled) return;
+    apply(b.dataset.target);
+  }});
+  // URLのハッシュで直接そのカテゴリを開けるようにする
+  var initial = location.hash.replace("#", "");
+  if (initial && document.getElementById(initial)) apply(initial);
+}})();
+</script>
 </body>
 </html>
 """
