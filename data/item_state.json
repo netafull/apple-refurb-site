@@ -335,22 +335,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1LZ0J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-03",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 253800,
-  "price_history": [
-   [
-    "2026-07-30",
-    253800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
@@ -441,22 +425,6 @@
    [
     "2026-07-30",
     270800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FWV03J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-03",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
-  "category": "mac",
-  "price": 275800,
-  "price_history": [
-   [
-    "2026-07-30",
-    275800
    ]
   ],
   "sold_out_at": null,
@@ -1091,22 +1059,6 @@
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 478800,
-  "price_history": [
-   [
-    "2026-07-30",
-    478800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1MLFJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-03",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 478800,
   "price_history": [
@@ -2927,10 +2879,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -2943,10 +2895,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3951,22 +3903,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU6R3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-03",
-  "title": "iPhone 15 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 151800,
-  "price_history": [
-   [
-    "2026-07-31",
-    151800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00"
- },
  "FU6T3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-03",
@@ -4190,6 +4126,70 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1LZ0J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-03",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 253800,
+  "price_history": [
+   [
+    "2026-07-30",
+    253800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FWV03J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-03",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
+  "category": "mac",
+  "price": 275800,
+  "price_history": [
+   [
+    "2026-07-30",
+    275800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MLFJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-03",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 478800,
+  "price_history": [
+   [
+    "2026-07-30",
+    478800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU6R3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-03",
+  "title": "iPhone 15 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 151800,
+  "price_history": [
+   [
+    "2026-07-31",
+    151800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
  "G1EH0J/A": {
   "first_seen": "2026-07-30",
