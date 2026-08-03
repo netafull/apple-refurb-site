@@ -479,22 +479,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1EH0J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-03",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
-  "category": "mac",
-  "price": 275800,
-  "price_history": [
-   [
-    "2026-07-30",
-    275800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1EH1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
@@ -2671,22 +2655,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FNXF3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-03",
-  "title": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 138800,
-  "price_history": [
-   [
-    "2026-07-30",
-    138800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-03",
@@ -4220,6 +4188,38 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1EH0J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-03",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
+  "category": "mac",
+  "price": 275800,
+  "price_history": [
+   [
+    "2026-07-30",
+    275800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXF3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-03",
+  "title": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 138800,
+  "price_history": [
+   [
+    "2026-07-30",
+    138800
+   ]
+  ],
+  "sold_out_at": "2026-08-03",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },

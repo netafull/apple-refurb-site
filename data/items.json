@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-03T13:45:43+09:00",
- "count": 264,
+ "generated_at": "2026-08-03T14:09:01+09:00",
+ "count": 262,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1121,23 +1121,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "silver",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FNXF3J/A",
-   "title": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）[整備済製品]",
-   "price": 138800,
-   "url": "https://www.apple.com/jp/shop/product/fnxf3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-spacegray-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQTBsYjF2Q1hxUjlkOUpsQ015MjBTZ0dVd2FRUjhCbDlDTWh2ZGtOdnVwckNoRkpGZmQ4MGU0NlU4RHNRZERNZllNbUdRdE1uMDRuenRkQUVjOURmMm1hL256YWdNcGRBK1d4UVhCYnBMS3dR",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2022",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -3859,23 +3842,6 @@
    "screen": "24inch",
    "color": "orange",
    "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1EH0J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
-   "price": 275800,
-   "url": "https://www.apple.com/jp/shop/product/g1eh0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnYlFUb0ZSMW9kR1Vuc0x1WDFDR3ZRNUNSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXV2a0pBSTZYNXNPMUVsVUwxRzhHK0JnNGVjVzBnbEZmbUJGTlFHOFpPb2U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "silver",
-   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
