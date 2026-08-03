@@ -259,6 +259,12 @@ def build_events(
             row["event_date"] = (
                 entry.get("restocked_at") if row["is_restock"] else it.get("since")
             )
+            # RSSのpubDate用。日付だけだとリーダーが時刻を補えない
+            row["event_at"] = (
+                entry.get("restocked_at_at")
+                if row["is_restock"]
+                else entry.get("first_seen_at")
+            )
             # サイト上では初入荷と再入荷を区別しない。Apple整備済製品は
             # 同じ構成が繰り返し入荷するため、運用が続くほど「過去に見た型番」
             # ばかりになり、いずれ大半が再入荷に該当して両者の意味が逆転する。
@@ -655,6 +661,32 @@ document.documentElement.classList.add("js");
 """
 
 
+def noon(day: str | None) -> str:
+    """日付しか残っていない出来事の時刻を正午とみなす。
+
+    値下げの検出日は日付単位でしか記録していないため、RSSのpubDateに
+    使うには時刻が要る。0時にすると前日夜との区別が付きにくいので正午にする。
+    """
+    if not day:
+        return ""
+    return f"{day}T12:00:00+09:00"
+
+
+def rfc822(at: str) -> str:
+    """pubDate要素を組み立てる。
+
+    pubDateが無いとRSSリーダーは取得時刻で代用するため、
+    前日に入荷した製品も「今」届いたように見えてしまう。
+    """
+    if not at:
+        return ""
+    try:
+        d = datetime.datetime.fromisoformat(at)
+    except ValueError:
+        return ""
+    return "\n<pubDate>" + d.strftime("%a, %d %b %Y %H:%M:%S %z") + "</pubDate>"
+
+
 def generate_rss(data: dict, events: dict) -> str:
     """在庫一覧ではなく「出来事」のフィードにする。
 
@@ -672,13 +704,14 @@ def generate_rss(data: dict, events: dict) -> str:
         entries.append(
             (f"【{kind}】{clean_title(it['title'])} ¥{int(it['price']):,}", it["url"],
              f"{it['part_number']}-{kind}-{it.get('event_date') or ''}",
-             it.get("category_name", ""))
+             it.get("category_name", ""),
+             it.get("event_at") or noon(it.get("event_date")))
         )
     for it in events["drops"]:
         entries.append(
             (f"【{it['off']}%値下げ】{clean_title(it['title'])} ¥{int(it['was']):,} → ¥{int(it['price']):,}",
              it["url"], f"{it['part_number']}-drop-{it['dropped_at']}",
-             it.get("category_name", ""))
+             it.get("category_name", ""), noon(it.get("dropped_at")))
         )
     # 在庫が大きく入れ替わった回に何百件も流れないよう上限を設ける
     entries = entries[: CONFIG.get("rss_max_items", 100)]
@@ -687,9 +720,9 @@ def generate_rss(data: dict, events: dict) -> str:
 <title>{esc(t)}</title>
 <link>{esc(u)}</link>
 <guid isPermaLink="false">{esc(g)}</guid>
-<category>{esc(c)}</category>
+<category>{esc(c)}</category>{rfc822(at)}
 </item>"""
-        for t, u, g, c in entries
+        for t, u, g, c, at in entries
     )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
