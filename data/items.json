@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-04T12:34:31+09:00",
- "count": 254,
+ "generated_at": "2026-08-04T12:52:56+09:00",
+ "count": 266,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1448,23 +1448,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FTUD3J/A",
-   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-   "price": 134800,
-   "url": "https://www.apple.com/jp/shop/product/ftud3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENVhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdCbERENzd1ZXhTZlRCRWh3dmxYcy8",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "whitetitanium",
-   "memory": "",
-   "since": "2026-08-01"
-  },
-  {
    "part_number": "FTUG3J/A",
    "title": "iPhone 15 Pro 256GB - ブルーチタニウム（SIMフリー）[整備済製品]",
    "price": 134800,
@@ -2349,6 +2332,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FU973J/A",
+   "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+   "price": 763800,
+   "url": "https://www.apple.com/jp/shop/product/fu973j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "",
+   "memory": "96gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "G1N0AJ/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
    "price": 762800,
@@ -2364,6 +2364,23 @@
    "color": "spaceblack",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1CD2J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 753800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd2j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "128gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1MK1J/A",
@@ -2655,6 +2672,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD9J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 630800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd9j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "2tb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "G1MM6J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
    "price": 619800,
@@ -2893,6 +2927,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD5J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 554800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd5j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "FX2V3J/A",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - シルバー",
    "price": 549800,
@@ -2976,6 +3027,23 @@
    "color": "spaceblack",
    "memory": "64gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1JVLJ/A",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 543800,
+   "url": "https://www.apple.com/jp/shop/product/g1jvlj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "2tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "64gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1FQBJ/A",
@@ -3078,6 +3146,23 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1CD1J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 508800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FX2K3J/A",
@@ -3335,6 +3420,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD0J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 447800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd0j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "48gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "FGE44J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 441800,
@@ -3590,6 +3692,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FU963J/A",
+   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
+   "price": 355800,
+   "url": "https://www.apple.com/jp/shop/product/fu963j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "36gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "G1EL3J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - イエロー",
    "price": 351800,
@@ -3707,6 +3826,23 @@
    "color": "skyblue",
    "memory": "24gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1KZAJ/A",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 282800,
+   "url": "https://www.apple.com/jp/shop/product/g1kzaj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FWV93J/A",
@@ -4083,6 +4219,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CG1J/A",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "price": 221800,
+   "url": "https://www.apple.com/jp/shop/product/g1cg1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "FWUC3J/A",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
    "price": 210800,
@@ -4115,6 +4268,40 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1CF0J/A",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、10Gb Ethernet",
+   "price": 160800,
+   "url": "https://www.apple.com/jp/shop/product/g1cf0j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "16gb",
+   "since": "2026-08-04"
+  },
+  {
+   "part_number": "FU9E3J/A",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "price": 144800,
+   "url": "https://www.apple.com/jp/shop/product/fu9e3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "16gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FHFE4J/A",
@@ -4183,6 +4370,23 @@
    "color": "blush",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FU9D3J/A",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fu9d3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "16gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FHFA4J/A",
