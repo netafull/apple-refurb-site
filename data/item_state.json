@@ -601,22 +601,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FDHG4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-05",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDHK4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -1607,22 +1591,6 @@
    [
     "2026-07-30",
     509800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1MHGJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-05",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 531800,
-  "price_history": [
-   [
-    "2026-07-30",
-    531800
    ]
   ],
   "sold_out_at": null,
@@ -3229,10 +3197,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-05",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3245,10 +3213,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-05",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4426,6 +4394,38 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDHG4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-05",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": "2026-08-05",
+  "baseline": null
+ },
+ "G1MHGJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-05",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 531800,
+  "price_history": [
+   [
+    "2026-07-30",
+    531800
+   ]
+  ],
+  "sold_out_at": "2026-08-05",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
