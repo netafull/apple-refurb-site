@@ -1293,38 +1293,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FX2T3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-06",
-  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-  "category": "mac",
-  "price": 382800,
-  "price_history": [
-   [
-    "2026-07-30",
-    382800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FX2X3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-06",
-  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 382800,
-  "price_history": [
-   [
-    "2026-07-30",
-    382800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1KJ3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
@@ -1885,22 +1853,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FX303J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-06",
-  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 549800,
-  "price_history": [
-   [
-    "2026-07-30",
-    549800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MW0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
@@ -1927,22 +1879,6 @@
    [
     "2026-07-30",
     561800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1FF9J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-06",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 570800,
-  "price_history": [
-   [
-    "2026-07-30",
-    570800
    ]
   ],
   "sold_out_at": null,
@@ -2103,22 +2039,6 @@
    [
     "2026-07-30",
     619800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FX2W3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-06",
-  "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 635800,
-  "price_history": [
-   [
-    "2026-07-30",
-    635800
    ]
   ],
   "sold_out_at": null,
@@ -3405,10 +3325,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3421,10 +3341,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4125,6 +4045,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-08-06",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-06",
@@ -4178,22 +4114,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-08-06",
   "restocked_at_at": "2026-08-06T13:48:17+09:00"
- },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-06",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FTMM3J/A": {
   "first_seen": "2026-07-31",
@@ -4790,6 +4710,86 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2T3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-06",
+  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
+  "category": "mac",
+  "price": 382800,
+  "price_history": [
+   [
+    "2026-07-30",
+    382800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2X3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-06",
+  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 382800,
+  "price_history": [
+   [
+    "2026-07-30",
+    382800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX303J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-06",
+  "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 549800,
+  "price_history": [
+   [
+    "2026-07-30",
+    549800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FF9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-06",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 570800,
+  "price_history": [
+   [
+    "2026-07-30",
+    570800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2W3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-06",
+  "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - シルバー",
+  "category": "mac",
+  "price": 635800,
+  "price_history": [
+   [
+    "2026-07-30",
+    635800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
