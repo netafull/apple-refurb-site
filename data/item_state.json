@@ -251,6 +251,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDHA4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-06",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-06",
+  "restocked_at_at": "2026-08-06T21:16:57+09:00"
+ },
  "FDHE4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -677,6 +695,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDHG4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-06",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-06",
+  "restocked_at_at": "2026-08-06T21:16:57+09:00"
+ },
  "FDHK4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -962,6 +998,22 @@
    [
     "2026-08-04",
     311800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "G1L70J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T21:16:57+09:00",
+  "last_seen": "2026-08-06",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 312800,
+  "price_history": [
+   [
+    "2026-08-06",
+    312800
    ]
   ],
   "sold_out_at": null,
@@ -3211,10 +3263,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3227,10 +3279,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-06",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3931,6 +3983,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-08-06",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-06",
@@ -3966,22 +4034,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-08-06",
   "restocked_at_at": "2026-08-06T13:48:17+09:00"
- },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-06",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FTMM3J/A": {
   "first_seen": "2026-07-31",
@@ -4021,22 +4073,6 @@
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-06",
   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00"
- },
- "FU093J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-06",
-  "title": "iPhone 15 Plus 128GB - ピンク（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 105800,
   "price_history": [
@@ -4581,6 +4617,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FU093J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-06",
+  "title": "iPhone 15 Plus 128GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ]
+  ],
+  "sold_out_at": "2026-08-06",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00"
+ },
  "G1L60J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -4648,22 +4700,6 @@
   "restocked_at": "2026-08-06",
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at_at": "2026-08-06T13:48:17+09:00"
- },
- "FDHA4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-06",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": "2026-08-06",
-  "baseline": null
  },
  "G1CU0J/A": {
   "first_seen": "2026-08-06",
@@ -4990,22 +5026,6 @@
    [
     "2026-08-04",
     283800
-   ]
-  ],
-  "sold_out_at": "2026-08-05",
-  "baseline": null
- },
- "FDHG4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-05",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
    ]
   ],
   "sold_out_at": "2026-08-05",
