@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-07T18:14:31+09:00",
- "count": 289,
+ "generated_at": "2026-08-07T18:38:14+09:00",
+ "count": 290,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1499,6 +1499,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FTMU3J/A",
+   "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 137800,
+   "url": "https://www.apple.com/jp/shop/product/ftmu3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
    "part_number": "FTMW3J/A",
    "title": "iPhone 15 512GB - イエロー（SIMフリー）[整備済製品]",
    "price": 137800,
@@ -1565,6 +1582,23 @@
    "color": "blacktitanium",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FTU93J/A",
+   "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/ftu93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUTlRWklseWFUTmtCbDVrTWFSU0xTREM2aVd6MWtuS09xQ3A3UnRNMWRxTVEvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkFYL3k3UXEzOWNWSnBIZWVHdXNVekE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "naturaltitanium",
+   "memory": "",
+   "since": "2026-08-07"
   },
   {
    "part_number": "FU0F3J/A",
@@ -1737,40 +1771,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FYDT3J/A",
-   "title": "iPhone 16 128GB - ピンク（SIMフリー）[整備済製品]",
-   "price": 105800,
-   "url": "https://www.apple.com/jp/shop/product/fydt3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-pink-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvZlRPSzZsMWZVays3akV0My9KcWowMndFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cFFPRUl4ckJWNGNqczQ1WlVSNmJMRkE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "pink",
-   "memory": "",
-   "since": "2026-08-07"
-  },
-  {
-   "part_number": "FTML3J/A",
-   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 90800,
-   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-08-06"
-  },
-  {
    "part_number": "FTMH3J/A",
    "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 90800,
@@ -1803,6 +1803,23 @@
    "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTML3J/A",
+   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "blue",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "FTMM3J/A",
