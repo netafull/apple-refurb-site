@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-07T20:28:13+09:00",
- "count": 288,
+ "generated_at": "2026-08-07T20:55:24+09:00",
+ "count": 287,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1499,23 +1499,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FTMU3J/A",
-   "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 137800,
-   "url": "https://www.apple.com/jp/shop/product/ftmu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
    "part_number": "FTMW3J/A",
    "title": "iPhone 15 512GB - イエロー（SIMフリー）[整備済製品]",
    "price": 137800,
@@ -1754,23 +1737,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FTML3J/A",
-   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 90800,
-   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-08-06"
-  },
-  {
    "part_number": "FTMH3J/A",
    "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 90800,
@@ -1803,6 +1769,23 @@
    "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTML3J/A",
+   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "blue",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "FTMM3J/A",
