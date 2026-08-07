@@ -4065,24 +4065,6 @@
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
- "FTUD3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-08-08",
-  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-01",
-    134800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-08-08",
-  "restocked_at_at": "2026-08-08T04:36:52+09:00"
- },
  "FTUG3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-08",
@@ -4516,6 +4498,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTUD3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-08-08",
+  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-01",
+    134800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T04:36:52+09:00"
  },
  "FCG44J/A": {
   "first_seen": "2026-07-30",
