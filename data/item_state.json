@@ -811,22 +811,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1L70J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T21:16:57+09:00",
-  "last_seen": "2026-08-08",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 312800,
-  "price_history": [
-   [
-    "2026-08-06",
-    312800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDE34J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -3045,10 +3029,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-08",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3061,10 +3045,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-08",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4530,6 +4514,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L70J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T21:16:57+09:00",
+  "last_seen": "2026-08-08",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 312800,
+  "price_history": [
+   [
+    "2026-08-06",
+    312800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
+  "baseline": null
  },
  "FDHG4J/A": {
   "first_seen": "2026-08-04",
