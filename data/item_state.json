@@ -539,24 +539,6 @@
   "restocked_at": "2026-08-07",
   "restocked_at_at": "2026-08-07T13:03:29+09:00"
  },
- "FDHD4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-07",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-07",
-  "restocked_at_at": "2026-08-07T13:03:29+09:00"
- },
  "FDHG4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -4409,22 +4391,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXEJ3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-07",
-  "title": "Apple Watch SE（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 31800,
-  "price_history": [
-   [
-    "2026-08-07",
-    31800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXGL3J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T14:20:27+09:00",
@@ -4632,6 +4598,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDHD4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-07",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": "2026-08-07",
+  "baseline": null,
+  "restocked_at": "2026-08-07",
+  "restocked_at_at": "2026-08-07T13:03:29+09:00"
+ },
+ "FXEJ3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-08-07",
+  "title": "Apple Watch SE（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 31800,
+  "price_history": [
+   [
+    "2026-08-07",
+    31800
+   ]
+  ],
+  "sold_out_at": "2026-08-07",
+  "baseline": null
  },
  "FTMU3J/A": {
   "first_seen": "2026-07-31",
