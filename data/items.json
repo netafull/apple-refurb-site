@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T00:44:04+09:00",
+ "generated_at": "2026-08-09T01:00:02+09:00",
  "count": 290,
  "items": [
   {
@@ -1482,23 +1482,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FTU93J/A",
-   "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-   "price": 119800,
-   "url": "https://www.apple.com/jp/shop/product/ftu93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUTlRWklseWFUTmtCbDVrTWFSU0xTREM2aVd6MWtuS09xQ3A3UnRNMWRxTVEvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkFYL3k3UXEzOWNWSnBIZWVHdXNVekE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "naturaltitanium",
-   "memory": "",
-   "since": "2026-08-07"
-  },
-  {
    "part_number": "FU0F3J/A",
    "title": "iPhone 15 Plus 256GB - ブラック（SIMフリー）[整備済製品]",
    "price": 119800,
@@ -2377,6 +2360,23 @@
    "model": "macbookpro",
    "year": "2026",
    "capacity": "4tb",
+   "screen": "16inch",
+   "color": "silver",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1MY4J/A",
+   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+   "price": 805800,
+   "url": "https://www.apple.com/jp/shop/product/g1my4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpVWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTI4eUdUdmRjVUdsdUVmZzJlSDc2WVk",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
    "memory": "",
