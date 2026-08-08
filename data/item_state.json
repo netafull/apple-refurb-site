@@ -4339,6 +4339,24 @@
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
+ "FTUC3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T17:37:23+09:00",
+  "last_seen": "2026-08-08",
+  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-07",
+    134800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T19:49:40+09:00"
+ },
  "FTUG3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-08",
@@ -4549,22 +4567,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXGL3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-08",
-  "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 39800,
-  "price_history": [
-   [
-    "2026-08-07",
-    39800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXGP3J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T14:20:27+09:00",
@@ -4725,6 +4727,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXGL3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-08-08",
+  "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 39800,
+  "price_history": [
+   [
+    "2026-08-07",
+    39800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
+  "baseline": null
+ },
  "FTML3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -4832,24 +4850,6 @@
   "baseline": null,
   "restocked_at": "2026-08-08",
   "restocked_at_at": "2026-08-08T14:55:38+09:00"
- },
- "FTUC3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T17:37:23+09:00",
-  "last_seen": "2026-08-08",
-  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-07",
-    134800
-   ]
-  ],
-  "sold_out_at": "2026-08-08",
-  "baseline": null,
-  "restocked_at": "2026-08-08",
-  "restocked_at_at": "2026-08-08T12:55:28+09:00"
  },
  "FGDN4J/A": {
   "first_seen": "2026-07-30",

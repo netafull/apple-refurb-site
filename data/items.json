@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T19:06:03+09:00",
+ "generated_at": "2026-08-08T19:49:40+09:00",
  "count": 292,
  "items": [
   {
@@ -1446,6 +1446,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTUC3J/A",
+   "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftuc3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvUlhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdsSDl3QTBIcEZKcHd0RXhaUmxNV3I",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "blacktitanium",
+   "memory": "",
+   "since": "2026-08-07"
   },
   {
    "part_number": "FTUG3J/A",
@@ -4897,23 +4914,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FXGL3J/A",
-   "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-   "price": 39800,
-   "url": "https://www.apple.com/jp/shop/product/fxgl3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-cell-alum-midnight-sport-band-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QzkxcUNqa00wNEhFYUlaWkhXTjA5bVVQT0doY2ZtaDE0MnNzYjFEWGNjbzR4eWFFVndzR1Eza0w1TndBdEI1cVVpV0VzMW1WN2xqZXNFYmJjVHJlS3o3UnQ0Z2d0YktNQTh3TUhDTUFJMXZsYjlLdWdCaHdBR2xUV043Rkc5OERTa1cvNnhaVUQzczE1aXQrWEhJNmRn",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse2",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-07"
   },
   {
    "part_number": "FXGP3J/A",
