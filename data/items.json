@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T16:33:10+09:00",
+ "generated_at": "2026-08-08T17:19:23+09:00",
  "count": 295,
  "items": [
   {
@@ -1667,6 +1667,23 @@
    "color": "green",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDQ3J/A",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 105800,
+   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "FTMH3J/A",
@@ -4200,23 +4217,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDH94J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 267800,
-   "url": "https://www.apple.com/jp/shop/product/fdh94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTNvRmR5N1k0RWNXeWI2UUNjbHVoRHc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDHD4J/A",
