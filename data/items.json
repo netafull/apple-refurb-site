@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-08T22:56:59+09:00",
- "count": 292,
+ "generated_at": "2026-08-08T23:15:57+09:00",
+ "count": 291,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3672,23 +3672,6 @@
    "screen": "14inch",
    "color": "silver",
    "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FX2J3J/A",
-   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-   "price": 379800,
-   "url": "https://www.apple.com/jp/shop/product/fx2j3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-spaceblack-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvQk8zVnlEd1o1SE05NWdMUEFHWVMzakluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1plWGYyOXhKTW1yaXp6SlJ5SDgybFhXNm9oamhpbmdGcHIwa2hOU3lmQkw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
