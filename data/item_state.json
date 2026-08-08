@@ -2677,22 +2677,6 @@
   "restocked_at": "2026-08-07",
   "restocked_at_at": "2026-08-07T14:20:27+09:00"
  },
- "FX2D3ZA/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-08",
-  "title": "Apple Pencil Pro [整備済製品]",
-  "category": "ipad",
-  "price": 19800,
-  "price_history": [
-   [
-    "2026-08-07",
-    19800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-08",
@@ -3933,6 +3917,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTU93J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T18:38:14+09:00",
+  "last_seen": "2026-08-08",
+  "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-08-07",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T12:55:28+09:00"
+ },
  "FU0F3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-08",
@@ -4014,6 +4016,24 @@
   "sold_out_at": null,
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00"
+ },
+ "FTUC3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T17:37:23+09:00",
+  "last_seen": "2026-08-08",
+  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-07",
+    134800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T12:55:28+09:00"
  },
  "FTUG3J/A": {
   "first_seen": "2026-07-31",
@@ -4273,22 +4293,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXGT3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-08",
-  "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 39800,
-  "price_history": [
-   [
-    "2026-08-07",
-    39800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXGU3J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T14:20:27+09:00",
@@ -4369,22 +4373,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FN873J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-08",
-  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
-  "category": "appletv",
-  "price": 29800,
-  "price_history": [
-   [
-    "2026-07-30",
-    29800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FN893J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-08",
@@ -4430,6 +4418,54 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2D3ZA/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-08-08",
+  "title": "Apple Pencil Pro [整備済製品]",
+  "category": "ipad",
+  "price": 19800,
+  "price_history": [
+   [
+    "2026-08-07",
+    19800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
+  "baseline": null
+ },
+ "FXGT3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-08-08",
+  "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 39800,
+  "price_history": [
+   [
+    "2026-08-07",
+    39800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
+  "baseline": null
+ },
+ "FN873J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-08",
+  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
+  "category": "appletv",
+  "price": 29800,
+  "price_history": [
+   [
+    "2026-07-30",
+    29800
+   ]
+  ],
+  "sold_out_at": "2026-08-08",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
@@ -4601,22 +4637,6 @@
   "restocked_at": "2026-08-07",
   "restocked_at_at": "2026-08-07T13:03:29+09:00"
  },
- "FTUC3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T17:37:23+09:00",
-  "last_seen": "2026-08-07",
-  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-07",
-    134800
-   ]
-  ],
-  "sold_out_at": "2026-08-08",
-  "baseline": null
- },
  "FDHD4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -4698,22 +4718,6 @@
    [
     "2026-08-07",
     31800
-   ]
-  ],
-  "sold_out_at": "2026-08-07",
-  "baseline": null
- },
- "FTU93J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T18:38:14+09:00",
-  "last_seen": "2026-08-07",
-  "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-08-07",
-    119800
    ]
   ],
   "sold_out_at": "2026-08-07",
