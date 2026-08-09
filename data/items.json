@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T14:31:38+09:00",
- "count": 286,
+ "generated_at": "2026-08-09T14:56:17+09:00",
+ "count": 285,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4606,23 +4606,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FW0W3J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 146800,
-   "url": "https://www.apple.com/jp/shop/product/fw0w3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FIL0ZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQS9HZGNGbjJUTUZJVnBRNU91UUlScVk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "silver",
    "memory": "16gb",
    "since": "2026-08-04"
   },
