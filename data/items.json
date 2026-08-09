@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T20:05:09+09:00",
- "count": 279,
+ "generated_at": "2026-08-09T20:43:22+09:00",
+ "count": 278,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3926,23 +3926,6 @@
    "capacity": "256gb",
    "screen": "24inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1EK1J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - イエロー",
-   "price": 275800,
-   "url": "https://www.apple.com/jp/shop/product/g1ek1j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-yellow-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnYVpDWFMwZlFQajI0K1B6MDNjRnZPZENSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXI1VzB5ZVBkQ2ZWWlBMcFF0TU9nL0VjSzRXeG45dTdtK1VJTW4vVDJncXA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "yellow",
    "memory": "16gb",
    "since": "2026-07-30"
   },
