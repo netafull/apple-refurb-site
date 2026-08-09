@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T08:59:55+09:00",
- "count": 291,
+ "generated_at": "2026-08-09T11:26:57+09:00",
+ "count": 289,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1480,23 +1480,6 @@
    "color": "blacktitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FTU93J/A",
-   "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-   "price": 119800,
-   "url": "https://www.apple.com/jp/shop/product/ftu93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUTlRWklseWFUTmtCbDVrTWFSU0xTREM2aVd6MWtuS09xQ3A3UnRNMWRxTVEvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkFYL3k3UXEzOWNWSnBIZWVHdXNVekE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "naturaltitanium",
-   "memory": "",
-   "since": "2026-08-07"
   },
   {
    "part_number": "FU0F3J/A",
@@ -4921,23 +4904,6 @@
    "price": 39800,
    "url": "https://www.apple.com/jp/shop/product/fxgq3j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-cell-alum-silver-sport-band-denim?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QzkxcUNqa00wNEhFYUlaWkhXTjA5cmhmVUxqRGY3RnY5d3ZQc1RZN0ZTWHhKNkdZaDFVNHg4U0wzU2tBN0x5dEZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXhZKzZjNFVFVWVoYyt5OVoxQlJvc0M",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse2",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-07"
-  },
-  {
-   "part_number": "FXGU3J/A",
-   "title": "Apple Watch SE（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
-   "price": 39800,
-   "url": "https://www.apple.com/jp/shop/product/fxgu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-cell-alum-starlight-sport-band-starlight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QzkxcUNqa00wNEhFYUlaWkhXTjA5b2R3WFdDWlNuVXRUMUxxczl0V0xnd1A4cGZ3Q2I5QjJxdkFhb2tIR0JEYXI0TmMzV2hFS05KNDJ0RVhtQ2tCMGZZb2EvZ2gySXVPSk1nRlo4SlhUZkpPYXRvazZ3cFhNakI5aGFiM01CaHBPMmxWZ0RUZ3VIQWtOaXFpQjJsZlFB",
    "category": "watch",
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
