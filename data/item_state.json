@@ -2919,24 +2919,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FUWA3ZA/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-10",
-  "title": "Apple Pencil（USB-C）[整備済製品]",
-  "category": "ipad",
-  "price": 12800,
-  "price_history": [
-   [
-    "2026-07-31",
-    12800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-07",
-  "restocked_at_at": "2026-08-07T14:20:27+09:00"
- },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-10",
@@ -4476,6 +4458,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FUWA3ZA/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-10",
+  "title": "Apple Pencil（USB-C）[整備済製品]",
+  "category": "ipad",
+  "price": 12800,
+  "price_history": [
+   [
+    "2026-07-31",
+    12800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-08-07",
+  "restocked_at_at": "2026-08-07T14:20:27+09:00"
  },
  "G1KN8J/A": {
   "first_seen": "2026-08-06",
