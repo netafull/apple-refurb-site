@@ -378,7 +378,7 @@ def render_ad_slot() -> str:
      style="display:block"
      data-ad-client="{esc(adsense_id)}"
      data-ad-slot="{esc(ad_slot)}"
-     data-ad-format="auto"
+     data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({{}});
