@@ -308,6 +308,8 @@ def build_events(
     return {"arrivals": arrivals, "drops": drops, "gone": gone, "baseline": baseline}
 
 
+# AdSenseダッシュボードではvignette(全画面)広告をサブドメイン単位で
+# 無効化できないため、リンクごとにdata-google-vignette="false"を付与する
 def render_item(it: dict, tag: str | None = None) -> str:
     img = (
         f'<img src="{esc(it.get("image"))}" alt="" loading="lazy">'
@@ -342,7 +344,7 @@ def render_item(it: dict, tag: str | None = None) -> str:
 
     # Appleのアフィリエイトプログラムは終了しており報酬は発生しないので、
     # rel に sponsored は付けない(既存2サイトのAmazonリンクとはここが違う)
-    return f"""<a class="item" href="{esc(it["url"])}" target="_blank" rel="noopener">
+    return f"""<a class="item" href="{esc(it["url"])}" data-google-vignette="false" target="_blank" rel="noopener">
   {img}
   <div>
     {tag_html}<div class="t">{esc(clean_title(it["title"]))}</div>
@@ -468,7 +470,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     # 各サイトに複製せずリンクで参照する
     policy_url = CONFIG.get("policy_url", "")
     policy_link = (
-        f'｜ <a href="{esc(policy_url)}" style="color:inherit">メディアポリシー</a>\n'
+        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
         if policy_url
         else ""
     )
@@ -542,7 +544,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         # 説明文は既存2サイト(電書ポチ・家電ポチ)と同じく可視テキストで出す。
         # title属性だけだとマウスを乗せるまで読めず、モバイルでは全く見えない
         links = "\n".join(
-            f'<a href="{esc(s["url"])}">{esc(s["name"])}'
+            f'<a href="{esc(s["url"])}" data-google-vignette="false">{esc(s["name"])}'
             + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
             + "</a>"
             for s in related
@@ -604,7 +606,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 </head>
 <body>
 <header>
-<h1><a href="./">{logo}{esc(CONFIG["site_title"])}</a></h1>
+<h1><a href="./" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
@@ -618,7 +620,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-{policy_link}｜ <a href="rss.xml" style="color:inherit">RSS</a>
+{policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 </footer>
 <script>
