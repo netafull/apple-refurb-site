@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-10T15:53:36+09:00",
- "count": 267,
+ "generated_at": "2026-08-10T17:50:05+09:00",
+ "count": 270,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1431,6 +1431,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FTUG3J/A",
+   "title": "iPhone 15 Pro 256GB - ブルーチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftug3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-bluetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYmhlWHR6Z2hrNUs1UVRoRzZ0RlJ5RnFYQU9KTkxXVmhxMlNzSm1tOS9xZTE1dTlZczl0eUxQeit5cXR5YjdwcEpXMzBVWmROTjVLL21KMWkvQmQyRWFUQ1VRMjNUNStRYmxubXRrL1R2aEM",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
    "part_number": "FTU73J/A",
    "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 119800,
@@ -1499,6 +1516,40 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FU083J/A",
+   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 105800,
+   "url": "https://www.apple.com/jp/shop/product/fu083j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNDFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU093J/A",
+   "title": "iPhone 15 Plus 128GB - ピンク（SIMフリー）[整備済製品]",
+   "price": 105800,
+   "url": "https://www.apple.com/jp/shop/product/fu093j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-pink-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYjlUZHByUElwUm1lbVZiSjk4UzdEVEluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1hLdHlVbEdDbnJwZmpoNkxqMWdsQURJNXVnTUExRktaZ050ZVlSTzNDcG8",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "pink",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
    "part_number": "FU0A3J/A",
    "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
    "price": 105800,
@@ -1546,6 +1597,23 @@
    "capacity": "128gb",
    "screen": "",
    "color": "green",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTMK3J/A",
+   "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftmk3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -2380,23 +2448,6 @@
    "screen": "16inch",
    "color": "spaceblack",
    "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MNFJ/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 708800,
-   "url": "https://www.apple.com/jp/shop/product/g1mnfj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
