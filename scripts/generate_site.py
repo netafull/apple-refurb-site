@@ -101,9 +101,11 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
 /* Auto ads廃止に伴う手動広告枠。グリッド内ではカードの1つとして、
    ヘッダー直下では単独の帯として収まるよう幅を960pxに揃える */
-.ad-slot { max-width: 960px; margin: 0 auto; background: var(--card);
-  border: 1px solid var(--line); border-radius: 10px;
-  padding: 12px; text-align: center; overflow: hidden; }
+/* width:100%指定必須。margin:auto単独だとグリッド内では
+   shrink-to-fitになり、中身がまだ無い広告は幅0に潰れて出ない */
+.ad-slot { width: 100%; max-width: 960px; margin: 0 auto;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 12px; text-align: center; overflow: hidden; }
 .item { display: flex; gap: 12px; background: var(--card);
   border: 1px solid var(--line); border-radius: 10px; padding: 12px;
   text-decoration: none; color: var(--text); }
