@@ -99,6 +99,11 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 .delta.down { color: var(--hot); }
 .grid { display: grid; gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+/* Auto ads廃止に伴う手動広告枠。グリッド内ではカードの1つとして、
+   ヘッダー直下では単独の帯として収まるよう幅を960pxに揃える */
+.ad-slot { max-width: 960px; margin: 0 auto; background: var(--card);
+  border: 1px solid var(--line); border-radius: 10px;
+  padding: 12px; text-align: center; overflow: hidden; }
 .item { display: flex; gap: 12px; background: var(--card);
   border: 1px solid var(--line); border-radius: 10px; padding: 12px;
   text-decoration: none; color: var(--text); }
@@ -355,6 +360,43 @@ def render_item(it: dict, tag: str | None = None) -> str:
 </a>"""
 
 
+def render_ad_slot() -> str:
+    """手動設置のディスプレイ広告ユニット。
+
+    Auto adsはサブドメイン単位でヴィネット/アンカー広告を無効化できな
+    かったため除外し、代わりにこの広告ユニット1種類をヘッダー直下と
+    カード一覧に手動で配置する。adsense_ad_slotが未設定なら何も出さない
+    """
+    ad_slot = CONFIG.get("adsense_ad_slot", "")
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    if not ad_slot or not adsense_id:
+        return ""
+    return f"""<div class="ad-slot">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="{esc(adsense_id)}"
+     data-ad-slot="{esc(ad_slot)}"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({{}});
+</script>
+</div>"""
+
+
+def intersperse_ads(cards: list[str], every: int = 8) -> str:
+    """カード一覧に広告枠を8件おきに挟み込む。"""
+    ad = render_ad_slot()
+    if not ad:
+        return "\n".join(cards)
+    out = []
+    for i, c in enumerate(cards, 1):
+        out.append(c)
+        if i % every == 0:
+            out.append(ad)
+    return "\n".join(out)
+
+
 def generate_html(data: dict, state: dict, events: dict) -> str:
     generated = datetime.datetime.fromisoformat(data["generated_at"]).astimezone(JST)
     updated = generated.strftime("%Y年%m月%d日 %H:%M")
@@ -366,9 +408,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 
     arrivals = events["arrivals"]
     if arrivals:
-        cards = "\n".join(
-            render_item(it, tag="new")
-            for it in arrivals
+        cards = intersperse_ads(
+            [render_item(it, tag="new") for it in arrivals]
         )
         sections.append(
             '<details open id="new">\n'
@@ -388,7 +429,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 
     drops = events["drops"]
     if drops:
-        cards = "\n".join(render_item(it) for it in drops)
+        cards = intersperse_ads([render_item(it) for it in drops])
         sections.append(
             '<details open id="drop">\n'
             f'<summary><h2>💰 値下げ ({len(drops)}件)</h2></summary>\n'
@@ -425,9 +466,11 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         if rows:
             body = (
                 f'<div class="grid">\n'
-                + "\n".join(
-                    render_item(r, tag="new" if r["part_number"] in new_parts else None)
-                    for r in rows
+                + intersperse_ads(
+                    [
+                        render_item(r, tag="new" if r["part_number"] in new_parts else None)
+                        for r in rows
+                    ]
                 )
                 + "\n</div>"
             )
@@ -484,6 +527,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         if adsense_id
         else ""
     )
+    header_ad = render_ad_slot()
 
     ga_id = CONFIG.get("ga_measurement_id")
     ga_tag = ""
@@ -610,6 +654,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
 {related_html}
 </header>
+{header_ad}
 {tabs_html}
 <main>
 {chr(10).join(sections)}
