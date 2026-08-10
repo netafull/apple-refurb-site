@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-11T04:14:51+09:00",
- "count": 263,
+ "generated_at": "2026-08-11T04:37:43+09:00",
+ "count": 265,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -2961,6 +2961,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD1J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 508800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "FX2K3J/A",
    "title": "14インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
    "price": 506800,
@@ -3435,6 +3452,23 @@
    "color": "spaceblack",
    "memory": "16gb",
    "since": "2026-08-04"
+  },
+  {
+   "part_number": "FGDR4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "24gb",
+   "since": "2026-07-30"
   },
   {
    "part_number": "G1EL3J/A",
