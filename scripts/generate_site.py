@@ -386,8 +386,8 @@ def render_ad_slot() -> str:
 </div>"""
 
 
-def intersperse_ads(cards: list[str], every: int = 8) -> str:
-    """カード一覧に広告枠を8件おきに挟み込む。"""
+def intersperse_ads(cards: list[str], every: int = 16) -> str:
+    """カード一覧に広告枠を16件おきに挟み込む。"""
     ad = render_ad_slot()
     if not ad:
         return "\n".join(cards)
