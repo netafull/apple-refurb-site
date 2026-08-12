@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T04:44:25+09:00",
+ "generated_at": "2026-08-13T06:01:15+09:00",
  "count": 254,
  "items": [
   {
@@ -1053,23 +1053,6 @@
    "capacity": "128gb",
    "screen": "13inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCJ34J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スターライト [整備済製品]",
-   "price": 157800,
-   "url": "https://www.apple.com/jp/shop/product/fcj34j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-starlight-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bzB2Q1BuK0pyVGQrNjBGUG9DUU5Vb255d0NSTkJKQUZ6Z1ZLc3ZpVThFVGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUVBVcXQ0OWFYdEZRSy9wVDZUWGxoRHc",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -2823,6 +2806,23 @@
    "color": "silver",
    "memory": "32gb",
    "since": "2026-08-07"
+  },
+  {
+   "part_number": "G1MZ1J/A",
+   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 517800,
+   "url": "https://www.apple.com/jp/shop/product/g1mz1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1FKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "2tb",
+   "screen": "16inch",
+   "color": "spaceblack",
+   "memory": "",
+   "since": "2026-08-08"
   },
   {
    "part_number": "FFEP4J/A",

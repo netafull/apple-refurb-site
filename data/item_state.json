@@ -1367,6 +1367,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1MZ1J/A": {
+  "first_seen": "2026-08-08",
+  "first_seen_at": "2026-08-08T14:55:38+09:00",
+  "last_seen": "2026-08-13",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 517800,
+  "price_history": [
+   [
+    "2026-08-08",
+    517800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-13",
+  "restocked_at_at": "2026-08-13T06:01:15+09:00"
+ },
  "G1L24J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T09:14:05+09:00",
@@ -2787,22 +2805,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FCJ34J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-13",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 157800,
-  "price_history": [
-   [
-    "2026-07-30",
-    157800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FCJ44J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
@@ -4103,6 +4105,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FCJ34J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-13",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 157800,
+  "price_history": [
+   [
+    "2026-07-30",
+    157800
+   ]
+  ],
+  "sold_out_at": "2026-08-13",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
  "FDE44J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
@@ -4120,22 +4138,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-12",
   "restocked_at_at": "2026-08-12T15:40:52+09:00"
- },
- "G1MZ1J/A": {
-  "first_seen": "2026-08-08",
-  "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-08-13",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 517800,
-  "price_history": [
-   [
-    "2026-08-08",
-    517800
-   ]
-  ],
-  "sold_out_at": "2026-08-13",
-  "baseline": null
  },
  "G1LT0J/A": {
   "first_seen": "2026-07-30",
