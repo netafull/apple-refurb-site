@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T17:50:21+09:00",
- "count": 265,
+ "generated_at": "2026-08-12T19:18:44+09:00",
+ "count": 263,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -836,23 +836,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FVVC3J/A",
-   "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-   "price": 190800,
-   "url": "https://www.apple.com/jp/shop/product/fvvc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RncWozWHZrUkVsYVVyS0hVRGlPYStneGk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmorQ1BxT0FOTW1CelQ0d3liWkpBZ25B",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "11inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FVVD3J/A",
    "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
    "price": 190800,
@@ -866,6 +849,23 @@
    "capacity": "512gb",
    "screen": "11inch",
    "color": "silver",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FVVC3J/A",
+   "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "price": 190800,
+   "url": "https://www.apple.com/jp/shop/product/fvvc3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RncWozWHZrUkVsYVVyS0hVRGlPYStneGk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmorQ1BxT0FOTW1CelQ0d3liWkpBZ25B",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadpro_11",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "11inch",
+   "color": "",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -3250,23 +3250,6 @@
    "since": "2026-08-12"
   },
   {
-   "part_number": "G1LY3J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 408800,
-   "url": "https://www.apple.com/jp/shop/product/g1ly3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVWN2bUhydGh0ZkR5VStUeFJQakFuU1IrYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "15inch",
-   "color": "midnight",
-   "memory": "32gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1FP3J/A",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - シルバー",
    "price": 405800,
@@ -4217,23 +4200,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1L90J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 204800,
-   "url": "https://www.apple.com/jp/shop/product/g1l90j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQ2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NCZDhnSVl6OTRJcDZrRVlWaFFQblE",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDHA4J/A",

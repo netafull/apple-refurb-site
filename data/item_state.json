@@ -193,24 +193,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1L90J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-12",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 204800,
-  "price_history": [
-   [
-    "2026-08-04",
-    204800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-12",
-  "restocked_at_at": "2026-08-12T15:40:52+09:00"
- },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-12",
@@ -1156,24 +1138,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1LY3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-12",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 408800,
-  "price_history": [
-   [
-    "2026-07-30",
-    408800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-12",
-  "restocked_at_at": "2026-08-12T17:50:21+09:00"
  },
  "G1KK3J/A": {
   "first_seen": "2026-08-04",
@@ -3123,10 +3087,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-12",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3139,10 +3103,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-12",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4296,6 +4260,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L90J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-12",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 204800,
+  "price_history": [
+   [
+    "2026-08-04",
+    204800
+   ]
+  ],
+  "sold_out_at": "2026-08-12",
+  "baseline": null,
+  "restocked_at": "2026-08-12",
+  "restocked_at_at": "2026-08-12T15:40:52+09:00"
+ },
+ "G1LY3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-12",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 408800,
+  "price_history": [
+   [
+    "2026-07-30",
+    408800
+   ]
+  ],
+  "sold_out_at": "2026-08-12",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-12",
+  "restocked_at_at": "2026-08-12T17:50:21+09:00"
  },
  "G1LQ0J/A": {
   "first_seen": "2026-07-31",
