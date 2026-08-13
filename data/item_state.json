@@ -3841,22 +3841,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTMP3J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T19:20:39+09:00",
-  "last_seen": "2026-08-13",
-  "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-08-13",
-    104800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FU0A3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-13",
@@ -4176,6 +4160,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTMP3J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T19:20:39+09:00",
+  "last_seen": "2026-08-13",
+  "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-08-13",
+    104800
+   ]
+  ],
+  "sold_out_at": "2026-08-13",
+  "baseline": null
  },
  "G1KN2J/A": {
   "first_seen": "2026-08-04",

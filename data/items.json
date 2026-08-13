@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-13T20:27:27+09:00",
- "count": 258,
+ "generated_at": "2026-08-13T20:57:30+09:00",
+ "count": 257,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1344,23 +1344,6 @@
    "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTMP3J/A",
-   "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
-   "price": 104800,
-   "url": "https://www.apple.com/jp/shop/product/ftmp3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pink-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYnd0SDllNVJINlEvZSsvSkZ1VmhseXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGVqZlRDenBOMGo3OW5GTWt4YXMzbFk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "pink",
-   "memory": "",
-   "since": "2026-08-13"
   },
   {
    "part_number": "G1MY9J/A",
