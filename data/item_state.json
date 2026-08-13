@@ -2927,22 +2927,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FCJ44J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-13",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 157800,
-  "price_history": [
-   [
-    "2026-07-30",
-    157800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVV83J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
@@ -3039,10 +3023,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3055,10 +3039,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -3841,22 +3825,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU0A3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-13",
-  "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00"
- },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
@@ -4160,6 +4128,38 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCJ44J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-13",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 157800,
+  "price_history": [
+   [
+    "2026-07-30",
+    157800
+   ]
+  ],
+  "sold_out_at": "2026-08-13",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU0A3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-13",
+  "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ]
+  ],
+  "sold_out_at": "2026-08-13",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
  "FTMP3J/A": {
   "first_seen": "2026-08-13",
