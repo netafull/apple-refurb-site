@@ -127,6 +127,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FYJH3J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-08-14",
+  "title": "Apple Studio Display - 標準ガラス、VESAマウントアダプタ [整備済製品]",
+  "category": "mac",
+  "price": 186800,
+  "price_history": [
+   [
+    "2026-08-13",
+    186800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-14",
+  "restocked_at_at": "2026-08-14T02:37:20+09:00"
+ },
  "FDHA4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -2955,10 +2973,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVC3J/A": {
+ "FVVD3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-14",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -2971,10 +2989,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVVD3J/A": {
+ "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-14",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
   "price_history": [
@@ -4256,22 +4274,6 @@
   "sold_out_at": "2026-08-13",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FYJH3J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
-  "last_seen": "2026-08-13",
-  "title": "Apple Studio Display - 標準ガラス、VESAマウントアダプタ [整備済製品]",
-  "category": "mac",
-  "price": 186800,
-  "price_history": [
-   [
-    "2026-08-13",
-    186800
-   ]
-  ],
-  "sold_out_at": "2026-08-13",
-  "baseline": null
  },
  "G1KL0J/A": {
   "first_seen": "2026-08-04",
