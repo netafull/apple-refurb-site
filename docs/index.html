@@ -23,7 +23,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "林檎ポチ", "url": "https://apple.netaful.jp/", "description": "Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします", "dateModified": "2026-08-14T23:00:00+09:00"}, {"@context": "https://schema.org", "@type": "ItemList", "name": "在庫があるApple整備済製品のカテゴリ", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Mac"}, {"@type": "ListItem", "position": 2, "name": "iPad"}, {"@type": "ListItem", "position": 3, "name": "iPhone"}, {"@type": "ListItem", "position": 4, "name": "Apple Watch"}, {"@type": "ListItem", "position": 5, "name": "Apple TV"}, {"@type": "ListItem", "position": 6, "name": "HomePod"}]}]</script>
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "林檎ポチ", "url": "https://apple.netaful.jp/", "description": "Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします", "dateModified": "2026-08-15T00:06:00+09:00"}, {"@context": "https://schema.org", "@type": "ItemList", "name": "在庫があるApple整備済製品のカテゴリ", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Mac"}, {"@type": "ListItem", "position": 2, "name": "iPad"}, {"@type": "ListItem", "position": 3, "name": "iPhone"}, {"@type": "ListItem", "position": 4, "name": "Apple Watch"}, {"@type": "ListItem", "position": 5, "name": "Apple TV"}, {"@type": "ListItem", "position": 6, "name": "HomePod"}]}]</script>
 <style>
 :root {
   --bg: #fafaf7; --card: #ffffff; --text: #1a1a1a; --muted: #6b6b6b;
@@ -104,10 +104,15 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 /* Auto ads廃止に伴う手動広告枠。グリッド内ではカードの1つとして、
    ヘッダー直下では単独の帯として収まるよう幅を960pxに揃える */
 /* width:100%指定必須。margin:auto単独だとグリッド内では
-   shrink-to-fitになり、中身がまだ無い広告は幅0に潰れて出ない */
+   shrink-to-fitになり、中身がまだ無い広告は幅0に潰れて出ない。
+   overflowは切らない(広告の一部が隠れるとポリシー違反になりうる) */
 .ad-slot { width: 100%; max-width: 960px; margin: 0 auto;
   background: var(--card); border: 1px solid var(--line);
-  border-radius: 10px; padding: 12px; text-align: center; overflow: hidden; }
+  border-radius: 10px; padding: 12px; text-align: center; }
+/* 広告が配信されなかった枠は畳む。枠線とパディングだけの空の箱が
+   カードの間に残らないようにする。判定が出るまでは表示のままにする
+   (幅0だとAdSenseがサイズを決められず配信自体が失敗するため) */
+.ad-slot:has(ins[data-ad-status="unfilled"]) { display: none; }
 .item { display: flex; gap: 12px; background: var(--card);
   border: 1px solid var(--line); border-radius: 10px; padding: 12px;
   text-decoration: none; color: var(--text); }
@@ -149,7 +154,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <body>
 <header>
 <h1><a href="./" data-google-vignette="false"><img src="assets/logo.png" alt="" width="32" height="32">林檎ポチ</a></h1>
-<p>Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします ｜ 在庫274件 ｜ 最終更新: 2026年08月14日 23:00</p>
+<p>Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします ｜ 在庫273件 ｜ 最終更新: 2026年08月15日 00:06</p>
 <nav class="sites"><span class="lbl">関連サイト</span>
 <a href="https://book.netaful.jp/" data-google-vignette="false">電書ポチ<span class="lbl"> Kindle本セール</span></a>
 <a href="https://kaden.netaful.jp/" data-google-vignette="false">家電ポチ<span class="lbl"> ガジェット・家電セール</span></a>
@@ -164,14 +169,11 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <nav class="tabs" aria-label="カテゴリ">
-<button type="button" data-target="all" aria-selected="true">すべて<span class="n">274</span></button>
+<button type="button" data-target="all" aria-selected="true">すべて<span class="n">273</span></button>
 <button type="button" data-target="c0" aria-selected="false">Mac<span class="n">160</span></button>
-<button type="button" data-target="c1" aria-selected="false">iPad<span class="n">63</span></button>
+<button type="button" data-target="c1" aria-selected="false">iPad<span class="n">62</span></button>
 <button type="button" data-target="c2" aria-selected="false">iPhone<span class="n">12</span></button>
 <button type="button" data-target="c3" aria-selected="false">Apple Watch<span class="n">36</span></button>
 <button type="button" data-target="c4" aria-selected="false">Apple TV<span class="n">1</span></button>
@@ -290,15 +292,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">8/14入荷 ・ 24時間以内</div>
   </div>
 </a>
-<a class="item" href="https://www.apple.com/jp/shop/product/ff8f4j/a" data-google-vignette="false" target="_blank" rel="noopener">
-  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
-  <div>
-    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド</div>
-    <div class="price"><span class="now">&yen;74,800</span></div>
-    
-    <div class="meta">8/14入荷 ・ 24時間以内</div>
-  </div>
-</a>
 <a class="item" href="https://www.apple.com/jp/shop/product/ff8a4j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-space-sport-band-black?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMlRiL3FZQ2VjR2J1bjRsZWxnYW9hOXhmNEhxTmhwUnZhUnJTcUFkbG9mUnVYb1hLcitxejdqSmc5UXI1M3FwZjdobHZ1MVZrbkN0OWkzZ0JoOGJHcm5KdEZaUFBuL2ppTjFST0c1UEdRWWo" alt="" loading="lazy">
   <div>
@@ -312,6 +305,15 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
   <div>
     <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド</div>
+    <div class="price"><span class="now">&yen;74,800</span></div>
+    
+    <div class="meta">8/14入荷 ・ 24時間以内</div>
+  </div>
+</a>
+<a class="item" href="https://www.apple.com/jp/shop/product/ff8f4j/a" data-google-vignette="false" target="_blank" rel="noopener">
+  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
+  <div>
+    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド</div>
     <div class="price"><span class="now">&yen;74,800</span></div>
     
     <div class="meta">8/14入荷 ・ 24時間以内</div>
@@ -333,9 +335,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/ff8j4j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuVk9nSktxbERLY1FWZTZub2hTaEFFUDE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2RsVDJxanA0dFNWd0lKUDVFY0JXc24" alt="" loading="lazy">
@@ -488,9 +487,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fuwa3za/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-pencil-usb-c?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=YjVWTjEyaWRNZ3BxOFBLOGNNLzlqTXFGQmFiNXNUWDJ1MlZ1bjU3aFFVZTVlaGNxdjZyUHVNbUQxQ3ZuZXFsL1hvL0YwR3NwVHB5S3ljYkMvMUpCMGhySFg1MlprSWF0STdiLzVlYWNPVGs" alt="" loading="lazy">
@@ -504,7 +500,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="c0">
-<summary><h2>Mac (160件)<span class="delta down">-14</span></h2></summary>
+<summary><h2>Mac (160件)</h2></summary>
 <div class="grid">
 <a class="item" href="https://www.apple.com/jp/shop/product/fyjj3j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-height-202206?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJak1JbUpGajlzb1ZKR29lMnp5bXgxVlhOTXoxalNTSnNHQUdNQUdnQmpmUHNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VBbmdvVmp1aENTSG13NHJ3TkcvSGk" alt="" loading="lazy">
@@ -657,9 +653,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1kn7j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc" alt="" loading="lazy">
@@ -812,9 +805,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1kn3j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc" alt="" loading="lazy">
@@ -967,9 +957,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fdvd4j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g" alt="" loading="lazy">
@@ -1122,9 +1109,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1er1j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1ladFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g" alt="" loading="lazy">
@@ -1277,9 +1261,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1mlaj/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU" alt="" loading="lazy">
@@ -1432,9 +1413,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fgec4j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1FKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs" alt="" loading="lazy">
@@ -1587,9 +1565,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fx313j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m4-spaceblack-202502?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=d04ycXJNT3FjYU8yTmdpcGxNTTc2eE8zVnlEd1o1SE05NWdMUEFHWVMzakluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K2NmT3lDcEt1YU9kd3dlU3pPejJGQUFUUFRyb2RjNHk0akgzMk1vc0ErMzk" alt="" loading="lazy">
@@ -1742,9 +1717,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1n24j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1FKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs" alt="" loading="lazy">
@@ -1897,9 +1869,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/g1fw9j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m4-spaceblack-202502?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=d04ycXJNT3FjYU8yTmdpcGxNTTc2eE8zVnlEd1o1SE05NWdMUEFHWVMzakluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K2NmT3lDcEt1YU9kd3dlU3pPejJGQUFUUFRyb2RjNHk0akgzMk1vc0ErMzk" alt="" loading="lazy">
@@ -2052,14 +2021,11 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 </div>
 </details>
 <details open id="c1">
-<summary><h2>iPad (63件)<span class="delta up">+1</span></h2></summary>
+<summary><h2>iPad (62件)<span class="delta down">-1</span></h2></summary>
 <div class="grid">
 <a class="item" href="https://www.apple.com/jp/shop/product/fvx23j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-8th-gen-wifi-space-black-202512?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnbGJSMWIvZ09YdENsL1ZLamlKSjJXTmk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmpJdyt4di9POTB6bVA4YWlKamxLbXJR" alt="" loading="lazy">
@@ -2187,21 +2153,21 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
-<a class="item" href="https://www.apple.com/jp/shop/product/fcj54j/a" data-google-vignette="false" target="_blank" rel="noopener">
-  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-spacegray-202509?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cGNLSmhFT29hM3dUenNuVVdEZmVHa1BvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5ZNXJaYWwwQndUSEprUk1YQmJQTGg" alt="" loading="lazy">
-  <div>
-    <div class="t">13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スペースグレイ</div>
-    <div class="price"><span class="now">&yen;170,800</span></div>
-    <div class="meta">256GB / 13インチ / 2025</div>
-    <div class="meta">7/30入荷 ・ 24時間以内</div>
-  </div>
-</a>
 <a class="item" href="https://www.apple.com/jp/shop/product/fcj84j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-purple-202509?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bHVSQXdHcEkvMVJjaG9QcE9DNjdqTkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHF3b3QvM092eWpmd1NMekhvdjBnOFE" alt="" loading="lazy">
   <div>
     <div class="t">13インチiPad Air（M3）Wi-Fi + Cellular 256GB - パープル</div>
     <div class="price"><span class="now">&yen;170,800</span></div>
     <div class="meta">256GB / 13インチ / 2025</div>
+    <div class="meta">7/30入荷 ・ 24時間以内</div>
+  </div>
+</a>
+<a class="item" href="https://www.apple.com/jp/shop/product/fnxp3j/a" data-google-vignette="false" target="_blank" rel="noopener">
+  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-wifi-spacegray-202409?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3Rna2gvdVVvVjJWR0IwcWV4UEt0bTI3bzBsYjF2Q1hxUjlkOUpsQ015MjBTZ0dVd2FRUjhCbDlDTWh2ZGtOdnVwckNoRkpGZmQ4MGU0NlU4RHNRZERNZmFRNjdMZzg5aVVSYmlmWDRUVU9UUHg2Ty8yZC8zNUFLRW1kY2phTlhVdkhn" alt="" loading="lazy">
+  <div>
+    <div class="t">12.9インチiPad Pro Wi-Fi 128GB - スペースグレイ（第6世代）</div>
+    <div class="price"><span class="now">&yen;174,800</span></div>
+    <div class="meta">128GB / 12.9インチ / 2022</div>
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
@@ -2212,19 +2178,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
-<a class="item" href="https://www.apple.com/jp/shop/product/fnxp3j/a" data-google-vignette="false" target="_blank" rel="noopener">
-  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-wifi-spacegray-202409?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3Rna2gvdVVvVjJWR0IwcWV4UEt0bTI3bzBsYjF2Q1hxUjlkOUpsQ015MjBTZ0dVd2FRUjhCbDlDTWh2ZGtOdnVwckNoRkpGZmQ4MGU0NlU4RHNRZERNZmFRNjdMZzg5aVVSYmlmWDRUVU9UUHg2Ty8yZC8zNUFLRW1kY2phTlhVdkhn" alt="" loading="lazy">
-  <div>
-    <div class="t">12.9インチiPad Pro Wi-Fi 128GB - スペースグレイ（第6世代）</div>
-    <div class="price"><span class="now">&yen;174,800</span></div>
-    <div class="meta">128GB / 12.9インチ / 2022</div>
-    <div class="meta">7/30入荷 ・ 24時間以内</div>
-  </div>
-</a>
 <a class="item" href="https://www.apple.com/jp/shop/product/fnxq3j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-wifi-silver-202409?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3Rna2gvdVVvVjJWR0IwcWV4UEt0bTI3cUFzYWZmQkM1YVlKbG1YcDZFSnlSUm9QZytvM1hPOWh5cVhIU1hDaWt6b1AvU3JjZHd1MTRSd0VqZnNnTGdmZmx2WkQ5S2NQZ1Bmb1ltVk5qc2xPZ2E2WGxnVUlUMDh4b2VtSHRCNTRhVEN3" alt="" loading="lazy">
   <div>
@@ -2360,17 +2314,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
-<div class="ad-slot">
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2195959398357532"
-     data-ad-slot="1215675017"
-     data-ad-format="rectangle"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fvxr3j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-8th-gen-cell-space-black-202512?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnbTRBdzcwRXJqcGVQNkVjVlZzNWw3d2FHNFV2K1lvaHV4TG9uVmthWW0wcFZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmpVQmtzaXpWbENMNm1Rd0V2SEhFanpR" alt="" loading="lazy">
   <div>
@@ -2380,6 +2323,14 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
+<div class="ad-slot">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2195959398357532"
+     data-ad-slot="1215675017"
+     data-ad-format="rectangle"
+     data-full-width-responsive="true"></ins>
+</div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fp223j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-cell-spacegray-202409?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RndG1qcGcrLzF3U2RLNHE5SmJkU1NRQXVnS2I4VXhNcU9FdDFSOGRkWUtRWEdVd2FRUjhCbDlDTWh2ZGtOdnVwckNoRkpGZmQ4MGU0NlU4RHNRZERNZmFRNjdMZzg5aVVSYmlmWDRUVU9UUHh6eS84dkd3NXlSZEx2OC9rVHdacUd3" alt="" loading="lazy">
   <div>
@@ -2515,17 +2466,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
-<div class="ad-slot">
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2195959398357532"
-     data-ad-slot="1215675017"
-     data-ad-format="rectangle"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fny03j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-6th-gen-wifi-silver-202409?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3Rna2gvdVVvVjJWR0IwcWV4UEt0bTI3cUFzYWZmQkM1YVlKbG1YcDZFSnlSUm9QZytvM1hPOWh5cVhIU1hDaWt6b1AvU3JjZHd1MTRSd0VqZnNnTGdmZmx2WkQ5S2NQZ1Bmb1ltVk5qc2xPZ2E2WGxnVUlUMDh4b2VtSHRCNTRhVEN3" alt="" loading="lazy">
   <div>
@@ -2535,6 +2475,14 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">7/30入荷 ・ 24時間以内</div>
   </div>
 </a>
+<div class="ad-slot">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2195959398357532"
+     data-ad-slot="1215675017"
+     data-ad-format="rectangle"
+     data-full-width-responsive="true"></ins>
+</div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fvw73j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-cell-space-black-202512?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnZ1BzM2NoSStnaEVwdnU1bDBYU2xaTWFHNFV2K1lvaHV4TG9uVmthWW0wcFZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmpjbXZUOEpDS1V2VWFseDZDQTZzenJR" alt="" loading="lazy">
   <div>
@@ -2777,7 +2725,7 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details open id="c3">
-<summary><h2>Apple Watch (36件)<span class="delta up">+32</span></h2></summary>
+<summary><h2>Apple Watch (36件)</h2></summary>
 <div class="grid">
 <a class="item" href="https://www.apple.com/jp/shop/product/feh34j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-nc-alum-starlight-sport-band-starlight?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=QlR1TWJ1bWFJSXhxdGpVYU0yZEN5ZVZ6bnBsQXlmQ1JlLzNRTjN5bis0b1A4cGZ3Q2I5QjJxdkFhb2tIR0JEYXI0TmMzV2hFS05KNDJ0RVhtQ2tCMGZZb2EvZ2gySXVPSk1nRlo4SlhUZktqdkdsU2pIaFNSM3NUTWtCVTcwOWpGbFZCeUQwdnQyNVRTUzQ4UFBQd2RB" alt="" loading="lazy">
@@ -2905,19 +2853,19 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
     <div class="meta">8/14入荷 ・ 24時間以内</div>
   </div>
 </a>
-<a class="item" href="https://www.apple.com/jp/shop/product/ff8f4j/a" data-google-vignette="false" target="_blank" rel="noopener">
-  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
+<a class="item" href="https://www.apple.com/jp/shop/product/ff8a4j/a" data-google-vignette="false" target="_blank" rel="noopener">
+  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-space-sport-band-black?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMlRiL3FZQ2VjR2J1bjRsZWxnYW9hOXhmNEhxTmhwUnZhUnJTcUFkbG9mUnVYb1hLcitxejdqSmc5UXI1M3FwZjdobHZ1MVZrbkN0OWkzZ0JoOGJHcm5KdEZaUFBuL2ppTjFST0c1UEdRWWo" alt="" loading="lazy">
   <div>
-    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド</div>
+    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド</div>
     <div class="price"><span class="now">&yen;74,800</span></div>
     
     <div class="meta">8/14入荷 ・ 24時間以内</div>
   </div>
 </a>
-<a class="item" href="https://www.apple.com/jp/shop/product/ff8a4j/a" data-google-vignette="false" target="_blank" rel="noopener">
-  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-space-sport-band-black?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMlRiL3FZQ2VjR2J1bjRsZWxnYW9hOXhmNEhxTmhwUnZhUnJTcUFkbG9mUnVYb1hLcitxejdqSmc5UXI1M3FwZjdobHZ1MVZrbkN0OWkzZ0JoOGJHcm5KdEZaUFBuL2ppTjFST0c1UEdRWWo" alt="" loading="lazy">
+<a class="item" href="https://www.apple.com/jp/shop/product/ff8e4j/a" data-google-vignette="false" target="_blank" rel="noopener">
+  <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
   <div>
-    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド</div>
+    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド</div>
     <div class="price"><span class="now">&yen;74,800</span></div>
     
     <div class="meta">8/14入荷 ・ 24時間以内</div>
@@ -2930,14 +2878,11 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
-<a class="item" href="https://www.apple.com/jp/shop/product/ff8e4j/a" data-google-vignette="false" target="_blank" rel="noopener">
+<a class="item" href="https://www.apple.com/jp/shop/product/ff8f4j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20" alt="" loading="lazy">
   <div>
-    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド</div>
+    <div class="tag new">NEW</div><div class="t">Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド</div>
     <div class="price"><span class="now">&yen;74,800</span></div>
     
     <div class="meta">8/14入荷 ・ 24時間以内</div>
@@ -3085,9 +3030,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-slot="1215675017"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 <a class="item" href="https://www.apple.com/jp/shop/product/fwyd3j/a" data-google-vignette="false" target="_blank" rel="noopener">
   <img src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s10-titanium-slate-sport-band-black?wid=400&amp;hei=400&amp;fmt=jpeg&amp;qlt=90&amp;.v=K1cycDRZckYzK2Z1TEtPRGhpeVkwSTZwOGFiQ1NXWDNOWkJxemJMdGVCa2NrUTZaU1hROHVrdS9MNG5rTy9nRGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUVBLUUtOZzA1TmFDOFpISUIwdGZ5Uk4" alt="" loading="lazy">
@@ -3165,9 +3107,10 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </div>
 </details>
 <details id="gone">
-<summary><h2>❌ 最近売り切れ (118件)</h2></summary>
+<summary><h2>❌ 最近売り切れ (99件)</h2></summary>
 <p class="cmeta">直近7日以内に在庫が無くなった商品です。再入荷することがあります</p>
 <ul class="gone">
+<li>8/15 ・ &yen;170,800 ・ 13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スペースグレイ</li>
 <li>8/14 ・ &yen;425,800 ・ 14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック</li>
 <li>8/14 ・ &yen;363,800 ・ 14インチMacBook Pro 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー</li>
 <li>8/14 ・ &yen;329,800 ・ Studio Display - Nano-textureガラス - 傾きと高さを調整できるスタンド</li>
@@ -3266,26 +3209,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <li>8/8 ・ &yen;39,800 ・ Apple Watch SE（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド</li>
 <li>8/8 ・ &yen;39,800 ・ Apple Watch SE（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド</li>
 <li>8/8 ・ &yen;29,800 ・ Apple TV 4K 64GB（第3世代）Wi-Fiモデル</li>
-<li>8/7 ・ &yen;466,800 ・ 14インチMacBook Pro 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック</li>
-<li>8/7 ・ &yen;343,800 ・ 13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト</li>
-<li>8/7 ・ &yen;305,800 ・ 14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー</li>
-<li>8/7 ・ &yen;253,800 ・ 15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト</li>
-<li>8/7 ・ &yen;207,800 ・ 13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー</li>
-<li>8/7 ・ &yen;207,800 ・ 13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー</li>
-<li>8/7 ・ &yen;177,800 ・ 13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー</li>
-<li>8/7 ・ &yen;177,800 ・ 13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト</li>
-<li>8/7 ・ &yen;170,800 ・ 13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト</li>
-<li>8/7 ・ &yen;170,800 ・ 13インチiPad Air（M3）Wi-Fi + Cellular 256GB - ブルー</li>
-<li>8/7 ・ &yen;137,800 ・ iPhone 15 512GB - ブラック（SIMフリー）</li>
-<li>8/7 ・ &yen;137,800 ・ iPhone 15 512GB - ピンク（SIMフリー）</li>
-<li>8/7 ・ &yen;105,800 ・ iPhone 16 128GB - ピンク（SIMフリー）</li>
-<li>8/7 ・ &yen;104,800 ・ iPhone 15 256GB - ブラック（SIMフリー）</li>
-<li>8/7 ・ &yen;35,800 ・ Apple Watch SE（GPS + Cellularモデル）- 40mmシルバーアルミニウムケースとS/Mデニムスポーツバンド</li>
-<li>8/7 ・ &yen;31,800 ・ Apple Watch SE（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド</li>
-<li>8/7 ・ &yen;31,800 ・ Apple Watch SE（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド</li>
-<li>8/7 ・ &yen;31,800 ・ Apple Watch SE（GPSモデル）- 44mmシルバーアルミニウムケースとS/Mデニムスポーツバンド</li>
-<li>8/7 ・ &yen;27,800 ・ Apple Watch SE（GPSモデル）- 40mmシルバーアルミニウムケースとM/Lデニムスポーツバンド</li>
-<li>8/7 ・ &yen;27,800 ・ Apple Watch SE（GPSモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド</li>
 </ul>
 </details>
 <section class="about">
@@ -3313,6 +3236,23 @@ Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 // カテゴリタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
 // 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
 document.documentElement.classList.add("js");
+// 広告は表示中のセクションのぶんだけ読み込む。隠れたまま処理されると
+// 幅0で失敗し、あとで表示しても二度と入らないので、隠れている枠は
+// adsbygoogleクラスを外してAdSenseの対象から一時的に除外しておく。
+// pushはDOM順に未処理の枠へ結び付くため、押した枠には印を付けて
+// 二重pushを防ぐ(data-adsbygoogle-statusは非同期でしか付かない)
+function syncAds() {
+  document.querySelectorAll("ins[data-ad-slot]").forEach(function (ins) {
+    if (ins.dataset.pushed) return;
+    if (ins.offsetParent === null) {
+      ins.classList.remove("adsbygoogle");
+      return;
+    }
+    ins.classList.add("adsbygoogle");
+    ins.dataset.pushed = "1";
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  });
+}
 (function () {
   var tabs = document.querySelector(".tabs");
   if (!tabs) return;
@@ -3333,6 +3273,7 @@ document.documentElement.classList.add("js");
     if (history.replaceState) {
       history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
     }
+    syncAds();
   }
   tabs.addEventListener("click", function (e) {
     var b = e.target.closest("button");
@@ -3343,6 +3284,7 @@ document.documentElement.classList.add("js");
   var initial = location.hash.replace("#", "");
   if (initial && document.getElementById(initial)) apply(initial);
 })();
+syncAds();
 </script>
 </body>
 </html>
