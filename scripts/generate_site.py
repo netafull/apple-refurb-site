@@ -367,7 +367,9 @@ def render_ad_slot() -> str:
 
     Auto adsはサブドメイン単位でヴィネット/アンカー広告を無効化できな
     かったため除外し、代わりにこの広告ユニット1種類をヘッダー直下と
-    カード一覧に手動で配置する。adsense_ad_slotが未設定なら何も出さない
+    カード一覧に手動で配置する。adsense_ad_slotが未設定なら何も出さない。
+    読み込みを促すpushはタブで隠れた枠を避ける必要があるため、枠ごとの
+    インラインscriptではなくページ下部のsyncAds()がまとめて行う
     """
     ad_slot = CONFIG.get("adsense_ad_slot", "")
     adsense_id = CONFIG.get("adsense_client_id", "")
@@ -380,9 +382,6 @@ def render_ad_slot() -> str:
      data-ad-slot="{esc(ad_slot)}"
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({{}});
-</script>
 </div>"""
 
 
@@ -674,6 +673,23 @@ Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 // カテゴリタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
 // 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
 document.documentElement.classList.add("js");
+// 広告は表示中のセクションのぶんだけ読み込む。隠れたまま処理されると
+// 幅0で失敗し、あとで表示しても二度と入らないので、隠れている枠は
+// adsbygoogleクラスを外してAdSenseの対象から一時的に除外しておく。
+// pushはDOM順に未処理の枠へ結び付くため、押した枠には印を付けて
+// 二重pushを防ぐ(data-adsbygoogle-statusは非同期でしか付かない)
+function syncAds() {{
+  document.querySelectorAll("ins[data-ad-slot]").forEach(function (ins) {{
+    if (ins.dataset.pushed) return;
+    if (ins.offsetParent === null) {{
+      ins.classList.remove("adsbygoogle");
+      return;
+    }}
+    ins.classList.add("adsbygoogle");
+    ins.dataset.pushed = "1";
+    (adsbygoogle = window.adsbygoogle || []).push({{}});
+  }});
+}}
 (function () {{
   var tabs = document.querySelector(".tabs");
   if (!tabs) return;
@@ -694,6 +710,7 @@ document.documentElement.classList.add("js");
     if (history.replaceState) {{
       history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
     }}
+    syncAds();
   }}
   tabs.addEventListener("click", function (e) {{
     var b = e.target.closest("button");
@@ -704,6 +721,7 @@ document.documentElement.classList.add("js");
   var initial = location.hash.replace("#", "");
   if (initial && document.getElementById(initial)) apply(initial);
 }})();
+syncAds();
 </script>
 </body>
 </html>
