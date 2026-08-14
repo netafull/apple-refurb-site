@@ -102,10 +102,15 @@ details > .grid, details > .empty, details > .cmeta, details > .gone {
 /* Auto ads廃止に伴う手動広告枠。グリッド内ではカードの1つとして、
    ヘッダー直下では単独の帯として収まるよう幅を960pxに揃える */
 /* width:100%指定必須。margin:auto単独だとグリッド内では
-   shrink-to-fitになり、中身がまだ無い広告は幅0に潰れて出ない */
+   shrink-to-fitになり、中身がまだ無い広告は幅0に潰れて出ない。
+   overflowは切らない(広告の一部が隠れるとポリシー違反になりうる) */
 .ad-slot { width: 100%; max-width: 960px; margin: 0 auto;
   background: var(--card); border: 1px solid var(--line);
-  border-radius: 10px; padding: 12px; text-align: center; overflow: hidden; }
+  border-radius: 10px; padding: 12px; text-align: center; }
+/* 広告が配信されなかった枠は畳む。枠線とパディングだけの空の箱が
+   カードの間に残らないようにする。判定が出るまでは表示のままにする
+   (幅0だとAdSenseがサイズを決められず配信自体が失敗するため) */
+.ad-slot:has(ins[data-ad-status="unfilled"]) { display: none; }
 .item { display: flex; gap: 12px; background: var(--card);
   border: 1px solid var(--line); border-radius: 10px; padding: 12px;
   text-decoration: none; color: var(--text); }
