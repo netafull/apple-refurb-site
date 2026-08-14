@@ -168,11 +168,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 64,
+   "ipad": 63,
    "iphone": 12,
-   "mac": 161,
+   "mac": 160,
    "watch": 36
   },
-  "total": 276
+  "total": 274
  }
 }
