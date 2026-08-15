@@ -195,24 +195,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1L60J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-15",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 204800,
-  "price_history": [
-   [
-    "2026-08-04",
-    204800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-15",
-  "restocked_at_at": "2026-08-15T10:48:05+09:00"
- },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-15",
@@ -1070,22 +1052,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1K63J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-15",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-  "category": "mac",
-  "price": 428800,
-  "price_history": [
-   [
-    "2026-07-30",
-    428800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MHAJ/A": {
   "first_seen": "2026-07-30",
@@ -4500,6 +4466,40 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L60J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-15",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 204800,
+  "price_history": [
+   [
+    "2026-08-04",
+    204800
+   ]
+  ],
+  "sold_out_at": "2026-08-15",
+  "baseline": null,
+  "restocked_at": "2026-08-15",
+  "restocked_at_at": "2026-08-15T10:48:05+09:00"
+ },
+ "G1K63J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-15",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
+  "category": "mac",
+  "price": 428800,
+  "price_history": [
+   [
+    "2026-07-30",
+    428800
+   ]
+  ],
+  "sold_out_at": "2026-08-15",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },

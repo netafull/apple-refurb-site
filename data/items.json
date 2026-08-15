@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-15T14:57:02+09:00",
- "count": 278,
+ "generated_at": "2026-08-15T15:55:52+09:00",
+ "count": 276,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3012,23 +3012,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1K63J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-   "price": 428800,
-   "url": "https://www.apple.com/jp/shop/product/g1k63j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1ladFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "2tb",
-   "screen": "24inch",
-   "color": "pink",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1KN3J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
    "price": 425800,
@@ -3911,23 +3894,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1L60J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 204800,
-   "url": "https://www.apple.com/jp/shop/product/g1l60j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVI5TUQzL21jdWI1S2Qzb0NoYWtienArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDHA4J/A",
