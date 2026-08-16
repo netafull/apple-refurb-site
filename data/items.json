@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-16T20:53:48+09:00",
- "count": 275,
+ "generated_at": "2026-08-16T21:58:51+09:00",
+ "count": 274,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3586,23 +3586,6 @@
    "capacity": "512gb",
    "screen": "15inch",
    "color": "starlight",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1LW0J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 253800,
-   "url": "https://www.apple.com/jp/shop/product/g1lw0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVWN2bUhydGh0ZkR5VStUeFJQakFuU1IrYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "midnight",
    "memory": "24gb",
    "since": "2026-07-30"
   },
