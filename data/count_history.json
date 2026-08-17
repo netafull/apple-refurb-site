@@ -202,10 +202,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 60,
-   "iphone": 18,
+   "iphone": 15,
    "mac": 170,
    "watch": 26
   },
-  "total": 277
+  "total": 274
  }
 }
