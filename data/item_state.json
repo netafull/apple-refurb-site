@@ -4213,22 +4213,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FEU44J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-17",
-  "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 60800,
-  "price_history": [
-   [
-    "2026-08-14",
-    60800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FEV04J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4272,22 +4256,6 @@
    [
     "2026-08-14",
     65800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FF834J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-17",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
    ]
   ],
   "sold_out_at": null,
@@ -4644,6 +4612,38 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FEU44J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-17",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 60800,
+  "price_history": [
+   [
+    "2026-08-14",
+    60800
+   ]
+  ],
+  "sold_out_at": "2026-08-17",
+  "baseline": null
+ },
+ "FF834J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-17",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": "2026-08-17",
+  "baseline": null
  },
  "G1KK2J/A": {
   "first_seen": "2026-08-04",
