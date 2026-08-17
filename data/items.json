@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T07:56:36+09:00",
- "count": 272,
+ "generated_at": "2026-08-18T08:35:13+09:00",
+ "count": 273,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4619,6 +4619,23 @@
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
    "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
+   "part_number": "FEHN4J/A",
+   "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+   "price": 39800,
+   "url": "https://www.apple.com/jp/shop/product/fehn4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-nc-alum-midnight-sport-band-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Z2VZc2VtVnFXam9ZZ0t1YkNEWFR6TTByV1g1VDFyNEp2dU1uWG9jZGtvbzR4eWFFVndzR1Eza0w1TndBdEI1cVVpV0VzMW1WN2xqZXNFYmJjVHJlS3o3UnQ0Z2d0YktNQTh3TUhDTUFJMXZFZ2I0QnBZMXBWVmdGZ3JIVHlOUmlHYm1XLzBkdUhsMHdQbHhSTWJwQ0ln",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchse3",
    "year": "",
    "capacity": "",
    "screen": "",
