@@ -218,5 +218,16 @@
    "watch": 21
   },
   "total": 264
+ },
+ "2026-08-19": {
+  "categories": {
+   "appletv": 1,
+   "homepod": 2,
+   "ipad": 60,
+   "iphone": 12,
+   "mac": 168,
+   "watch": 21
+  },
+  "total": 264
  }
 }
