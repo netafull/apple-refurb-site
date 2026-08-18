@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T13:18:54+09:00",
- "count": 268,
+ "generated_at": "2026-08-18T13:49:46+09:00",
+ "count": 267,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3146,23 +3146,6 @@
    "color": "yellow",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1KK5J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
-   "price": 341800,
-   "url": "https://www.apple.com/jp/shop/product/g1kk5j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "G1KN5J/A",
