@@ -1119,22 +1119,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1LV3J/A": {
-  "first_seen": "2026-08-12",
-  "first_seen_at": "2026-08-12T15:40:52+09:00",
-  "last_seen": "2026-08-18",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 408800,
-  "price_history": [
-   [
-    "2026-08-12",
-    408800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1JR2J/A": {
   "first_seen": "2026-08-17",
   "first_seen_at": "2026-08-17T12:12:03+09:00",
@@ -3763,24 +3747,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTUC3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T17:37:23+09:00",
-  "last_seen": "2026-08-18",
-  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-07",
-    134800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-18",
-  "restocked_at_at": "2026-08-18T12:56:15+09:00"
- },
  "FTMU3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-18",
@@ -4374,6 +4340,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1LV3J/A": {
+  "first_seen": "2026-08-12",
+  "first_seen_at": "2026-08-12T15:40:52+09:00",
+  "last_seen": "2026-08-18",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 408800,
+  "price_history": [
+   [
+    "2026-08-12",
+    408800
+   ]
+  ],
+  "sold_out_at": "2026-08-18",
+  "baseline": null
+ },
+ "FTUC3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T17:37:23+09:00",
+  "last_seen": "2026-08-18",
+  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-07",
+    134800
+   ]
+  ],
+  "sold_out_at": "2026-08-18",
+  "baseline": null,
+  "restocked_at": "2026-08-18",
+  "restocked_at_at": "2026-08-18T12:56:15+09:00"
  },
  "G1FW9J/A": {
   "first_seen": "2026-07-30",
