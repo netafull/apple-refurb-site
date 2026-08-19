@@ -65,6 +65,50 @@
   "policy_url": "https://netaful.jp/policy.html",
   "adsense_client_id": "ca-pub-2195959398357532",
   "adsense_ad_slot": "1215675017",
+  "wordpress": {
+    "site_url": "https://netaful.jp",
+    "username": "kogure",
+    "category_id": 723,
+    "rakuten_link": "https://www.rebates.jp/referrer?referrerid=iFUQOJhY7Kc%3D",
+    "categories": {
+      "mac": {
+        "tag_id": 886,
+        "label": "Mac",
+        "image_url": "https://netafull.net/wp-content/uploads/2022/12/apple-refurbished-mac.jpg",
+        "image_width": 1500,
+        "image_height": 928,
+        "apple_link": "https://www.apple.com/jp/shop/refurbished/mac",
+        "amazon_link": "https://amzn.to/45iyuSX"
+      },
+      "ipad": {
+        "tag_id": 885,
+        "label": "iPad",
+        "image_url": "https://netafull.net/wp-content/uploads/2022/12/apple-refurbished-ipad.jpg",
+        "image_width": 1500,
+        "image_height": 930,
+        "apple_link": "https://www.apple.com/jp/shop/refurbished/ipad",
+        "amazon_link": "https://amzn.to/3RLEP6v"
+      },
+      "iphone": {
+        "tag_id": 887,
+        "label": "iPhone",
+        "image_url": "https://netafull.net/wp-content/uploads/2023/03/iphone-refurbished-001-28.jpg",
+        "image_width": 1500,
+        "image_height": 899,
+        "apple_link": "https://www.apple.com/jp/shop/refurbished/iphone",
+        "amazon_link": "https://amzn.to/3RLhdP6"
+      },
+      "watch": {
+        "tag_id": 888,
+        "label": "Apple Watch",
+        "image_url": "https://netafull.net/images/slproImg_202008300941310.jpg",
+        "image_width": 640,
+        "image_height": 443,
+        "apple_link": "https://www.apple.com/jp/shop/refurbished/watch/apple-watch-se",
+        "amazon_link": "https://amzn.to/46B8KSZ"
+      }
+    }
+  },
   "about": [
     "Apple公式の整備済製品ストアの在庫を1時間ごとにチェックし、新しく入荷した製品と売り切れをお届けしています。整備済製品は在庫が不定期に補充され、人気モデルは早く売り切れるため、「今何があるか」が分かることを重視しました。",
     "カテゴリごとの前日比を添えて、在庫がどう動いているかが分かるようにしています。直近24時間以内に在庫に現れた製品にはNEWの印を付けています。",

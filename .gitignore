@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .DS_Store
+# 実行内で完結する一時ファイル。post_to_wordpress.pyが読んだら役目を終える
+data/new_arrivals.json

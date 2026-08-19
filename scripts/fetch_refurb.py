@@ -24,6 +24,11 @@ ITEMS_PATH = ROOT / "data" / "items.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
 # カテゴリ別の件数を日次で残す。前日比の表示に使う
 HISTORY_PATH = ROOT / "data" / "count_history.json"
+# この実行で検出した新規入荷だけを一時的に残す。post_to_wordpress.pyが
+# 読んだら役目を終えるのでコミット対象に含めない(.gitignore済み)。
+# generate_site.pyのarrivals(直近24時間分をまとめて再計算する表示用)とは
+# 別物で、こちらは「今回はじめて検出した分」だけを1回きり通知するために使う
+NEW_ARRIVALS_PATH = ROOT / "data" / "new_arrivals.json"
 
 JST = datetime.timezone(datetime.timedelta(hours=9))
 USER_AGENT = (
@@ -297,6 +302,9 @@ def main() -> int:
     )
     STATE_PATH.write_text(
         json.dumps(new_state, ensure_ascii=False, indent=1), encoding="utf-8"
+    )
+    NEW_ARRIVALS_PATH.write_text(
+        json.dumps(new_arrivals, ensure_ascii=False, indent=1), encoding="utf-8"
     )
 
     # 前日比を出すためにカテゴリ別の件数を日次で記録する。
