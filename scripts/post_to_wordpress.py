@@ -26,6 +26,8 @@ import json
 import os
 import re
 import sys
+import urllib.error
+import urllib.request
 import xmlrpc.client
 from pathlib import Path
 
@@ -212,6 +214,32 @@ def create_draft(wp_cfg: dict, app_password: str, title: str, content: str, tag_
     return int(post_id)
 
 
+def notify_ntfy(topic: str, title: str, message: str, click_url: str = "") -> None:
+    """下書き作成をntfy(https://ntfy.sh/)でプッシュ通知する。
+
+    トピック名はGitHub Secretsで管理し、リポジトリには書かない(公開
+    リポジトリなので、トピック名が漏れると誰でも通知を送りつけられる)。
+    通知の失敗は本筋に影響させたくないので例外は投げず警告のみ出す。
+    ヘッダーだと日本語のエンコードで面倒が起きるため、JSON配信APIを使う
+    """
+    if not topic:
+        return
+    payload: dict[str, str] = {"topic": topic, "title": title, "message": message}
+    if click_url:
+        payload["click"] = click_url
+    req = urllib.request.Request(
+        "https://ntfy.sh/",
+        data=json.dumps(payload).encode("utf-8"),
+        method="POST",
+        headers={"Content-Type": "application/json"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=10):
+            pass
+    except (urllib.error.URLError, OSError) as e:
+        print(f"[warn] ntfy通知に失敗しました: {e}", file=sys.stderr)
+
+
 def main() -> int:
     dry_run = "--dry-run" in sys.argv
 
@@ -249,6 +277,8 @@ def main() -> int:
 
     today = datetime.datetime.now(JST).date()
     site_url = config.get("site_url", "")
+    wp_site_url = wp_cfg.get("site_url", "").rstrip("/")
+    ntfy_topic = os.environ.get("NTFY_TOPIC", "")
 
     for slug in TARGET_CATEGORIES:
         if slug not in arrived:
@@ -282,6 +312,8 @@ def main() -> int:
             continue
 
         print(f"下書き作成: 「{title}」(post id {post_id})")
+        edit_url = f"{wp_site_url}/wp-admin/post.php?post={post_id}&action=edit"
+        notify_ntfy(ntfy_topic, "林檎ポチ: 新着下書き", title, click_url=edit_url)
 
     return 0
 

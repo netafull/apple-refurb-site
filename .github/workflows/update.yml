@@ -61,4 +61,5 @@ jobs:
         continue-on-error: true
         env:
           WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python3 scripts/post_to_wordpress.py
