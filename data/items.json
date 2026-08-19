@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T18:08:03+09:00",
+ "generated_at": "2026-08-19T18:47:52+09:00",
  "count": 308,
  "items": [
   {
@@ -1240,6 +1240,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU0Q3J/A",
+   "title": "iPhone 15 Plus 256GB - グリーン（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/fu0q3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-green-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZFJtZi9BTGZRZVBIUTQ5cEt3dHVyRTFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMXZGWXpnbDZpK3hKWFhiME5WWmorZVJ1S1Z4dVRTWldNVTBuYnAweHF2ZEk",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "green",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -3673,23 +3690,6 @@
    "color": "purple",
    "memory": "24gb",
    "since": "2026-08-19"
-  },
-  {
-   "part_number": "G1KN2J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 348800,
-   "url": "https://www.apple.com/jp/shop/product/g1kn2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "32gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "G1KN5J/A",
