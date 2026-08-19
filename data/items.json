@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-20T07:56:58+09:00",
- "count": 295,
+ "generated_at": "2026-08-20T08:34:41+09:00",
+ "count": 294,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4489,23 +4489,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWUH3J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - パープル",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fwuh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-purple-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=cXRlVkRHRFhPaVFiU2ZZV0Yvbk5uamIzcm1NbktBZVhrQ3dJYU9jemtCcTVlaGNxdjZyUHVNbUQxQ3ZuZXFsLzJoYjFUeWNpeWs0V2M2VWsxRlVDbUNEUE5zRFBjUit0Vnp3bjQ2VUtGSE0",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "purple",
-   "memory": "16gb",
-   "since": "2026-08-19"
   },
   {
    "part_number": "FDHA4J/A",

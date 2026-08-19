@@ -209,22 +209,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FWUH3J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-08-20",
-  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - パープル",
-  "category": "mac",
-  "price": 210800,
-  "price_history": [
-   [
-    "2026-08-19",
-    210800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1H80J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -4784,6 +4768,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FWUH3J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-08-20",
+  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - パープル",
+  "category": "mac",
+  "price": 210800,
+  "price_history": [
+   [
+    "2026-08-19",
+    210800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": null
  },
  "G1ML9J/A": {
   "first_seen": "2026-07-30",
