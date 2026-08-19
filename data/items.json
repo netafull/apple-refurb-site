@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-19T14:06:35+09:00",
- "count": 319,
+ "generated_at": "2026-08-19T14:44:44+09:00",
+ "count": 316,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1700,23 +1700,6 @@
    "screen": "16inch",
    "color": "spaceblack",
    "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MN4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 991800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -3675,23 +3658,6 @@
    "since": "2026-08-19"
   },
   {
-   "part_number": "G1LY0J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 377800,
-   "url": "https://www.apple.com/jp/shop/product/g1ly0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVWN2bUhydGh0ZkR5VStUeFJQakFuU1IrYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "15inch",
-   "color": "midnight",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -4929,23 +4895,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FU9E3J/A",
-   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-   "price": 144800,
-   "url": "https://www.apple.com/jp/shop/product/fu9e3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "silver",
    "memory": "16gb",
    "since": "2026-08-04"
   },
