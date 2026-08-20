@@ -469,24 +469,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1L31J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-20",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 236800,
-  "price_history": [
-   [
-    "2026-08-04",
-    236800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-20",
-  "restocked_at_at": "2026-08-20T12:08:57+09:00"
- },
  "FC6J4J/A": {
   "first_seen": "2026-08-20",
   "first_seen_at": "2026-08-20T12:08:57+09:00",
@@ -734,6 +716,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FW2V3J/A": {
+  "first_seen": "2026-08-17",
+  "first_seen_at": "2026-08-17T12:12:03+09:00",
+  "last_seen": "2026-08-20",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
+  "category": "mac",
+  "price": 273800,
+  "price_history": [
+   [
+    "2026-08-17",
+    273800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-20",
+  "restocked_at_at": "2026-08-20T16:26:03+09:00"
  },
  "FW2X3J/A": {
   "first_seen": "2026-08-17",
@@ -3479,22 +3479,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FC9X4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FCA04J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -3575,38 +3559,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FNXP3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "12.9インチiPad Pro Wi-Fi 128GB - スペースグレイ（第6世代）[整備済製品]",
-  "category": "ipad",
-  "price": 174800,
-  "price_history": [
-   [
-    "2026-07-30",
-    174800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNXQ3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "12.9インチiPad Pro Wi-Fi 128GB - シルバー（第6世代）[整備済製品]",
-  "category": "ipad",
-  "price": 174800,
-  "price_history": [
-   [
-    "2026-07-30",
-    174800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -3633,38 +3585,6 @@
    [
     "2026-07-30",
     190800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FVW23J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 190800,
-  "price_history": [
-   [
-    "2026-07-30",
-    190800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNYG3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 192800,
-  "price_history": [
-   [
-    "2026-07-30",
-    192800
    ]
   ],
   "sold_out_at": null,
@@ -3783,22 +3703,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVW33J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-  "category": "ipad",
-  "price": 220800,
-  "price_history": [
-   [
-    "2026-07-30",
-    220800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVW43J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -3897,38 +3801,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FNYJ3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 247800,
-  "price_history": [
-   [
-    "2026-07-30",
-    247800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNYK3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - シルバー（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 247800,
-  "price_history": [
-   [
-    "2026-07-30",
-    247800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVW53J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -3955,22 +3827,6 @@
    [
     "2026-07-30",
     278800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNXM3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi 2TB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 281800,
-  "price_history": [
-   [
-    "2026-07-30",
-    281800
    ]
   ],
   "sold_out_at": null,
@@ -4057,22 +3913,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FNYL3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 2TB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 301800,
-  "price_history": [
-   [
-    "2026-07-30",
-    301800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FNYM3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -4131,22 +3971,6 @@
    [
     "2026-07-30",
     328800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNXY3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "12.9インチiPad Pro Wi-Fi 2TB - スペースグレイ（第6世代）[整備済製品]",
-  "category": "ipad",
-  "price": 329800,
-  "price_history": [
-   [
-    "2026-07-30",
-    329800
    ]
   ],
   "sold_out_at": null,
@@ -4569,22 +4393,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-20",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4606,6 +4414,22 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-08-20",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-20",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -4918,6 +4742,200 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L31J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-20",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 236800,
+  "price_history": [
+   [
+    "2026-08-04",
+    236800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": null,
+  "restocked_at": "2026-08-20",
+  "restocked_at_at": "2026-08-20T12:08:57+09:00"
+ },
+ "FC9X4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXP3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "12.9インチiPad Pro Wi-Fi 128GB - スペースグレイ（第6世代）[整備済製品]",
+  "category": "ipad",
+  "price": 174800,
+  "price_history": [
+   [
+    "2026-07-30",
+    174800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXQ3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "12.9インチiPad Pro Wi-Fi 128GB - シルバー（第6世代）[整備済製品]",
+  "category": "ipad",
+  "price": 174800,
+  "price_history": [
+   [
+    "2026-07-30",
+    174800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FVW23J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 190800,
+  "price_history": [
+   [
+    "2026-07-30",
+    190800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYG3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 192800,
+  "price_history": [
+   [
+    "2026-07-30",
+    192800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FVW33J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "category": "ipad",
+  "price": 220800,
+  "price_history": [
+   [
+    "2026-07-30",
+    220800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYJ3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 247800,
+  "price_history": [
+   [
+    "2026-07-30",
+    247800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYK3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 247800,
+  "price_history": [
+   [
+    "2026-07-30",
+    247800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXM3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro Wi-Fi 2TB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 281800,
+  "price_history": [
+   [
+    "2026-07-30",
+    281800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYL3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 2TB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 301800,
+  "price_history": [
+   [
+    "2026-07-30",
+    301800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXY3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-20",
+  "title": "12.9インチiPad Pro Wi-Fi 2TB - スペースグレイ（第6世代）[整備済製品]",
+  "category": "ipad",
+  "price": 329800,
+  "price_history": [
+   [
+    "2026-07-30",
+    329800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
@@ -5262,22 +5280,6 @@
   "baseline": null,
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
- },
- "FW2V3J/A": {
-  "first_seen": "2026-08-17",
-  "first_seen_at": "2026-08-17T12:12:03+09:00",
-  "last_seen": "2026-08-19",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
-  "category": "mac",
-  "price": 273800,
-  "price_history": [
-   [
-    "2026-08-17",
-    273800
-   ]
-  ],
-  "sold_out_at": "2026-08-19",
-  "baseline": null
  },
  "G1ML4J/A": {
   "first_seen": "2026-08-02",
