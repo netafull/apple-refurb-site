@@ -683,24 +683,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FW2V3J/A": {
-  "first_seen": "2026-08-17",
-  "first_seen_at": "2026-08-17T12:12:03+09:00",
-  "last_seen": "2026-08-20",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
-  "category": "mac",
-  "price": 273800,
-  "price_history": [
-   [
-    "2026-08-17",
-    273800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-20",
-  "restocked_at_at": "2026-08-20T16:26:03+09:00"
- },
  "FW2X3J/A": {
   "first_seen": "2026-08-17",
   "first_seen_at": "2026-08-17T12:12:03+09:00",
@@ -1320,22 +1302,6 @@
    [
     "2026-08-19",
     382800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1ML0J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:27:11+09:00",
-  "last_seen": "2026-08-20",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 386800,
-  "price_history": [
-   [
-    "2026-08-19",
-    386800
    ]
   ],
   "sold_out_at": null,
@@ -4710,6 +4676,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FW2V3J/A": {
+  "first_seen": "2026-08-17",
+  "first_seen_at": "2026-08-17T12:12:03+09:00",
+  "last_seen": "2026-08-20",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
+  "category": "mac",
+  "price": 273800,
+  "price_history": [
+   [
+    "2026-08-17",
+    273800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": null,
+  "restocked_at": "2026-08-20",
+  "restocked_at_at": "2026-08-20T16:26:03+09:00"
+ },
+ "G1ML0J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:27:11+09:00",
+  "last_seen": "2026-08-20",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 386800,
+  "price_history": [
+   [
+    "2026-08-19",
+    386800
+   ]
+  ],
+  "sold_out_at": "2026-08-20",
+  "baseline": null
  },
  "FW1L3J/A": {
   "first_seen": "2026-08-20",
