@@ -256,11 +256,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 46,
+   "ipad": 45,
    "iphone": 16,
-   "mac": 189,
+   "mac": 188,
    "watch": 34
   },
-  "total": 288
+  "total": 286
  }
 }
