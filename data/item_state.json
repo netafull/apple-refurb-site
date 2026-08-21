@@ -389,6 +389,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDE44J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-21",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 244800,
+  "price_history": [
+   [
+    "2026-07-30",
+    244800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T20:39:10+09:00"
+ },
  "FWUU3J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -3957,24 +3975,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FU0D3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 15 Plus 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-21",
-  "restocked_at_at": "2026-08-21T18:18:02+09:00"
- },
  "FU0Q3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-21",
@@ -4787,6 +4787,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FU0D3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 15 Plus 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T18:18:02+09:00"
+ },
  "FW2W3J/A": {
   "first_seen": "2026-08-17",
   "first_seen_at": "2026-08-17T12:12:03+09:00",
@@ -4834,24 +4852,6 @@
   "sold_out_at": "2026-08-21",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FDE44J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-21",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 244800,
-  "price_history": [
-   [
-    "2026-07-30",
-    244800
-   ]
-  ],
-  "sold_out_at": "2026-08-21",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-21",
-  "restocked_at_at": "2026-08-21T16:55:26+09:00"
  },
  "G1ML6J/A": {
   "first_seen": "2026-07-30",
