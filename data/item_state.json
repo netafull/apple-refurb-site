@@ -845,22 +845,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FCX04J/A": {
-  "first_seen": "2026-08-17",
-  "first_seen_at": "2026-08-17T12:12:03+09:00",
-  "last_seen": "2026-08-21",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
-  "category": "mac",
-  "price": 303800,
-  "price_history": [
-   [
-    "2026-08-17",
-    303800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FCX14J/A": {
   "first_seen": "2026-08-17",
   "first_seen_at": "2026-08-17T12:12:03+09:00",
@@ -3225,6 +3209,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FX2D3ZA/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Pencil Pro [整備済製品]",
+  "category": "ipad",
+  "price": 19800,
+  "price_history": [
+   [
+    "2026-08-07",
+    19800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-21",
@@ -4033,38 +4035,6 @@
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T14:46:20+09:00"
  },
- "FD1T4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 91800,
-  "price_history": [
-   [
-    "2026-08-21",
-    91800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FD1W4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 256GB - ホワイト（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 91800,
-  "price_history": [
-   [
-    "2026-08-21",
-    91800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FTMN3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -4135,43 +4105,11 @@
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T14:46:20+09:00"
  },
- "FXVF3J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16 Plus 128GB - ティール（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-08-21",
-    119800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FD1X4J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
   "last_seen": "2026-08-21",
   "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 120800,
-  "price_history": [
-   [
-    "2026-08-21",
-    120800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FD274J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 512GB - ホワイト（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 120800,
   "price_history": [
@@ -4279,22 +4217,6 @@
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
- "FYWK3J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 165800,
-  "price_history": [
-   [
-    "2026-08-21",
-    165800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FU6U3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
@@ -4391,6 +4313,256 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FEP64J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 41800,
+  "price_history": [
+   [
+    "2026-08-21",
+    41800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEP74J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 41800,
+  "price_history": [
+   [
+    "2026-08-21",
+    41800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEP94J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 41800,
+  "price_history": [
+   [
+    "2026-08-21",
+    41800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEPC4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 41800,
+  "price_history": [
+   [
+    "2026-08-21",
+    41800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEPE4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEPF4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEPH4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEPJ4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEU04J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 60800,
+  "price_history": [
+   [
+    "2026-08-21",
+    60800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEUW4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-08-14",
+    65800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
+ "FEV04J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-08-14",
+    65800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
+ "FEV64J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPSモデル）- 46mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-08-14",
+    65800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
+ "FEV94J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPSモデル）- 46mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-08-14",
+    65800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
+ "FF834J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-21",
+  "restocked_at_at": "2026-08-21T15:02:06+09:00"
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4412,22 +4584,6 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-08-21",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-21",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -4679,6 +4835,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FEWH4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-08-21",
+  "title": "Apple Watch Ultra 3（GPS + Cellularモデル）- 49mmナチュラルチタニウムケースとアンカーブルーオーシャンバンド [整備済製品]",
+  "category": "watch",
+  "price": 120800,
+  "price_history": [
+   [
+    "2026-08-21",
+    120800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FF0J4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-21",
@@ -4742,6 +4914,102 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCX04J/A": {
+  "first_seen": "2026-08-17",
+  "first_seen_at": "2026-08-17T12:12:03+09:00",
+  "last_seen": "2026-08-21",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ - スペースブラック",
+  "category": "mac",
+  "price": 303800,
+  "price_history": [
+   [
+    "2026-08-17",
+    303800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
+ },
+ "FD1T4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 91800,
+  "price_history": [
+   [
+    "2026-08-21",
+    91800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
+ },
+ "FD1W4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16e 256GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 91800,
+  "price_history": [
+   [
+    "2026-08-21",
+    91800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
+ },
+ "FXVF3J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16 Plus 128GB - ティール（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-08-21",
+    119800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
+ },
+ "FD274J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16e 512GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 120800,
+  "price_history": [
+   [
+    "2026-08-21",
+    120800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
+ },
+ "FYWK3J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 165800,
+  "price_history": [
+   [
+    "2026-08-21",
+    165800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
  },
  "FW1M3J/A": {
   "first_seen": "2026-08-20",
@@ -5447,22 +5715,6 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:58:37+09:00"
  },
- "FEV64J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-19",
-  "title": "Apple Watch Series 11（GPSモデル）- 46mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 65800,
-  "price_history": [
-   [
-    "2026-08-14",
-    65800
-   ]
-  ],
-  "sold_out_at": "2026-08-19",
-  "baseline": null
- },
  "G1EH0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-19",
@@ -5831,22 +6083,6 @@
   "restocked_at": "2026-08-17",
   "restocked_at_at": "2026-08-17T12:12:03+09:00"
  },
- "FEV94J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-19",
-  "title": "Apple Watch Series 11（GPSモデル）- 46mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 65800,
-  "price_history": [
-   [
-    "2026-08-14",
-    65800
-   ]
-  ],
-  "sold_out_at": "2026-08-19",
-  "baseline": null
- },
  "FFEP4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-18",
@@ -5862,22 +6098,6 @@
   "sold_out_at": "2026-08-18",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FEV04J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-18",
-  "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 65800,
-  "price_history": [
-   [
-    "2026-08-14",
-    65800
-   ]
-  ],
-  "sold_out_at": "2026-08-18",
-  "baseline": null
  },
  "G1KK5J/A": {
   "first_seen": "2026-08-04",
@@ -6225,22 +6445,6 @@
   "sold_out_at": "2026-08-17",
   "baseline": null
  },
- "FF834J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-17",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": "2026-08-17",
-  "baseline": null
- },
  "G1LW0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-17",
@@ -6294,22 +6498,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-14",
   "restocked_at_at": "2026-08-14T13:59:18+09:00"
- },
- "FEUW4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-17",
-  "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 65800,
-  "price_history": [
-   [
-    "2026-08-14",
-    65800
-   ]
-  ],
-  "sold_out_at": "2026-08-17",
-  "baseline": null
  },
  "G1LB0J/A": {
   "first_seen": "2026-08-12",
@@ -6744,24 +6932,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-13",
   "restocked_at_at": "2026-08-13T14:02:12+09:00"
- },
- "FX2D3ZA/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-14",
-  "title": "Apple Pencil Pro [整備済製品]",
-  "category": "ipad",
-  "price": 19800,
-  "price_history": [
-   [
-    "2026-08-07",
-    19800
-   ]
-  ],
-  "sold_out_at": "2026-08-14",
-  "baseline": null,
-  "restocked_at": "2026-08-14",
-  "restocked_at_at": "2026-08-14T13:59:18+09:00"
  },
  "G1KK3J/A": {
   "first_seen": "2026-08-04",
