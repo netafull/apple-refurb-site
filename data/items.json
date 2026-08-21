@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-21T15:02:06+09:00",
- "count": 302,
+ "generated_at": "2026-08-21T16:05:33+09:00",
+ "count": 299,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -649,23 +649,6 @@
    "since": "2026-08-07"
   },
   {
-   "part_number": "FCJ94J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 512GB - スペースグレイ [整備済製品]",
-   "price": 201800,
-   "url": "https://www.apple.com/jp/shop/product/fcj94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cGNLSmhFT29hM3dUenNuVVdEZmVHa1BvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5ZNXJaYWwwQndUSEprUk1YQmJQTGg",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FP1X3J/A",
    "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第6世代）[整備済製品]",
    "price": 198800,
@@ -739,23 +722,6 @@
    "price": 190800,
    "url": "https://www.apple.com/jp/shop/product/fvw13j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-cell-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnZ1BzM2NoSStnaEVwdnU1bDBYU2xaTWFHNFV2K1lvaHV4TG9uVmthWW0wcFZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmpjbXZUOEpDS1V2VWFseDZDQTZzenJR",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FVV83J/A",
-   "title": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-   "price": 159800,
-   "url": "https://www.apple.com/jp/shop/product/fvv83j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RncWozWHZrUkVsYVVyS0hVRGlPYStneGk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmorQ1BxT0FOTW1CelQ0d3liWkpBZ25B",
    "category": "ipad",
    "category_name": "iPad",
    "shipping": "24時間以内",
@@ -1072,23 +1038,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FD1X4J/A",
-   "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 120800,
-   "url": "https://www.apple.com/jp/shop/product/fd1x4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16e-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYlhkQzI3UUtUMWd3QTZLREszUDJPUVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YksrbFJtS0FiYVZOdWd0bUVBbHczdG8",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16e",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-21"
   },
   {
    "part_number": "FU0F3J/A",

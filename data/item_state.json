@@ -3291,22 +3291,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVV83J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-21",
-  "title": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-  "category": "ipad",
-  "price": 159800,
-  "price_history": [
-   [
-    "2026-07-30",
-    159800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVV93J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-21",
@@ -3397,22 +3381,6 @@
    [
     "2026-07-30",
     198800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FCJ94J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-21",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 512GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 201800,
-  "price_history": [
-   [
-    "2026-07-30",
-    201800
    ]
   ],
   "sold_out_at": null,
@@ -4104,22 +4072,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T14:46:20+09:00"
- },
- "FD1X4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 120800,
-  "price_history": [
-   [
-    "2026-08-21",
-    120800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FU0T3J/A": {
   "first_seen": "2026-07-31",
@@ -4914,6 +4866,54 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FVV83J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-21",
+  "title": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "category": "ipad",
+  "price": 159800,
+  "price_history": [
+   [
+    "2026-07-30",
+    159800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCJ94J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-21",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 201800,
+  "price_history": [
+   [
+    "2026-07-30",
+    201800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD1X4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-08-21",
+  "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 120800,
+  "price_history": [
+   [
+    "2026-08-21",
+    120800
+   ]
+  ],
+  "sold_out_at": "2026-08-21",
+  "baseline": null
  },
  "FCX04J/A": {
   "first_seen": "2026-08-17",
