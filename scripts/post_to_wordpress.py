@@ -258,6 +258,11 @@ def main() -> int:
         )
         return 0
 
+    # 見逃した入荷を後から手動で埋めるための抜け道。fetch_refurb.pyの
+    # 検出結果を待たず、指定カテゴリを強制的に「入荷あり」として扱う
+    # (workflow_dispatchのforce_category入力からのみ渡される想定)
+    force_category = os.environ.get("FORCE_CATEGORY", "").strip()
+
     try:
         new_arrivals = json.loads(NEW_ARRIVALS_PATH.read_text(encoding="utf-8"))
     except FileNotFoundError:
@@ -267,6 +272,9 @@ def main() -> int:
         return 0
 
     arrived = {it["category"] for it in new_arrivals} & set(TARGET_CATEGORIES)
+    if force_category in TARGET_CATEGORIES:
+        arrived.add(force_category)
+        print(f"[info] {force_category}を強制的に対象にします(FORCE_CATEGORY)")
     if not arrived:
         print("対象カテゴリ(mac/ipad/iphone/watch)の新規入荷は無いため投稿はスキップします")
         return 0

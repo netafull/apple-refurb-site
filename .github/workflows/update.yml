@@ -8,6 +8,13 @@ on:
     - cron: "12 * * * *"
     - cron: "42 * * * *"
   workflow_dispatch:
+    inputs:
+      force_category:
+        description: "見逃した入荷を後追いで下書き化する(通常は空のまま)"
+        required: false
+        type: choice
+        default: ""
+        options: ["", "mac", "ipad", "iphone", "watch"]
 
 permissions:
   contents: write
@@ -62,4 +69,5 @@ jobs:
         env:
           WORDPRESS_APP_PASSWORD: ${{ secrets.WORDPRESS_APP_PASSWORD }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          FORCE_CATEGORY: ${{ inputs.force_category }}
         run: python3 scripts/post_to_wordpress.py
