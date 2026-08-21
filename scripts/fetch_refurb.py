@@ -303,8 +303,12 @@ def main() -> int:
     STATE_PATH.write_text(
         json.dumps(new_state, ensure_ascii=False, indent=1), encoding="utf-8"
     )
+    # サイト・RSSは初入荷と再入荷を区別せず「入荷」として扱う(買う側の
+    # 関心は今あるかどうかであって履歴上の初出ではないため)。下書き投稿の
+    # トリガーもそれに合わせ、新規入荷だけでなく再入荷も対象に含める
     NEW_ARRIVALS_PATH.write_text(
-        json.dumps(new_arrivals, ensure_ascii=False, indent=1), encoding="utf-8"
+        json.dumps(new_arrivals + restocked, ensure_ascii=False, indent=1),
+        encoding="utf-8",
     )
 
     # 前日比を出すためにカテゴリ別の件数を日次で記録する。
