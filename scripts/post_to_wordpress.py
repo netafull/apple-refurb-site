@@ -28,6 +28,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
+import xml.parsers.expat
 import xmlrpc.client
 from pathlib import Path
 
@@ -309,6 +310,15 @@ def main() -> int:
             continue
         except (xmlrpc.client.ProtocolError, OSError) as e:
             print(f"[error] {slug}: WordPress投稿に失敗しました: {e}", file=sys.stderr)
+            continue
+        except xml.parsers.expat.ExpatError as e:
+            # WordPress側がXMLとして壊れた応答を返すことがある(サーバー側の
+            # 一時的な不調やPHPの警告混入とみられる)。他カテゴリの投稿を
+            # 道連れにしないよう、ここで打ち切らず次のカテゴリへ進む
+            print(
+                f"[error] {slug}: WordPressの応答が不正なXMLでした: {e}",
+                file=sys.stderr,
+            )
             continue
 
         print(f"下書き作成: 「{title}」(post id {post_id})")
