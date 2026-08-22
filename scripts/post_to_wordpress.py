@@ -125,19 +125,28 @@ def ipad_families(titles: list[str]) -> list[str]:
     return [label for label, _ in sorted(seen.items(), key=lambda kv: kv[1])]
 
 
-_IPHONE_RE = re.compile(r"iPhone\s+(\d+)(?:\s+(Plus|Pro Max|Pro))?")
+# \d+e? だけだと「16e」の"e"が数字の外に取り残されて「iPhone 16」に
+# 化ける(末尾のeはグループ外なので握りつぶされる)。eも含めて1つの
+# 型番として捉える。Airは数字を持たないため別扱いにする
+_IPHONE_RE = re.compile(r"iPhone\s+(Air|\d+e?)(?:\s+(Plus|Pro Max|Pro))?")
 _IPHONE_SUFFIX_ORDER = {"": 0, "Plus": 1, "Pro": 2, "Pro Max": 3}
 
 
 def iphone_families(titles: list[str]) -> list[str]:
-    seen: dict[str, tuple[int, int]] = {}
+    seen: dict[str, tuple[int, int, int, int]] = {}
     for t in titles:
         m = _IPHONE_RE.search(t)
         if not m:
             continue
-        num, suf = int(m.group(1)), m.group(2) or ""
-        label = f"iPhone {num}" + (f" {suf}" if suf else "")
-        seen[label] = (num, _IPHONE_SUFFIX_ORDER.get(suf, 9))
+        base, suf = m.group(1), m.group(2) or ""
+        label = f"iPhone {base}" + (f" {suf}" if suf else "")
+        if base == "Air":
+            key = (1, 0, 0, _IPHONE_SUFFIX_ORDER.get(suf, 9))
+        else:
+            is_e = base.endswith("e")
+            num = int(base[:-1]) if is_e else int(base)
+            key = (0, num, 1 if is_e else 0, _IPHONE_SUFFIX_ORDER.get(suf, 9))
+        seen[label] = key
     return [label for label, _ in sorted(seen.items(), key=lambda kv: kv[1])]
 
 
