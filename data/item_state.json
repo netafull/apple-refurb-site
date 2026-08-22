@@ -373,24 +373,6 @@
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
  },
- "FYJF3J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
-  "last_seen": "2026-08-22",
-  "title": "Apple Studio Display - 標準ガラス、傾きと高さを調整できるスタンド [整備済製品]",
-  "category": "mac",
-  "price": 227800,
-  "price_history": [
-   [
-    "2026-08-13",
-    227800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-22",
-  "restocked_at_at": "2026-08-22T12:06:07+09:00"
- },
  "FDH84J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-22",
@@ -1862,24 +1844,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
- },
- "G1MH6J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-22",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 485800,
-  "price_history": [
-   [
-    "2026-07-30",
-    485800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-19",
-  "restocked_at_at": "2026-08-19T12:58:37+09:00"
  },
  "G1K52J/A": {
   "first_seen": "2026-08-19",
@@ -4952,6 +4916,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYJF3J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-08-22",
+  "title": "Apple Studio Display - 標準ガラス、傾きと高さを調整できるスタンド [整備済製品]",
+  "category": "mac",
+  "price": 227800,
+  "price_history": [
+   [
+    "2026-08-13",
+    227800
+   ]
+  ],
+  "sold_out_at": "2026-08-22",
+  "baseline": null,
+  "restocked_at": "2026-08-22",
+  "restocked_at_at": "2026-08-22T12:06:07+09:00"
+ },
+ "G1MH6J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-22",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 485800,
+  "price_history": [
+   [
+    "2026-07-30",
+    485800
+   ]
+  ],
+  "sold_out_at": "2026-08-22",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-19",
+  "restocked_at_at": "2026-08-19T12:58:37+09:00"
  },
  "FCA04J/A": {
   "first_seen": "2026-07-30",
