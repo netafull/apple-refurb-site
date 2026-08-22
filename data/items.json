@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-22T16:44:27+09:00",
- "count": 304,
+ "generated_at": "2026-08-22T16:58:21+09:00",
+ "count": 303,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -798,23 +798,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCA04J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fca04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dnFxZ0xtcDRxdzBOekJ3cWRNSzFWUkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHFuMzNZQXZiNjI4TkpRL21palBVSEs",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-07-30"
   },
