@@ -127,24 +127,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FYJG3J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
-  "last_seen": "2026-08-22",
-  "title": "Apple Studio Display - 標準ガラス、傾きを調整できるスタンド [整備済製品]",
-  "category": "mac",
-  "price": 186800,
-  "price_history": [
-   [
-    "2026-08-13",
-    186800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-22",
-  "restocked_at_at": "2026-08-22T12:06:07+09:00"
- },
  "FDH74J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -2181,24 +2163,6 @@
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
  },
- "G1ML8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-22",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 546800,
-  "price_history": [
-   [
-    "2026-07-30",
-    546800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-22",
-  "restocked_at_at": "2026-08-22T12:06:07+09:00"
- },
  "G1KK1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-22",
@@ -3509,22 +3473,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-22",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -3540,6 +3488,22 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "G1MN8J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-22",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -4757,6 +4721,22 @@
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T15:02:06+09:00"
  },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-22",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4778,22 +4758,6 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-08-22",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-22",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -5124,6 +5088,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYJG3J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-08-22",
+  "title": "Apple Studio Display - 標準ガラス、傾きを調整できるスタンド [整備済製品]",
+  "category": "mac",
+  "price": 186800,
+  "price_history": [
+   [
+    "2026-08-13",
+    186800
+   ]
+  ],
+  "sold_out_at": "2026-08-22",
+  "baseline": null,
+  "restocked_at": "2026-08-22",
+  "restocked_at_at": "2026-08-22T12:06:07+09:00"
+ },
+ "G1ML8J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-22",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 546800,
+  "price_history": [
+   [
+    "2026-07-30",
+    546800
+   ]
+  ],
+  "sold_out_at": "2026-08-22",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-22",
+  "restocked_at_at": "2026-08-22T12:06:07+09:00"
  },
  "FTMQ3J/A": {
   "first_seen": "2026-08-21",
