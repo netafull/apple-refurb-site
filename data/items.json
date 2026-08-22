@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-22T18:39:47+09:00",
- "count": 301,
+ "generated_at": "2026-08-22T18:55:34+09:00",
+ "count": 300,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4013,23 +4013,6 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FC6J4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 240800,
-   "url": "https://www.apple.com/jp/shop/product/fc6j4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZkZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTkwcndVbXZnc05ScUZZRTJCcXdzUDA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-20"
   },
   {
    "part_number": "G1E51J/A",
