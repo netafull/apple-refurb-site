@@ -1213,22 +1213,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1FE0J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-08-25",
-  "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 351800,
-  "price_history": [
-   [
-    "2026-08-24",
-    351800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-25",
@@ -1464,22 +1448,6 @@
    [
     "2026-08-17",
     402800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1K11J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-08-25",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
-  "category": "mac",
-  "price": 413800,
-  "price_history": [
-   [
-    "2026-08-19",
-    413800
    ]
   ],
   "sold_out_at": null,
@@ -3845,24 +3813,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FK7R3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 70800,
-  "price_history": [
-   [
-    "2026-08-25",
-    70800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T20:41:10+09:00"
- },
  "FUWC3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -3990,24 +3940,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FD4Y4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-25",
-  "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 106800,
-  "price_history": [
-   [
-    "2026-07-30",
-    106800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
  "FCFV4J/A": {
   "first_seen": "2026-08-25",
@@ -4833,24 +4765,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T20:59:32+09:00"
- },
  "FU0U3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-25",
@@ -5614,6 +5528,92 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FE0J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-08-25",
+  "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 351800,
+  "price_history": [
+   [
+    "2026-08-24",
+    351800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
+ "G1K11J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-08-25",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
+  "category": "mac",
+  "price": 413800,
+  "price_history": [
+   [
+    "2026-08-19",
+    413800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
+ "FK7R3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-25",
+  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 70800,
+  "price_history": [
+   [
+    "2026-08-25",
+    70800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T20:41:10+09:00"
+ },
+ "FD4Y4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-25",
+  "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 106800,
+  "price_history": [
+   [
+    "2026-07-30",
+    106800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T10:50:32+09:00"
+ },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-08-25",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T20:59:32+09:00"
  },
  "FTMJ3J/A": {
   "first_seen": "2026-07-31",

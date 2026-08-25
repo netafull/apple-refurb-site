@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T20:59:32+09:00",
- "count": 342,
+ "generated_at": "2026-08-25T22:09:43+09:00",
+ "count": 337,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -938,23 +938,6 @@
    "since": "2026-08-25"
   },
   {
-   "part_number": "FD4Y4J/A",
-   "title": "iPad（A16）Wi-Fi 512GB - ブルー [整備済製品]",
-   "price": 106800,
-   "url": "https://www.apple.com/jp/shop/product/fd4y4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-blue-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSnBSTFF4OHFHU2FPUUdGM3dnVy9RdnNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1d1WTZvVjhLMytTTUZRaW1ZT3NzUm8",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "10_9inch",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FC9W4J/A",
    "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
    "price": 102800,
@@ -1086,23 +1069,6 @@
    "year": "2024",
    "capacity": "128gb",
    "screen": "11inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
-   "part_number": "FK7R3J/A",
-   "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
-   "price": 70800,
-   "url": "https://www.apple.com/jp/shop/product/fk7r3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-wifi-purple-gallery-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0ZTdMNzBJa1RRM0U1S3k3d3FJQk4wcW9KWERLU0ZmVkZRWlBuK3FQUm5id3VYb1hLcitxejdqSmc5UXI1M3FwZjdmVzYxZEI3L3IrTWlvYjNXYnhnTzZodVU2a01YU01EaU55bUZveUlyYzU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2021",
-   "capacity": "64gb",
-   "screen": "8_3inch",
    "color": "purple",
    "memory": "",
    "since": "2026-08-25"
@@ -1259,23 +1225,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTML3J/A",
-   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 90800,
-   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
@@ -3692,23 +3641,6 @@
    "since": "2026-08-24"
   },
   {
-   "part_number": "G1K11J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
-   "price": 413800,
-   "url": "https://www.apple.com/jp/shop/product/g1k11j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnYlFUb0ZSMW9kR1Vuc0x1WDFDR3ZRNUNSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXV2a0pBSTZYNXNPMUVsVUwxRzhHK0JnNGVjVzBnbEZmbUJGTlFHOFpPb2U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "silver",
-   "memory": "32gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1K51J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
    "price": 413800,
@@ -3979,23 +3911,6 @@
    "color": "yellow",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1FE0J/A",
-   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-   "price": 351800,
-   "url": "https://www.apple.com/jp/shop/product/g1fe0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-spaceblack-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvQk8zVnlEd1o1SE05NWdMUEFHWVMzakluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1plWGYyOXhKTW1yaXp6SlJ5SDgybFhXNm9oamhpbmdGcHIwa2hOU3lmQkw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-08-24"
   },
   {
    "part_number": "G1KK2J/A",
