@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T05:59:45+09:00",
- "count": 335,
+ "generated_at": "2026-08-26T06:42:25+09:00",
+ "count": 334,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3979,23 +3979,6 @@
    "color": "blue",
    "memory": "24gb",
    "since": "2026-08-19"
-  },
-  {
-   "part_number": "G1FB7J/A",
-   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-   "price": 335800,
-   "url": "https://www.apple.com/jp/shop/product/g1fb7j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvTXExTVkrVjUvZnVYc2Z5Vld3SUljUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQ5SU5KZXphdjAxT1VvTHRKRzlhcWM",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-24"
   },
   {
    "part_number": "G1FE7J/A",
