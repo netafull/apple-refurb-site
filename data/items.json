@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T13:52:01+09:00",
- "count": 355,
+ "generated_at": "2026-08-25T14:15:14+09:00",
+ "count": 356,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1172,6 +1172,23 @@
    "capacity": "64gb",
    "screen": "8_3inch",
    "color": "pink",
+   "memory": "",
+   "since": "2026-08-25"
+  },
+  {
+   "part_number": "FD3Y4J/A",
+   "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
+   "price": 62800,
+   "url": "https://www.apple.com/jp/shop/product/fd3y4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-silver-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSll3SWkvSnVicEZKdlhKK0Y3VDZNcUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXlZeU5JbU1ENmJDY3BxWENia0lZN0M",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipad2017",
+   "year": "2025",
+   "capacity": "128gb",
+   "screen": "10_9inch",
+   "color": "silver",
    "memory": "",
    "since": "2026-08-25"
   },
