@@ -4015,24 +4015,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FD3Y4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-08-25",
-    62800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T14:15:14+09:00"
- },
  "FK7P3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -5846,6 +5828,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD3Y4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-25",
+  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-08-25",
+    62800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T14:15:14+09:00"
  },
  "FCA64J/A": {
   "first_seen": "2026-07-30",
