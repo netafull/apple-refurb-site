@@ -3931,22 +3931,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FK7R3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 70800,
-  "price_history": [
-   [
-    "2026-08-25",
-    70800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FLWL3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -4969,24 +4953,6 @@
   "restocked_at": "2026-08-25",
   "restocked_at_at": "2026-08-25T17:58:14+09:00"
  },
- "FTU73J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-07-30",
-    119800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T17:58:14+09:00"
- },
  "FU0U3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-25",
@@ -5750,6 +5716,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FK7R3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-25",
+  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 70800,
+  "price_history": [
+   [
+    "2026-08-25",
+    70800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
+ "FTU73J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-25",
+  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-07-30",
+    119800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T17:58:14+09:00"
  },
  "FXVC3J/A": {
   "first_seen": "2026-08-25",

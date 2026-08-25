@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T17:58:14+09:00",
- "count": 350,
+ "generated_at": "2026-08-25T18:18:08+09:00",
+ "count": 348,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1091,23 +1091,6 @@
    "since": "2026-08-25"
   },
   {
-   "part_number": "FK7R3J/A",
-   "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
-   "price": 70800,
-   "url": "https://www.apple.com/jp/shop/product/fk7r3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-wifi-purple-gallery-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0ZTdMNzBJa1RRM0U1S3k3d3FJQk4wcW9KWERLU0ZmVkZRWlBuK3FQUm5id3VYb1hLcitxejdqSmc5UXI1M3FwZjdmVzYxZEI3L3IrTWlvYjNXYnhnTzZodVU2a01YU01EaU55bUZveUlyYzU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2021",
-   "capacity": "64gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FLWL3J/A",
    "title": "iPad mini 6 Wi-Fi 64GB - ピンク [整備済製品]",
    "price": 70800,
@@ -1276,23 +1259,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTU73J/A",
-   "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-   "price": 119800,
-   "url": "https://www.apple.com/jp/shop/product/ftu73j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvUlhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdsSDl3QTBIcEZKcHd0RXhaUmxNV3I",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blacktitanium",
-   "memory": "",
-   "since": "2026-07-30"
   },
   {
    "part_number": "FTMJ3J/A",
