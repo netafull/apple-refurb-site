@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T16:06:52+09:00",
- "count": 351,
+ "generated_at": "2026-08-25T16:28:30+09:00",
+ "count": 348,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -8,6 +8,23 @@
    "price": 37800,
    "url": "https://www.apple.com/jp/shop/product/fn893j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-tv-4k-ethernet-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q1VVSThUT1l1U1JCNXhQbkRWSytWeVZnL2I4Q1ZCc1JnalJNbHYxbW5RcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2EvL290ekVGaVdrV0ZKT3FIVUFwYmdVRk5BYjU4dkMrYjBKSjFqVXFOVGg",
+   "category": "appletv",
+   "category_name": "Apple TV",
+   "shipping": "24時間以内",
+   "model": "appletv4k",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FN873J/A",
+   "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
+   "price": 29800,
+   "url": "https://www.apple.com/jp/shop/product/fn873j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-tv-4k-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q1VVSThUT1l1U1JCNXhQbkRWSytWNDNIaHM1VmcvRTNxeThzMUdzeXRmY2NEOENNc3A4dkF0RFh0REsvbE5KaCtOY25WM3o3YS9Sb1BHNU54bjhuOUpKSXo0RHZwR3V2cDQ1Q3M4UGR4Mm8",
    "category": "appletv",
    "category_name": "Apple TV",
    "shipping": "24時間以内",
@@ -1278,23 +1295,6 @@
    "since": "2026-08-25"
   },
   {
-   "part_number": "FTMK3J/A",
-   "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
-   "price": 90800,
-   "url": "https://www.apple.com/jp/shop/product/ftmk3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "yellow",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
    "part_number": "G1MY9J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 1509800,
@@ -1956,23 +1956,6 @@
    "color": "spaceblack",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MNGJ/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 838800,
-   "url": "https://www.apple.com/jp/shop/product/g1mngj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "4tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "48gb",
-   "since": "2026-08-24"
   },
   {
    "part_number": "G1MW4J/A",
@@ -4746,23 +4729,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDE04J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-   "price": 244800,
-   "url": "https://www.apple.com/jp/shop/product/fde04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FDE44J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
    "price": 244800,
@@ -5050,23 +5016,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1E70J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
-   "price": 214800,
-   "url": "https://www.apple.com/jp/shop/product/g1e70j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-purple-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=cXRlVkRHRFhPaVFiU2ZZV0Yvbk5uamIzcm1NbktBZVhrQ3dJYU9jemtCcTVlaGNxdjZyUHVNbUQxQ3ZuZXFsLzJoYjFUeWNpeWs0V2M2VWsxRlVDbUNEUE5zRFBjUit0Vnp3bjQ2VUtGSE0",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "purple",
-   "memory": "16gb",
-   "since": "2026-08-22"
   },
   {
    "part_number": "FC7C4J/A",

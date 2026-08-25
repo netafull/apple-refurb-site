@@ -313,22 +313,6 @@
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
  },
- "G1E70J/A": {
-  "first_seen": "2026-08-22",
-  "first_seen_at": "2026-08-22T12:06:07+09:00",
-  "last_seen": "2026-08-25",
-  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
-  "category": "mac",
-  "price": 214800,
-  "price_history": [
-   [
-    "2026-08-22",
-    214800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1H80J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-25",
@@ -526,24 +510,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FDE04J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-25",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 244800,
-  "price_history": [
-   [
-    "2026-08-04",
-    244800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T13:01:10+09:00"
  },
  "FDE44J/A": {
   "first_seen": "2026-07-30",
@@ -3325,22 +3291,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MNGJ/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-08-25",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 838800,
-  "price_history": [
-   [
-    "2026-08-24",
-    838800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MW9J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-25",
@@ -4983,24 +4933,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTMK3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T16:06:52+09:00"
- },
  "FXVC3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T16:06:52+09:00",
@@ -5715,6 +5647,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FN873J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-25",
+  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
+  "category": "appletv",
+  "price": 29800,
+  "price_history": [
+   [
+    "2026-07-30",
+    29800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T16:28:30+09:00"
+ },
  "FN893J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-25",
@@ -5762,6 +5712,74 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1E70J/A": {
+  "first_seen": "2026-08-22",
+  "first_seen_at": "2026-08-22T12:06:07+09:00",
+  "last_seen": "2026-08-25",
+  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
+  "category": "mac",
+  "price": 214800,
+  "price_history": [
+   [
+    "2026-08-22",
+    214800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
+ "FDE04J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-25",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 244800,
+  "price_history": [
+   [
+    "2026-08-04",
+    244800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T13:01:10+09:00"
+ },
+ "G1MNGJ/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-08-25",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 838800,
+  "price_history": [
+   [
+    "2026-08-24",
+    838800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
+ "FTMK3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-25",
+  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T16:06:52+09:00"
  },
  "G1ML8J/A": {
   "first_seen": "2026-07-30",
@@ -9168,22 +9186,6 @@
   ],
   "sold_out_at": "2026-08-08",
   "baseline": null
- },
- "FN873J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-08",
-  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
-  "category": "appletv",
-  "price": 29800,
-  "price_history": [
-   [
-    "2026-07-30",
-    29800
-   ]
-  ],
-  "sold_out_at": "2026-08-08",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "FTMW3J/A": {
   "first_seen": "2026-07-31",
