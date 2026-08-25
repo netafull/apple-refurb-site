@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T16:28:30+09:00",
- "count": 348,
+ "generated_at": "2026-08-25T16:56:42+09:00",
+ "count": 347,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1276,23 +1276,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FXVC3J/A",
-   "title": "iPhone 16 Plus 128GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 119800,
-   "url": "https://www.apple.com/jp/shop/product/fxvc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYWVtTys2RUQrMVlZU0JJaDFIVytWR1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekJpbVJwd3JsY2tPUytLMVF5RGJ3TUo",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "G1MY9J/A",
