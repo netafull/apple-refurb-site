@@ -461,24 +461,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FC6J4J/A": {
-  "first_seen": "2026-08-20",
-  "first_seen_at": "2026-08-20T12:08:57+09:00",
-  "last_seen": "2026-08-25",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-  "category": "mac",
-  "price": 240800,
-  "price_history": [
-   [
-    "2026-08-20",
-    240800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
  "G1E51J/A": {
   "first_seen": "2026-08-22",
   "first_seen_at": "2026-08-22T12:06:07+09:00",
@@ -3863,11 +3845,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FLWL3J/A": {
+ "FK7R3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
   "last_seen": "2026-08-25",
-  "title": "iPad mini 6 Wi-Fi 64GB - ピンク [整備済製品]",
+  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 70800,
   "price_history": [
@@ -3877,7 +3859,9 @@
    ]
   ],
   "sold_out_at": null,
-  "baseline": null
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T20:41:10+09:00"
  },
  "FUWC3J/A": {
   "first_seen": "2026-08-25",
@@ -5631,6 +5615,40 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FC6J4J/A": {
+  "first_seen": "2026-08-20",
+  "first_seen_at": "2026-08-20T12:08:57+09:00",
+  "last_seen": "2026-08-25",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+  "category": "mac",
+  "price": 240800,
+  "price_history": [
+   [
+    "2026-08-20",
+    240800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null,
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T12:15:28+09:00"
+ },
+ "FLWL3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-25",
+  "title": "iPad mini 6 Wi-Fi 64GB - ピンク [整備済製品]",
+  "category": "ipad",
+  "price": 70800,
+  "price_history": [
+   [
+    "2026-08-25",
+    70800
+   ]
+  ],
+  "sold_out_at": "2026-08-25",
+  "baseline": null
+ },
  "FTML3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -5716,22 +5734,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T16:18:31+09:00"
- },
- "FK7R3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPad mini 6 Wi-Fi 64GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 70800,
-  "price_history": [
-   [
-    "2026-08-25",
-    70800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": null
  },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
