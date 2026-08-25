@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T12:28:56+09:00",
- "count": 352,
+ "generated_at": "2026-08-25T13:01:10+09:00",
+ "count": 356,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -2876,6 +2876,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1KK4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "price": 578800,
+   "url": "https://www.apple.com/jp/shop/product/g1kk4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "4tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "32gb",
+   "since": "2026-08-25"
+  },
+  {
    "part_number": "G1FR3J/A",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 572800,
@@ -4049,6 +4066,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1KM0J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 364800,
+   "url": "https://www.apple.com/jp/shop/product/g1km0j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "2tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "16gb",
+   "since": "2026-07-30"
+  },
+  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -4793,6 +4827,40 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "skyblue",
+   "memory": "16gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FDE04J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "price": 244800,
+   "url": "https://www.apple.com/jp/shop/product/fde04j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "16gb",
+   "since": "2026-08-04"
+  },
+  {
+   "part_number": "FDE44J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 244800,
+   "url": "https://www.apple.com/jp/shop/product/fde44j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "14inch",
+   "color": "silver",
    "memory": "16gb",
    "since": "2026-07-30"
   },
