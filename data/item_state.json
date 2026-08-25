@@ -4849,6 +4849,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTMJ3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-25",
+  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-25",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-08-25T19:48:19+09:00"
+ },
  "FTML3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -5698,24 +5716,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T16:18:31+09:00"
- },
- "FTMJ3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-08-25T17:58:14+09:00"
  },
  "FK7R3J/A": {
   "first_seen": "2026-08-25",

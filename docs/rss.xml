@@ -4,7 +4,7 @@
 <title>林檎ポチ</title>
 <link>https://apple.netaful.jp/</link>
 <description>Apple公式の整備済製品ストアを定期チェックして、新規入荷・再入荷・値下げ・売り切れをお届けします</description>
-<lastBuildDate>Tue, 25 Aug 2026 10:04:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:48:19 +0000</lastBuildDate>
 <item>
 <title>【新着入荷】14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック ¥578,800</title>
 <link>https://www.apple.com/jp/shop/product/g1kk4j/a</link>
@@ -104,6 +104,13 @@
 <pubDate>Tue, 25 Aug 2026 10:50:32 +0900</pubDate>
 </item>
 <item>
+<title>【再入荷】iPhone 15 128GB - ピンク（SIMフリー） ¥90,800</title>
+<link>https://www.apple.com/jp/shop/product/ftmj3j/a</link>
+<guid isPermaLink="false">FTMJ3J/A-再入荷-2026-08-25</guid>
+<category>iPhone</category>
+<pubDate>Tue, 25 Aug 2026 19:48:19 +0900</pubDate>
+</item>
+<item>
 <title>【再入荷】iPhone 15 128GB - ブルー（SIMフリー） ¥90,800</title>
 <link>https://www.apple.com/jp/shop/product/ftml3j/a</link>
 <guid isPermaLink="false">FTML3J/A-再入荷-2026-08-25</guid>
@@ -151,20 +158,6 @@
 <guid isPermaLink="false">FN873J/A-再入荷-2026-08-25</guid>
 <category>Apple TV</category>
 <pubDate>Tue, 25 Aug 2026 16:28:30 +0900</pubDate>
-</item>
-<item>
-<title>【新着入荷】13インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー ¥312,800</title>
-<link>https://www.apple.com/jp/shop/product/g1la0j/a</link>
-<guid isPermaLink="false">G1LA0J/A-新着入荷-2026-08-24</guid>
-<category>Mac</category>
-<pubDate>Mon, 24 Aug 2026 19:20:48 +0900</pubDate>
-</item>
-<item>
-<title>【再入荷】13インチMacBook Air 10コアCPUと8コアGPUを搭載したApple M5チップ - ミッドナイト ¥189,800</title>
-<link>https://www.apple.com/jp/shop/product/fdhe4j/a</link>
-<guid isPermaLink="false">FDHE4J/A-再入荷-2026-08-24</guid>
-<category>Mac</category>
-<pubDate>Mon, 24 Aug 2026 19:20:48 +0900</pubDate>
 </item>
 </channel>
 </rss>
