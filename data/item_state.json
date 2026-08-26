@@ -2153,24 +2153,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MHGJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 531800,
-  "price_history": [
-   [
-    "2026-07-30",
-    531800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T12:16:41+09:00"
- },
  "G1MLGJ/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -3478,6 +3460,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1CE1J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 976800,
+  "price_history": [
+   [
+    "2026-08-26",
+    976800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T23:23:13+09:00"
  },
  "G1MK4J/A": {
   "first_seen": "2026-07-30",
@@ -5563,6 +5563,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1MHGJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-26",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 531800,
+  "price_history": [
+   [
+    "2026-07-30",
+    531800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T12:16:41+09:00"
+ },
  "G1L61J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -5948,22 +5966,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
- "G1CE1J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 976800,
-  "price_history": [
-   [
-    "2026-08-26",
-    976800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
  },
  "FUWD3J/A": {
   "first_seen": "2026-08-25",

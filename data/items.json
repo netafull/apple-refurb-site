@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T22:38:08+09:00",
+ "generated_at": "2026-08-26T23:23:13+09:00",
  "count": 338,
  "items": [
   {
@@ -1635,6 +1635,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CE1J/A",
+   "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+   "price": 976800,
+   "url": "https://www.apple.com/jp/shop/product/g1ce1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "",
+   "memory": "96gb",
+   "since": "2026-08-26"
+  },
+  {
    "part_number": "G1MY5J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 958800,
@@ -2958,23 +2975,6 @@
    "screen": "16inch",
    "color": "spaceblack",
    "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MHGJ/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-   "price": 531800,
-   "url": "https://www.apple.com/jp/shop/product/g1mhgj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
