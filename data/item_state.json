@@ -4091,22 +4091,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -4122,6 +4106,22 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "G1MN8J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-26",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -4205,22 +4205,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FUWE3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FUWF3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -4232,22 +4216,6 @@
    [
     "2026-08-25",
     86800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FUWG3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-25",
-    98800
    ]
   ],
   "sold_out_at": null,
@@ -5824,6 +5792,38 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FUWE3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "FUWG3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-25",
+    98800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
  },
  "G1L01J/A": {
   "first_seen": "2026-08-04",
