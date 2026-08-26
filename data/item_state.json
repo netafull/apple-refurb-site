@@ -803,22 +803,6 @@
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T17:22:06+09:00"
  },
- "FDHK4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-26",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDVA4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -1624,24 +1608,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1ML4J/A": {
-  "first_seen": "2026-08-02",
-  "first_seen_at": "2026-08-02T04:31:44+09:00",
-  "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 393800,
-  "price_history": [
-   [
-    "2026-08-02",
-    393800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T12:16:41+09:00"
  },
  "G1EJ1J/A": {
   "first_seen": "2026-07-30",
@@ -4253,22 +4219,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FCFV4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-08-25",
-    124800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -5792,6 +5742,56 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDHK4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-26",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1ML4J/A": {
+  "first_seen": "2026-08-02",
+  "first_seen_at": "2026-08-02T04:31:44+09:00",
+  "last_seen": "2026-08-26",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 393800,
+  "price_history": [
+   [
+    "2026-08-02",
+    393800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T12:16:41+09:00"
+ },
+ "FCFV4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-26",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-08-25",
+    124800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
  },
  "FUWE3J/A": {
   "first_seen": "2026-08-25",
