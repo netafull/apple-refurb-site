@@ -81,10 +81,10 @@
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -97,10 +97,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -162,54 +162,6 @@
   "baseline": null,
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
- "G1CF9J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 144800,
-  "price_history": [
-   [
-    "2026-08-26",
-    144800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FCYT4J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 175800,
-  "price_history": [
-   [
-    "2026-08-26",
-    175800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1CFAJ/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 175800,
-  "price_history": [
-   [
-    "2026-08-26",
-    175800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FC7A4J/A": {
   "first_seen": "2026-08-20",
@@ -283,6 +235,22 @@
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
+ "FDH74J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-26",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FDHA4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -300,22 +268,6 @@
   "baseline": null,
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
- "FDH74J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-26",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FDHE4J/A": {
   "first_seen": "2026-08-04",
@@ -346,40 +298,6 @@
    [
     "2026-08-04",
     189800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1L60J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-26",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 204800,
-  "price_history": [
-   [
-    "2026-08-04",
-    204800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
- "G1CF2J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 206800,
-  "price_history": [
-   [
-    "2026-08-26",
-    206800
    ]
   ],
   "sold_out_at": null,
@@ -739,22 +657,6 @@
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
- "FCX44J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 237800,
-  "price_history": [
-   [
-    "2026-08-26",
-    237800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FC6L4J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -1017,22 +919,6 @@
   "price_history": [
    [
     "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1KZQJ/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-26",
     267800
    ]
   ],
@@ -1463,6 +1349,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-26",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -1480,22 +1382,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
- },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "G1EJ0J/A": {
   "first_seen": "2026-08-19",
@@ -1689,26 +1575,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1KZCJ/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 359800,
-  "price_history": [
-   [
-    "2026-08-26",
-    359800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -1723,10 +1593,10 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -1983,28 +1853,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1CD0J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 419800,
-  "price_history": [
-   [
-    "2026-08-04",
-    447800
-   ],
-   [
-    "2026-08-26",
-    419800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
  "G1FB8J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
@@ -2048,22 +1896,6 @@
    [
     "2026-08-17",
     433800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1JV3J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 436800,
-  "price_history": [
-   [
-    "2026-08-26",
-    436800
    ]
   ],
   "sold_out_at": null,
@@ -2451,22 +2283,6 @@
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
- "G1JVAJ/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-  "category": "mac",
-  "price": 482800,
-  "price_history": [
-   [
-    "2026-08-26",
-    482800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MH6J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -2630,28 +2446,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1CD5J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 526800,
-  "price_history": [
-   [
-    "2026-08-04",
-    554800
-   ],
-   [
-    "2026-08-26",
-    526800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
  "G1L24J/A": {
   "first_seen": "2026-08-07",
@@ -3562,28 +3356,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1CD2J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 725800,
-  "price_history": [
-   [
-    "2026-08-04",
-    753800
-   ],
-   [
-    "2026-08-26",
-    725800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
  "G1MY0J/A": {
   "first_seen": "2026-08-08",
@@ -5797,22 +5569,6 @@
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T15:02:06+09:00"
  },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -5834,6 +5590,22 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-08-26",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -6182,6 +5954,234 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1CF9J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 144800,
+  "price_history": [
+   [
+    "2026-08-26",
+    144800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "FCYT4J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 175800,
+  "price_history": [
+   [
+    "2026-08-26",
+    175800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1CFAJ/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 175800,
+  "price_history": [
+   [
+    "2026-08-26",
+    175800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1L60J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-26",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 204800,
+  "price_history": [
+   [
+    "2026-08-04",
+    204800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
+ },
+ "G1CF2J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 206800,
+  "price_history": [
+   [
+    "2026-08-26",
+    206800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "FCX44J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 237800,
+  "price_history": [
+   [
+    "2026-08-26",
+    237800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1KZQJ/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-26",
+    267800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1KZCJ/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 359800,
+  "price_history": [
+   [
+    "2026-08-26",
+    359800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1CD0J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 419800,
+  "price_history": [
+   [
+    "2026-08-04",
+    447800
+   ],
+   [
+    "2026-08-26",
+    419800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
+ },
+ "G1JV3J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 436800,
+  "price_history": [
+   [
+    "2026-08-26",
+    436800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1JVAJ/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+  "category": "mac",
+  "price": 482800,
+  "price_history": [
+   [
+    "2026-08-26",
+    482800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
+ },
+ "G1CD5J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 526800,
+  "price_history": [
+   [
+    "2026-08-04",
+    554800
+   ],
+   [
+    "2026-08-26",
+    526800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
+ },
+ "G1CD2J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 725800,
+  "price_history": [
+   [
+    "2026-08-04",
+    753800
+   ],
+   [
+    "2026-08-26",
+    725800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
  "G1DT1J/A": {
   "first_seen": "2026-08-17",
