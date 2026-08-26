@@ -127,24 +127,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU9E3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 144800,
-  "price_history": [
-   [
-    "2026-08-04",
-    144800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
  "FC7A4J/A": {
   "first_seen": "2026-08-20",
   "first_seen_at": "2026-08-20T12:08:57+09:00",
@@ -770,24 +752,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1LQ0J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-26",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 253800,
-  "price_history": [
-   [
-    "2026-07-31",
-    253800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
@@ -3749,22 +3713,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1CE1J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 976800,
-  "price_history": [
-   [
-    "2026-08-26",
-    976800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MK4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -5543,6 +5491,22 @@
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T15:02:06+09:00"
  },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -5564,22 +5528,6 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-08-26",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -5928,6 +5876,58 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU9E3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 144800,
+  "price_history": [
+   [
+    "2026-08-04",
+    144800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
+ },
+ "G1LQ0J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-26",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 253800,
+  "price_history": [
+   [
+    "2026-07-31",
+    253800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-08-26",
+  "restocked_at_at": "2026-08-26T10:56:52+09:00"
+ },
+ "G1CE1J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-08-26",
+  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 976800,
+  "price_history": [
+   [
+    "2026-08-26",
+    976800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
  },
  "FUWD3J/A": {
   "first_seen": "2026-08-25",
