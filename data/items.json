@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-27T03:20:56+09:00",
- "count": 338,
+ "generated_at": "2026-08-27T04:17:01+09:00",
+ "count": 337,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -902,23 +902,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FUWJ3J/A",
-   "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スターライト [整備済製品]",
-   "price": 98800,
-   "url": "https://www.apple.com/jp/shop/product/fuwj3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-starlight-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3aUFDdGNrU2h5NUVkeUR1T0Jlb3RUVEFId0RLdFhBdDUwRTJSU1YyL24xNDJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkdoTVpJb3FRZ2JyZ29pbUF1c0o5QU9mbW94YnYxc1YvNXZ4emJGL0IxNFp3",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "starlight",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FU703J/A",

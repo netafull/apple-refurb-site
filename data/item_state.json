@@ -4023,22 +4023,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FUWJ3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-27",
-  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-25",
-    98800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-27",
@@ -5562,6 +5546,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FUWJ3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-27",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-25",
+    98800
+   ]
+  ],
+  "sold_out_at": "2026-08-27",
+  "baseline": null
  },
  "G1MHGJ/A": {
   "first_seen": "2026-07-30",
