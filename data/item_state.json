@@ -4171,22 +4171,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FUWF3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FUWJ3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -5742,6 +5726,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FUWF3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
  },
  "FDHK4J/A": {
   "first_seen": "2026-08-04",
