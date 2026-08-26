@@ -302,9 +302,9 @@
    "homepod": 2,
    "ipad": 54,
    "iphone": 9,
-   "mac": 256,
+   "mac": 255,
    "watch": 33
   },
-  "total": 356
+  "total": 355
  }
 }
