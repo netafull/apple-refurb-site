@@ -1553,22 +1553,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1HF4J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-08-26",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-  "category": "mac",
-  "price": 393800,
-  "price_history": [
-   [
-    "2026-08-24",
-    393800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1EJ1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -5686,6 +5670,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1HF4J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-08-26",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+  "category": "mac",
+  "price": 393800,
+  "price_history": [
+   [
+    "2026-08-24",
+    393800
+   ]
+  ],
+  "sold_out_at": "2026-08-26",
+  "baseline": null
  },
  "FU963J/A": {
   "first_seen": "2026-08-04",
