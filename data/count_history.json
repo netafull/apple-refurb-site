@@ -311,11 +311,11 @@
   "categories": {
    "appletv": 2,
    "homepod": 2,
-   "ipad": 50,
+   "ipad": 49,
    "iphone": 9,
-   "mac": 252,
+   "mac": 242,
    "watch": 31
   },
-  "total": 346
+  "total": 335
  }
 }
