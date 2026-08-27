@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-27T18:43:34+09:00",
- "count": 335,
+ "generated_at": "2026-08-27T20:59:57+09:00",
+ "count": 332,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4678,23 +4678,6 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "G1L61J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 236800,
-   "url": "https://www.apple.com/jp/shop/product/g1l61j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVI5TUQzL21jdWI1S2Qzb0NoYWtienArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "G1L91J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
    "price": 236800,
@@ -5652,40 +5635,6 @@
    "price": 46800,
    "url": "https://www.apple.com/jp/shop/product/fepj4j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-cell-alum-midnight-sport-band-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NnpkbGhOTksydmJUV2ZGSndOUnZxblMxZVBFUzR2RCtINUdMQXBMcDRlUWpNUmMyQXNWR2xhVGF5T2UxaW9FRWlwcTF1UFNnZ1hzQ0tONmt0bld3aS9Zb2EvZ2gySXVPSk1nRlo4SlhUZktqdkdsU2pIaFNSM3NUTWtCVTcwOWpyMGxHeUJnLzdvb2dGUDBQMEoyM1h3",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
-  },
-  {
-   "part_number": "FEP74J/A",
-   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
-   "price": 41800,
-   "url": "https://www.apple.com/jp/shop/product/fep74j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-cell-alum-starlight-sport-band-starlight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=a1NaZ2NwK3E2aGJSdjBLd284NkEwQXArMHp6NmpJWDZReVlVR0o2eDh0Tm5JZ0c1Z1hmM2hBS0twb1I0WkhYME1QZTIxQkpTZ3NJUXZnejlPa0p1UWh3UHdJeXlueThDME5lME1yK1UwbUdRTnpyb2w4UDJWSTFMWUtFaDhJbDVQUkpuQ1hDNmhFVElnNWhuRCtCbTFB",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
-  },
-  {
-   "part_number": "FEP94J/A",
-   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-   "price": 41800,
-   "url": "https://www.apple.com/jp/shop/product/fep94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-cell-alum-midnight-sport-band-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=a1NaZ2NwK3E2aGJSdjBLd284NkEwSFMxZVBFUzR2RCtINUdMQXBMcDRlUWpNUmMyQXNWR2xhVGF5T2UxaW9FRWlwcTF1UFNnZ1hzQ0tONmt0bld3aS9Zb2EvZ2gySXVPSk1nRlo4SlhUZktqdkdsU2pIaFNSM3NUTWtCVTcwOWpTazZmZUVCL3JlV3JLeXJma0N6dzln",
    "category": "watch",
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
