@@ -328,5 +328,16 @@
    "watch": 38
   },
   "total": 346
+ },
+ "2026-08-29": {
+  "categories": {
+   "appletv": 2,
+   "homepod": 2,
+   "ipad": 56,
+   "iphone": 8,
+   "mac": 227,
+   "watch": 37
+  },
+  "total": 332
  }
 }
