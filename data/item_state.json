@@ -4147,6 +4147,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FCJ54J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-28",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 170800,
+  "price_history": [
+   [
+    "2026-07-30",
+    170800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-28",
+  "restocked_at_at": "2026-08-28T17:10:06+09:00"
+ },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-28",
@@ -4788,24 +4806,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FTMK3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-28",
-  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
  "FTMN3J/A": {
   "first_seen": "2026-08-06",
@@ -5696,6 +5696,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTMK3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-28",
+  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": "2026-08-28",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-08-28",
+  "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
  "FX2D3ZA/A": {
   "first_seen": "2026-08-07",
@@ -9271,22 +9289,6 @@
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-15",
   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 170800,
-  "price_history": [
-   [
-    "2026-07-30",
-    170800
-   ]
-  ],
-  "sold_out_at": "2026-08-15",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FCJ54J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-14",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 170800,
   "price_history": [
