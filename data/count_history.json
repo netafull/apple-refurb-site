@@ -320,13 +320,14 @@
  },
  "2026-08-28": {
   "categories": {
+   "accessories": 1,
    "appletv": 2,
    "homepod": 2,
-   "ipad": 49,
-   "iphone": 9,
-   "mac": 237,
-   "watch": 29
+   "ipad": 57,
+   "iphone": 13,
+   "mac": 234,
+   "watch": 38
   },
-  "total": 328
+  "total": 347
  }
 }
