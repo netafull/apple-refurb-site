@@ -12,6 +12,12 @@ on:
   #
   # 発火元: Cloud Scheduler ジョブ ringo-pochi-update
   #         (GCPプロジェクト manga-rss / asia-northeast1 / cron "12,42 * * * *" UTC)
+  #
+  # **間隔を変えたら config.json の文言も必ず直すこと。**
+  # サイトのヘッダーと「〜について」セクションに更新頻度を書いており
+  # （config.json の site_description と about）、cronだけ変えると表示が
+  # 嘘になる。実際2026-08時点で、3サイトとも「1時間ごと」と表示しながら
+  # 実態は家電2時間・電書6時間・林檎30分とすべて食い違っていた。
   # 30分間隔は従来どおり。このサイトは Amazon Creators API を使わず
   # Apple公式サイトへのリクエストが1回7件だけと軽いため、家電/電書ポチの
   # ようなAPIクォータ由来の間隔調整は不要。
