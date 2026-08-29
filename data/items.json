@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T19:12:20+09:00",
+ "generated_at": "2026-08-29T19:42:20+09:00",
  "count": 327,
  "items": [
   {
@@ -1159,11 +1159,11 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FTMH3J/A",
-   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+   "part_number": "FTMM3J/A",
+   "title": "iPhone 15 128GB - グリーン（SIMフリー）[整備済製品]",
    "price": 90800,
-   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "url": "https://www.apple.com/jp/shop/product/ftmm3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-green-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlRabys0NUVWOWVMSm5jaWhHc0V2aDhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXpNWnlpUnEraEt5UXRiQ2FvTmw0RlE",
    "category": "iphone",
    "category_name": "iPhone",
    "shipping": "24時間以内",
@@ -1171,7 +1171,7 @@
    "year": "",
    "capacity": "128gb",
    "screen": "",
-   "color": "black",
+   "color": "green",
    "memory": "",
    "since": "2026-07-31"
   },
