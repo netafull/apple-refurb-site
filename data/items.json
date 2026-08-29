@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T18:12:23+09:00",
+ "generated_at": "2026-08-29T18:42:21+09:00",
  "count": 327,
  "items": [
   {
@@ -1155,6 +1155,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTMH3J/A",
+   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -4676,23 +4693,6 @@
    "color": "silver",
    "memory": "16gb",
    "since": "2026-08-24"
-  },
-  {
-   "part_number": "FW1K3J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fw1k3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-starlight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZllITVpkM2ZCOENYUFlZWGs3bk1CcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2JzeVRhV3NiYnhEMVZmN2laN2hTdTZWZWZKZEpnTUg2bTJtOU9qU1hvcWw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-26"
   },
   {
    "part_number": "FWUC3J/A",

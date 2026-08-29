@@ -193,22 +193,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FW1K3J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-08-29",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-  "category": "mac",
-  "price": 210800,
-  "price_history": [
-   [
-    "2026-08-26",
-    210800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-29",
@@ -4569,6 +4553,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTMH3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-08-29",
+  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-08-29",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-08-29T18:42:21+09:00"
+ },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-29",
@@ -5369,23 +5371,21 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTMH3J/A": {
-  "first_seen": "2026-07-31",
+ "FW1K3J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
   "last_seen": "2026-08-29",
-  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
+  "category": "mac",
+  "price": 210800,
   "price_history": [
    [
-    "2026-07-31",
-    90800
+    "2026-08-26",
+    210800
    ]
   ],
   "sold_out_at": "2026-08-29",
-  "baseline": null,
-  "restocked_at": "2026-08-29",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-08-29T17:12:20+09:00"
+  "baseline": null
  },
  "G1K16J/A": {
   "first_seen": "2026-08-19",
