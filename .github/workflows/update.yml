@@ -1,12 +1,22 @@
 name: update
 
 on:
-  schedule:
-    # GitHub Actionsのスケジューラーは高負荷時に発火をスキップすることがある
-    # (既存2サイトで実測)。取りこぼしを減らすため2本立てにする。
-    # Apple公式サイトへのリクエストは1回の実行で7件だけなので負荷は軽い
-    - cron: "12 * * * *"
-    - cron: "42 * * * *"
+  # 定期実行は GitHub の schedule をやめ、Google Cloud Scheduler から
+  # workflow_dispatch API を叩く方式に移行した (2026-08-29)。
+  #
+  # 元々「cronを2本立てにして取りこぼしを減らす」対策を入れていたが、
+  # 2026-08-25〜29 の実測では公称30分に対し最長12.3時間の欠測があり、
+  # 2本立てでは足りていなかった。しかも家電/電書ポチと同時刻に同じ穴が
+  # 空いており、GitHub側が発火を間引いているのが原因と確定している
+  # (ワークフロー自体の失敗は0件)。workflow_dispatch はこの間引きの対象外。
+  #
+  # 発火元: Cloud Scheduler ジョブ ringo-pochi-update
+  #         (GCPプロジェクト manga-rss / asia-northeast1 / cron "12,42 * * * *" UTC)
+  # 30分間隔は従来どおり。このサイトは Amazon Creators API を使わず
+  # Apple公式サイトへのリクエストが1回7件だけと軽いため、家電/電書ポチの
+  # ようなAPIクォータ由来の間隔調整は不要。
+  # ※ schedule を消したので、間隔を変えたいときはこのファイルではなく
+  #   Cloud Scheduler 側のジョブを直すこと。
   workflow_dispatch:
     inputs:
       force_category:
