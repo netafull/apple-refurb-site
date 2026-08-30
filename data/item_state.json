@@ -291,22 +291,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDVD4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-30",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 223800,
-  "price_history": [
-   [
-    "2026-07-30",
-    223800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FDVH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-30",
@@ -5318,6 +5302,22 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDVD4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-30",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 223800,
+  "price_history": [
+   [
+    "2026-07-30",
+    223800
+   ]
+  ],
+  "sold_out_at": "2026-08-30",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },

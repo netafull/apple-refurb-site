@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-30T14:42:23+09:00",
- "count": 324,
+ "generated_at": "2026-08-30T15:12:20+09:00",
+ "count": 323,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4538,23 +4538,6 @@
    "capacity": "512gb",
    "screen": "15inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDVD4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 223800,
-   "url": "https://www.apple.com/jp/shop/product/fdvd4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "starlight",
    "memory": "16gb",
    "since": "2026-07-30"
   },
