@@ -4697,24 +4697,6 @@
   "restocked_at": "2026-08-28",
   "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
- "FEU74J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-08-30",
-  "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 60800,
-  "price_history": [
-   [
-    "2026-08-14",
-    60800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
- },
  "FEUW4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -5286,6 +5268,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FEU74J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-08-30",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 60800,
+  "price_history": [
+   [
+    "2026-08-14",
+    60800
+   ]
+  ],
+  "sold_out_at": "2026-08-30",
+  "baseline": null,
+  "restocked_at": "2026-08-28",
+  "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
  "FC7C4J/A": {
   "first_seen": "2026-08-20",
