@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T14:42:22+09:00",
- "count": 341,
+ "generated_at": "2026-08-31T15:12:23+09:00",
+ "count": 339,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -766,23 +766,6 @@
    "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FNYF3J/A",
-   "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - シルバー（第4世代）[整備済製品]",
-   "price": 162800,
-   "url": "https://www.apple.com/jp/shop/product/fnyf3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-cell-silver-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnbzYxOUtRekdaeXUzbkxsNHRXV05abStWbkZXYW40bTlXNldlNm5YZnFVbW9QZytvM1hPOWh5cVhIU1hDaWt6b1AvU3JjZHd1MTRSd0VqZnNnTGdmZmw1U3ZGSWs2K2p6U1NkQWJBV2Y2N2ZkN3NJb0NhTEoxU00xK1pHNnlBTU9R",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2022",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FVV83J/A",
@@ -4505,23 +4488,6 @@
    "screen": "13inch",
    "color": "silver",
    "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "G1KL2J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
-   "price": 267800,
-   "url": "https://www.apple.com/jp/shop/product/g1kl2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "16gb",
    "since": "2026-08-04"
   },
   {

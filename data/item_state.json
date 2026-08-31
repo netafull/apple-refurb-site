@@ -663,24 +663,6 @@
   "restocked_at": "2026-08-16",
   "restocked_at_at": "2026-08-16T10:56:23+09:00"
  },
- "G1KL2J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-08-31",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T14:42:22+09:00"
- },
  "FDVA4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-31",
@@ -4165,22 +4147,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FNYF3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-31",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - シルバー（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 162800,
-  "price_history": [
-   [
-    "2026-08-25",
-    162800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FCJ64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-31",
@@ -5624,6 +5590,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1KL2J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-08-31",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": "2026-08-31",
+  "baseline": null,
+  "restocked_at": "2026-08-31",
+  "restocked_at_at": "2026-08-31T14:42:22+09:00"
+ },
+ "FNYF3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-08-31",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 162800,
+  "price_history": [
+   [
+    "2026-08-25",
+    162800
+   ]
+  ],
+  "sold_out_at": "2026-08-31",
+  "baseline": null
  },
  "FW1L3J/A": {
   "first_seen": "2026-08-20",
