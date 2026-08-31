@@ -905,22 +905,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FX2H3J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-08-31",
-  "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 305800,
-  "price_history": [
-   [
-    "2026-08-24",
-    305800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1KJ2J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-31",
@@ -5590,6 +5574,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2H3J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-08-31",
+  "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 305800,
+  "price_history": [
+   [
+    "2026-08-24",
+    305800
+   ]
+  ],
+  "sold_out_at": "2026-08-31",
+  "baseline": null
  },
  "G1KL2J/A": {
   "first_seen": "2026-08-04",
