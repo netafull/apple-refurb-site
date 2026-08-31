@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T21:42:20+09:00",
- "count": 327,
+ "generated_at": "2026-08-31T22:12:22+09:00",
+ "count": 325,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -798,23 +798,6 @@
    "capacity": "256gb",
    "screen": "11inch",
    "color": "silver",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCNN4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
-   "price": 148800,
-   "url": "https://www.apple.com/jp/shop/product/fcnn4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3b0pJYjdHWnp3SEVyejBPNjljS0p1VVBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5LS3V6TDJaRUsxVG1OcG9wZ0Jjd1A",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -2058,23 +2041,6 @@
    "color": "silver",
    "memory": "",
    "since": "2026-08-08"
-  },
-  {
-   "part_number": "G1N2BJ/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 782800,
-   "url": "https://www.apple.com/jp/shop/product/g1n2bj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1FKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "16inch",
-   "color": "spaceblack",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "G1FV1J/A",
