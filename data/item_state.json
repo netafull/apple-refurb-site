@@ -1671,22 +1671,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1L51J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-31",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 496800,
-  "price_history": [
-   [
-    "2026-07-30",
-    496800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1L81J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-31",
@@ -5326,6 +5310,22 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L51J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-08-31",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 496800,
+  "price_history": [
+   [
+    "2026-07-30",
+    496800
+   ]
+  ],
+  "sold_out_at": "2026-08-31",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
