@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T00:42:20+09:00",
- "count": 322,
+ "generated_at": "2026-09-01T01:12:20+09:00",
+ "count": 321,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -970,23 +970,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FD7G4J/A",
-   "title": "iPad（A16）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fd7g4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-cell-blue-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBekR3Y1psTlJOTk91Q3Z6b3NRZ2dxVnBSTFF4OHFHU2FPUUdGM3dnVy9RdnNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1hoRnlwcFlpb1drL2dnWkZ5WnMwcVU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FXN63J/A",
