@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T13:12:23+09:00",
- "count": 327,
+ "generated_at": "2026-08-31T13:42:23+09:00",
+ "count": 326,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1055,23 +1055,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FUWC3J/A",
-   "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 86800,
-   "url": "https://www.apple.com/jp/shop/product/fuwc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-spacegray-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3aUFDdGNrU2h5NUVkeUR1T0Jlb3RUUzdsVmk1dVFtVFZUbnpCTXcvaFIvajJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkhScnJEbmFRK3pjcm5Yb3hXNUdiMWdmbW94YnYxc1YvNXZ4emJGL0IxNFp3",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FD7F4J/A",
