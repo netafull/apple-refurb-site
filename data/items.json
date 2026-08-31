@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T16:42:23+09:00",
- "count": 337,
+ "generated_at": "2026-08-31T17:12:20+09:00",
+ "count": 334,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1021,23 +1021,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FD7F4J/A",
-   "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fd7f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-cell-silver-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBekR3Y1psTlJOTk91Q3Z6b3NRZ2dxVll3SWkvSnVicEZKdlhKK0Y3VDZNcUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXgrVGxVVHpJRW5PQXRKY0pob1gyWVM",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FD7G4J/A",
@@ -3726,23 +3709,6 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "G1K51J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
-   "price": 413800,
-   "url": "https://www.apple.com/jp/shop/product/g1k51j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-blue-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnUTZ2RnZyaU1NM3ZjaUVWSGxDVVVIeVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1hvOGl1NldzcEgrS3dCQmtSQ25yRVFXZEdHNUFPR0hYUU12cjI0VlFzM1A",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "blue",
-   "memory": "32gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1JR4J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4 チップ、Nano-textureディスプレイ - スペースブラック",
    "price": 402800,
@@ -4523,23 +4489,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDE04J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-   "price": 244800,
-   "url": "https://www.apple.com/jp/shop/product/fde04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDE44J/A",
