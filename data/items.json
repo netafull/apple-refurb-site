@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T09:42:23+09:00",
- "count": 319,
+ "generated_at": "2026-08-31T10:12:21+09:00",
+ "count": 318,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -917,23 +917,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FC9Y4J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fc9y4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-starlight-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bWgxQkhGRTVXRzJqZDkxbHMzOEdZb255d0NSTkJKQUZ6Z1ZLc3ZpVThFVGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU9yUjBtbUJsWUcxMi9PSVg0a0x6K3E",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
   },
