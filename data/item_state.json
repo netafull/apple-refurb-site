@@ -305,6 +305,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FFEX4J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-09-01",
+  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
+  "category": "mac",
+  "price": 228800,
+  "price_history": [
+   [
+    "2026-08-13",
+    228800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T11:12:22+09:00"
+ },
  "FDH84J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-01",
@@ -619,6 +637,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FFF14J/A": {
+  "first_seen": "2026-09-01",
+  "first_seen_at": "2026-09-01T11:12:22+09:00",
+  "last_seen": "2026-09-01",
+  "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きを調整できるスタンド",
+  "category": "mac",
+  "price": 270800,
+  "price_history": [
+   [
+    "2026-09-01",
+    270800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FWV33J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -732,6 +766,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
+ },
+ "FFEW4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-01",
+  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 288800,
+  "price_history": [
+   [
+    "2026-07-30",
+    288800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T11:12:22+09:00"
  },
  "FDVC4J/A": {
   "first_seen": "2026-07-30",
@@ -894,6 +946,24 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "FFF04J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-09-01",
+  "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 329800,
+  "price_history": [
+   [
+    "2026-08-13",
+    329800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T11:12:22+09:00"
  },
  "G1KK5J/A": {
   "first_seen": "2026-08-04",
@@ -3353,22 +3423,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-01",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-01",
@@ -3384,6 +3438,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-09-01",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-08-19",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -3467,6 +3537,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-01",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3504,22 +3590,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-01",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-01",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -9539,22 +9609,6 @@
   "restocked_at": "2026-08-14",
   "restocked_at_at": "2026-08-14T02:37:20+09:00"
  },
- "FFF04J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
-  "last_seen": "2026-08-14",
-  "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
-  "category": "mac",
-  "price": 329800,
-  "price_history": [
-   [
-    "2026-08-13",
-    329800
-   ]
-  ],
-  "sold_out_at": "2026-08-14",
-  "baseline": null
- },
  "FCJ44J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-13",
@@ -9582,22 +9636,6 @@
    [
     "2026-08-04",
     371800
-   ]
-  ],
-  "sold_out_at": "2026-08-13",
-  "baseline": null
- },
- "FFEX4J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
-  "last_seen": "2026-08-13",
-  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
-  "category": "mac",
-  "price": 228800,
-  "price_history": [
-   [
-    "2026-08-13",
-    228800
    ]
   ],
   "sold_out_at": "2026-08-13",
@@ -9652,24 +9690,6 @@
   "sold_out_at": "2026-08-13",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FFEW4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-13",
-  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
-  "category": "mac",
-  "price": 288800,
-  "price_history": [
-   [
-    "2026-07-30",
-    288800
-   ]
-  ],
-  "sold_out_at": "2026-08-13",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-13",
-  "restocked_at_at": "2026-08-13T11:44:53+09:00"
  },
  "FFEY4J/A": {
   "first_seen": "2026-08-13",

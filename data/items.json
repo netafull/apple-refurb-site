@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T10:42:22+09:00",
- "count": 314,
+ "generated_at": "2026-09-01T11:12:22+09:00",
+ "count": 318,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -955,6 +955,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -1002,23 +1019,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1244,23 +1244,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MK8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 1450800,
-   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "128gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1MN8J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
    "price": 1450800,
@@ -1276,6 +1259,23 @@
    "color": "spaceblack",
    "memory": "128gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1MK8J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+   "price": 1450800,
+   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "8tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "128gb",
+   "since": "2026-08-19"
   },
   {
    "part_number": "G1MY6J/A",
@@ -3794,6 +3794,23 @@
    "since": "2026-08-04"
   },
   {
+   "part_number": "FFF04J/A",
+   "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
+   "price": 329800,
+   "url": "https://www.apple.com/jp/shop/product/fff04j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-height-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJak1JbUpGajlzb1ZKR29lMnp5bXgxVlhOTXoxalNTSnNHQUdNQUdnQmpmUHNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VBbmdvVmp1aENTSG13NHJ3TkcvSGk",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "2026",
+   "capacity": "",
+   "screen": "27inch",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-13"
+  },
+  {
    "part_number": "G1EJ0J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 321800,
@@ -3998,6 +4015,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FFEW4J/A",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+   "price": 288800,
+   "url": "https://www.apple.com/jp/shop/product/ffew4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-height-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJak1JbUpGajlzb1ZKR29lMnp5bXgxVlhOTXoxalNTSnNHQUdNQUdnQmpmUHNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VBbmdvVmp1aENTSG13NHJ3TkcvSGk",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "2026",
+   "capacity": "",
+   "screen": "27inch",
+   "color": "",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
    "part_number": "G1E62J/A",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ピンク",
    "price": 286800,
@@ -4149,6 +4183,23 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FFF14J/A",
+   "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きを調整できるスタンド",
+   "price": 270800,
+   "url": "https://www.apple.com/jp/shop/product/fff14j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVkhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHZZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "2026",
+   "capacity": "",
+   "screen": "27inch",
+   "color": "",
+   "memory": "",
+   "since": "2026-09-01"
   },
   {
    "part_number": "FDH94J/A",
@@ -4404,6 +4455,23 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FFEX4J/A",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
+   "price": 228800,
+   "url": "https://www.apple.com/jp/shop/product/ffex4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVkhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHZZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "2026",
+   "capacity": "",
+   "screen": "27inch",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-13"
   },
   {
    "part_number": "FDV94J/A",
