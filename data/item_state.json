@@ -145,22 +145,6 @@
   "restocked_at": "2026-09-01",
   "restocked_at_at": "2026-09-01T12:42:21+09:00"
  },
- "FDH74J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-01",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDHA4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -178,6 +162,22 @@
   "baseline": null,
   "restocked_at": "2026-09-01",
   "restocked_at_at": "2026-09-01T12:42:21+09:00"
+ },
+ "FDH74J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-01",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "FDHE4J/A": {
   "first_seen": "2026-08-04",
@@ -933,6 +933,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDE14J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-01",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 288800,
+  "price_history": [
+   [
+    "2026-08-04",
+    288800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FDE54J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-01",
@@ -950,22 +966,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
- },
- "FDE14J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-01",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 288800,
-  "price_history": [
-   [
-    "2026-08-04",
-    288800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FFEW4J/A": {
   "first_seen": "2026-07-30",
@@ -1099,22 +1099,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-01",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-01",
@@ -1132,6 +1116,22 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
+ },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-01",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1EJ0J/A": {
   "first_seen": "2026-08-19",
@@ -3739,22 +3739,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-01",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3792,6 +3776,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-01",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-01",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3968,6 +3968,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCJ74J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-01",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 170800,
+  "price_history": [
+   [
+    "2026-07-30",
+    170800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T19:42:20+09:00"
  },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
@@ -4595,24 +4613,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU6P3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-09-01",
-  "title": "iPhone 15 Pro Max 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 151800,
-  "price_history": [
-   [
-    "2026-08-01",
-    151800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-09-01",
-  "restocked_at_at": "2026-09-01T16:12:21+09:00"
- },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-01",
@@ -4975,22 +4975,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-01",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -5012,6 +4996,22 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-09-01",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-09-01",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -5395,6 +5395,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FU6P3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-09-01",
+  "title": "iPhone 15 Pro Max 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 151800,
+  "price_history": [
+   [
+    "2026-08-01",
+    151800
+   ]
+  ],
+  "sold_out_at": "2026-09-01",
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T16:12:21+09:00"
+ },
  "FC7A4J/A": {
   "first_seen": "2026-08-20",
   "first_seen_at": "2026-08-20T12:08:57+09:00",
@@ -5430,24 +5448,6 @@
   "baseline": null,
   "restocked_at": "2026-09-01",
   "restocked_at_at": "2026-09-01T12:42:21+09:00"
- },
- "FCJ74J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-01",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 170800,
-  "price_history": [
-   [
-    "2026-07-30",
-    170800
-   ]
-  ],
-  "sold_out_at": "2026-09-01",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T13:12:23+09:00"
  },
  "G1FWMJ/A": {
   "first_seen": "2026-07-30",
