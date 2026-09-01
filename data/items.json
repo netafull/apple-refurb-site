@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01T09:12:21+09:00",
- "count": 319,
+ "generated_at": "2026-09-01T09:42:24+09:00",
+ "count": 317,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3828,23 +3828,6 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "G1K57J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
-   "price": 336800,
-   "url": "https://www.apple.com/jp/shop/product/g1k57j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-blue-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnUTZ2RnZyaU1NM3ZjaUVWSGxDVVVIeVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1hvOGl1NldzcEgrS3dCQmtSQ25yRVFXZEdHNUFPR0hYUU12cjI0VlFzM1A",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "24inch",
-   "color": "blue",
-   "memory": "24gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1EJ0J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 321800,
@@ -5322,23 +5305,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FEU04J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-   "price": 60800,
-   "url": "https://www.apple.com/jp/shop/product/feu04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
   },
   {
    "part_number": "FEU44J/A",

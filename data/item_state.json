@@ -911,22 +911,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1K57J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-01",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
-  "category": "mac",
-  "price": 336800,
-  "price_history": [
-   [
-    "2026-08-19",
-    336800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1KK5J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -4635,24 +4619,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FEU04J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T15:02:06+09:00",
-  "last_seen": "2026-09-01",
-  "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 60800,
-  "price_history": [
-   [
-    "2026-08-21",
-    60800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-01",
-  "restocked_at_at": "2026-09-01T04:42:21+09:00"
- },
  "FEU44J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -5242,6 +5208,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1K57J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-09-01",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
+  "category": "mac",
+  "price": 336800,
+  "price_history": [
+   [
+    "2026-08-19",
+    336800
+   ]
+  ],
+  "sold_out_at": "2026-09-01",
+  "baseline": null
+ },
+ "FEU04J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-09-01",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 60800,
+  "price_history": [
+   [
+    "2026-08-21",
+    60800
+   ]
+  ],
+  "sold_out_at": "2026-09-01",
+  "baseline": null,
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T04:42:21+09:00"
  },
  "FW1J3J/A": {
   "first_seen": "2026-08-20",
