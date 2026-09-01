@@ -375,13 +375,13 @@
  },
  "2026-09-02": {
   "categories": {
-   "appletv": 2,
+   "appletv": 1,
    "homepod": 2,
    "ipad": 54,
    "iphone": 9,
-   "mac": 219,
+   "mac": 218,
    "watch": 35
   },
-  "total": 321
+  "total": 319
  }
 }

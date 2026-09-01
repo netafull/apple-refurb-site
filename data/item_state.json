@@ -1393,24 +1393,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1KN3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-02",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 425800,
-  "price_history": [
-   [
-    "2026-08-04",
-    425800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T14:42:22+09:00"
- },
  "G1FB8J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
@@ -3635,22 +3617,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-02",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3688,6 +3654,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-02",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-02",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -5225,24 +5207,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FN873J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-02",
-  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
-  "category": "appletv",
-  "price": 29800,
-  "price_history": [
-   [
-    "2026-07-30",
-    29800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T16:28:30+09:00"
- },
  "FN893J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-02",
@@ -5290,6 +5254,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1KN3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-02",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 425800,
+  "price_history": [
+   [
+    "2026-08-04",
+    425800
+   ]
+  ],
+  "sold_out_at": "2026-09-02",
+  "baseline": null,
+  "restocked_at": "2026-08-31",
+  "restocked_at_at": "2026-08-31T14:42:22+09:00"
+ },
+ "FN873J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-02",
+  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
+  "category": "appletv",
+  "price": 29800,
+  "price_history": [
+   [
+    "2026-07-30",
+    29800
+   ]
+  ],
+  "sold_out_at": "2026-09-02",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T16:28:30+09:00"
  },
  "FW1G3J/A": {
   "first_seen": "2026-08-20",

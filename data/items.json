@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T00:42:21+09:00",
- "count": 321,
+ "generated_at": "2026-09-02T01:13:41+09:00",
+ "count": 319,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -8,23 +8,6 @@
    "price": 37800,
    "url": "https://www.apple.com/jp/shop/product/fn893j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-tv-4k-ethernet-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q1VVSThUT1l1U1JCNXhQbkRWSytWeVZnL2I4Q1ZCc1JnalJNbHYxbW5RcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2EvL290ekVGaVdrV0ZKT3FIVUFwYmdVRk5BYjU4dkMrYjBKSjFqVXFOVGg",
-   "category": "appletv",
-   "category_name": "Apple TV",
-   "shipping": "24時間以内",
-   "model": "appletv4k",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FN873J/A",
-   "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
-   "price": 29800,
-   "url": "https://www.apple.com/jp/shop/product/fn873j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-tv-4k-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q1VVSThUT1l1U1JCNXhQbkRWSytWNDNIaHM1VmcvRTNxeThzMUdzeXRmY2NEOENNc3A4dkF0RFh0REsvbE5KaCtOY25WM3o3YS9Sb1BHNU54bjhuOUpKSXo0RHZwR3V2cDQ1Q3M4UGR4Mm8",
    "category": "appletv",
    "category_name": "Apple TV",
    "shipping": "24時間以内",
@@ -921,23 +904,6 @@
    "since": "2026-08-28"
   },
   {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -985,6 +951,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3435,23 +3418,6 @@
    "color": "silver",
    "memory": "48gb",
    "since": "2026-08-24"
-  },
-  {
-   "part_number": "G1KN3J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 425800,
-   "url": "https://www.apple.com/jp/shop/product/g1kn3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "32gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "G1JR4J/A",
