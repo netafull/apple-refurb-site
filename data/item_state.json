@@ -3795,24 +3795,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FCJ74J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-02",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 170800,
-  "price_history": [
-   [
-    "2026-07-30",
-    170800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-02",
-  "restocked_at_at": "2026-09-02T09:42:21+09:00"
- },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-02",
@@ -4801,22 +4783,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-02",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4838,6 +4804,22 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-09-02",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-09-02",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -5202,6 +5184,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCJ74J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-02",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 170800,
+  "price_history": [
+   [
+    "2026-07-30",
+    170800
+   ]
+  ],
+  "sold_out_at": "2026-09-02",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-02",
+  "restocked_at_at": "2026-09-02T09:42:21+09:00"
  },
  "FC7C4J/A": {
   "first_seen": "2026-08-20",
