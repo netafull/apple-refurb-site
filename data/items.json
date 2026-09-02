@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T08:42:21+09:00",
- "count": 316,
+ "generated_at": "2026-09-02T09:12:21+09:00",
+ "count": 315,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -713,23 +713,6 @@
    "capacity": "256gb",
    "screen": "11inch",
    "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCJ74J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 256GB - スターライト [整備済製品]",
-   "price": 170800,
-   "url": "https://www.apple.com/jp/shop/product/fcj74j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-starlight-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bzB2Q1BuK0pyVGQrNjBGUG9DUU5Vb255d0NSTkJKQUZ6Z1ZLc3ZpVThFVGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUVBVcXQ0OWFYdEZRSy9wVDZUWGxoRHc",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
   },
