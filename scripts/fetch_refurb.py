@@ -46,6 +46,28 @@ def fetch_html(slug: str, base_url: str) -> str:
         return res.read().decode("utf-8", "replace")
 
 
+def fetch_html_with_retry(slug: str, base_url: str) -> str | None:
+    """一時的な失敗で1カテゴリを丸ごと落とさないよう3回試す。
+
+    ここが失敗するとそのカテゴリの商品がすべて欠けた状態になる。
+    姉妹サイト(電書ポチ・家電ポチ)の検索と同じだけ粘る
+    """
+    for attempt in range(3):
+        try:
+            return fetch_html(slug, base_url)
+        except (
+            urllib.error.HTTPError,
+            urllib.error.URLError,
+            TimeoutError,
+            OSError,
+        ) as e:
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+                continue
+            print(f"[warn] {slug}: 取得失敗 ({e})", file=sys.stderr)
+    return None
+
+
 def extract_bootstrap(html: str) -> dict | None:
     """window.REFURB_GRID_BOOTSTRAP のJSONを括弧の対応を数えて切り出す。
 
@@ -162,6 +184,11 @@ def main() -> int:
     base_url = config.get("base_url", "https://www.apple.com")
     categories = config["categories"]
 
+    # 状態ファイルの検証はネットワークに出る前に済ませる。壊れていれば
+    # どのみち中止するので、7カテゴリぶんの取得が丸ごと無駄になる
+    state = load_state()
+    first_run = not state
+
     items: dict[str, dict] = {}
     ok_slugs: set[str] = set()
     per_category: list[tuple[str, int]] = []
@@ -169,10 +196,8 @@ def main() -> int:
     for i, cat in enumerate(categories):
         if i:
             time.sleep(REQUEST_INTERVAL)
-        try:
-            html = fetch_html(cat["slug"], base_url)
-        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-            print(f"[warn] {cat['slug']}: 取得失敗 ({e})", file=sys.stderr)
+        html = fetch_html_with_retry(cat["slug"], base_url)
+        if html is None:
             continue
         data = extract_bootstrap(html)
         if data is None:
@@ -192,6 +217,25 @@ def main() -> int:
             items.setdefault(item["part_number"], item)
         per_category.append((cat["name"], count))
 
+    # 「1件も取れなかった」だけを見ていると、一部のカテゴリだけ失敗した場合に
+    # 素通りしてしまう。items.json はそのカテゴリが空のまま書かれ、
+    # generate_site.py はそれを唯一の入力としてサイトを作り直すため、
+    # セクションが丸ごと消えたページで前回の公開内容を上書きしてしまう。
+    # count_history.json にも欠けた件数が残り、翌日の前日比が嘘になる
+    failed = [c for c in categories if c["slug"] not in ok_slugs]
+    if failed:
+        stocked = {
+            e.get("category") for e in state.values() if not e.get("sold_out_at")
+        }
+        lost = [c["name"] for c in failed if c["slug"] in stocked]
+        if lost:
+            print(
+                f"[error] 在庫のあるカテゴリの取得に失敗しました: {' / '.join(lost)}。"
+                "欠けたサイトで前回の公開内容を上書きしないよう中止します",
+                file=sys.stderr,
+            )
+            return 1
+
     if not items:
         # 空の結果で状態ファイルを上書きすると全履歴が消えるため必ず失敗させる
         print("[error] 1件も取得できませんでした。状態ファイルは更新しません", file=sys.stderr)
@@ -201,8 +245,6 @@ def main() -> int:
     now_iso = now.isoformat(timespec="seconds")
     today_dt = now.date()
     today = today_dt.isoformat()
-    state = load_state()
-    first_run = not state
 
     new_arrivals: list[dict] = []
     restocked: list[dict] = []
