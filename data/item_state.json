@@ -1889,24 +1889,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MH9J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-03",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 569800,
-  "price_history": [
-   [
-    "2026-07-30",
-    569800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T14:12:24+09:00"
- },
  "G1ML9J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
@@ -4229,6 +4211,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTU73J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-07-30",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T10:12:22+09:00"
+ },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
@@ -4573,22 +4573,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-03",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4610,6 +4594,22 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-09-03",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-09-03",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -4958,6 +4958,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MH9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-03",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 569800,
+  "price_history": [
+   [
+    "2026-07-30",
+    569800
+   ]
+  ],
+  "sold_out_at": "2026-09-03",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-31",
+  "restocked_at_at": "2026-08-31T14:12:24+09:00"
  },
  "FU6R3J/A": {
   "first_seen": "2026-07-31",
@@ -7804,24 +7822,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T16:18:31+09:00"
- },
- "FTU73J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-07-30",
-    119800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T17:58:14+09:00"
  },
  "G1E70J/A": {
   "first_seen": "2026-08-22",
