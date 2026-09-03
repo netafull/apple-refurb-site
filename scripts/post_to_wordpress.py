@@ -109,19 +109,28 @@ def mac_families(titles: list[str]) -> list[str]:
     return [f for f in MAC_FAMILY_ORDER if f in found]
 
 
-_IPAD_RE = re.compile(r"(\d+(?:\.\d+)?)インチiPad(?:\s*(Pro|Air|mini))?")
-_IPAD_SUBFAMILY_ORDER = {"mini": 0, "Air": 1, "Pro": 2, "": 3}
+# インチ表記を持つもの(「11インチiPad Pro」)と持たないもの(「iPad mini 6」
+# 「iPad mini（A17 Pro）」「iPad（A16）」)が混在する。インチを必須にすると
+# mini と無印iPadを丸ごと取り逃がし、その2つしか在庫が無い日はタイトルが
+# 「【iPad整備済製品】iPad【...】」と機種名なしになる。
+# 商品名は必ずタイトル先頭に来るのでmatchで当て、同じカテゴリに混ざる
+# アクセサリ(Apple Pencil等)を巻き込まないようにする
+_IPAD_RE = re.compile(r"^(?:(\d+(?:\.\d+)?)インチ)?iPad(?:\s*(Pro|Air|mini))?")
+# 無印 → mini → Air → Pro の順(下位モデルから並べる)
+_IPAD_SUBFAMILY_ORDER = {"": 0, "mini": 1, "Air": 2, "Pro": 3}
 
 
 def ipad_families(titles: list[str]) -> list[str]:
     seen: dict[str, tuple[int, float]] = {}
     for t in titles:
-        m = _IPAD_RE.search(t)
+        m = _IPAD_RE.match(t)
         if not m:
             continue
         inch, sub = m.group(1), m.group(2) or ""
-        label = f"{inch}インチiPad" + (f" {sub}" if sub else "")
-        seen[label] = (_IPAD_SUBFAMILY_ORDER.get(sub, 9), float(inch))
+        label = (f"{inch}インチiPad" if inch else "iPad") + (f" {sub}" if sub else "")
+        seen[label] = (
+            _IPAD_SUBFAMILY_ORDER.get(sub, 9), float(inch) if inch else 0.0
+        )
     return [label for label, _ in sorted(seen.items(), key=lambda kv: kv[1])]
 
 
@@ -205,9 +214,38 @@ def build_content(cat_cfg: dict, wp_cfg: dict, site_url: str, items: list[dict])
     return f"{intro}\n{body}\n{footer}"
 
 
+# WordPressの応答を待つ上限(秒)
+WORDPRESS_TIMEOUT = 60
+
+
+def make_transport(url: str) -> xmlrpc.client.Transport:
+    """タイムアウト付きのTransportを作る。
+
+    ServerProxy は既定で socket のグローバルタイムアウト(None)を使うため、
+    サーバーがTCPは受け付けるのに応答を返さない状態になると wp.newPost が
+    永久に返らず、ワークフローがジョブ上限(360分)まで走り続けてしまう。
+    ステップの continue-on-error はハングには効かない(失敗ではないため)。
+    林檎ポチは30分間隔・cancel-in-progress: false なので、その間ずっと
+    後続の実行がキューに詰まってサイトが更新されなくなる
+    """
+    base = (
+        xmlrpc.client.SafeTransport
+        if url.lower().startswith("https:")
+        else xmlrpc.client.Transport
+    )
+
+    class TimeoutTransport(base):  # type: ignore[misc,valid-type]
+        def make_connection(self, host):
+            conn = super().make_connection(host)
+            conn.timeout = WORDPRESS_TIMEOUT
+            return conn
+
+    return TimeoutTransport()
+
+
 def create_draft(wp_cfg: dict, app_password: str, title: str, content: str, tag_id: int) -> int:
     url = wp_cfg["site_url"].rstrip("/") + "/xmlrpc.php"
-    server = xmlrpc.client.ServerProxy(url)
+    server = xmlrpc.client.ServerProxy(url, transport=make_transport(url))
     content_struct = {
         "post_type": "post",
         "post_status": "draft",
