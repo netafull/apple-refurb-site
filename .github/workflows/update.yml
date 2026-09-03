@@ -87,3 +87,15 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           FORCE_CATEGORY: ${{ inputs.force_category }}
         run: python3 scripts/post_to_wordpress.py
+
+      # 取得やデプロイに失敗するとサイトは前回の内容のまま据え置かれる。
+      # 止まったことに気づけないと古い在庫情報が何時間も放置されるため、
+      # 失敗したときだけ鳴らす。特にCloud SchedulerのPAT期限切れは3サイトとも
+      # 静かに更新停止する事故なので、これが最初の手がかりになる。
+      # 必ず最後のステップに置くこと(前のどのステップが落ちても拾うため)。
+      # なお上の下書き投稿はcontinue-on-errorなので、ここでは鳴らない
+      - name: 失敗を通知
+        if: failure()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 scripts/notify.py --failure
