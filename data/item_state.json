@@ -63,10 +63,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -79,10 +79,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -392,24 +392,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1L91J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-03",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 236800,
-  "price_history": [
-   [
-    "2026-07-31",
-    236800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-01",
-  "restocked_at_at": "2026-09-01T12:42:21+09:00"
  },
  "FWUU3J/A": {
   "first_seen": "2026-08-19",
@@ -851,22 +833,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-03",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
@@ -884,6 +850,22 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
+ },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-03",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "FFF04J/A": {
   "first_seen": "2026-08-13",
@@ -991,10 +973,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -1009,10 +991,10 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -1840,22 +1822,6 @@
   "baseline": null,
   "restocked_at": "2026-08-26",
   "restocked_at_at": "2026-08-26T12:16:41+09:00"
- },
- "G1MM2J/A": {
-  "first_seen": "2026-08-27",
-  "first_seen_at": "2026-08-27T12:25:57+09:00",
-  "last_seen": "2026-09-03",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 558800,
-  "price_history": [
-   [
-    "2026-08-27",
-    558800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "G1M24J/A": {
   "first_seen": "2026-07-30",
@@ -3339,22 +3305,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-03",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3392,6 +3342,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-03",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4195,6 +4161,306 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMH3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FD1T4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 91800,
+  "price_history": [
+   [
+    "2026-08-21",
+    91800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FD1W4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16e 256GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 91800,
+  "price_history": [
+   [
+    "2026-08-21",
+    91800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMN3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-08-06",
+    104800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMP3J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T19:20:39+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-08-13",
+    104800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMQ3J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 256GB - イエロー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-08-21",
+    104800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMT3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 256GB - グリーン（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 104800,
+  "price_history": [
+   [
+    "2026-07-31",
+    104800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-08-06",
+    105800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FYDR3J/A": {
+  "first_seen": "2026-08-15",
+  "first_seen_at": "2026-08-15T12:20:42+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-08-15",
+    105800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FYDU3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FYDV3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FTU73J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-07-30",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FYDW3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-08-01",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FYDX3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-09-03",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FD274J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16e 512GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 120800,
+  "price_history": [
+   [
+    "2026-08-21",
+    120800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
+ "FTMU3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 137800,
+  "price_history": [
+   [
+    "2026-07-31",
+    137800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T11:42:19+09:00"
+ },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-03",
@@ -4909,6 +5175,40 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1L91J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-03",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 236800,
+  "price_history": [
+   [
+    "2026-07-31",
+    236800
+   ]
+  ],
+  "sold_out_at": "2026-09-03",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-01",
+  "restocked_at_at": "2026-09-01T12:42:21+09:00"
+ },
+ "G1MM2J/A": {
+  "first_seen": "2026-08-27",
+  "first_seen_at": "2026-08-27T12:25:57+09:00",
+  "last_seen": "2026-09-03",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 558800,
+  "price_history": [
+   [
+    "2026-08-27",
+    558800
+   ]
+  ],
+  "sold_out_at": "2026-09-03",
+  "baseline": null
+ },
  "G1FF8J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
@@ -4924,24 +5224,6 @@
   ],
   "sold_out_at": "2026-09-03",
   "baseline": null
- },
- "FTU73J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-03",
-  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-07-30",
-    119800
-   ]
-  ],
-  "sold_out_at": "2026-09-03",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-03",
-  "restocked_at_at": "2026-09-03T10:12:22+09:00"
  },
  "FEPJ4J/A": {
   "first_seen": "2026-08-21",
@@ -6477,24 +6759,6 @@
   "restocked_at": "2026-08-29",
   "restocked_at_at": "2026-08-29T19:42:20+09:00"
  },
- "FTMH3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-29",
-  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": "2026-08-29",
-  "baseline": null,
-  "restocked_at": "2026-08-29",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-08-29T18:42:21+09:00"
- },
  "FW1K3J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -6676,60 +6940,6 @@
   "sold_out_at": "2026-08-29",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FTMN3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-28",
-  "title": "iPhone 15 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-08-06",
-    104800
-   ]
-  ],
-  "sold_out_at": "2026-08-29",
-  "baseline": null,
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
- },
- "FYDR3J/A": {
-  "first_seen": "2026-08-15",
-  "first_seen_at": "2026-08-15T12:20:42+09:00",
-  "last_seen": "2026-08-28",
-  "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-08-15",
-    105800
-   ]
-  ],
-  "sold_out_at": "2026-08-29",
-  "baseline": null,
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
- },
- "FYDW3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-08-28",
-  "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-08-01",
-    119800
-   ]
-  ],
-  "sold_out_at": "2026-08-29",
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
  "FEV64J/A": {
   "first_seen": "2026-08-14",
@@ -7721,24 +7931,6 @@
   "restocked_at": "2026-08-25",
   "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-25",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": null,
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T20:59:32+09:00"
- },
  "FTMJ3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-25",
@@ -8379,22 +8571,6 @@
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
  },
- "FTMQ3J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-22",
-  "title": "iPhone 15 256GB - イエロー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-08-21",
-    104800
-   ]
-  ],
-  "sold_out_at": "2026-08-22",
-  "baseline": null
- },
  "FU0T3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-08-22",
@@ -8623,38 +8799,6 @@
   "sold_out_at": "2026-08-21",
   "baseline": null
  },
- "FD1T4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 91800,
-  "price_history": [
-   [
-    "2026-08-21",
-    91800
-   ]
-  ],
-  "sold_out_at": "2026-08-21",
-  "baseline": null
- },
- "FD1W4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 256GB - ホワイト（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 91800,
-  "price_history": [
-   [
-    "2026-08-21",
-    91800
-   ]
-  ],
-  "sold_out_at": "2026-08-21",
-  "baseline": null
- },
  "FXVF3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
@@ -8666,22 +8810,6 @@
    [
     "2026-08-21",
     119800
-   ]
-  ],
-  "sold_out_at": "2026-08-21",
-  "baseline": null
- },
- "FD274J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-08-21",
-  "title": "iPhone 16e 512GB - ホワイト（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 120800,
-  "price_history": [
-   [
-    "2026-08-21",
-    120800
    ]
   ],
   "sold_out_at": "2026-08-21",
@@ -9065,24 +9193,6 @@
   "sold_out_at": "2026-08-19",
   "baseline": null
  },
- "FTMU3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-08-19",
-  "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 137800,
-  "price_history": [
-   [
-    "2026-07-31",
-    137800
-   ]
-  ],
-  "sold_out_at": "2026-08-19",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-08-17",
-  "restocked_at_at": "2026-08-17T12:12:03+09:00"
- },
  "G1LV3J/A": {
   "first_seen": "2026-08-12",
   "first_seen_at": "2026-08-12T15:40:52+09:00",
@@ -9184,24 +9294,6 @@
   ],
   "sold_out_at": "2026-08-18",
   "baseline": null
- },
- "FTMP3J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T19:20:39+09:00",
-  "last_seen": "2026-08-17",
-  "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-08-13",
-    104800
-   ]
-  ],
-  "sold_out_at": "2026-08-17",
-  "baseline": null,
-  "restocked_at": "2026-08-17",
-  "restocked_at_at": "2026-08-17T12:12:03+09:00"
  },
  "FU0A3J/A": {
   "first_seen": "2026-07-31",
@@ -10235,24 +10327,6 @@
   "sold_out_at": "2026-08-08",
   "baseline": null
  },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-08-08",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
-   ]
-  ],
-  "sold_out_at": "2026-08-08",
-  "baseline": null,
-  "restocked_at": "2026-08-08",
-  "restocked_at_at": "2026-08-08T17:19:23+09:00"
- },
  "FXGT3J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T14:20:27+09:00",
@@ -11000,22 +11074,6 @@
   "sold_out_at": "2026-08-01",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FTMT3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-07-31",
-  "title": "iPhone 15 256GB - グリーン（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 104800,
-  "price_history": [
-   [
-    "2026-07-31",
-    104800
-   ]
-  ],
-  "sold_out_at": "2026-07-31",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
  "FV6R3J/A": {
   "first_seen": "2026-07-30",
