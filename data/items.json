@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03T09:12:19+09:00",
- "count": 303,
+ "generated_at": "2026-09-03T09:42:21+09:00",
+ "count": 302,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1072,23 +1072,6 @@
    "color": "whitetitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FU6R3J/A",
-   "title": "iPhone 15 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-   "price": 151800,
-   "url": "https://www.apple.com/jp/shop/product/fu6r3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-max-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOVUpNZ1R1L2lwTjc3NlN5K2tqbmltS2wzZ2l0Q2Y3RXpnREt1U2lXUUgvWTJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkZpWDFmWWZxbEJxaThCbHhMT0JIcnJmbW94YnYxc1YvNXZ4emJGL0IxNFp3",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15promax",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "naturaltitanium",
-   "memory": "",
-   "since": "2026-07-31"
   },
   {
    "part_number": "FU6T3J/A",
