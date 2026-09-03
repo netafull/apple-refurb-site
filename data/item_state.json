@@ -3289,6 +3289,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3326,22 +3342,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-03",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-03",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4180,24 +4180,6 @@
   "baseline": null,
   "restocked_at": "2026-09-03",
   "restocked_at_at": "2026-09-03T11:42:19+09:00"
- },
- "FD1T4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-09-03",
-  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 91800,
-  "price_history": [
-   [
-    "2026-08-21",
-    91800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-03",
-  "restocked_at_at": "2026-09-03T13:12:21+09:00"
  },
  "FTMN3J/A": {
   "first_seen": "2026-08-06",
@@ -5086,6 +5068,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD1T4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T14:46:20+09:00",
+  "last_seen": "2026-09-03",
+  "title": "iPhone 16e 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 91800,
+  "price_history": [
+   [
+    "2026-08-21",
+    91800
+   ]
+  ],
+  "sold_out_at": "2026-09-03",
+  "baseline": null,
+  "restocked_at": "2026-09-03",
+  "restocked_at_at": "2026-09-03T13:12:21+09:00"
  },
  "FWUG3J/A": {
   "first_seen": "2026-08-22",
