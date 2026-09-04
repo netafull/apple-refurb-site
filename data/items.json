@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04T08:42:19+09:00",
- "count": 298,
+ "generated_at": "2026-09-04T09:12:25+09:00",
+ "count": 296,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1072,23 +1072,6 @@
    "color": "whitetitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FU6R3J/A",
-   "title": "iPhone 15 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-   "price": 151800,
-   "url": "https://www.apple.com/jp/shop/product/fu6r3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-max-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOVUpNZ1R1L2lwTjc3NlN5K2tqbmltS2wzZ2l0Q2Y3RXpnREt1U2lXUUgvWTJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkZpWDFmWWZxbEJxaThCbHhMT0JIcnJmbW94YnYxc1YvNXZ4emJGL0IxNFp3",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15promax",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "naturaltitanium",
-   "memory": "",
-   "since": "2026-07-31"
   },
   {
    "part_number": "FU6T3J/A",
@@ -3522,23 +3505,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FGDN4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-   "price": 363800,
-   "url": "https://www.apple.com/jp/shop/product/fgdn4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDR4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
    "price": 363800,
@@ -3552,6 +3518,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "spaceblack",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDN4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdn4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -3658,23 +3641,6 @@
    "since": "2026-08-13"
   },
   {
-   "part_number": "FDE34J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-   "price": 318800,
-   "url": "https://www.apple.com/jp/shop/product/fde34j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FDE64J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
    "price": 318800,
@@ -3690,6 +3656,23 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FDE34J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "price": 318800,
+   "url": "https://www.apple.com/jp/shop/product/fde34j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "24gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1E35J/A",
@@ -4372,23 +4355,6 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "FHFC4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
-   "price": 116800,
-   "url": "https://www.apple.com/jp/shop/product/fhfc4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYllDQUIwMnV0STF0WFRmN05vUUc0cUJ0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXFJa1Evbk5jTUkvY1BFNEk1c3RMc3Q",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FHFE4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
    "price": 116800,
@@ -4402,6 +4368,23 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "citrus",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FHFC4J/A",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fhfc4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYllDQUIwMnV0STF0WFRmN05vUUc0cUJ0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXFJa1Evbk5jTUkvY1BFNEk1c3RMc3Q",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookneo",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "silver",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -4831,6 +4814,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 74800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 74800,
@@ -4852,23 +4852,6 @@
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
    "price": 74800,
    "url": "https://www.apple.com/jp/shop/product/ff8e4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 74800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20",
    "category": "watch",
    "category_name": "Apple Watch",
@@ -5033,23 +5016,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FEPF4J/A",
-   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
-   "price": 46800,
-   "url": "https://www.apple.com/jp/shop/product/fepf4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-cell-alum-starlight-sport-band-starlight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NnpkbGhOTksydmJUV2ZGSndOUnZxZ3ArMHp6NmpJWDZReVlVR0o2eDh0Tm5JZ0c1Z1hmM2hBS0twb1I0WkhYME1QZTIxQkpTZ3NJUXZnejlPa0p1UWh3UHdJeXlueThDME5lME1yK1UwbUdRTnpyb2w4UDJWSTFMWUtFaDhJbDVicVYxclVkcDhjL3NOVHhudHQ0cjRn",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
   },
   {
    "part_number": "FEPH4J/A",
