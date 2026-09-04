@@ -400,10 +400,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 53,
-   "iphone": 15,
-   "mac": 193,
+   "iphone": 14,
+   "mac": 192,
    "watch": 32
   },
-  "total": 296
+  "total": 294
  }
 }

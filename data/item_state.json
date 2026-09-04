@@ -127,24 +127,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDHA4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-04",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-04",
-  "restocked_at_at": "2026-09-04T13:12:19+09:00"
- },
  "FDH74J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -4075,41 +4057,23 @@
   "restocked_at": "2026-09-03",
   "restocked_at_at": "2026-09-03T11:42:19+09:00"
  },
- "FYDR3J/A": {
-  "first_seen": "2026-08-15",
-  "first_seen_at": "2026-08-15T12:20:42+09:00",
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
   "last_seen": "2026-09-04",
-  "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 105800,
   "price_history": [
    [
-    "2026-08-15",
+    "2026-08-06",
     105800
    ]
   ],
   "sold_out_at": null,
   "baseline": null,
   "restocked_at": "2026-09-04",
-  "restocked_at_at": "2026-09-04T15:13:34+09:00"
- },
- "FYDU3J/A": {
-  "first_seen": "2026-09-03",
-  "first_seen_at": "2026-09-03T11:42:19+09:00",
-  "last_seen": "2026-09-04",
-  "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-09-03",
-    105800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-04",
-  "restocked_at_at": "2026-09-04T15:13:34+09:00"
+  "restocked_at_at": "2026-09-04T15:42:21+09:00"
  },
  "FYDV3J/A": {
   "first_seen": "2026-09-03",
@@ -4861,6 +4825,60 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FDHA4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-04",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": "2026-09-04",
+  "baseline": null,
+  "restocked_at": "2026-09-04",
+  "restocked_at_at": "2026-09-04T13:12:19+09:00"
+ },
+ "FYDR3J/A": {
+  "first_seen": "2026-08-15",
+  "first_seen_at": "2026-08-15T12:20:42+09:00",
+  "last_seen": "2026-09-04",
+  "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-08-15",
+    105800
+   ]
+  ],
+  "sold_out_at": "2026-09-04",
+  "baseline": null,
+  "restocked_at": "2026-09-04",
+  "restocked_at_at": "2026-09-04T15:13:34+09:00"
+ },
+ "FYDU3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-04",
+  "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 105800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ]
+  ],
+  "sold_out_at": "2026-09-04",
+  "baseline": null,
+  "restocked_at": "2026-09-04",
+  "restocked_at_at": "2026-09-04T15:13:34+09:00"
+ },
  "FTML3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -4872,24 +4890,6 @@
    [
     "2026-08-06",
     90800
-   ]
-  ],
-  "sold_out_at": "2026-09-04",
-  "baseline": null,
-  "restocked_at": "2026-09-04",
-  "restocked_at_at": "2026-09-04T14:12:19+09:00"
- },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-09-04",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 105800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
    ]
   ],
   "sold_out_at": "2026-09-04",

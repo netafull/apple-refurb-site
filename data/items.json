@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04T15:13:34+09:00",
- "count": 296,
+ "generated_at": "2026-09-04T15:42:21+09:00",
+ "count": 294,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1125,11 +1125,11 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FYDR3J/A",
-   "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
+   "part_number": "FYDQ3J/A",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 105800,
-   "url": "https://www.apple.com/jp/shop/product/fydr3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
+   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
    "category": "iphone",
    "category_name": "iPhone",
    "shipping": "24時間以内",
@@ -1137,26 +1137,9 @@
    "year": "",
    "capacity": "128gb",
    "screen": "",
-   "color": "white",
+   "color": "black",
    "memory": "",
-   "since": "2026-08-15"
-  },
-  {
-   "part_number": "FYDU3J/A",
-   "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
-   "price": 105800,
-   "url": "https://www.apple.com/jp/shop/product/fydu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-ultramarine-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvUzEwWDVHYUkybVJKVkYxZmJqc0xnV3NlL1VpWDFHcHBMQXVUWWdWdkZZNFB0RzNpQ0Mxc293RHpBd2NJd0FqVzd6U3I2VGRwUkpnRFQ2alBwWXpkaHkzS3pyeFZTOUFkbGFoMDY1R0M0VnI",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-03"
+   "since": "2026-08-06"
   },
   {
    "part_number": "FYDV3J/A",
@@ -4285,23 +4268,6 @@
    "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1JxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDH74J/A",
