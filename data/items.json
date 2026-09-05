@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T08:12:20+09:00",
- "count": 278,
+ "generated_at": "2026-09-06T08:42:21+09:00",
+ "count": 277,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -800,23 +800,6 @@
    "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FYGY3J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
-   "price": 128800,
-   "url": "https://www.apple.com/jp/shop/product/fygy3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-28"
   },
   {
    "part_number": "FXNA3J/A",
