@@ -3193,22 +3193,6 @@
   "restocked_at": "2026-08-25",
   "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
- "FCNL4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-09-05",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-08-25",
-    135800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-05",
@@ -4582,6 +4566,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCNL4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-09-05",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-08-25",
+    135800
+   ]
+  ],
+  "sold_out_at": "2026-09-05",
+  "baseline": null
  },
  "FTU73J/A": {
   "first_seen": "2026-07-30",

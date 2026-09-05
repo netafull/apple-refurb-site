@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-05T23:12:20+09:00",
- "count": 280,
+ "generated_at": "2026-09-05T23:42:20+09:00",
+ "count": 279,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -800,23 +800,6 @@
    "color": "starlight",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCNL4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-   "price": 135800,
-   "url": "https://www.apple.com/jp/shop/product/fcnl4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dDdNVWJ6aEt3Z1M2TENqZmt0dEdURkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdG9ldnRERERzWnJUTWJvdTcyMWRUNk0",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FYGY3J/A",
