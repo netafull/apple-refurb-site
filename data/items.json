@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T10:42:20+09:00",
+ "generated_at": "2026-09-05T11:12:21+09:00",
  "count": 287,
  "items": [
   {
@@ -764,23 +764,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "silver",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCNH4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 135800,
-   "url": "https://www.apple.com/jp/shop/product/fcnh4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3b0pJYjdHWnp3SEVyejBPNjljS0p1VVBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5LS3V6TDJaRUsxVG1OcG9wZ0Jjd1A",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -4249,6 +4232,23 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "citrus",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FHFG4J/A",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - インディゴ",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fhfg4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNQ0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookneo",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "indigo",
    "memory": "",
    "since": "2026-07-30"
   },

@@ -95,6 +95,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FHFG4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-05",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - インディゴ",
+  "category": "mac",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-07-30",
+    116800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-05",
+  "restocked_at_at": "2026-09-05T11:12:21+09:00"
+ },
  "FHFJ4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-05",
@@ -3209,24 +3227,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FCNH4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-05",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-07-30",
-    135800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
- },
  "FCNJ4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-05",
@@ -4705,6 +4705,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FCNH4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-05",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-07-30",
+    135800
+   ]
+  ],
+  "sold_out_at": "2026-09-05",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T10:50:32+09:00"
+ },
  "G1JR6J/A": {
   "first_seen": "2026-08-17",
   "first_seen_at": "2026-08-17T12:12:03+09:00",
@@ -4738,22 +4756,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
- "FHFG4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-04",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - インディゴ",
-  "category": "mac",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-07-30",
-    116800
-   ]
-  ],
-  "sold_out_at": "2026-09-04",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "FU0H3J/A": {
   "first_seen": "2026-07-31",
