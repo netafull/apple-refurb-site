@@ -4135,22 +4135,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FEPH4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T15:02:06+09:00",
-  "last_seen": "2026-09-05",
-  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 46800,
-  "price_history": [
-   [
-    "2026-08-21",
-    46800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FEUW4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4303,6 +4287,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-09-05",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 74800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4324,22 +4324,6 @@
   "first_seen_at": "2026-08-14T13:59:18+09:00",
   "last_seen": "2026-09-05",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 74800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-05",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 74800,
   "price_history": [
@@ -4704,6 +4688,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FEPH4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-09-05",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": "2026-09-05",
+  "baseline": null
  },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
