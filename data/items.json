@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T14:42:19+09:00",
+ "generated_at": "2026-09-06T15:12:21+09:00",
  "count": 276,
  "items": [
   {
@@ -802,23 +802,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FC9W4J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fc9w4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cVN4ckZWRm1jMDB2Mllic1N3NkQ5OFBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5MUGo0WXZBYjJ4Q01ac3NKN3Vuazc",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FXNA3J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
    "price": 98800,
@@ -1072,6 +1055,23 @@
    "color": "yellow",
    "memory": "",
    "since": "2026-08-21"
+  },
+  {
+   "part_number": "FTMH3J/A",
+   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
   },
   {
    "part_number": "G1MY9J/A",

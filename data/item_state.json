@@ -3091,24 +3091,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FC9W4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-06",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-06",
-  "restocked_at_at": "2026-09-06T14:42:19+09:00"
- },
  "FCNJ4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-06",
@@ -3819,6 +3801,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTMH3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-06",
+  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 90800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-06",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-09-06T15:12:21+09:00"
+ },
  "FTMQ3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
@@ -4519,6 +4519,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FC9W4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-06",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": "2026-09-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-06",
+  "restocked_at_at": "2026-09-06T14:42:19+09:00"
+ },
  "FDVF4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-06",
@@ -4568,24 +4586,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-09-06",
   "restocked_at_at": "2026-09-06T12:12:23+09:00"
- },
- "FTMH3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-06",
-  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 90800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ]
-  ],
-  "sold_out_at": "2026-09-06",
-  "baseline": null,
-  "restocked_at": "2026-09-06",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-09-06T10:42:18+09:00"
  },
  "FFEX4J/A": {
   "first_seen": "2026-08-13",
