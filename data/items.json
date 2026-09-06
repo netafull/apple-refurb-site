@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T18:42:20+09:00",
- "count": 275,
+ "generated_at": "2026-09-06T19:12:23+09:00",
+ "count": 274,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1002,23 +1002,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTMU3J/A",
-   "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 137800,
-   "url": "https://www.apple.com/jp/shop/product/ftmu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "black",
    "memory": "",
    "since": "2026-07-31"
   },
