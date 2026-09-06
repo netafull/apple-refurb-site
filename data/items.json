@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T21:12:23+09:00",
- "count": 273,
+ "generated_at": "2026-09-06T21:42:19+09:00",
+ "count": 274,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1021,6 +1021,40 @@
    "color": "yellow",
    "memory": "",
    "since": "2026-08-21"
+  },
+  {
+   "part_number": "FTMH3J/A",
+   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTML3J/A",
+   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+   "price": 90800,
+   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "blue",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
@@ -3773,23 +3807,6 @@
    "capacity": "256gb",
    "screen": "24inch",
    "color": "green",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWV13J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
-   "price": 244800,
-   "url": "https://www.apple.com/jp/shop/product/fwv13j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-blue-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnUTZ2RnZyaU1NM3ZjaUVWSGxDVVVIeVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1hvOGl1NldzcEgrS3dCQmtSQ25yRVFXZEdHNUFPR0hYUU12cjI0VlFzM1A",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
   },
