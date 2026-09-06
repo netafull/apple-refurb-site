@@ -633,22 +633,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDVF4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-06",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 301800,
-  "price_history": [
-   [
-    "2026-07-30",
-    301800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FDVU4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-06",
@@ -3107,6 +3091,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FC9W4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-06",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-06",
+  "restocked_at_at": "2026-09-06T14:42:19+09:00"
+ },
  "FCNJ4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-06",
@@ -4514,6 +4516,22 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDVF4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-06",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 301800,
+  "price_history": [
+   [
+    "2026-07-30",
+    301800
+   ]
+  ],
+  "sold_out_at": "2026-09-06",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
@@ -6350,22 +6368,6 @@
   "baseline": null,
   "restocked_at": "2026-08-31",
   "restocked_at_at": "2026-08-31T13:12:23+09:00"
- },
- "FC9W4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-01",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-09-01",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1L51J/A": {
   "first_seen": "2026-07-30",

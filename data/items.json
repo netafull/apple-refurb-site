@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T14:12:55+09:00",
+ "generated_at": "2026-09-06T14:42:19+09:00",
  "count": 276,
  "items": [
   {
@@ -798,6 +798,23 @@
    "capacity": "128gb",
    "screen": "13inch",
    "color": "starlight",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FC9W4J/A",
+   "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+   "price": 102800,
+   "url": "https://www.apple.com/jp/shop/product/fc9w4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cVN4ckZWRm1jMDB2Mllic1N3NkQ5OFBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5MUGo0WXZBYjJ4Q01ac3NKN3Vuazc",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2025",
+   "capacity": "128gb",
+   "screen": "11inch",
+   "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -3501,23 +3518,6 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDVF4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 301800,
-   "url": "https://www.apple.com/jp/shop/product/fdvf4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "starlight",
    "memory": "24gb",
    "since": "2026-07-30"
   },
