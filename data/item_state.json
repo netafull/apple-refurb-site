@@ -2879,22 +2879,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-07",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -2910,6 +2894,22 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "G1MN8J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-07",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -3799,22 +3799,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU6T3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-07",
-  "title": "iPhone 15 Pro Max 256GB - ブルーチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 151800,
-  "price_history": [
-   [
-    "2026-07-31",
-    151800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00"
- },
  "FU6U3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
@@ -4446,6 +4430,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU6T3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-07",
+  "title": "iPhone 15 Pro Max 256GB - ブルーチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 151800,
+  "price_history": [
+   [
+    "2026-07-31",
+    151800
+   ]
+  ],
+  "sold_out_at": "2026-09-07",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00"
  },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
