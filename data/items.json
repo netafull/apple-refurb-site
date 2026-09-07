@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T22:12:20+09:00",
+ "generated_at": "2026-09-07T22:42:20+09:00",
  "count": 287,
  "items": [
   {
@@ -987,6 +987,23 @@
    "color": "whitetitanium",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FTMQ3J/A",
+   "title": "iPhone 15 256GB - イエロー（SIMフリー）[整備済製品]",
+   "price": 104800,
+   "url": "https://www.apple.com/jp/shop/product/ftmq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "yellow",
+   "memory": "",
+   "since": "2026-08-21"
   },
   {
    "part_number": "G1CE2J/A",
@@ -4183,23 +4200,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1L60J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 204800,
-   "url": "https://www.apple.com/jp/shop/product/g1l60j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVI5TUQzL21jdWI1S2Qzb0NoYWtienArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDH74J/A",
