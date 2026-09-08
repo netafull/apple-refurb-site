@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T11:42:26+09:00",
- "count": 281,
+ "generated_at": "2026-09-08T12:12:22+09:00",
+ "count": 280,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3537,23 +3537,6 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1E35J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - イエロー",
-   "price": 317800,
-   "url": "https://www.apple.com/jp/shop/product/g1e35j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-yellow-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=OEJnRnZ6T2I2a0loUXhQL09vT1V2cldGdjZVRkJsWVk2b1FiVWgrb09vbTVlaGNxdjZyUHVNbUQxQ3ZuZXFsLzJoYjFUeWNpeWs0V2M2VWsxRlVDbUZXU284cjVyWHY2ZFFqalVkTllRK1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "yellow",
-   "memory": "24gb",
-   "since": "2026-08-19"
   },
   {
    "part_number": "G1KJ2J/A",
