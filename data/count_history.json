@@ -443,11 +443,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 48,
+   "ipad": 47,
    "iphone": 7,
-   "mac": 215,
+   "mac": 214,
    "watch": 30
   },
-  "total": 303
+  "total": 301
  }
 }

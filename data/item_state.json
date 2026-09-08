@@ -2759,28 +2759,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FU973J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-09-08",
-  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 747800,
-  "price_history": [
-   [
-    "2026-08-04",
-    763800
-   ],
-   [
-    "2026-08-26",
-    747800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-07",
-  "restocked_at_at": "2026-09-07T17:42:19+09:00"
- },
  "G1FV1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-08",
@@ -3571,22 +3549,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-08",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3635,6 +3597,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-08",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXNA3J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3650,24 +3628,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FCNK4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-08",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-07-30",
-    135800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -4990,6 +4950,46 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU973J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-09-08",
+  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 747800,
+  "price_history": [
+   [
+    "2026-08-04",
+    763800
+   ],
+   [
+    "2026-08-26",
+    747800
+   ]
+  ],
+  "sold_out_at": "2026-09-08",
+  "baseline": null,
+  "restocked_at": "2026-09-07",
+  "restocked_at_at": "2026-09-07T17:42:19+09:00"
+ },
+ "FCNK4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-08",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-07-30",
+    135800
+   ]
+  ],
+  "sold_out_at": "2026-09-08",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-25",
+  "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
  "G1MNEJ/A": {
   "first_seen": "2026-07-30",
