@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T12:12:22+09:00",
- "count": 280,
+ "generated_at": "2026-09-08T12:42:22+09:00",
+ "count": 281,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3979,6 +3979,23 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FFEX4J/A",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
+   "price": 228800,
+   "url": "https://www.apple.com/jp/shop/product/ffex4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVkhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHZZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "2026",
+   "capacity": "",
+   "screen": "27inch",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-13"
   },
   {
    "part_number": "FDV94J/A",
