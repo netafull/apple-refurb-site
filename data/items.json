@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T05:12:57+09:00",
- "count": 302,
+ "generated_at": "2026-09-10T05:42:22+09:00",
+ "count": 300,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4049,23 +4049,6 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "G1L02J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 267800,
-   "url": "https://www.apple.com/jp/shop/product/g1l02j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTNvRmR5N1k0RWNXeWI2UUNjbHVoRHc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "32gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "G1DF0J/A",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
    "price": 256800,
@@ -5101,23 +5084,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FEV94J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 46mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
-   "price": 56800,
-   "url": "https://www.apple.com/jp/shop/product/fev94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-silver-sport-band-fog?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKRGpmV0Jtalg0cm0zdnQvTjlTY1VuVk9nSktxbERLY1FWZTZub2hTaEFFUDE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2NjdTljKzlLMXB3emJSN0tMMWwxSHk",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FEVA4J/A",
