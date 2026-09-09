@@ -1053,22 +1053,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1JV6J/A": {
-  "first_seen": "2026-09-09",
-  "first_seen_at": "2026-09-09T17:42:19+09:00",
-  "last_seen": "2026-09-10",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-  "category": "mac",
-  "price": 329800,
-  "price_history": [
-   [
-    "2026-09-09",
-    329800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FFF04J/A": {
   "first_seen": "2026-08-13",
   "first_seen_at": "2026-08-13T11:44:53+09:00",
@@ -3621,22 +3605,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-10",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3674,6 +3642,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-10",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-10",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -5044,6 +5028,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1JV6J/A": {
+  "first_seen": "2026-09-09",
+  "first_seen_at": "2026-09-09T17:42:19+09:00",
+  "last_seen": "2026-09-10",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+  "category": "mac",
+  "price": 329800,
+  "price_history": [
+   [
+    "2026-09-09",
+    329800
+   ]
+  ],
+  "sold_out_at": "2026-09-10",
+  "baseline": null
  },
  "G1CF0J/A": {
   "first_seen": "2026-08-04",
