@@ -454,11 +454,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 46,
+   "ipad": 47,
    "iphone": 7,
-   "mac": 225,
+   "mac": 222,
    "watch": 29
   },
-  "total": 310
+  "total": 308
  }
 }
