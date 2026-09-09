@@ -466,10 +466,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 45,
-   "iphone": 8,
-   "mac": 223,
+   "iphone": 7,
+   "mac": 222,
    "watch": 29
   },
-  "total": 308
+  "total": 306
  }
 }
