@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T13:12:22+09:00",
- "count": 286,
+ "generated_at": "2026-09-10T13:42:21+09:00",
+ "count": 281,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1040,23 +1040,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MK8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 1450800,
-   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "128gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1MN8J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
    "price": 1450800,
@@ -1072,6 +1055,23 @@
    "color": "spaceblack",
    "memory": "128gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1MK8J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+   "price": 1450800,
+   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "8tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "128gb",
+   "since": "2026-08-19"
   },
   {
    "part_number": "G1MY6J/A",
@@ -4253,23 +4253,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FW1H3J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fw1h3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZkZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTkwcndVbXZnc05ScUZZRTJCcXdzUDA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-24"
-  },
-  {
    "part_number": "FWUC3J/A",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
    "price": 210800,
@@ -4506,23 +4489,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FFCW4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmナチュラルチタニウムケースとS/Mストーングレイスポーツバンド [整備済製品]",
-   "price": 98800,
-   "url": "https://www.apple.com/jp/shop/product/ffcw4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-titanium-natural-sport-band-gray?wid=400&hei=400&fmt=jpeg&qlt=90&.v=UlJpQkdCWEQ4UTAvbWpRRUZwUVhCNms2cmE2V3ZqVVNaYndEM05LN1dOSG53UFkrRVZWREwwcmQ2MW9oRUYvQUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXl1eG9KL1dZdCt2bWovTHJyRlZGbEQ",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FFD14J/A",
@@ -4812,57 +4778,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-14"
-  },
-  {
-   "part_number": "FEUX4J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-   "price": 56800,
-   "url": "https://www.apple.com/jp/shop/product/feux4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-jet-sport-band-black?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKTTIrb0FJM2hvRXB1b3gvSERZUVQ2UzllVmFiaWRKVG1USkZvcUNwUmZ5R0hBL0FqTEtmTHdMUTE3UXl2NVRTWVpBM091aVh3L1pValV0Z29TSHdpWG5IblB5Zkc3RmdRK1J5SWYvY05zR2E",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FEV74J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 56800,
-   "url": "https://www.apple.com/jp/shop/product/fev74j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKRjlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VwK0p3c1NOVUVNY0ZUdDEzNmJWM3c",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FEVA4J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 46mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-   "price": 56800,
-   "url": "https://www.apple.com/jp/shop/product/feva4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-silver-sport-band-fog?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKRGpmV0Jtalg0cm0zdnQvTjlTY1VuVk9nSktxbERLY1FWZTZub2hTaEFFUDE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2NjdTljKzlLMXB3emJSN0tMMWwxSHk",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-28"
   }
  ]
 }
