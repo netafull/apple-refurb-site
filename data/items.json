@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T21:42:27+09:00",
- "count": 272,
+ "generated_at": "2026-09-10T22:12:24+09:00",
+ "count": 271,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3435,23 +3435,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-13"
-  },
-  {
-   "part_number": "G1EU0J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
-   "price": 321800,
-   "url": "https://www.apple.com/jp/shop/product/g1eu0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-purple-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnVVM3cUlJTGRQM2xLN25jS244d3ZIcENSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXF2b2FmbHpNQ3ZWcVhjNkV0OS9nWVhuTzk0Tk5vMEsrVjRKdHJ0bU5oVno",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "purple",
-   "memory": "16gb",
-   "since": "2026-09-08"
   },
   {
    "part_number": "G1EW0J/A",
