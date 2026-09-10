@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T12:42:55+09:00",
- "count": 285,
+ "generated_at": "2026-09-10T13:12:22+09:00",
+ "count": 286,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4812,6 +4812,23 @@
    "color": "",
    "memory": "",
    "since": "2026-08-14"
+  },
+  {
+   "part_number": "FEUX4J/A",
+   "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "price": 56800,
+   "url": "https://www.apple.com/jp/shop/product/feux4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-jet-sport-band-black?wid=400&hei=400&fmt=jpeg&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKTTIrb0FJM2hvRXB1b3gvSERZUVQ2UzllVmFiaWRKVG1USkZvcUNwUmZ5R0hBL0FqTEtmTHdMUTE3UXl2NVRTWVpBM091aVh3L1pValV0Z29TSHdpWG5IblB5Zkc3RmdRK1J5SWYvY05zR2E",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-28"
   },
   {
    "part_number": "FEV74J/A",
