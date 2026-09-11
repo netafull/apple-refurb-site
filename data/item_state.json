@@ -1759,24 +1759,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MJ2J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-11",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 558800,
-  "price_history": [
-   [
-    "2026-08-19",
-    558800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-06",
-  "restocked_at_at": "2026-09-06T13:12:22+09:00"
- },
  "G1FF9J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-11",
@@ -3243,22 +3225,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-11",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3296,6 +3262,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-11",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-11",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4348,6 +4330,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MJ2J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-09-11",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 558800,
+  "price_history": [
+   [
+    "2026-08-19",
+    558800
+   ]
+  ],
+  "sold_out_at": "2026-09-11",
+  "baseline": null,
+  "restocked_at": "2026-09-06",
+  "restocked_at_at": "2026-09-06T13:12:22+09:00"
  },
  "G1E53J/A": {
   "first_seen": "2026-09-08",
