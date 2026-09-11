@@ -393,6 +393,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "G1LQ0J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-11",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 253800,
+  "price_history": [
+   [
+    "2026-07-31",
+    253800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-11",
+  "restocked_at_at": "2026-09-11T15:12:21+09:00"
+ },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-11",
@@ -3175,6 +3193,22 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-11",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3223,21 +3257,23 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
+ "FC9W4J/A": {
+  "first_seen": "2026-07-30",
   "last_seen": "2026-09-11",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
-  "price": 84800,
+  "price": 102800,
   "price_history": [
    [
-    "2026-08-28",
-    84800
+    "2026-07-30",
+    102800
    ]
   ],
   "sold_out_at": null,
-  "baseline": null
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-11",
+  "restocked_at_at": "2026-09-11T15:12:21+09:00"
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -4118,28 +4154,6 @@
   "sold_out_at": null,
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-11",
-  "restocked_at_at": "2026-09-11T13:12:21+09:00"
- },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-09-11",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
@@ -5031,6 +5045,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-09-11",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-06",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-11",
+  "baseline": null,
+  "restocked_at": "2026-09-11",
+  "restocked_at_at": "2026-09-11T13:12:21+09:00"
+ },
  "G1MX3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-11",
@@ -5850,24 +5886,6 @@
   ],
   "sold_out_at": "2026-09-10",
   "baseline": null,
-  "restocked_at": "2026-09-09",
-  "restocked_at_at": "2026-09-09T15:42:21+09:00"
- },
- "G1LQ0J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-10",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 253800,
-  "price_history": [
-   [
-    "2026-07-31",
-    253800
-   ]
-  ],
-  "sold_out_at": "2026-09-10",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-09-09",
   "restocked_at_at": "2026-09-09T15:42:21+09:00"
  },
@@ -6864,24 +6882,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-09-07",
   "restocked_at_at": "2026-09-07T16:42:20+09:00"
- },
- "FC9W4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-06",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-09-06",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-06",
-  "restocked_at_at": "2026-09-06T14:42:19+09:00"
  },
  "G1MNNJ/A": {
   "first_seen": "2026-08-26",
