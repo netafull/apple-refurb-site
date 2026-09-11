@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T23:12:24+09:00",
- "count": 288,
+ "generated_at": "2026-09-11T23:42:20+09:00",
+ "count": 289,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1157,6 +1157,23 @@
    "color": "whitetitanium",
    "memory": "",
    "since": "2026-08-01"
+  },
+  {
+   "part_number": "FYDX3J/A",
+   "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fydx3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "white",
+   "memory": "",
+   "since": "2026-09-03"
   },
   {
    "part_number": "FTU73J/A",
