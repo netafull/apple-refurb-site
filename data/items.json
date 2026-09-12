@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-12T14:42:28+09:00",
- "count": 284,
+ "generated_at": "2026-09-12T21:42:18+09:00",
+ "count": 281,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -734,6 +734,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -781,23 +798,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1516,23 +1516,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MK8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 1450800,
-   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "128gb",
-   "since": "2026-08-19"
-  },
-  {
    "part_number": "G1MN8J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
    "price": 1450800,
@@ -1548,6 +1531,23 @@
    "color": "spaceblack",
    "memory": "128gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1MK8J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+   "price": 1450800,
+   "url": "https://www.apple.com/jp/shop/product/g1mk8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "8tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "128gb",
+   "since": "2026-08-19"
   },
   {
    "part_number": "G1MY6J/A",
@@ -3726,23 +3726,6 @@
    "since": "2026-09-08"
   },
   {
-   "part_number": "G1JV6J/A",
-   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-   "price": 329800,
-   "url": "https://www.apple.com/jp/shop/product/g1jv6j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-09-09"
-  },
-  {
    "part_number": "G1EW0J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - オレンジ",
    "price": 321800,
@@ -3909,23 +3892,6 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "midnight",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDVU4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 301800,
-   "url": "https://www.apple.com/jp/shop/product/fdvu4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NwdW0rTThNNHZVMGhTd2pTVXk3K1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "skyblue",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -4591,23 +4557,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FF8T4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスレートチタニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-   "price": 91800,
-   "url": "https://www.apple.com/jp/shop/product/ff8t4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-titanium-slate-sport-band-black?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NzVha2V6YWNaaHFoVzJsQWNOZ05KWTZwOGFiQ1NXWDNOWkJxemJMdGVCa2NrUTZaU1hROHVrdS9MNG5rTy9nRGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU93WGV2TmdTUjFoVDNWeHJTU1IyMTg",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FF8X4J/A",
