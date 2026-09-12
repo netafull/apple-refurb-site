@@ -4531,22 +4531,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FWXE3J/A": {
-  "first_seen": "2026-09-11",
-  "first_seen_at": "2026-09-11T14:42:21+09:00",
-  "last_seen": "2026-09-13",
-  "title": "Apple Watch Series 10（GPS + Cellularモデル）- 42mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 76800,
-  "price_history": [
-   [
-    "2026-09-11",
-    76800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FWYY3J/A": {
   "first_seen": "2026-09-03",
   "first_seen_at": "2026-09-03T12:12:20+09:00",
@@ -4714,6 +4698,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FWXE3J/A": {
+  "first_seen": "2026-09-11",
+  "first_seen_at": "2026-09-11T14:42:21+09:00",
+  "last_seen": "2026-09-13",
+  "title": "Apple Watch Series 10（GPS + Cellularモデル）- 42mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 76800,
+  "price_history": [
+   [
+    "2026-09-11",
+    76800
+   ]
+  ],
+  "sold_out_at": "2026-09-13",
+  "baseline": null
  },
  "G1MJ3J/A": {
   "first_seen": "2026-08-19",
