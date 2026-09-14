@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T13:12:20+09:00",
- "count": 291,
+ "generated_at": "2026-09-14T13:42:19+09:00",
+ "count": 288,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1172,23 +1172,6 @@
    "capacity": "128gb",
    "screen": "",
    "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-03"
-  },
-  {
-   "part_number": "FYDV3J/A",
-   "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydv3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-teal-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWmF3WDJWWUM4S1RKbFZDTldJT2dsK3dFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cFphU0FmZTR0UjlNVnFmVUtXSnNIckE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "teal",
    "memory": "",
    "since": "2026-09-03"
   },
@@ -3165,23 +3148,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1FP4J/A",
-   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - シルバー",
-   "price": 451800,
-   "url": "https://www.apple.com/jp/shop/product/g1fp4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m4-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=d04ycXJNT3FjYU8yTmdpcGxNTTc2OHExTVkrVjUvZnVYc2Z5Vld3SUljUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXhEYkoxU2ZPdGIyVlBtdm5vOGZ2K00",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "16inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGE44J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 441800,
@@ -4489,23 +4455,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FC654J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 207800,
-   "url": "https://www.apple.com/jp/shop/product/fc654j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FIL0ZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQS9HZGNGbjJUTUZJVnBRNU91UUlScVk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-06"
   },
   {
    "part_number": "FC6U4J/A",
