@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T19:12:20+09:00",
- "count": 300,
+ "generated_at": "2026-09-14T19:42:22+09:00",
+ "count": 298,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -734,6 +734,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -781,23 +798,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -2910,23 +2910,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MH8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
-   "price": 546800,
-   "url": "https://www.apple.com/jp/shop/product/g1mh8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "64gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1MV3J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
    "price": 540800,
@@ -4725,23 +4708,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FW0X3J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 177800,
-   "url": "https://www.apple.com/jp/shop/product/fw0x3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FIL0ZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQS9HZGNGbjJUTUZJVnBRNU91UUlScVk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "silver",
    "memory": "16gb",
    "since": "2026-08-04"
   },
