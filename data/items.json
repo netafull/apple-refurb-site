@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T22:42:20+09:00",
- "count": 271,
+ "generated_at": "2026-09-15T23:12:21+09:00",
+ "count": 270,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -734,23 +734,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -798,6 +781,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -4591,23 +4591,6 @@
    "color": "",
    "memory": "",
    "since": "2026-09-03"
-  },
-  {
-   "part_number": "FF8J4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8j4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuVk9nSktxbERLY1FWZTZub2hTaEFFUDE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2RsVDJxanA0dFNWd0lKUDVFY0JXc24",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   }
  ]
 }
