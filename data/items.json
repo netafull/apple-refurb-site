@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T21:12:24+09:00",
- "count": 274,
+ "generated_at": "2026-09-15T21:42:22+09:00",
+ "count": 272,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1667,23 +1667,6 @@
    "color": "spaceblack",
    "memory": "",
    "since": "2026-08-06"
-  },
-  {
-   "part_number": "G1CE6J/A",
-   "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-   "price": 1053800,
-   "url": "https://www.apple.com/jp/shop/product/g1ce6j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "2tb",
-   "screen": "",
-   "color": "",
-   "memory": "96gb",
-   "since": "2026-09-07"
   },
   {
    "part_number": "G1MY7J/A",
@@ -4402,23 +4385,6 @@
    "capacity": "256gb",
    "screen": "24inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWUE3J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - グリーン",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fwue3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-green-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VmhEUlJZekFEUi9SaHdRaVd2c2pLVWNOOEdoS2g4Z2ZyY1JsMVB5bmhTL1htNzFpejIzSXMvUDdLcTNKdnVta1QyMDQ2THNtOTVDMDFHQkRCYjc5NWc0cTZSaWdMNGZ5N1hENUtDeDNYZlk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
   },
