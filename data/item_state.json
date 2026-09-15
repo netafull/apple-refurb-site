@@ -1,7 +1,7 @@
 {
  "FHFA4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
   "category": "mac",
   "price": 102800,
@@ -17,7 +17,7 @@
  },
  "FHFD4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シトラス",
   "category": "mac",
   "price": 102800,
@@ -33,7 +33,7 @@
  },
  "FHFF4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
   "category": "mac",
   "price": 102800,
@@ -49,7 +49,7 @@
  },
  "FHFH4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - ブラッシュ",
   "category": "mac",
   "price": 102800,
@@ -63,10 +63,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "last_seen": "2026-09-16",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -79,10 +79,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "last_seen": "2026-09-16",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -97,7 +97,7 @@
  },
  "FHFJ4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - ブラッシュ",
   "category": "mac",
   "price": 116800,
@@ -113,7 +113,7 @@
  },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
   "category": "mac",
   "price": 210800,
@@ -129,7 +129,7 @@
  },
  "G1H80J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
   "category": "mac",
   "price": 222800,
@@ -147,7 +147,7 @@
  },
  "FDV94J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 223800,
@@ -163,7 +163,7 @@
  },
  "FDVD4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
   "category": "mac",
   "price": 223800,
@@ -181,7 +181,7 @@
  },
  "FDVH4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
   "category": "mac",
   "price": 223800,
@@ -199,7 +199,7 @@
  },
  "FDVQ4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 223800,
@@ -215,7 +215,7 @@
  },
  "FDH84J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 236800,
@@ -234,7 +234,7 @@
  "FDHC4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
   "category": "mac",
   "price": 236800,
@@ -249,7 +249,7 @@
  },
  "FDHJ4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 236800,
@@ -266,7 +266,7 @@
  "FWUU3J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
   "category": "mac",
   "price": 244800,
@@ -281,7 +281,7 @@
  },
  "FWUY3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
   "category": "mac",
   "price": 244800,
@@ -297,7 +297,7 @@
  },
  "FWV13J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
   "category": "mac",
   "price": 244800,
@@ -315,7 +315,7 @@
  },
  "FWV43J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
   "category": "mac",
   "price": 244800,
@@ -332,7 +332,7 @@
  "FWV83J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - オレンジ",
   "category": "mac",
   "price": 244800,
@@ -347,7 +347,7 @@
  },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
   "category": "mac",
   "price": 256800,
@@ -363,7 +363,7 @@
  },
  "G1HE0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
   "category": "mac",
   "price": 256800,
@@ -379,7 +379,7 @@
  },
  "FDVA4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 270800,
@@ -395,7 +395,7 @@
  },
  "FDVE4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
   "category": "mac",
   "price": 270800,
@@ -411,7 +411,7 @@
  },
  "FDVK4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
   "category": "mac",
   "price": 270800,
@@ -427,7 +427,7 @@
  },
  "FDVT4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 270800,
@@ -443,7 +443,7 @@
  },
  "FWUV3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
   "category": "mac",
   "price": 275800,
@@ -462,7 +462,7 @@
  "FWV33J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
   "category": "mac",
   "price": 275800,
@@ -479,7 +479,7 @@
  },
  "G1EH1J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
   "category": "mac",
   "price": 275800,
@@ -495,7 +495,7 @@
  },
  "G1EP1J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
   "category": "mac",
   "price": 275800,
@@ -511,7 +511,7 @@
  },
  "G1ER1J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ピンク",
   "category": "mac",
   "price": 275800,
@@ -528,7 +528,7 @@
  "G1E62J/A": {
   "first_seen": "2026-08-22",
   "first_seen_at": "2026-08-22T12:06:07+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ピンク",
   "category": "mac",
   "price": 286800,
@@ -544,7 +544,7 @@
  "FDE14J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
   "category": "mac",
   "price": 288800,
@@ -559,7 +559,7 @@
  },
  "FDE54J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 288800,
@@ -577,7 +577,7 @@
  },
  "FDVC4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 301800,
@@ -593,7 +593,7 @@
  },
  "FDVF4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
   "category": "mac",
   "price": 301800,
@@ -611,7 +611,7 @@
  },
  "FDVN4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
   "category": "mac",
   "price": 301800,
@@ -629,7 +629,7 @@
  },
  "FDVU4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 301800,
@@ -648,7 +648,7 @@
  "FCR24J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
   "category": "mac",
   "price": 306800,
@@ -666,7 +666,7 @@
  "FD2T4J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
   "category": "mac",
   "price": 306800,
@@ -684,7 +684,7 @@
  "FD2W4J/A": {
   "first_seen": "2026-09-15",
   "first_seen_at": "2026-09-15T10:12:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - オレンジ",
   "category": "mac",
   "price": 306800,
@@ -699,7 +699,7 @@
  },
  "G1KJ2J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 311800,
@@ -716,7 +716,7 @@
  "G1KM2J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 311800,
@@ -729,9 +729,25 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-16",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 318800,
@@ -747,26 +763,10 @@
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
  },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1EW0J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - オレンジ",
   "category": "mac",
   "price": 321800,
@@ -782,7 +782,7 @@
  "G1LS2J/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 331800,
@@ -797,7 +797,7 @@
  },
  "G1LY2J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
   "category": "mac",
   "price": 331800,
@@ -815,7 +815,7 @@
  },
  "G1M22J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 331800,
@@ -834,7 +834,7 @@
  "G1K17J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
   "category": "mac",
   "price": 336800,
@@ -850,7 +850,7 @@
  "G1KN5J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 341800,
@@ -868,7 +868,7 @@
  "G1KN2J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 348800,
@@ -885,7 +885,7 @@
  },
  "G1EL3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - イエロー",
   "category": "mac",
   "price": 351800,
@@ -902,7 +902,7 @@
  "G1GT4J/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T15:42:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
   "category": "mac",
   "price": 360800,
@@ -918,7 +918,7 @@
  "G1H94J/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
   "category": "mac",
   "price": 360800,
@@ -931,10 +931,10 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "last_seen": "2026-09-16",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -949,10 +949,10 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "last_seen": "2026-09-16",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -970,7 +970,7 @@
  "G1M20J/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 377800,
@@ -986,7 +986,7 @@
  "FX2F3J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
   "category": "mac",
   "price": 379800,
@@ -1001,7 +1001,7 @@
  },
  "FX2J3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
   "category": "mac",
   "price": 379800,
@@ -1019,7 +1019,7 @@
  },
  "FX2T3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
   "category": "mac",
   "price": 382800,
@@ -1037,7 +1037,7 @@
  },
  "FX2X3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
   "category": "mac",
   "price": 382800,
@@ -1056,7 +1056,7 @@
  "G1K75J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
   "category": "mac",
   "price": 382800,
@@ -1072,7 +1072,7 @@
  "G1K85J/A": {
   "first_seen": "2026-09-15",
   "first_seen_at": "2026-09-15T10:12:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - オレンジ",
   "category": "mac",
   "price": 382800,
@@ -1087,7 +1087,7 @@
  },
  "G1KJ3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 387800,
@@ -1106,7 +1106,7 @@
  "G1HF4J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
   "category": "mac",
   "price": 393800,
@@ -1124,7 +1124,7 @@
  "G1MH4J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T16:18:31+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 393800,
@@ -1141,7 +1141,7 @@
  },
  "G1EJ1J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
   "category": "mac",
   "price": 397800,
@@ -1157,7 +1157,7 @@
  },
  "FFEN4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Studio Display XDR [整備済製品] - 標準ガラス - VESAマウントアダプタ",
   "category": "mac",
   "price": 406800,
@@ -1175,7 +1175,7 @@
  },
  "G1LY3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
   "category": "mac",
   "price": 408800,
@@ -1194,7 +1194,7 @@
  "G1ML5J/A": {
   "first_seen": "2026-09-07",
   "first_seen_at": "2026-09-07T17:42:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 416800,
@@ -1212,7 +1212,7 @@
  "G1FB8J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
   "category": "mac",
   "price": 427800,
@@ -1228,7 +1228,7 @@
  "G1K13J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
   "category": "mac",
   "price": 428800,
@@ -1244,7 +1244,7 @@
  "G1K73J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
   "category": "mac",
   "price": 428800,
@@ -1259,7 +1259,7 @@
  },
  "G1MHAJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 439800,
@@ -1275,7 +1275,7 @@
  },
  "G1MLAJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 439800,
@@ -1291,7 +1291,7 @@
  },
  "FGE44J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 441800,
@@ -1307,7 +1307,7 @@
  },
  "FGEA4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 441800,
@@ -1323,7 +1323,7 @@
  },
  "FFEQ4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Studio Display XDR [整備済製品] - Nano-textureガラス - VESAマウントアダプタ",
   "category": "mac",
   "price": 449800,
@@ -1342,7 +1342,7 @@
  "G1K76J/A": {
   "first_seen": "2026-09-15",
   "first_seen_at": "2026-09-15T10:12:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
   "category": "mac",
   "price": 459800,
@@ -1357,7 +1357,7 @@
  },
  "G1MV0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 464800,
@@ -1373,7 +1373,7 @@
  },
  "G1MZ0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 464800,
@@ -1389,7 +1389,7 @@
  },
  "FFEL4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Studio Display XDR [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
   "category": "mac",
   "price": 465800,
@@ -1405,7 +1405,7 @@
  },
  "FGDP4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 466800,
@@ -1421,7 +1421,7 @@
  },
  "FGDT4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 466800,
@@ -1439,7 +1439,7 @@
  },
  "FX2U3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
   "category": "mac",
   "price": 473800,
@@ -1455,7 +1455,7 @@
  },
  "FX2Y3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
   "category": "mac",
   "price": 473800,
@@ -1472,7 +1472,7 @@
  "G1K12J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - シルバー",
   "category": "mac",
   "price": 489800,
@@ -1488,7 +1488,7 @@
  "G1K52J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ブルー",
   "category": "mac",
   "price": 489800,
@@ -1506,7 +1506,7 @@
  "G1L21J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 496800,
@@ -1522,7 +1522,7 @@
  "FX2G3J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - シルバー",
   "category": "mac",
   "price": 506800,
@@ -1537,7 +1537,7 @@
  },
  "FX2K3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 506800,
@@ -1553,7 +1553,7 @@
  },
  "FFEP4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Studio Display XDR [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
   "category": "mac",
   "price": 509800,
@@ -1572,7 +1572,7 @@
  "G1MV1J/A": {
   "first_seen": "2026-08-16",
   "first_seen_at": "2026-08-16T10:56:23+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 517800,
@@ -1588,7 +1588,7 @@
  "G1FU3J/A": {
   "first_seen": "2026-09-09",
   "first_seen_at": "2026-09-09T15:42:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
   "category": "mac",
   "price": 519800,
@@ -1603,7 +1603,7 @@
  },
  "FGE64J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 533800,
@@ -1619,7 +1619,7 @@
  },
  "FGEC4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 533800,
@@ -1635,7 +1635,7 @@
  },
  "G1MV3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 540800,
@@ -1652,7 +1652,7 @@
  "G1FF3J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
   "category": "mac",
   "price": 547800,
@@ -1667,7 +1667,7 @@
  },
  "FX2V3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - シルバー",
   "category": "mac",
   "price": 549800,
@@ -1683,7 +1683,7 @@
  },
  "FX303J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 549800,
@@ -1701,7 +1701,7 @@
  },
  "G1MW0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 556800,
@@ -1718,7 +1718,7 @@
  "G1N00J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 556800,
@@ -1733,7 +1733,7 @@
  },
  "G1FF9J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 570800,
@@ -1752,7 +1752,7 @@
  "G1KN7J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 570800,
@@ -1767,7 +1767,7 @@
  },
  "G1FR3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 572800,
@@ -1784,7 +1784,7 @@
  "G1KK4J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T13:01:10+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
   "category": "mac",
   "price": 578800,
@@ -1799,7 +1799,7 @@
  },
  "G1MM3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 581800,
@@ -1815,7 +1815,7 @@
  },
  "FGDQ4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 593800,
@@ -1831,7 +1831,7 @@
  },
  "FGDU4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 593800,
@@ -1847,7 +1847,7 @@
  },
  "G1MW2J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 594800,
@@ -1863,7 +1863,7 @@
  },
  "G1N02J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 594800,
@@ -1880,7 +1880,7 @@
  "G1KKAJ/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 601800,
@@ -1896,7 +1896,7 @@
  "G1KNAJ/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 601800,
@@ -1912,7 +1912,7 @@
  "G1MW1J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:23:02+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 609800,
@@ -1927,7 +1927,7 @@
  },
  "G1N01J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 609800,
@@ -1943,7 +1943,7 @@
  },
  "G1MN0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 616800,
@@ -1961,7 +1961,7 @@
  },
  "G1MW7J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 617800,
@@ -1978,7 +1978,7 @@
  "G1N07J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:23:02+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 617800,
@@ -1995,7 +1995,7 @@
  },
  "G1MMAJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 619800,
@@ -2012,7 +2012,7 @@
  "G1MW5J/A": {
   "first_seen": "2026-08-13",
   "first_seen_at": "2026-08-13T14:02:12+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 632800,
@@ -2027,7 +2027,7 @@
  },
  "G1N05J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 632800,
@@ -2045,7 +2045,7 @@
  },
  "FX2W3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - シルバー",
   "category": "mac",
   "price": 635800,
@@ -2063,7 +2063,7 @@
  },
  "FX313J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 635800,
@@ -2079,7 +2079,7 @@
  },
  "FGE74J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 636800,
@@ -2095,7 +2095,7 @@
  },
  "FGED4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 636800,
@@ -2111,7 +2111,7 @@
  },
  "G1MX0J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 659800,
@@ -2127,7 +2127,7 @@
  },
  "G1N10J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 659800,
@@ -2143,7 +2143,7 @@
  },
  "G1MW3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 670800,
@@ -2159,7 +2159,7 @@
  },
  "G1N03J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 670800,
@@ -2176,7 +2176,7 @@
  "G1MH2J/A": {
   "first_seen": "2026-09-07",
   "first_seen_at": "2026-09-07T17:42:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 684800,
@@ -2191,7 +2191,7 @@
  },
  "G1MKEJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 685800,
@@ -2209,7 +2209,7 @@
  },
  "G1MW8J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 693800,
@@ -2225,7 +2225,7 @@
  },
  "G1N08J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 693800,
@@ -2244,7 +2244,7 @@
  "G1FGPJ/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 695800,
@@ -2260,7 +2260,7 @@
  "G1MH3J/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T15:42:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 707800,
@@ -2276,7 +2276,7 @@
  "G1MKFJ/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T12:16:41+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 708800,
@@ -2291,7 +2291,7 @@
  },
  "G1MNFJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 708800,
@@ -2310,7 +2310,7 @@
  "G1MJ4J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T16:18:31+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 711800,
@@ -2325,7 +2325,7 @@
  },
  "FGE94J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 721800,
@@ -2341,7 +2341,7 @@
  },
  "FGEE4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 721800,
@@ -2358,7 +2358,7 @@
  "G1MY0J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 744800,
@@ -2374,7 +2374,7 @@
  "G1N20J/A": {
   "first_seen": "2026-08-12",
   "first_seen_at": "2026-08-12T15:40:52+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 744800,
@@ -2389,7 +2389,7 @@
  },
  "G1MJ8J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 772800,
@@ -2407,7 +2407,7 @@
  },
  "G1FV1J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 773800,
@@ -2424,7 +2424,7 @@
  "G1MYBJ/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:23:02+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 782800,
@@ -2442,7 +2442,7 @@
  "G1N2BJ/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 782800,
@@ -2460,7 +2460,7 @@
  "G1MW6J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 785800,
@@ -2475,7 +2475,7 @@
  },
  "G1MY4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 805800,
@@ -2493,7 +2493,7 @@
  },
  "G1N24J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 805800,
@@ -2511,7 +2511,7 @@
  },
  "G1MW4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 824800,
@@ -2527,7 +2527,7 @@
  },
  "G1N04J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 824800,
@@ -2543,7 +2543,7 @@
  },
  "G1MW9J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 846800,
@@ -2559,7 +2559,7 @@
  },
  "G1N09J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 846800,
@@ -2575,7 +2575,7 @@
  },
  "G1N22J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 897800,
@@ -2592,7 +2592,7 @@
  "G1FGRJ/A": {
   "first_seen": "2026-09-01",
   "first_seen_at": "2026-09-01T12:42:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 911800,
@@ -2608,7 +2608,7 @@
  "G1MYCJ/A": {
   "first_seen": "2026-08-16",
   "first_seen_at": "2026-08-16T10:56:23+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 935800,
@@ -2623,7 +2623,7 @@
  },
  "G1MY5J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 958800,
@@ -2639,7 +2639,7 @@
  },
  "G1MK4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 991800,
@@ -2657,7 +2657,7 @@
  },
  "G1MN4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 991800,
@@ -2675,7 +2675,7 @@
  },
  "G1MYEJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1027800,
@@ -2691,7 +2691,7 @@
  },
  "G1N2EJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1027800,
@@ -2707,7 +2707,7 @@
  },
  "G1FWLJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1040800,
@@ -2723,7 +2723,7 @@
  },
  "G1MY7J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1050800,
@@ -2739,7 +2739,7 @@
  },
  "G1N27J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1050800,
@@ -2756,7 +2756,7 @@
  "G1N12J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1095800,
@@ -2772,7 +2772,7 @@
  "G1FGDJ/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1133800,
@@ -2787,7 +2787,7 @@
  },
  "G1MK6J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1144800,
@@ -2805,7 +2805,7 @@
  },
  "G1MN6J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1144800,
@@ -2823,7 +2823,7 @@
  },
  "G1MN7J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1167800,
@@ -2841,7 +2841,7 @@
  },
  "G1FW2J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1170800,
@@ -2858,7 +2858,7 @@
  "G1MYAJ/A": {
   "first_seen": "2026-09-14",
   "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1180800,
@@ -2873,7 +2873,7 @@
  },
  "G1MYFJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1180800,
@@ -2889,7 +2889,7 @@
  },
  "G1N2FJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1180800,
@@ -2908,7 +2908,7 @@
  "G1MY8J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1203800,
@@ -2923,7 +2923,7 @@
  },
  "G1N28J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1203800,
@@ -2939,7 +2939,7 @@
  },
  "G1MN2J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1205800,
@@ -2955,7 +2955,7 @@
  },
  "G1MK3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1228800,
@@ -2971,7 +2971,7 @@
  },
  "G1FS6J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ - シルバー",
   "category": "mac",
   "price": 1232800,
@@ -2988,7 +2988,7 @@
  "G1MYDJ/A": {
   "first_seen": "2026-08-16",
   "first_seen_at": "2026-08-16T10:56:23+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1241800,
@@ -3003,7 +3003,7 @@
  },
  "G1MY6J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1264800,
@@ -3019,7 +3019,7 @@
  },
  "G1N26J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1264800,
@@ -3036,7 +3036,7 @@
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1450800,
@@ -3051,7 +3051,7 @@
  },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1450800,
@@ -3067,7 +3067,7 @@
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1473800,
@@ -3085,7 +3085,7 @@
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
   "price": 1486800,
@@ -3101,7 +3101,7 @@
  },
  "G1N2GJ/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
   "price": 1486800,
@@ -3117,7 +3117,7 @@
  },
  "G1MY9J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
   "category": "mac",
   "price": 1509800,
@@ -3133,7 +3133,7 @@
  },
  "G1N29J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
   "category": "mac",
   "price": 1509800,
@@ -3150,7 +3150,7 @@
  "G1CE2J/A": {
   "first_seen": "2026-09-07",
   "first_seen_at": "2026-09-07T17:42:19+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
   "category": "mac",
   "price": 1588800,
@@ -3163,26 +3163,10 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-15",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
@@ -3198,7 +3182,7 @@
  "FXN73J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
   "category": "ipad",
   "price": 84800,
@@ -3214,8 +3198,24 @@
  "FXN83J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-16",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3229,7 +3229,7 @@
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 146800,
@@ -3245,7 +3245,7 @@
  },
  "FNYD3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 146800,
@@ -3261,7 +3261,7 @@
  },
  "FVV93J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 159800,
@@ -3277,7 +3277,7 @@
  },
  "FVVC3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
@@ -3293,7 +3293,7 @@
  },
  "FVW13J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 190800,
@@ -3309,7 +3309,7 @@
  },
  "FP1X3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 198800,
@@ -3325,7 +3325,7 @@
  },
  "FP1Y3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 198800,
@@ -3342,7 +3342,7 @@
  "FVX23J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T00:59:05+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 209800,
@@ -3358,7 +3358,7 @@
  "FVX33J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T09:14:05+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 209800,
@@ -3373,7 +3373,7 @@
  },
  "FVW43J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 220800,
@@ -3389,7 +3389,7 @@
  },
  "FNXK3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi 1TB - スペースグレイ（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 226800,
@@ -3405,7 +3405,7 @@
  },
  "FNXL3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi 1TB - シルバー（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 226800,
@@ -3421,7 +3421,7 @@
  },
  "FVXR3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 239800,
@@ -3437,7 +3437,7 @@
  },
  "FP223J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 241800,
@@ -3453,7 +3453,7 @@
  },
  "FVW53J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 278800,
@@ -3469,7 +3469,7 @@
  },
  "FVW63J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 278800,
@@ -3485,7 +3485,7 @@
  },
  "FNXN3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi 2TB - シルバー（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 281800,
@@ -3501,7 +3501,7 @@
  },
  "FWRP3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 292800,
@@ -3517,7 +3517,7 @@
  },
  "FWRQ3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 292800,
@@ -3534,7 +3534,7 @@
  "FVX63J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T00:59:05+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 297800,
@@ -3550,7 +3550,7 @@
  "FVX73J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T09:14:05+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 297800,
@@ -3565,7 +3565,7 @@
  },
  "FNYM3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro Wi-Fi + Cellular 2TB - シルバー（第4世代）[整備済製品]",
   "category": "ipad",
   "price": 301800,
@@ -3581,7 +3581,7 @@
  },
  "FWRF3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 311800,
@@ -3597,7 +3597,7 @@
  },
  "FWRG3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 311800,
@@ -3615,7 +3615,7 @@
  },
  "FVXW3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 328800,
@@ -3631,7 +3631,7 @@
  },
  "FNY03J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi 2TB - シルバー（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 329800,
@@ -3647,7 +3647,7 @@
  },
  "FVW73J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 336800,
@@ -3663,7 +3663,7 @@
  },
  "FVW83J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 336800,
@@ -3679,7 +3679,7 @@
  },
  "FWRY3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 341800,
@@ -3695,7 +3695,7 @@
  },
  "FWT03J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 341800,
@@ -3711,7 +3711,7 @@
  },
  "FWRR3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 349800,
@@ -3727,7 +3727,7 @@
  },
  "FWRT3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 349800,
@@ -3743,7 +3743,7 @@
  },
  "FP263J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi + Cellular 2TB - スペースグレイ（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 350800,
@@ -3759,7 +3759,7 @@
  },
  "FP273J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "12.9インチiPad Pro Wi-Fi + Cellular 2TB - シルバー（第6世代）[整備済製品]",
   "category": "ipad",
   "price": 350800,
@@ -3775,7 +3775,7 @@
  },
  "FVX83J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 355800,
@@ -3791,7 +3791,7 @@
  },
  "FVX93J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi 2TB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 355800,
@@ -3807,7 +3807,7 @@
  },
  "FVXY3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 385800,
@@ -3823,7 +3823,7 @@
  },
  "FVY03J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 385800,
@@ -3839,7 +3839,7 @@
  },
  "FWT13J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
   "category": "ipad",
   "price": 399800,
@@ -3855,7 +3855,7 @@
  },
  "FWT23J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
   "category": "ipad",
   "price": 399800,
@@ -3871,7 +3871,7 @@
  },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 99800,
@@ -3894,7 +3894,7 @@
  "FTMN3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 256GB - ブラック（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 112800,
@@ -3916,7 +3916,7 @@
  "FTMP3J/A": {
   "first_seen": "2026-08-13",
   "first_seen_at": "2026-08-13T19:20:39+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 256GB - ピンク（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 112800,
@@ -3938,7 +3938,7 @@
  "FTMQ3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 256GB - イエロー（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 112800,
@@ -3959,7 +3959,7 @@
  },
  "FTMR3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 256GB - ブルー（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 112800,
@@ -3981,7 +3981,7 @@
  },
  "FTMT3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 256GB - グリーン（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 112800,
@@ -4003,7 +4003,7 @@
  },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 119800,
@@ -4022,7 +4022,7 @@
  "FTU93J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T18:38:14+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 119800,
@@ -4040,7 +4040,7 @@
  "FTUA3J/A": {
   "first_seen": "2026-09-11",
   "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 128GB - ブルーチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 119800,
@@ -4056,7 +4056,7 @@
  "FTUC3J/A": {
   "first_seen": "2026-08-07",
   "first_seen_at": "2026-08-07T17:37:23+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 134800,
@@ -4073,7 +4073,7 @@
  },
  "FTUD3J/A": {
   "first_seen": "2026-08-01",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 134800,
@@ -4091,7 +4091,7 @@
  },
  "FTMU3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 512GB - ブラック（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 142800,
@@ -4113,7 +4113,7 @@
  },
  "FTMV3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 512GB - ピンク（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 142800,
@@ -4135,7 +4135,7 @@
  },
  "FTMW3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 512GB - イエロー（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 142800,
@@ -4157,7 +4157,7 @@
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 151800,
@@ -4175,7 +4175,7 @@
  },
  "FU6Q3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 151800,
@@ -4191,7 +4191,7 @@
  },
  "FU6R3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 151800,
@@ -4209,7 +4209,7 @@
  },
  "FU6T3J/A": {
   "first_seen": "2026-07-31",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 256GB - ブルーチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 151800,
@@ -4227,7 +4227,7 @@
  },
  "FTUH3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 512GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 163800,
@@ -4246,7 +4246,7 @@
  "FTUL3J/A": {
   "first_seen": "2026-09-11",
   "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 512GB - ブルーチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 163800,
@@ -4262,7 +4262,7 @@
  "FU6U3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 512GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 181800,
@@ -4277,7 +4277,7 @@
  },
  "FU6V3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 512GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 181800,
@@ -4293,7 +4293,7 @@
  },
  "FU6W3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro Max 512GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 181800,
@@ -4309,7 +4309,7 @@
  },
  "FTUQ3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 193800,
@@ -4326,7 +4326,7 @@
  "FTUT3J/A": {
   "first_seen": "2026-09-11",
   "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 1TB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 193800,
@@ -4342,7 +4342,7 @@
  "FTUU3J/A": {
   "first_seen": "2026-09-11",
   "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "iPhone 15 Pro 1TB - ブルーチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 193800,
@@ -4358,7 +4358,7 @@
  "FWYY3J/A": {
   "first_seen": "2026-09-03",
   "first_seen_at": "2026-09-03T12:12:20+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Series 10（GPS + Cellularモデル）- 46mmゴールドチタニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 83800,
@@ -4377,7 +4377,7 @@
  },
  "FX4D3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Ultra 2（GPS + Cellularモデル）- 49mmナチュラルチタニウムケースとネイビーオーシャンバンド [整備済製品]",
   "category": "watch",
   "price": 90800,
@@ -4397,7 +4397,7 @@
  },
  "FX4P3J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Ultra 2（GPS + Cellularモデル）- 49mmブラックチタニウムケースとブラックオーシャンバンド [整備済製品]",
   "category": "watch",
   "price": 90800,
@@ -4418,7 +4418,7 @@
  "FF8X4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmゴールドチタニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
   "category": "watch",
   "price": 91800,
@@ -4438,7 +4438,7 @@
  "FEWH4J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T15:02:06+09:00",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Ultra 3（GPS + Cellularモデル）- 49mmナチュラルチタニウムケースとアンカーブルーオーシャンバンド [整備済製品]",
   "category": "watch",
   "price": 106800,
@@ -4457,7 +4457,7 @@
  },
  "FF0J4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple Watch Ultra 3（GPS + Cellularモデル）- 49mmブラックチタニウムケースとブラックオーシャンバンド [整備済製品]",
   "category": "watch",
   "price": 106800,
@@ -4477,7 +4477,7 @@
  },
  "FN893J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "Apple TV 4K 128GB（第3世代）Wi-Fi + Ethernetモデル [整備済製品]",
   "category": "appletv",
   "price": 37800,
@@ -4493,7 +4493,7 @@
  },
  "FDEW4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
   "category": "homepod",
   "price": 50800,
@@ -4509,7 +4509,7 @@
  },
  "FDEY4J/A": {
   "first_seen": "2026-07-30",
-  "last_seen": "2026-09-15",
+  "last_seen": "2026-09-16",
   "title": "HomePod（第2世代）[整備済製品] - ホワイト",
   "category": "homepod",
   "price": 50800,
