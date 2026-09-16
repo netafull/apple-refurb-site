@@ -127,6 +127,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1H80J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-16",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+  "category": "mac",
+  "price": 222800,
+  "price_history": [
+   [
+    "2026-07-30",
+    222800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-16",
+  "restocked_at_at": "2026-09-16T15:12:19+09:00"
+ },
  "FDV94J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-16",
@@ -4450,24 +4468,6 @@
   "baseline": null,
   "restocked_at": "2026-09-14",
   "restocked_at_at": "2026-09-14T15:42:21+09:00"
- },
- "G1H80J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-16",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-  "category": "mac",
-  "price": 222800,
-  "price_history": [
-   [
-    "2026-07-30",
-    222800
-   ]
-  ],
-  "sold_out_at": "2026-09-16",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-14",
-  "restocked_at_at": "2026-09-14T13:12:20+09:00"
  },
  "FXN73J/A": {
   "first_seen": "2026-08-28",
