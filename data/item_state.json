@@ -1085,24 +1085,6 @@
   "restocked_at": "2026-08-31",
   "restocked_at_at": "2026-08-31T14:12:24+09:00"
  },
- "G1MH4J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T16:18:31+09:00",
-  "last_seen": "2026-09-16",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 393800,
-  "price_history": [
-   [
-    "2026-08-24",
-    393800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-14",
-  "restocked_at_at": "2026-09-14T15:42:21+09:00"
- },
  "G1EJ1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-16",
@@ -1432,22 +1414,6 @@
   "baseline": null,
   "restocked_at": "2026-09-08",
   "restocked_at_at": "2026-09-08T14:12:20+09:00"
- },
- "G1L21J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-16",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 496800,
-  "price_history": [
-   [
-    "2026-08-04",
-    496800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FX2G3J/A": {
   "first_seen": "2026-08-26",
@@ -3093,22 +3059,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-16",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3130,6 +3080,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-16",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-16",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4394,6 +4360,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MH4J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T16:18:31+09:00",
+  "last_seen": "2026-09-16",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 393800,
+  "price_history": [
+   [
+    "2026-08-24",
+    393800
+   ]
+  ],
+  "sold_out_at": "2026-09-16",
+  "baseline": null,
+  "restocked_at": "2026-09-14",
+  "restocked_at_at": "2026-09-14T15:42:21+09:00"
+ },
+ "G1L21J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-16",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 496800,
+  "price_history": [
+   [
+    "2026-08-04",
+    496800
+   ]
+  ],
+  "sold_out_at": "2026-09-16",
+  "baseline": null
  },
  "FF8X4J/A": {
   "first_seen": "2026-08-14",
