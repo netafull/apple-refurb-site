@@ -2925,24 +2925,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FD7F4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-09-17",
-  "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-25",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-17",
-  "restocked_at_at": "2026-09-17T18:42:21+09:00"
- },
  "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3743,28 +3725,6 @@
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
- "FU083J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-17",
-  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-17",
-  "restocked_at_at": "2026-09-17T18:12:19+09:00"
- },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-17",
@@ -4332,6 +4292,46 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD7F4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-09-17",
+  "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-25",
+    84800
+   ]
+  ],
+  "sold_out_at": "2026-09-17",
+  "baseline": null,
+  "restocked_at": "2026-09-17",
+  "restocked_at_at": "2026-09-17T18:42:21+09:00"
+ },
+ "FU083J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-17",
+  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-17",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-17",
+  "restocked_at_at": "2026-09-17T18:12:19+09:00"
  },
  "FYDU3J/A": {
   "first_seen": "2026-09-03",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T18:42:21+09:00",
- "count": 259,
+ "generated_at": "2026-09-17T19:12:22+09:00",
+ "count": 257,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -734,23 +734,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FD7F4J/A",
-   "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fd7f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-cell-silver-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBekR3Y1psTlJOTk91Q3Z6b3NRZ2dxVll3SWkvSnVicEZKdlhKK0Y3VDZNcUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXgrVGxVVHpJRW5PQXRKY0pob1gyWVM",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FXN93J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
    "price": 84800,
@@ -1208,23 +1191,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-09-11"
-  },
-  {
-   "part_number": "FU083J/A",
-   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu083j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNDFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-07-31"
   },
   {
    "part_number": "FTMN3J/A",
