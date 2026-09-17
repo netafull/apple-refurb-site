@@ -63,24 +63,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU9D3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-09-17",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-04",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-17",
-  "restocked_at_at": "2026-09-17T13:12:18+09:00"
- },
  "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-17",
@@ -3025,22 +3007,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1CE2J/A": {
-  "first_seen": "2026-09-07",
-  "first_seen_at": "2026-09-07T17:42:19+09:00",
-  "last_seen": "2026-09-17",
-  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 1588800,
-  "price_history": [
-   [
-    "2026-09-07",
-    1588800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3775,28 +3741,6 @@
   "restocked_at": "2026-09-17",
   "restocked_at_at": "2026-09-17T10:42:20+09:00"
  },
- "FTMM3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-17",
-  "title": "iPhone 15 128GB - グリーン（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-17",
-  "restocked_at_at": "2026-09-17T10:42:20+09:00"
- },
  "FTMN3J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T13:48:17+09:00",
@@ -4474,6 +4418,62 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU9D3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-09-17",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-04",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-17",
+  "baseline": null,
+  "restocked_at": "2026-09-17",
+  "restocked_at_at": "2026-09-17T13:12:18+09:00"
+ },
+ "G1CE2J/A": {
+  "first_seen": "2026-09-07",
+  "first_seen_at": "2026-09-07T17:42:19+09:00",
+  "last_seen": "2026-09-17",
+  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 1588800,
+  "price_history": [
+   [
+    "2026-09-07",
+    1588800
+   ]
+  ],
+  "sold_out_at": "2026-09-17",
+  "baseline": null
+ },
+ "FTMM3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-17",
+  "title": "iPhone 15 128GB - グリーン（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": "2026-09-17",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-17",
+  "restocked_at_at": "2026-09-17T10:42:20+09:00"
  },
  "FYDW3J/A": {
   "first_seen": "2026-08-01",

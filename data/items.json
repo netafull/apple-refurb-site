@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T13:12:18+09:00",
- "count": 267,
+ "generated_at": "2026-09-17T13:42:20+09:00",
+ "count": 264,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1310,40 +1310,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-08-06"
-  },
-  {
-   "part_number": "FTMM3J/A",
-   "title": "iPhone 15 128GB - グリーン（SIMフリー）[整備済製品]",
-   "price": 99800,
-   "url": "https://www.apple.com/jp/shop/product/ftmm3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-green-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlRabys0NUVWOWVMSm5jaWhHc0V2aDhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXpNWnlpUnEraEt5UXRiQ2FvTmw0RlE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "green",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "G1CE2J/A",
-   "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-   "price": 1588800,
-   "url": "https://www.apple.com/jp/shop/product/g1ce2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-09-07"
   },
   {
    "part_number": "G1MY9J/A",
@@ -4370,23 +4336,6 @@
    "color": "blush",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FU9D3J/A",
-   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu9d3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FHFA4J/A",
