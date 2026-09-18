@@ -2791,40 +2791,6 @@
   "restocked_at": "2026-09-18",
   "restocked_at_at": "2026-09-18T13:12:18+09:00"
  },
- "FX2D3ZA/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-09-18",
-  "title": "Apple Pencil Pro [整備済製品]",
-  "category": "ipad",
-  "price": 19800,
-  "price_history": [
-   [
-    "2026-08-07",
-    19800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-18",
-  "restocked_at_at": "2026-09-18T13:12:18+09:00"
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-18",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2846,6 +2812,22 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-18",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-18",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4176,6 +4158,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2D3ZA/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-09-18",
+  "title": "Apple Pencil Pro [整備済製品]",
+  "category": "ipad",
+  "price": 19800,
+  "price_history": [
+   [
+    "2026-08-07",
+    19800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-18",
+  "restocked_at_at": "2026-09-18T13:12:18+09:00"
  },
  "G1MKFJ/A": {
   "first_seen": "2026-08-26",
