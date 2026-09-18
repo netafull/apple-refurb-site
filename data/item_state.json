@@ -2805,6 +2805,58 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FUWA3ZA/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-18",
+  "title": "Apple Pencil（USB-C）[整備済製品]",
+  "category": "ipad",
+  "price": 12800,
+  "price_history": [
+   [
+    "2026-07-31",
+    12800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-18",
+  "restocked_at_at": "2026-09-18T13:12:18+09:00"
+ },
+ "FX2D3ZA/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-09-18",
+  "title": "Apple Pencil Pro [整備済製品]",
+  "category": "ipad",
+  "price": 19800,
+  "price_history": [
+   [
+    "2026-08-07",
+    19800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-18",
+  "restocked_at_at": "2026-09-18T13:12:18+09:00"
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-18",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2826,22 +2878,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-18",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-18",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4004,6 +4040,40 @@
    [
     "2026-09-17",
     211800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FEHN4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-09-18",
+  "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 39800,
+  "price_history": [
+   [
+    "2026-08-14",
+    39800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-18",
+  "restocked_at_at": "2026-09-18T13:12:18+09:00"
+ },
+ "FWY73J/A": {
+  "first_seen": "2026-09-18",
+  "first_seen_at": "2026-09-18T13:12:18+09:00",
+  "last_seen": "2026-09-18",
+  "title": "Apple Watch Series 10（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-09-18",
+    65800
    ]
   ],
   "sold_out_at": null,
@@ -5255,24 +5325,6 @@
   "sold_out_at": "2026-09-15",
   "baseline": null
  },
- "FEHN4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-09-15",
-  "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 39800,
-  "price_history": [
-   [
-    "2026-08-14",
-    39800
-   ]
-  ],
-  "sold_out_at": "2026-09-15",
-  "baseline": null,
-  "restocked_at": "2026-09-15",
-  "restocked_at_at": "2026-09-15T00:42:21+09:00"
- },
  "G1MHEJ/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-15",
@@ -6066,24 +6118,6 @@
   ],
   "sold_out_at": "2026-09-13",
   "baseline": null
- },
- "FUWA3ZA/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-13",
-  "title": "Apple Pencil（USB-C）[整備済製品]",
-  "category": "ipad",
-  "price": 12800,
-  "price_history": [
-   [
-    "2026-07-31",
-    12800
-   ]
-  ],
-  "sold_out_at": "2026-09-13",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-13",
-  "restocked_at_at": "2026-09-13T14:42:21+09:00"
  },
  "FU6X3J/A": {
   "first_seen": "2026-07-30",
@@ -9184,24 +9218,6 @@
   "baseline": null,
   "restocked_at": "2026-08-21",
   "restocked_at_at": "2026-08-21T15:02:06+09:00"
- },
- "FX2D3ZA/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-08-28",
-  "title": "Apple Pencil Pro [整備済製品]",
-  "category": "ipad",
-  "price": 19800,
-  "price_history": [
-   [
-    "2026-08-07",
-    19800
-   ]
-  ],
-  "sold_out_at": "2026-08-28",
-  "baseline": null,
-  "restocked_at": "2026-08-28",
-  "restocked_at_at": "2026-08-28T13:12:50+09:00"
  },
  "G1FE4J/A": {
   "first_seen": "2026-08-24",
