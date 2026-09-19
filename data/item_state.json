@@ -147,47 +147,11 @@
   "restocked_at": "2026-09-19",
   "restocked_at_at": "2026-09-19T14:12:20+09:00"
  },
- "FW0W3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
-  "category": "mac",
-  "price": 146800,
-  "price_history": [
-   [
-    "2026-08-04",
-    146800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-19",
-  "restocked_at_at": "2026-09-19T14:12:20+09:00"
- },
  "FC6U4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
   "last_seen": "2026-09-19",
   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-  "category": "mac",
-  "price": 177800,
-  "price_history": [
-   [
-    "2026-08-04",
-    177800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-19",
-  "restocked_at_at": "2026-09-19T14:12:20+09:00"
- },
- "FW0X3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
   "category": "mac",
   "price": 177800,
   "price_history": [
@@ -212,40 +176,6 @@
    [
     "2026-09-19",
     192800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FC6A4J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-09-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-  "category": "mac",
-  "price": 207800,
-  "price_history": [
-   [
-    "2026-08-06",
-    207800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-19",
-  "restocked_at_at": "2026-09-19T14:12:20+09:00"
- },
- "FC6C4J/A": {
-  "first_seen": "2026-09-19",
-  "first_seen_at": "2026-09-19T14:12:20+09:00",
-  "last_seen": "2026-09-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
-  "category": "mac",
-  "price": 207800,
-  "price_history": [
-   [
-    "2026-09-19",
-    207800
    ]
   ],
   "sold_out_at": null,
@@ -4472,6 +4402,76 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FW0W3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-19",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
+  "category": "mac",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-08-04",
+    146800
+   ]
+  ],
+  "sold_out_at": "2026-09-19",
+  "baseline": null,
+  "restocked_at": "2026-09-19",
+  "restocked_at_at": "2026-09-19T14:12:20+09:00"
+ },
+ "FW0X3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-19",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+  "category": "mac",
+  "price": 177800,
+  "price_history": [
+   [
+    "2026-08-04",
+    177800
+   ]
+  ],
+  "sold_out_at": "2026-09-19",
+  "baseline": null,
+  "restocked_at": "2026-09-19",
+  "restocked_at_at": "2026-09-19T14:12:20+09:00"
+ },
+ "FC6A4J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T12:34:04+09:00",
+  "last_seen": "2026-09-19",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
+  "category": "mac",
+  "price": 207800,
+  "price_history": [
+   [
+    "2026-08-06",
+    207800
+   ]
+  ],
+  "sold_out_at": "2026-09-19",
+  "baseline": null,
+  "restocked_at": "2026-09-19",
+  "restocked_at_at": "2026-09-19T14:12:20+09:00"
+ },
+ "FC6C4J/A": {
+  "first_seen": "2026-09-19",
+  "first_seen_at": "2026-09-19T14:12:20+09:00",
+  "last_seen": "2026-09-19",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
+  "category": "mac",
+  "price": 207800,
+  "price_history": [
+   [
+    "2026-09-19",
+    207800
+   ]
+  ],
+  "sold_out_at": "2026-09-19",
+  "baseline": null
  },
  "FW123J/A": {
   "first_seen": "2026-08-04",
