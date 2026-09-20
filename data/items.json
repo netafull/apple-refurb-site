@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T22:12:19+09:00",
- "count": 241,
+ "generated_at": "2026-09-20T22:42:20+09:00",
+ "count": 240,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -834,23 +834,6 @@
    "color": "blacktitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FTUU3J/A",
-   "title": "iPhone 15 Pro 1TB - ブルーチタニウム（SIMフリー）[整備済製品]",
-   "price": 193800,
-   "url": "https://www.apple.com/jp/shop/product/ftuu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-bluetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYmhlWHR6Z2hrNUs1UVRoRzZ0RlJ5RnFYQU9KTkxXVmhxMlNzSm1tOS9xZTE1dTlZczl0eUxQeit5cXR5YjdwcEpXMzBVWmROTjVLL21KMWkvQmQyRWFUQ1VRMjNUNStRYmxubXRrL1R2aEM",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-09-11"
   },
   {
    "part_number": "FU6U3J/A",
