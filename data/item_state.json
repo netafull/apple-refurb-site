@@ -1023,22 +1023,6 @@
   "restocked_at": "2026-08-18",
   "restocked_at_at": "2026-08-18T01:44:24+09:00"
  },
- "G1K75J/A": {
-  "first_seen": "2026-09-08",
-  "first_seen_at": "2026-09-08T14:12:20+09:00",
-  "last_seen": "2026-09-20",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
-  "category": "mac",
-  "price": 382800,
-  "price_history": [
-   [
-    "2026-09-08",
-    382800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1K85J/A": {
   "first_seen": "2026-09-15",
   "first_seen_at": "2026-09-15T10:12:19+09:00",
@@ -2839,6 +2823,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-20",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2860,22 +2860,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-20",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-20",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4156,6 +4140,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1K75J/A": {
+  "first_seen": "2026-09-08",
+  "first_seen_at": "2026-09-08T14:12:20+09:00",
+  "last_seen": "2026-09-20",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
+  "category": "mac",
+  "price": 382800,
+  "price_history": [
+   [
+    "2026-09-08",
+    382800
+   ]
+  ],
+  "sold_out_at": "2026-09-20",
+  "baseline": null
  },
  "FHFG4J/A": {
   "first_seen": "2026-07-30",
