@@ -3927,22 +3927,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FWY73J/A": {
-  "first_seen": "2026-09-18",
-  "first_seen_at": "2026-09-18T13:12:18+09:00",
-  "last_seen": "2026-09-20",
-  "title": "Apple Watch Series 10（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 65800,
-  "price_history": [
-   [
-    "2026-09-18",
-    65800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FWYY3J/A": {
   "first_seen": "2026-09-03",
   "first_seen_at": "2026-09-03T12:12:20+09:00",
@@ -4090,6 +4074,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FWY73J/A": {
+  "first_seen": "2026-09-18",
+  "first_seen_at": "2026-09-18T13:12:18+09:00",
+  "last_seen": "2026-09-20",
+  "title": "Apple Watch Series 10（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 65800,
+  "price_history": [
+   [
+    "2026-09-18",
+    65800
+   ]
+  ],
+  "sold_out_at": "2026-09-20",
+  "baseline": null
  },
  "FTMJ3J/A": {
   "first_seen": "2026-07-31",

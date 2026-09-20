@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T15:12:55+09:00",
- "count": 245,
+ "generated_at": "2026-09-20T15:42:19+09:00",
+ "count": 244,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4149,23 +4149,6 @@
    "color": "",
    "memory": "",
    "since": "2026-09-03"
-  },
-  {
-   "part_number": "FWY73J/A",
-   "title": "Apple Watch Series 10（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 65800,
-   "url": "https://www.apple.com/jp/shop/product/fwy73j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s10-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=b2hWVXlMOXdTeTF3d2ZDWk03TnFoRjlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcEFHTlBVd0lhWDhXVi9LS1FWRXpCZmlpNVV0emEwTHcxdWthemhiSlFwdGo",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries10",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-09-18"
   }
  ]
 }
