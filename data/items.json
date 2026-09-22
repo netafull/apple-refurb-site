@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T21:43:02+09:00",
- "count": 244,
+ "generated_at": "2026-09-22T22:12:21+09:00",
+ "count": 243,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3860,23 +3860,6 @@
    "color": "skyblue",
    "memory": "24gb",
    "since": "2026-09-22"
-  },
-  {
-   "part_number": "FW133J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
-   "price": 177800,
-   "url": "https://www.apple.com/jp/shop/product/fw133j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-midnight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FId0pQK2FzS25mbnVTcVVpU2Z2MzcyWFlLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVUyTk85N0cyTk5UWk4xaTRiaytQdHArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-09-14"
   },
   {
    "part_number": "FLXX3J/A",
