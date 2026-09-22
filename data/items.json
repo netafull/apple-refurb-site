@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T22:12:21+09:00",
- "count": 243,
+ "generated_at": "2026-09-22T22:42:57+09:00",
+ "count": 241,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3029,23 +3029,6 @@
    "since": "2026-09-19"
   },
   {
-   "part_number": "G1M20J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 377800,
-   "url": "https://www.apple.com/jp/shop/product/g1m20j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NwdW0rTThNNHZVMGhTd2pTVXk3K1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "15inch",
-   "color": "skyblue",
-   "memory": "24gb",
-   "since": "2026-09-14"
-  },
-  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -3911,23 +3894,6 @@
    "color": "midnight",
    "memory": "16gb",
    "since": "2026-09-22"
-  },
-  {
-   "part_number": "FW123J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - ミッドナイト",
-   "price": 146800,
-   "url": "https://www.apple.com/jp/shop/product/fw123j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-midnight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FId0pQK2FzS25mbnVTcVVpU2Z2MzcyWFlLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVUyTk85N0cyTk5UWk4xaTRiaytQdHArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FLY33J/A",

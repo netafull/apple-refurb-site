@@ -129,24 +129,6 @@
   "restocked_at": "2026-09-22",
   "restocked_at_at": "2026-09-22T19:42:21+09:00"
  },
- "FW123J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-22",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - ミッドナイト",
-  "category": "mac",
-  "price": 146800,
-  "price_history": [
-   [
-    "2026-08-04",
-    146800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-22",
-  "restocked_at_at": "2026-09-22T15:12:20+09:00"
- },
  "FLXX3J/A": {
   "first_seen": "2026-09-22",
   "first_seen_at": "2026-09-22T15:12:20+09:00",
@@ -1013,22 +995,6 @@
   "price_history": [
    [
     "2026-09-19",
-    377800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "G1M20J/A": {
-  "first_seen": "2026-09-14",
-  "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-09-22",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 377800,
-  "price_history": [
-   [
-    "2026-09-14",
     377800
    ]
   ],
@@ -4038,6 +4004,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FW123J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-22",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M4チップ - ミッドナイト",
+  "category": "mac",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-08-04",
+    146800
+   ]
+  ],
+  "sold_out_at": "2026-09-22",
+  "baseline": null,
+  "restocked_at": "2026-09-22",
+  "restocked_at_at": "2026-09-22T15:12:20+09:00"
+ },
+ "G1M20J/A": {
+  "first_seen": "2026-09-14",
+  "first_seen_at": "2026-09-14T13:12:20+09:00",
+  "last_seen": "2026-09-22",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 377800,
+  "price_history": [
+   [
+    "2026-09-14",
+    377800
+   ]
+  ],
+  "sold_out_at": "2026-09-22",
+  "baseline": null
  },
  "FW133J/A": {
   "first_seen": "2026-09-14",
