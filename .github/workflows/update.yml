@@ -34,6 +34,7 @@ on:
 
 permissions:
   contents: write
+  actions: read  # notify.pyが連続失敗の判定にワークフロー実行履歴を読むため
 
 concurrency:
   group: update
@@ -88,14 +89,28 @@ jobs:
           FORCE_CATEGORY: ${{ inputs.force_category }}
         run: python3 scripts/post_to_wordpress.py
 
+      # 障害が長引くと失敗のたびに通知が連打されるのを防ぐため、成功した
+      # ときは直前が失敗だった場合にだけ「復旧しました」を1通送る。
+      # 実例: 2026-09-09〜12にApple公式サイトの負荷で林檎ポチだけで28通
+      # (うち15通は30分おき)飛んだことへの対策(3サイト共通で導入)
+      - name: 復旧を通知
+        if: success()
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/notify.py --recovered
+
       # 取得やデプロイに失敗するとサイトは前回の内容のまま据え置かれる。
       # 止まったことに気づけないと古い在庫情報が何時間も放置されるため、
       # 失敗したときだけ鳴らす。特にCloud SchedulerのPAT期限切れは3サイトとも
       # 静かに更新停止する事故なので、これが最初の手がかりになる。
       # 必ず最後のステップに置くこと(前のどのステップが落ちても拾うため)。
-      # なお上の下書き投稿はcontinue-on-errorなので、ここでは鳴らない
+      # なお上の下書き投稿はcontinue-on-errorなので、ここでは鳴らない。
+      # ただし障害が長引いても毎回は鳴らさず、連続失敗が3時間を超えた
+      # 瞬間の1回だけ鳴るようnotify.py側でエッジトリガーにしてある
       - name: 失敗を通知
         if: failure()
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/notify.py --failure
