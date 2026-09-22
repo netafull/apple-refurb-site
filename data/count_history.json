@@ -598,10 +598,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 41,
-   "iphone": 21,
-   "mac": 161,
+   "iphone": 20,
+   "mac": 190,
    "watch": 4
   },
-  "total": 230
+  "total": 258
  }
 }
