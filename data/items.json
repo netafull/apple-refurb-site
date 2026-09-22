@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T15:12:20+09:00",
- "count": 258,
+ "generated_at": "2026-09-22T15:42:20+09:00",
+ "count": 255,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3913,23 +3913,6 @@
    "since": "2026-08-06"
   },
   {
-   "part_number": "FC6A4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-   "price": 207800,
-   "url": "https://www.apple.com/jp/shop/product/fc6a4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-starlight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FIL1lITVpkM2ZCOENYUFlZWGs3bk1CcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2ZaQkFTR0NQQmJNbWJSbGwrYUY0MENWZWZKZEpnTUg2bTJtOU9qU1hvcWw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "24gb",
-   "since": "2026-08-06"
-  },
-  {
    "part_number": "FC6C4J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
    "price": 207800,
@@ -3962,23 +3945,6 @@
    "color": "skyblue",
    "memory": "24gb",
    "since": "2026-09-22"
-  },
-  {
-   "part_number": "FC6U4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-   "price": 177800,
-   "url": "https://www.apple.com/jp/shop/product/fc6u4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-skyblue-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FINVUvTlk5V2lDV2FaRTlna2QycTZYRVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YkdMZ1c4OEEvclZ2SVN6Zk5mOStDU2c",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FW0X3J/A",
@@ -4149,23 +4115,6 @@
    "color": "midnight",
    "memory": "16gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "FLXY3J/A",
-   "title": "13インチMacBook Air [整備済製品] 8コアCPUと8コアGPUを搭載したApple M2チップ - シルバー",
-   "price": 117800,
-   "url": "https://www.apple.com/jp/shop/product/flxy3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-silver-202208?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QkJpMElmU3Z2QTUxaWlZMkpyNUtsdlQxOXR0R2JEZG1NVlRjY2dYRjYzWWlMQ0ZiVExFUnprZ25UOWwxZDlYMVB0RzNpQ0Mxc293RHpBd2NJd0FqVzV2Z2FlcENLVWZIdUZNazg5UkU4di8wME1iV0hPUHZaR1RydTFYUUttbks",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2022",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "8gb",
-   "since": "2026-09-22"
   },
   {
    "part_number": "FLY13J/A",
