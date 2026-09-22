@@ -143,22 +143,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1615J/A": {
-  "first_seen": "2026-09-22",
-  "first_seen_at": "2026-09-22T15:12:20+09:00",
-  "last_seen": "2026-09-23",
-  "title": "13インチMacBook Air [整備済製品] 8コアCPUと10コアGPUを搭載したApple M2チップ -ミッドナイト",
-  "category": "mac",
-  "price": 209800,
-  "price_history": [
-   [
-    "2026-09-22",
-    209800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-23",
@@ -3892,6 +3876,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1615J/A": {
+  "first_seen": "2026-09-22",
+  "first_seen_at": "2026-09-22T15:12:20+09:00",
+  "last_seen": "2026-09-23",
+  "title": "13インチMacBook Air [整備済製品] 8コアCPUと10コアGPUを搭載したApple M2チップ -ミッドナイト",
+  "category": "mac",
+  "price": 209800,
+  "price_history": [
+   [
+    "2026-09-22",
+    209800
+   ]
+  ],
+  "sold_out_at": "2026-09-23",
+  "baseline": null
  },
  "FTMP3J/A": {
   "first_seen": "2026-08-13",
