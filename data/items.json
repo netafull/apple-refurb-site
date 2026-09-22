@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T22:42:57+09:00",
- "count": 241,
+ "generated_at": "2026-09-22T23:12:25+09:00",
+ "count": 240,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3893,23 +3893,6 @@
    "screen": "13inch",
    "color": "midnight",
    "memory": "16gb",
-   "since": "2026-09-22"
-  },
-  {
-   "part_number": "FLY33J/A",
-   "title": "13インチMacBook Air [整備済製品] 8コアCPUと8コアGPUを搭載したApple M2チップ -ミッドナイト",
-   "price": 117800,
-   "url": "https://www.apple.com/jp/shop/product/fly33j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-midnight-202208?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QkJpMElmU3Z2QTUxaWlZMkpyNUtscEh6aWY2ZWN0VmhIWTdsdGVnU0taUGdNQ09hTjJxS2hNMUZrelBIOGtCQTlpaHIrQ0hZaTQ0a3lBVm53bGROOHU4Wk02UHh2VWFhMldnSE5KcVF2TkF2Rm5wai9Qanc1ek43aEI2b05NUGM",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2022",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "8gb",
    "since": "2026-09-22"
   },
   {
