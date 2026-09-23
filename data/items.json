@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T13:42:23+09:00",
- "count": 247,
+ "generated_at": "2026-09-23T14:12:22+09:00",
+ "count": 244,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -2723,23 +2723,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1CD4J/A",
-   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-   "price": 465800,
-   "url": "https://www.apple.com/jp/shop/product/g1cd4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "",
-   "memory": "48gb",
-   "since": "2026-08-26"
-  },
-  {
    "part_number": "FFEL4J/A",
    "title": "Studio Display XDR [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
    "price": 465800,
@@ -3162,23 +3145,6 @@
    "screen": "14inch",
    "color": "silver",
    "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FU963J/A",
-   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
-   "price": 327800,
-   "url": "https://www.apple.com/jp/shop/product/fu963j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "",
-   "memory": "36gb",
    "since": "2026-08-04"
   },
   {
@@ -3996,23 +3962,6 @@
    "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FU9E3J/A",
-   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-   "price": 144800,
-   "url": "https://www.apple.com/jp/shop/product/fu9e3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FHFC4J/A",
