@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-09-23T17:12:19+09:00",
- "count": 243,
+ "generated_at": "2026-09-23T17:42:21+09:00",
+ "count": 241,
  "items": [
+  {
+   "part_number": "FFF24J/A",
+   "title": "Studio Display [整備済製品]- Nano-textureガラス - VESAマウントアダプタ",
+   "price": 270800,
+   "url": "https://www.apple.com/jp/shop/product/fff24j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-vesa-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaEttNVdPZm5VckhmRUVjMlo2TCsyZEhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHRhTGNPbVF4S1dKR05CRi9vck50RVJjMVF2Qm1wek9RL211RENFWDR6d1o",
+   "category": "accessories",
+   "category_name": "アクセサリ",
+   "shipping": "24時間以内",
+   "model": "display",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-13"
+  },
   {
    "part_number": "FN893J/A",
    "title": "Apple TV 4K 128GB（第3世代）Wi-Fi + Ethernetモデル [整備済製品]",
@@ -717,21 +734,21 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FD7G4J/A",
-   "title": "iPad（A16）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
+   "part_number": "FXN63J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fd7g4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-cell-blue-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBekR3Y1psTlJOTk91Q3Z6b3NRZ2dxVnBSTFF4OHFHU2FPUUdGM3dnVy9RdnNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1hoRnlwcFlpb1drL2dnWkZ5WnMwcVU",
+   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
    "category": "ipad",
    "category_name": "iPad",
    "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
+   "model": "ipadmini6",
+   "year": "2024",
    "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "blue",
+   "screen": "8_3inch",
+   "color": "space_gray",
    "memory": "",
-   "since": "2026-08-25"
+   "since": "2026-08-28"
   },
   {
    "part_number": "FXN93J/A",
@@ -747,23 +764,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN63J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3556,23 +3556,6 @@
    "since": "2026-09-01"
   },
   {
-   "part_number": "FFF24J/A",
-   "title": "Studio Display [整備済製品]- Nano-textureガラス - VESAマウントアダプタ",
-   "price": 270800,
-   "url": "https://www.apple.com/jp/shop/product/fff24j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-vesa-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaEttNVdPZm5VckhmRUVjMlo2TCsyZEhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHRhTGNPbVF4S1dKR05CRi9vck50RVJjMVF2Qm1wek9RL211RENFWDR6d1o",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
-  },
-  {
    "part_number": "G1DF0J/A",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
    "price": 256800,
@@ -3944,23 +3927,6 @@
    "screen": "24inch",
    "color": "blue",
    "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FHFC4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
-   "price": 116800,
-   "url": "https://www.apple.com/jp/shop/product/fhfc4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYllDQUIwMnV0STF0WFRmN05vUUc0cUJ0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXFJa1Evbk5jTUkvY1BFNEk1c3RMc3Q",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "",
    "since": "2026-07-30"
   },
   {
