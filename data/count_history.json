@@ -609,10 +609,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 42,
-   "iphone": 19,
-   "mac": 177,
+   "iphone": 18,
+   "mac": 176,
    "watch": 4
   },
-  "total": 245
+  "total": 243
  }
 }
