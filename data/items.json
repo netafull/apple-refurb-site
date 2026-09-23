@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T15:12:24+09:00",
+ "generated_at": "2026-09-23T15:42:21+09:00",
  "count": 245,
  "items": [
   {
@@ -885,23 +885,6 @@
    "color": "naturaltitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FYWJ3J/A",
-   "title": "iPhone 16 Pro Max 256GB - デザートチタニウム（SIMフリー）[整備済製品]",
-   "price": 165800,
-   "url": "https://www.apple.com/jp/shop/product/fywj3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-pro-max-deserttitanium-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvZEc2bHhxOHZUTlhCMmZ2WkhFUFZud2MwK0J4RVowZlZuM0RJUUpsaG1qN0ZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXd6VnpWbUpJaFRMTlZ1ei8wUXVNZHU",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16promax",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "deserttitanium",
-   "memory": "",
-   "since": "2026-09-23"
   },
   {
    "part_number": "FU6P3J/A",
@@ -3588,6 +3571,23 @@
    "color": "",
    "memory": "",
    "since": "2026-08-13"
+  },
+  {
+   "part_number": "FDH94J/A",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 267800,
+   "url": "https://www.apple.com/jp/shop/product/fdh94j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTNvRmR5N1k0RWNXeWI2UUNjbHVoRHc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookair",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "13inch",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1DF0J/A",

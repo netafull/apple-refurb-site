@@ -503,6 +503,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FDH94J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-23",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 267800,
+  "price_history": [
+   [
+    "2026-08-04",
+    267800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-23",
+  "restocked_at_at": "2026-09-23T15:42:21+09:00"
+ },
  "FDVA4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-23",
@@ -3801,22 +3819,6 @@
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
- "FYWJ3J/A": {
-  "first_seen": "2026-09-23",
-  "first_seen_at": "2026-09-23T14:42:20+09:00",
-  "last_seen": "2026-09-23",
-  "title": "iPhone 16 Pro Max 256GB - デザートチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 165800,
-  "price_history": [
-   [
-    "2026-09-23",
-    165800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FU6U3J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T14:46:20+09:00",
@@ -4074,6 +4076,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYWJ3J/A": {
+  "first_seen": "2026-09-23",
+  "first_seen_at": "2026-09-23T14:42:20+09:00",
+  "last_seen": "2026-09-23",
+  "title": "iPhone 16 Pro Max 256GB - デザートチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 165800,
+  "price_history": [
+   [
+    "2026-09-23",
+    165800
+   ]
+  ],
+  "sold_out_at": "2026-09-23",
+  "baseline": null
  },
  "FU9E3J/A": {
   "first_seen": "2026-08-04",
@@ -7974,24 +7992,6 @@
   ],
   "sold_out_at": "2026-09-10",
   "baseline": null
- },
- "FDH94J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-09",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 267800,
-  "price_history": [
-   [
-    "2026-08-04",
-    267800
-   ]
-  ],
-  "sold_out_at": "2026-09-09",
-  "baseline": null,
-  "restocked_at": "2026-09-09",
-  "restocked_at_at": "2026-09-09T15:42:21+09:00"
  },
  "FVX43J/A": {
   "first_seen": "2026-08-04",
