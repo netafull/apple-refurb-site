@@ -2725,11 +2725,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-24",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2741,11 +2741,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-24",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3457,28 +3457,6 @@
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
- "FTMV3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-24",
-  "title": "iPhone 15 512GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 142800,
-  "price_history": [
-   [
-    "2026-07-31",
-    137800
-   ],
-   [
-    "2026-09-11",
-    142800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-11",
-  "restocked_at_at": "2026-09-11T13:12:21+09:00"
- },
  "FTMW3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-09-24",
@@ -3828,6 +3806,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTMV3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-24",
+  "title": "iPhone 15 512GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 142800,
+  "price_history": [
+   [
+    "2026-07-31",
+    137800
+   ],
+   [
+    "2026-09-11",
+    142800
+   ]
+  ],
+  "sold_out_at": "2026-09-24",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-11",
+  "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
  "FGDR4J/A": {
   "first_seen": "2026-07-30",
