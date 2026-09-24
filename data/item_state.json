@@ -2725,11 +2725,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-25",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2741,11 +2741,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-09-25",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3548,6 +3548,24 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
+ },
+ "FTUL3J/A": {
+  "first_seen": "2026-09-11",
+  "first_seen_at": "2026-09-11T13:12:21+09:00",
+  "last_seen": "2026-09-25",
+  "title": "iPhone 15 Pro 512GB - ブルーチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 163800,
+  "price_history": [
+   [
+    "2026-09-11",
+    163800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-09-25",
+  "restocked_at_at": "2026-09-25T04:42:25+09:00"
  },
  "FU6U3J/A": {
   "first_seen": "2026-08-21",
@@ -5578,22 +5596,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-09-18",
   "restocked_at_at": "2026-09-18T13:12:18+09:00"
- },
- "FTUL3J/A": {
-  "first_seen": "2026-09-11",
-  "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-09-18",
-  "title": "iPhone 15 Pro 512GB - ブルーチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 163800,
-  "price_history": [
-   [
-    "2026-09-11",
-    163800
-   ]
-  ],
-  "sold_out_at": "2026-09-19",
-  "baseline": null
  },
  "G1LY3J/A": {
   "first_seen": "2026-07-30",
