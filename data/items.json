@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T12:42:56+09:00",
- "count": 270,
+ "generated_at": "2026-09-25T13:12:21+09:00",
+ "count": 268,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1414,23 +1414,6 @@
    "since": "2026-08-01"
   },
   {
-   "part_number": "FYDX3J/A",
-   "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fydx3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-09-03"
-  },
-  {
    "part_number": "FTU73J/A",
    "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 119800,
@@ -1669,23 +1652,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FTMH3J/A",
-   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 99800,
-   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
    "part_number": "FTML3J/A",
    "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
    "price": 99800,
@@ -1701,6 +1667,23 @@
    "color": "blue",
    "memory": "",
    "since": "2026-08-06"
+  },
+  {
+   "part_number": "FTMH3J/A",
+   "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 99800,
+   "url": "https://www.apple.com/jp/shop/product/ftmh3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTc4dEFmaFZ1c25Ua2czT05aWWpPU1U",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
   },
   {
    "part_number": "FTMM3J/A",
@@ -1920,23 +1903,6 @@
    "capacity": "8tb",
    "screen": "14inch",
    "color": "silver",
-   "memory": "64gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MN2J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 1205800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "spaceblack",
    "memory": "64gb",
    "since": "2026-07-30"
   },

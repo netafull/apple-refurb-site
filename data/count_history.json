@@ -631,10 +631,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 41,
-   "iphone": 57,
-   "mac": 165,
+   "iphone": 56,
+   "mac": 164,
    "watch": 4
   },
-  "total": 270
+  "total": 268
  }
 }
