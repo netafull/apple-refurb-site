@@ -2793,24 +2793,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FCNK4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-25",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-07-30",
-    135800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T18:12:23+09:00"
- },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-25",
@@ -4197,22 +4179,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXVL3J/A": {
-  "first_seen": "2026-09-25",
-  "first_seen_at": "2026-09-25T12:42:56+09:00",
-  "last_seen": "2026-09-25",
-  "title": "iPhone 16 Plus 256GB - ティール（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 140800,
-  "price_history": [
-   [
-    "2026-09-25",
-    140800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FTMU3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-09-25",
@@ -4700,6 +4666,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCNK4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-25",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-07-30",
+    135800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-09-25",
+  "restocked_at_at": "2026-09-25T18:12:23+09:00"
+ },
+ "FXVL3J/A": {
+  "first_seen": "2026-09-25",
+  "first_seen_at": "2026-09-25T12:42:56+09:00",
+  "last_seen": "2026-09-25",
+  "title": "iPhone 16 Plus 256GB - ティール（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 140800,
+  "price_history": [
+   [
+    "2026-09-25",
+    140800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": null
  },
  "FK8F3J/A": {
   "first_seen": "2026-09-25",
