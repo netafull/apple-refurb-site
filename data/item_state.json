@@ -2709,24 +2709,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FD7F4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-09-25",
-  "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-25",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T18:12:23+09:00"
- },
  "FK7T3J/A": {
   "first_seen": "2026-09-25",
   "first_seen_at": "2026-09-25T18:12:23+09:00",
@@ -2737,6 +2719,22 @@
   "price_history": [
    [
     "2026-09-25",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-25",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
     84800
    ]
   ],
@@ -2795,22 +2793,6 @@
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-25",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FK8F3J/A": {
   "first_seen": "2026-09-25",
   "first_seen_at": "2026-09-25T18:12:23+09:00",
@@ -2822,22 +2804,6 @@
    [
     "2026-09-25",
     106800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FCA14J/A": {
-  "first_seen": "2026-09-25",
-  "first_seen_at": "2026-09-25T18:12:23+09:00",
-  "last_seen": "2026-09-25",
-  "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-09-25",
-    116800
    ]
   ],
   "sold_out_at": null,
@@ -3969,28 +3935,6 @@
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T12:42:56+09:00"
  },
- "FYDV3J/A": {
-  "first_seen": "2026-09-03",
-  "first_seen_at": "2026-09-03T11:42:19+09:00",
-  "last_seen": "2026-09-25",
-  "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-09-03",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T12:42:56+09:00"
- },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-25",
@@ -4850,6 +4794,62 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD7F4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-09-25",
+  "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-25",
+    84800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": null,
+  "restocked_at": "2026-09-25",
+  "restocked_at_at": "2026-09-25T18:12:23+09:00"
+ },
+ "FCA14J/A": {
+  "first_seen": "2026-09-25",
+  "first_seen_at": "2026-09-25T18:12:23+09:00",
+  "last_seen": "2026-09-25",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-09-25",
+    116800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": null
+ },
+ "FYDV3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-25",
+  "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": null,
+  "restocked_at": "2026-09-25",
+  "restocked_at_at": "2026-09-25T12:42:56+09:00"
  },
  "FFEX4J/A": {
   "first_seen": "2026-08-13",

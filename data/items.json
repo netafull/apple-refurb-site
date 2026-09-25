@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T18:42:24+09:00",
- "count": 285,
+ "generated_at": "2026-09-25T19:12:23+09:00",
+ "count": 282,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -972,23 +972,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCA14J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
-   "price": 116800,
-   "url": "https://www.apple.com/jp/shop/product/fca14j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cVN4ckZWRm1jMDB2Mllic1N3NkQ5OFBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5MUGo0WXZBYjJ4Q01ac3NKN3Vuazc",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FK8F3J/A",
    "title": "iPad mini 6 Wi-Fi + Cellular 256GB - スペースグレイ [整備済製品]",
    "price": 106800,
@@ -1006,23 +989,6 @@
    "since": "2026-09-25"
   },
   {
-   "part_number": "FD7F4J/A",
-   "title": "iPad（A16）Wi-Fi + Cellular 128GB - シルバー [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fd7f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-cell-silver-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBekR3Y1psTlJOTk91Q3Z6b3NRZ2dxVll3SWkvSnVicEZKdlhKK0Y3VDZNcUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXgrVGxVVHpJRW5PQXRKY0pob1gyWVM",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FK7T3J/A",
    "title": "iPad mini 6 Wi-Fi 256GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -1038,6 +1004,23 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-09-25"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
   },
   {
    "part_number": "FXN63J/A",
@@ -1087,23 +1070,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1886,23 +1852,6 @@
    "capacity": "128gb",
    "screen": "",
    "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-03"
-  },
-  {
-   "part_number": "FYDV3J/A",
-   "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydv3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-teal-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWmF3WDJWWUM4S1RKbFZDTldJT2dsK3dFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cFphU0FmZTR0UjlNVnFmVUtXSnNIckE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "teal",
    "memory": "",
    "since": "2026-09-03"
   },
