@@ -2611,22 +2611,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-09-25",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-25",
@@ -2642,6 +2626,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-09-25",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-08-19",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -3457,28 +3457,6 @@
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
- "FTMV3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-09-25",
-  "title": "iPhone 15 512GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 142800,
-  "price_history": [
-   [
-    "2026-07-31",
-    137800
-   ],
-   [
-    "2026-09-11",
-    142800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T10:42:21+09:00"
- },
  "FTMW3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-09-25",
@@ -3828,6 +3806,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTMV3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-09-25",
+  "title": "iPhone 15 512GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 142800,
+  "price_history": [
+   [
+    "2026-07-31",
+    137800
+   ],
+   [
+    "2026-09-11",
+    142800
+   ]
+  ],
+  "sold_out_at": "2026-09-25",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-09-25",
+  "restocked_at_at": "2026-09-25T10:42:21+09:00"
  },
  "FTUL3J/A": {
   "first_seen": "2026-09-11",
