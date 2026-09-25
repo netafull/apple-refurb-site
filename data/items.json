@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T15:42:21+09:00",
+ "generated_at": "2026-09-25T16:12:22+09:00",
  "count": 265,
  "items": [
   {
@@ -1104,23 +1104,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "black",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
-   "part_number": "FXVH3J/A",
-   "title": "iPhone 16 Plus 256GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYWVtTys2RUQrMVlZU0JJaDFIVytWR1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekJpbVJwd3JsY2tPUytLMVF5RGJ3TUo",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "white",
    "memory": "",
    "since": "2026-09-25"
   },
@@ -3603,6 +3586,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDR4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
   },
