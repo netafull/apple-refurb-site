@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T21:12:21+09:00",
- "count": 279,
+ "generated_at": "2026-09-25T21:42:23+09:00",
+ "count": 277,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -938,23 +938,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FK8F3J/A",
-   "title": "iPad mini 6 Wi-Fi + Cellular 256GB - スペースグレイ [整備済製品]",
-   "price": 106800,
-   "url": "https://www.apple.com/jp/shop/product/fk8f3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-wificell-space-gray-gallery-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0ZGxuV1ZheFFOUlV1aFFQUVZnQ21XdmFoN2xYd01oL2xoNTJEamdvVVdHaXlKMGdiVnhrdGFOTVlEcGM2bDFqemYvU3JjZHd1MTRSd0VqZnNnTGdmZmxSTFRFdkVLbEgwa1krVUpjUjBBY1dNUjhodU9MTHNlVnVUMUtlUmw4RU9R",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2021",
-   "capacity": "256gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FK7T3J/A",
    "title": "iPad mini 6 Wi-Fi 256GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -1871,23 +1854,6 @@
    "color": "green",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTML3J/A",
-   "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 99800,
-   "url": "https://www.apple.com/jp/shop/product/ftml3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWFUvOGZ5dVBscEk2MVRKK2FWT0VVeXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGNpTGNmSFhkZ0FyRGFHcnMzOTRDSFE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
