@@ -630,11 +630,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 41,
+   "ipad": 62,
    "iphone": 52,
    "mac": 164,
    "watch": 4
   },
-  "total": 264
+  "total": 285
  }
 }
