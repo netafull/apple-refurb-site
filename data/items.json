@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T10:42:22+09:00",
- "count": 266,
+ "generated_at": "2026-09-26T11:12:22+09:00",
+ "count": 264,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -853,23 +853,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCJ44J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
-   "price": 157800,
-   "url": "https://www.apple.com/jp/shop/product/fcj44j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bHVSQXdHcEkvMVJjaG9QcE9DNjdqTkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHF3b3QvM092eWpmd1NMekhvdjBnOFE",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FNYC3J/A",
    "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）[整備済製品]",
    "price": 146800,
@@ -921,6 +904,23 @@
    "since": "2026-09-25"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -968,23 +968,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3638,23 +3621,6 @@
    "screen": "14inch",
    "color": "silver",
    "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1EL3J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - イエロー",
-   "price": 351800,
-   "url": "https://www.apple.com/jp/shop/product/g1el3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-yellow-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnYVpDWFMwZlFQajI0K1B6MDNjRnZPZENSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXI1VzB5ZVBkQ2ZWWlBMcFF0TU9nL0VjSzRXeG45dTdtK1VJTW4vVDJncXA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "yellow",
-   "memory": "16gb",
    "since": "2026-07-30"
   },
   {
