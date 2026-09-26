@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T18:42:20+09:00",
- "count": 258,
+ "generated_at": "2026-09-26T19:12:18+09:00",
+ "count": 256,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -528,23 +528,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCJE4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 1TB - スペースグレイ [整備済製品]",
-   "price": 231800,
-   "url": "https://www.apple.com/jp/shop/product/fcje4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cGNLSmhFT29hM3dUenNuVVdEZmVHa1BvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5ZNXJaYWwwQndUSEprUk1YQmJQTGg",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-09-25"
   },
   {
    "part_number": "FCJH4J/A",
@@ -1344,23 +1327,6 @@
    "color": "black",
    "memory": "",
    "since": "2026-09-25"
-  },
-  {
-   "part_number": "FXVC3J/A",
-   "title": "iPhone 16 Plus 128GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 128800,
-   "url": "https://www.apple.com/jp/shop/product/fxvc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYWVtTys2RUQrMVlZU0JJaDFIVytWR1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekJpbVJwd3JsY2tPUytLMVF5RGJ3TUo",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FXVD3J/A",
