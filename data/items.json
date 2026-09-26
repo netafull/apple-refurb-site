@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T04:42:23+09:00",
- "count": 255,
+ "generated_at": "2026-09-27T05:12:19+09:00",
+ "count": 254,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4047,23 +4047,6 @@
    "color": "blue",
    "memory": "24gb",
    "since": "2026-09-08"
-  },
-  {
-   "part_number": "G1613J/A",
-   "title": "13インチMacBook Air [整備済製品] 8コアCPUと10コアGPUを搭載したApple M2チップ -ミッドナイト",
-   "price": 224800,
-   "url": "https://www.apple.com/jp/shop/product/g1613j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-m2-midnight-202208?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QkJpMElmU3Z2QTUxaWlZMkpyNUtscEh6aWY2ZWN0VmhIWTdsdGVnU0taUGdNQ09hTjJxS2hNMUZrelBIOGtCQTlpaHIrQ0hZaTQ0a3lBVm53bGROOHU4Wk02UHh2VWFhMldnSE5KcVF2TkF2Rm5wai9Qanc1ek43aEI2b05NUGM",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2022",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-09-22"
   },
   {
    "part_number": "FDV94J/A",
