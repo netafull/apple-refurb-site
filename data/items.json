@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T15:42:23+09:00",
+ "generated_at": "2026-09-26T16:12:21+09:00",
  "count": 261,
  "items": [
   {
@@ -1295,6 +1295,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FXVH3J/A",
+   "title": "iPhone 16 Plus 256GB - ホワイト（SIMフリー）[整備済製品]",
+   "price": 140800,
+   "url": "https://www.apple.com/jp/shop/product/fxvh3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYWVtTys2RUQrMVlZU0JJaDFIVytWR1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekJpbVJwd3JsY2tPUytLMVF5RGJ3TUo",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16plus",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "white",
+   "memory": "",
+   "since": "2026-09-25"
+  },
+  {
    "part_number": "FTUC3J/A",
    "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 134800,
@@ -1648,23 +1665,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "green",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTMK3J/A",
-   "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
-   "price": 99800,
-   "url": "https://www.apple.com/jp/shop/product/ftmk3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
   },
