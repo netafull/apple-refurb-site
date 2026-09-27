@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T23:42:25+09:00",
- "count": 249,
+ "generated_at": "2026-09-28T00:12:19+09:00",
+ "count": 248,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -849,23 +849,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN73J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn73j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-blue-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWJNcU5FeWdCbGd6UXlTLzFRVGMxQXJTK2lDc2s2dzl5Rno4MWVoTXpvVHVYb1hLcitxejdqSmc5UXI1M3FwZjdobHZ1MVZrbkN0OWkzZ0JoOGJHcm10bXM1ZmVaN0xZU1ZSS3hoc2dYNDQ",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "blue",
    "memory": "",
    "since": "2026-08-28"
   },
