@@ -664,10 +664,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 48,
-   "iphone": 33,
-   "mac": 175,
+   "iphone": 32,
+   "mac": 171,
    "watch": 4
   },
-  "total": 263
+  "total": 258
  }
 }
