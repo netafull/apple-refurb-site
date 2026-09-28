@@ -663,11 +663,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 49,
+   "ipad": 48,
    "iphone": 33,
-   "mac": 157,
+   "mac": 178,
    "watch": 4
   },
-  "total": 246
+  "total": 266
  }
 }
