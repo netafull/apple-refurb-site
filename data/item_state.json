@@ -2297,24 +2297,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MN7J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-28",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 1167800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1167800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
  "G1FW2J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-28",
@@ -4144,6 +4126,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MN7J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-09-28",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 1167800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1167800
+   ]
+  ],
+  "sold_out_at": "2026-09-28",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T12:15:28+09:00"
  },
  "FU0F3J/A": {
   "first_seen": "2026-07-31",
