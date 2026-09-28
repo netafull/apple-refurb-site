@@ -2227,22 +2227,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1CDAJ/A": {
-  "first_seen": "2026-09-28",
-  "first_seen_at": "2026-09-28T14:42:21+09:00",
-  "last_seen": "2026-09-28",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 847800,
-  "price_history": [
-   [
-    "2026-09-28",
-    847800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MY1J/A": {
   "first_seen": "2026-09-19",
   "first_seen_at": "2026-09-19T14:12:20+09:00",
@@ -4194,6 +4178,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1CDAJ/A": {
+  "first_seen": "2026-09-28",
+  "first_seen_at": "2026-09-28T14:42:21+09:00",
+  "last_seen": "2026-09-28",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 847800,
+  "price_history": [
+   [
+    "2026-09-28",
+    847800
+   ]
+  ],
+  "sold_out_at": "2026-09-28",
+  "baseline": null
  },
  "G1CF5J/A": {
   "first_seen": "2026-09-28",

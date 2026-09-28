@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28T19:42:24+09:00",
- "count": 250,
+ "generated_at": "2026-09-28T20:12:20+09:00",
+ "count": 249,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1888,23 +1888,6 @@
    "color": "silver",
    "memory": "",
    "since": "2026-09-19"
-  },
-  {
-   "part_number": "G1CDAJ/A",
-   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-   "price": 847800,
-   "url": "https://www.apple.com/jp/shop/product/g1cdaj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "2tb",
-   "screen": "",
-   "color": "",
-   "memory": "128gb",
-   "since": "2026-09-28"
   },
   {
    "part_number": "G1MW9J/A",
