@@ -809,24 +809,6 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
- "G1KZDJ/A": {
-  "first_seen": "2026-09-09",
-  "first_seen_at": "2026-09-09T17:42:19+09:00",
-  "last_seen": "2026-09-28",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-  "category": "mac",
-  "price": 375800,
-  "price_history": [
-   [
-    "2026-09-09",
-    375800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-28",
-  "restocked_at_at": "2026-09-28T14:42:21+09:00"
- },
  "G1LS0J/A": {
   "first_seen": "2026-09-19",
   "first_seen_at": "2026-09-19T14:12:20+09:00",
@@ -2697,22 +2679,6 @@
   "restocked_at": "2026-09-28",
   "restocked_at_at": "2026-09-28T14:42:21+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-28",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2746,6 +2712,22 @@
   "baseline": null,
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-09-28",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -4138,6 +4120,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1KZDJ/A": {
+  "first_seen": "2026-09-09",
+  "first_seen_at": "2026-09-09T17:42:19+09:00",
+  "last_seen": "2026-09-28",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+  "category": "mac",
+  "price": 375800,
+  "price_history": [
+   [
+    "2026-09-09",
+    375800
+   ]
+  ],
+  "sold_out_at": "2026-09-28",
+  "baseline": null,
+  "restocked_at": "2026-09-28",
+  "restocked_at_at": "2026-09-28T14:42:21+09:00"
  },
  "FTUD3J/A": {
   "first_seen": "2026-08-01",
