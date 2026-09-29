@@ -674,11 +674,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 48,
+   "ipad": 49,
    "iphone": 28,
    "mac": 159,
    "watch": 4
   },
-  "total": 242
+  "total": 243
  }
 }
