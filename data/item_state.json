@@ -685,22 +685,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-09-29",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-29",
@@ -718,6 +702,22 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
+ },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-09-29",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1KN5J/A": {
   "first_seen": "2026-08-04",
@@ -1133,24 +1133,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1JVJJ/A": {
-  "first_seen": "2026-09-09",
-  "first_seen_at": "2026-09-09T17:42:19+09:00",
-  "last_seen": "2026-09-29",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 482800,
-  "price_history": [
-   [
-    "2026-09-09",
-    482800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-28",
-  "restocked_at_at": "2026-09-28T14:42:21+09:00"
- },
  "G1K12J/A": {
   "first_seen": "2026-09-08",
   "first_seen_at": "2026-09-08T14:12:20+09:00",
@@ -1184,22 +1166,6 @@
   "baseline": null,
   "restocked_at": "2026-09-08",
   "restocked_at_at": "2026-09-08T14:12:20+09:00"
- },
- "G1JVKJ/A": {
-  "first_seen": "2026-09-23",
-  "first_seen_at": "2026-09-23T11:42:24+09:00",
-  "last_seen": "2026-09-29",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-  "category": "mac",
-  "price": 497800,
-  "price_history": [
-   [
-    "2026-09-23",
-    497800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FX2K3J/A": {
   "first_seen": "2026-07-30",
@@ -3395,28 +3361,6 @@
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T12:42:56+09:00"
  },
- "FYDU3J/A": {
-  "first_seen": "2026-09-03",
-  "first_seen_at": "2026-09-03T11:42:19+09:00",
-  "last_seen": "2026-09-29",
-  "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-09-03",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-29",
-  "restocked_at_at": "2026-09-29T18:12:22+09:00"
- },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-29",
@@ -3992,6 +3936,62 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1JVJJ/A": {
+  "first_seen": "2026-09-09",
+  "first_seen_at": "2026-09-09T17:42:19+09:00",
+  "last_seen": "2026-09-29",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 482800,
+  "price_history": [
+   [
+    "2026-09-09",
+    482800
+   ]
+  ],
+  "sold_out_at": "2026-09-29",
+  "baseline": null,
+  "restocked_at": "2026-09-28",
+  "restocked_at_at": "2026-09-28T14:42:21+09:00"
+ },
+ "G1JVKJ/A": {
+  "first_seen": "2026-09-23",
+  "first_seen_at": "2026-09-23T11:42:24+09:00",
+  "last_seen": "2026-09-29",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+  "category": "mac",
+  "price": 497800,
+  "price_history": [
+   [
+    "2026-09-23",
+    497800
+   ]
+  ],
+  "sold_out_at": "2026-09-29",
+  "baseline": null
+ },
+ "FYDU3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-09-29",
+  "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-29",
+  "baseline": null,
+  "restocked_at": "2026-09-29",
+  "restocked_at_at": "2026-09-29T18:12:22+09:00"
  },
  "FU9D3J/A": {
   "first_seen": "2026-08-04",
