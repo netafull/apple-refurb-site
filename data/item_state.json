@@ -63,24 +63,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU9D3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-09-29",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-04",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-29",
-  "restocked_at_at": "2026-09-29T16:12:20+09:00"
- },
  "FHFJ4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-29",
@@ -3988,6 +3970,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU9D3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-09-29",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-04",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-09-29",
+  "baseline": null,
+  "restocked_at": "2026-09-29",
+  "restocked_at_at": "2026-09-29T16:12:20+09:00"
  },
  "FU083J/A": {
   "first_seen": "2026-07-31",
