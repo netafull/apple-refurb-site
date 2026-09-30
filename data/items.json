@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T00:42:26+09:00",
- "count": 229,
+ "generated_at": "2026-10-01T01:12:57+09:00",
+ "count": 228,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1308,23 +1308,6 @@
    "capacity": "128gb",
    "screen": "",
    "color": "blue",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU0E3J/A",
-   "title": "iPhone 15 Plus 128GB - グリーン（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu0e3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-green-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZFJtZi9BTGZRZVBIUTQ5cEt3dHVyRTFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMXZGWXpnbDZpK3hKWFhiME5WWmorZVJ1S1Z4dVRTWldNVTBuYnAweHF2ZEk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "green",
    "memory": "",
    "since": "2026-07-31"
   },
