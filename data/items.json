@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T06:12:20+09:00",
+ "generated_at": "2026-10-01T06:42:20+09:00",
  "count": 228,
  "items": [
   {
@@ -853,23 +853,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -883,6 +866,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1342,7 +1342,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1359,7 +1359,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1376,7 +1376,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1393,7 +1393,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1461,7 +1461,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1478,7 +1478,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1495,7 +1495,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-08-16"
   },
   {
@@ -1546,7 +1546,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-08-08"
   },
   {
@@ -1563,7 +1563,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1580,7 +1580,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-09-14"
   },
   {
@@ -1597,7 +1597,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1614,7 +1614,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1665,7 +1665,7 @@
    "capacity": "8tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "36gb",
    "since": "2026-08-06"
   },
   {
@@ -1682,7 +1682,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1699,7 +1699,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1733,7 +1733,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1750,7 +1750,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "128gb",
    "since": "2026-07-30"
   },
   {
@@ -1767,7 +1767,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-08-16"
   },
   {
@@ -1784,7 +1784,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -1801,7 +1801,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-09-19"
   },
   {
@@ -1818,7 +1818,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1835,7 +1835,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1852,7 +1852,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1869,7 +1869,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1886,7 +1886,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -1903,7 +1903,7 @@
    "capacity": "4tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-06"
   },
   {
@@ -1920,7 +1920,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-08-08"
   },
   {
@@ -1937,7 +1937,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-08-06"
   },
   {
@@ -1988,7 +1988,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-08"
   },
   {
@@ -2005,7 +2005,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-12"
   },
   {
@@ -2022,7 +2022,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2039,7 +2039,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2090,7 +2090,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2107,7 +2107,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2124,7 +2124,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2141,7 +2141,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2158,7 +2158,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "36gb",
    "since": "2026-07-30"
   },
   {
@@ -2175,7 +2175,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "36gb",
    "since": "2026-07-30"
   },
   {
@@ -2209,7 +2209,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "36gb",
    "since": "2026-07-30"
   },
   {
@@ -2260,7 +2260,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-13"
   },
   {
@@ -2277,7 +2277,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2311,7 +2311,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2345,7 +2345,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-08"
   },
   {
@@ -2362,7 +2362,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2413,7 +2413,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2430,7 +2430,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "64gb",
    "since": "2026-07-30"
   },
   {
@@ -2566,7 +2566,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2583,7 +2583,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-08-08"
   },
   {
@@ -2651,7 +2651,7 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
@@ -2668,7 +2668,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2685,7 +2685,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "48gb",
    "since": "2026-07-30"
   },
   {
@@ -2838,7 +2838,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
@@ -2855,7 +2855,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
@@ -2872,7 +2872,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "",
+   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
@@ -2889,7 +2889,7 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "",
+   "memory": "24gb",
    "since": "2026-07-30"
   },
   {
@@ -3131,23 +3131,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDE34J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-   "price": 318800,
-   "url": "https://www.apple.com/jp/shop/product/fde34j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FDE64J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
    "price": 318800,
@@ -3163,6 +3146,23 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FDE34J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "price": 318800,
+   "url": "https://www.apple.com/jp/shop/product/fde34j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSjh3Y3lMRzBPMlRDTkFucTRteE5HSy85S3R4M0M3WGhIQVNOK3lBdUI5K2U2QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "24gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1E25J/A",
@@ -3739,7 +3739,7 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "blush",
-   "memory": "",
+   "memory": "8gb",
    "since": "2026-07-30"
   },
   {
@@ -3756,7 +3756,7 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "silver",
-   "memory": "",
+   "memory": "8gb",
    "since": "2026-07-30"
   },
   {
@@ -3773,7 +3773,7 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "citrus",
-   "memory": "",
+   "memory": "8gb",
    "since": "2026-07-30"
   },
   {
@@ -3790,7 +3790,7 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "indigo",
-   "memory": "",
+   "memory": "8gb",
    "since": "2026-07-30"
   },
   {
@@ -3807,7 +3807,7 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "blush",
-   "memory": "",
+   "memory": "8gb",
    "since": "2026-07-30"
   },
   {
