@@ -702,5 +702,16 @@
    "watch": 4
   },
   "total": 228
+ },
+ "2026-10-02": {
+  "categories": {
+   "appletv": 2,
+   "homepod": 2,
+   "ipad": 47,
+   "iphone": 31,
+   "mac": 142,
+   "watch": 4
+  },
+  "total": 228
  }
 }
