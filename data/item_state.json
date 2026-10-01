@@ -733,6 +733,24 @@
   "restocked_at": "2026-08-18",
   "restocked_at_at": "2026-08-18T01:44:24+09:00"
  },
+ "G1K25J/A": {
+  "first_seen": "2026-09-23",
+  "first_seen_at": "2026-09-23T11:42:24+09:00",
+  "last_seen": "2026-10-01",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - イエロー",
+  "category": "mac",
+  "price": 382800,
+  "price_history": [
+   [
+    "2026-09-23",
+    382800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-01",
+  "restocked_at_at": "2026-10-01T16:42:21+09:00"
+ },
  "G1K85J/A": {
   "first_seen": "2026-09-15",
   "first_seen_at": "2026-09-15T10:12:19+09:00",
@@ -3293,28 +3311,6 @@
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T12:42:56+09:00"
  },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-10-01",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-01",
-  "restocked_at_at": "2026-10-01T15:42:20+09:00"
- },
  "FYDR3J/A": {
   "first_seen": "2026-08-15",
   "first_seen_at": "2026-08-15T12:20:42+09:00",
@@ -3450,6 +3446,24 @@
   "baseline": null,
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T12:42:56+09:00"
+ },
+ "FTUD3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-10-01",
+  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-01",
+    134800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-10-01",
+  "restocked_at_at": "2026-10-01T16:42:21+09:00"
  },
  "FTUF3J/A": {
   "first_seen": "2026-09-11",
@@ -3953,6 +3967,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-10-01",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-06",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-10-01",
+  "baseline": null,
+  "restocked_at": "2026-10-01",
+  "restocked_at_at": "2026-10-01T15:42:20+09:00"
+ },
  "FD1Q4J/A": {
   "first_seen": "2026-10-01",
   "first_seen_at": "2026-10-01T15:42:20+09:00",
@@ -4067,24 +4103,6 @@
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
  },
- "FTUD3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-09-30",
-  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-01",
-    134800
-   ]
-  ],
-  "sold_out_at": "2026-09-30",
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-09-30",
-  "restocked_at_at": "2026-09-30T18:42:31+09:00"
- },
  "G1MV1J/A": {
   "first_seen": "2026-08-16",
   "first_seen_at": "2026-08-16T10:56:23+09:00",
@@ -4096,22 +4114,6 @@
    [
     "2026-08-16",
     517800
-   ]
-  ],
-  "sold_out_at": "2026-09-30",
-  "baseline": null
- },
- "G1K25J/A": {
-  "first_seen": "2026-09-23",
-  "first_seen_at": "2026-09-23T11:42:24+09:00",
-  "last_seen": "2026-09-30",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - イエロー",
-  "category": "mac",
-  "price": 382800,
-  "price_history": [
-   [
-    "2026-09-23",
-    382800
    ]
   ],
   "sold_out_at": "2026-09-30",

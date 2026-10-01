@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T16:12:22+09:00",
- "count": 235,
+ "generated_at": "2026-10-01T16:42:21+09:00",
+ "count": 236,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1227,6 +1227,23 @@
    "since": "2026-08-07"
   },
   {
+   "part_number": "FTUD3J/A",
+   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftud3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENVhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdCbERENzd1ZXhTZlRCRWh3dmxYcy8",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "whitetitanium",
+   "memory": "",
+   "since": "2026-08-01"
+  },
+  {
    "part_number": "FTUF3J/A",
    "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
    "price": 134800,
@@ -1327,23 +1344,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDQ3J/A",
-   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "FYDR3J/A",
@@ -3197,6 +3197,23 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1K25J/A",
+   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - イエロー",
+   "price": 382800,
+   "url": "https://www.apple.com/jp/shop/product/g1k25j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-yellow-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnYVpDWFMwZlFQajI0K1B6MDNjRnZPZENSWHRYSHNveStQbGlQU3EyZCtPT01LWlMyVmEreEd6UVBWaXRHdkpLMXI1VzB5ZVBkQ2ZWWlBMcFF0TU9nL0VjSzRXeG45dTdtK1VJTW4vVDJncXA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "imac",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "24inch",
+   "color": "yellow",
+   "memory": "32gb",
+   "since": "2026-09-23"
   },
   {
    "part_number": "G1K85J/A",
