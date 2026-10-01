@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T17:12:20+09:00",
- "count": 235,
+ "generated_at": "2026-10-01T17:42:20+09:00",
+ "count": 237,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -853,23 +853,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -883,6 +866,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1210,6 +1210,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FTMW3J/A",
+   "title": "iPhone 15 512GB - イエロー（SIMフリー）[整備済製品]",
+   "price": 142800,
+   "url": "https://www.apple.com/jp/shop/product/ftmw3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "yellow",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
    "part_number": "FTUC3J/A",
    "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 134800,
@@ -1225,6 +1242,23 @@
    "color": "blacktitanium",
    "memory": "",
    "since": "2026-08-07"
+  },
+  {
+   "part_number": "FTUD3J/A",
+   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftud3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENVhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdCbERENzd1ZXhTZlRCRWh3dmxYcy8",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "whitetitanium",
+   "memory": "",
+   "since": "2026-08-01"
   },
   {
    "part_number": "FTUF3J/A",
@@ -1244,21 +1278,21 @@
    "since": "2026-09-11"
   },
   {
-   "part_number": "FYDX3J/A",
-   "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
+   "part_number": "FU0F3J/A",
+   "title": "iPhone 15 Plus 256GB - ブラック（SIMフリー）[整備済製品]",
    "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fydx3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
+   "url": "https://www.apple.com/jp/shop/product/fu0f3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNDFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00",
    "category": "iphone",
    "category_name": "iPhone",
    "shipping": "24時間以内",
-   "model": "iphone16",
+   "model": "iphone15plus",
    "year": "",
    "capacity": "256gb",
    "screen": "",
-   "color": "white",
+   "color": "black",
    "memory": "",
-   "since": "2026-09-03"
+   "since": "2026-07-31"
   },
   {
    "part_number": "FTU73J/A",
@@ -3284,23 +3318,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDE64J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 318800,
-   "url": "https://www.apple.com/jp/shop/product/fde64j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FDE34J/A",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
    "price": 318800,
@@ -3316,6 +3333,23 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-08-04"
+  },
+  {
+   "part_number": "FDE64J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 318800,
+   "url": "https://www.apple.com/jp/shop/product/fde64j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
   },
   {
    "part_number": "G1E25J/A",
