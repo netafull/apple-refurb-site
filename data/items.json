@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03T04:12:23+09:00",
- "count": 221,
+ "generated_at": "2026-10-03T04:42:23+09:00",
+ "count": 222,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1174,6 +1174,23 @@
    "color": "naturaltitanium",
    "memory": "",
    "since": "2026-09-11"
+  },
+  {
+   "part_number": "FU0N3J/A",
+   "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fu0n3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlBVNHVUbkx0MzQxZGZsbEpQc2JtdkluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1pIZHdXdmdKcWs4aUd1Q2d3SHNMcVMyc2ZrNXJXRklOVythS1Rtc1B6b0Q",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "blue",
+   "memory": "",
+   "since": "2026-07-31"
   },
   {
    "part_number": "FU0Q3J/A",
