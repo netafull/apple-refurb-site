@@ -2147,22 +2147,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-03",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -2178,6 +2162,22 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "G1MN8J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-03",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -3131,28 +3131,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FU0N3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-03",
-  "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 126800,
-  "price_history": [
-   [
-    "2026-07-31",
-    119800
-   ],
-   [
-    "2026-09-25",
-    126800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-03",
-  "restocked_at_at": "2026-10-03T04:42:23+09:00"
- },
  "FU0Q3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-10-03",
@@ -3694,6 +3672,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU0N3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-03",
+  "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 126800,
+  "price_history": [
+   [
+    "2026-07-31",
+    119800
+   ],
+   [
+    "2026-09-25",
+    126800
+   ]
+  ],
+  "sold_out_at": "2026-10-03",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-10-03",
+  "restocked_at_at": "2026-10-03T04:42:23+09:00"
  },
  "FFF04J/A": {
   "first_seen": "2026-08-13",
