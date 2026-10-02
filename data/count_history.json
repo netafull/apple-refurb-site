@@ -705,12 +705,11 @@
  },
  "2026-10-02": {
   "categories": {
-   "accessories": 1,
    "appletv": 2,
    "homepod": 2,
    "ipad": 44,
    "iphone": 29,
-   "mac": 139,
+   "mac": 140,
    "watch": 4
   },
   "total": 221
