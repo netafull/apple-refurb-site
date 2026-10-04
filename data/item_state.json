@@ -2133,22 +2133,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-10-04",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-04",
@@ -2164,6 +2148,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
+  "last_seen": "2026-10-04",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+  "category": "mac",
+  "price": 1450800,
+  "price_history": [
+   [
+    "2026-08-19",
+    1450800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -2246,24 +2246,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1CE2J/A": {
-  "first_seen": "2026-09-07",
-  "first_seen_at": "2026-09-07T17:42:19+09:00",
-  "last_seen": "2026-10-04",
-  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 1588800,
-  "price_history": [
-   [
-    "2026-09-07",
-    1588800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-28",
-  "restocked_at_at": "2026-09-28T14:42:21+09:00"
  },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
@@ -2362,6 +2344,24 @@
   "baseline": null,
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
+ },
+ "FVVC3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-04",
+  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "category": "ipad",
+  "price": 190800,
+  "price_history": [
+   [
+    "2026-07-30",
+    190800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-04",
+  "restocked_at_at": "2026-10-04T11:42:24+09:00"
  },
  "FVW13J/A": {
   "first_seen": "2026-07-30",
@@ -3549,6 +3549,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1CE2J/A": {
+  "first_seen": "2026-09-07",
+  "first_seen_at": "2026-09-07T17:42:19+09:00",
+  "last_seen": "2026-10-04",
+  "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 1588800,
+  "price_history": [
+   [
+    "2026-09-07",
+    1588800
+   ]
+  ],
+  "sold_out_at": "2026-10-04",
+  "baseline": null,
+  "restocked_at": "2026-09-28",
+  "restocked_at_at": "2026-09-28T14:42:21+09:00"
+ },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-10-04",
@@ -3912,22 +3930,6 @@
   "baseline": null,
   "restocked_at": "2026-09-23",
   "restocked_at_at": "2026-09-23T11:42:24+09:00"
- },
- "FVVC3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-02",
-  "title": "11インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-  "category": "ipad",
-  "price": 190800,
-  "price_history": [
-   [
-    "2026-07-30",
-    190800
-   ]
-  ],
-  "sold_out_at": "2026-10-02",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "FYDU3J/A": {
   "first_seen": "2026-09-03",
