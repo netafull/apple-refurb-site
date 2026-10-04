@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T22:42:22+09:00",
- "count": 210,
+ "generated_at": "2026-10-04T23:12:20+09:00",
+ "count": 209,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3263,23 +3263,6 @@
    "capacity": "256gb",
    "screen": "24inch",
    "color": "green",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWV13J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ブルー",
-   "price": 244800,
-   "url": "https://www.apple.com/jp/shop/product/fwv13j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-blue-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnUTZ2RnZyaU1NM3ZjaUVWSGxDVVVIeVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1hvOGl1NldzcEgrS3dCQmtSQ25yRVFXZEdHNUFPR0hYUU12cjI0VlFzM1A",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
   },
