@@ -52,6 +52,11 @@ SITE_NAME = "林檎ポチ"
 # 503のチラつき程度では鳴らない
 FAILURE_ALERT_HOURS = 3
 
+# 実行履歴の先頭がこれより古い場合は、一覧が古いとみなして判定不能にする。
+# 実行間隔は30分(林檎)〜2時間(電書)なので、12時間も新しい実行が無いのは
+# 通常ありえない(長期障害でも失敗した実行が毎回できるので先頭は新しい)
+MAX_LIST_AGE_HOURS = 12
+
 
 def _current_run_click() -> str:
     """現在の実行のログURLを組み立てる(失敗通知・復旧通知で共通)。"""
@@ -124,9 +129,14 @@ def _fetch_recent_runs() -> list[dict] | None:
         return None
 
     workflow_file = _extract_workflow_filename()
+    # status=completed などの絞り込みは付けない。GitHub側の絞り込み付き一覧が
+    # 古いまま返ってくることがあり(2026-10-05、家電ポチで確認)、その一覧の
+    # 先頭が数日前の失敗だったため「93時間ぶりに復旧」が毎時のように鳴った。
+    # 絞り込み無しの一覧は同じ時刻でも最新だったので、完了済みかどうかは
+    # こちらで判定する
     url = (
         f"https://api.github.com/repos/{repo}/actions/workflows/"
-        f"{workflow_file}/runs?status=completed&per_page=20&branch=main"
+        f"{workflow_file}/runs?per_page=30"
     )
     req = urllib.request.Request(
         url,
@@ -147,7 +157,32 @@ def _fetch_recent_runs() -> list[dict] | None:
         return None
 
     current_run_id = os.environ.get("GITHUB_RUN_ID", "")
-    return [r for r in runs if isinstance(r, dict) and str(r.get("id")) != current_run_id]
+    # 完了済み(status=completed)で、現在の実行以外を新しい順に並べる。
+    # 実行中・待機中の実行は結論が無いので、連続失敗の判定には使えない
+    runs = [
+        r for r in runs
+        if isinstance(r, dict)
+        and r.get("status") == "completed"
+        and str(r.get("id")) != current_run_id
+    ]
+    runs.sort(key=lambda r: str(r.get("created_at", "")), reverse=True)
+
+    # 一覧が古いときの安全策。最新の完了済み実行が MAX_LIST_AGE_HOURS より前なら、
+    # 一覧に直近の実行が載っていない(=古い一覧を掴んだ)とみなして判定不能にする。
+    # 古い一覧で「直前は失敗」と誤判断すると、復旧通知が誤って鳴る
+    if runs:
+        try:
+            newest = _parse_run_created_at(runs[0]["created_at"])
+        except (KeyError, ValueError, TypeError, AttributeError):
+            return None
+        if (datetime.now(timezone.utc) - newest).total_seconds() / 3600 > MAX_LIST_AGE_HOURS:
+            print(
+                f"[warn] 実行履歴の先頭が{MAX_LIST_AGE_HOURS}時間より古いため、"
+                "一覧が古いとみなして判定不能にします",
+                file=sys.stderr,
+            )
+            return None
+    return runs
 
 
 def _parse_run_created_at(value: str) -> datetime:
