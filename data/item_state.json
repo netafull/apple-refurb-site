@@ -1297,24 +1297,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1N05J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-05",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 632800,
-  "price_history": [
-   [
-    "2026-07-30",
-    632800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-08",
-  "restocked_at_at": "2026-08-08T14:23:02+09:00"
- },
  "FX2W3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-05",
@@ -2195,11 +2177,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-05",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2211,11 +2193,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-05",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3404,6 +3386,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1N05J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-05",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 632800,
+  "price_history": [
+   [
+    "2026-07-30",
+    632800
+   ]
+  ],
+  "sold_out_at": "2026-10-05",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T14:23:02+09:00"
  },
  "FN873J/A": {
   "first_seen": "2026-07-30",
