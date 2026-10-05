@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T16:42:23+09:00",
- "count": 206,
+ "generated_at": "2026-10-05T17:12:20+09:00",
+ "count": 205,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -751,23 +751,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -781,6 +764,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1157,23 +1157,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-09-11"
-  },
-  {
-   "part_number": "FTMQ3J/A",
-   "title": "iPhone 15 256GB - イエロー（SIMフリー）[整備済製品]",
-   "price": 112800,
-   "url": "https://www.apple.com/jp/shop/product/ftmq3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-yellow-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUXNkRXpDbFk0Zk1XR1MxN1A5TnJkVVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YklqN2ZlVmZ4SEYzN0l5WEp1VjJaTEE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "yellow",
-   "memory": "",
-   "since": "2026-08-21"
   },
   {
    "part_number": "G1MY9J/A",
