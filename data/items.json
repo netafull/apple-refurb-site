@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T21:12:21+09:00",
- "count": 205,
+ "generated_at": "2026-10-05T21:42:22+09:00",
+ "count": 204,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -2940,23 +2940,6 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDVU4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 301800,
-   "url": "https://www.apple.com/jp/shop/product/fdvu4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NwdW0rTThNNHZVMGhTd2pTVXk3K1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "skyblue",
    "memory": "24gb",
    "since": "2026-07-30"
   },
