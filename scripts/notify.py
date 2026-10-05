@@ -57,6 +57,10 @@ FAILURE_ALERT_HOURS = 3
 # 通常ありえない(長期障害でも失敗した実行が毎回できるので先頭は新しい)
 MAX_LIST_AGE_HOURS = 12
 
+# 失敗通知は実行開始の数分後(通知を送る時点)の時刻で判定する。一方、復旧通知の
+# 判定は実行の開始時刻の差で行うため、その実行時間(最大でも10分強)ぶん緩める
+ALERT_TIME_SLACK_HOURS = 0.2
+
 
 def _current_run_click() -> str:
     """現在の実行のログURLを組み立てる(失敗通知・復旧通知で共通)。"""
@@ -295,7 +299,7 @@ def _handle_failure_alert(topic: str) -> None:
 
 
 def _handle_recovered(topic: str) -> None:
-    """`--recovered`: 直前の実行が失敗していた場合にだけ復旧を知らせる。
+    """`--recovered`: 失敗通知を出した障害(連続失敗がFAILURE_ALERT_HOURS以上)から復旧したときだけ知らせる。
 
     状況が判定できないときは黙る。誤って「復旧しました」を送る方が、
     1通多く鳴るより実害が大きいため`--failure`とは逆の倒し方にしている
@@ -309,6 +313,25 @@ def _handle_recovered(topic: str) -> None:
 
     if streak["streak_start"] is None:
         print("直前の実行は失敗していなかったため、復旧通知はスキップします")
+        return
+
+    # 復旧を知らせるのは、失敗通知(--failure)を出した障害のときだけにする。
+    # 失敗通知は連続失敗が FAILURE_ALERT_HOURS を超えた回にしか鳴らないので、
+    # それに満たない短い障害の復旧だけが届いても「何が壊れていたのか」が
+    # 分からず、通知が増えるだけだった(2026-10-06、GitHub側の一時障害で
+    # 1〜2時間の失敗のたびに復旧通知だけが届いた)。
+    # 失敗の継続時間は「最初の失敗〜直前(最後)の失敗」の実行開始時刻の差で見る。
+    # 失敗通知側は通知を送る時点(実行開始の数分後)の時刻で判定するため、
+    # その差の分だけ緩めておく(緩めないと、失敗通知は鳴ったのに復旧通知が
+    # 抑えられる隙間ができる)
+    failing_span_hours = (
+        streak["previous_run_time"] - streak["streak_start"]
+    ).total_seconds() / 3600
+    if failing_span_hours < FAILURE_ALERT_HOURS - ALERT_TIME_SLACK_HOURS:
+        print(
+            f"連続失敗が{failing_span_hours:.1f}時間で、失敗通知を出す基準"
+            f"({FAILURE_ALERT_HOURS}時間)に満たないため、復旧通知はスキップします"
+        )
         return
 
     now = datetime.now(timezone.utc)
