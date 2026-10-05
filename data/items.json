@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T13:42:21+09:00",
- "count": 208,
+ "generated_at": "2026-10-05T14:12:19+09:00",
+ "count": 207,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -632,23 +632,6 @@
    "since": "2026-08-07"
   },
   {
-   "part_number": "FCJD4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 512GB - パープル [整備済製品]",
-   "price": 201800,
-   "url": "https://www.apple.com/jp/shop/product/fcjd4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bHVSQXdHcEkvMVJjaG9QcE9DNjdqTkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHF3b3QvM092eWpmd1NMekhvdjBnOFE",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FP1X3J/A",
    "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第6世代）[整備済製品]",
    "price": 198800,
@@ -785,23 +768,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN63J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN93J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
    "price": 84800,
@@ -815,6 +781,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN63J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
   },
