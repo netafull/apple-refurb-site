@@ -4047,6 +4047,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FN873J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-06",
+  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
+  "category": "appletv",
+  "price": 29800,
+  "price_history": [
+   [
+    "2026-07-30",
+    29800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-06",
+  "restocked_at_at": "2026-10-06T18:12:21+09:00"
+ },
  "FN893J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-06",
@@ -4314,24 +4332,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-08",
   "restocked_at_at": "2026-08-08T14:23:02+09:00"
- },
- "FN873J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-05",
-  "title": "Apple TV 4K 64GB（第3世代）Wi-Fiモデル [整備済製品]",
-  "category": "appletv",
-  "price": 29800,
-  "price_history": [
-   [
-    "2026-07-30",
-    29800
-   ]
-  ],
-  "sold_out_at": "2026-10-05",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-30",
-  "restocked_at_at": "2026-09-30T13:42:21+09:00"
  },
  "FCJD4J/A": {
   "first_seen": "2026-09-25",
