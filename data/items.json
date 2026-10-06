@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T15:42:24+09:00",
- "count": 217,
+ "generated_at": "2026-10-06T16:12:20+09:00",
+ "count": 215,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -3318,23 +3318,6 @@
    "since": "2026-08-20"
   },
   {
-   "part_number": "FC6K4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-   "price": 240800,
-   "url": "https://www.apple.com/jp/shop/product/fc6k4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-starlight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZllITVpkM2ZCOENYUFlZWGs3bk1CcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2JzeVRhV3NiYnhEMVZmN2laN2hTdTZWZWZKZEpnTUg2bTJtOU9qU1hvcWw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "starlight",
-   "memory": "24gb",
-   "since": "2026-09-01"
-  },
-  {
    "part_number": "FC6L4J/A",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
    "price": 240800,
@@ -3486,23 +3469,6 @@
    "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FC7A4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-   "price": 179800,
-   "url": "https://www.apple.com/jp/shop/product/fc7a4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-skyblue-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlWlUvTlk5V2lDV2FaRTlna2QycTZYRVZOYmZXUnpWekhFcFdLRUF2UkJ6V3ZvdUZlR0V0VUdJSjBWaDVNVG95YkhyaVpad2dWZDNFK2ZLODRTQXphejA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "15inch",
-   "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-20"
   },
   {
    "part_number": "FW1J3J/A",
