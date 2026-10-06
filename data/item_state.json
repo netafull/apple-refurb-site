@@ -2533,24 +2533,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1N2FJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-06",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1180800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1180800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-08",
-  "restocked_at_at": "2026-08-08T14:23:02+09:00"
- },
  "G1MY8J/A": {
   "first_seen": "2026-08-08",
   "first_seen_at": "2026-08-08T14:55:38+09:00",
@@ -2663,22 +2645,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-10-06",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-06",
@@ -2695,23 +2661,21 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK9J/A": {
-  "first_seen": "2026-07-30",
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
   "last_seen": "2026-10-06",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
-    "2026-07-30",
-    1473800
+    "2026-08-19",
+    1450800
    ]
   ],
   "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T16:18:31+09:00"
+  "baseline": null
  },
  "G1MN9J/A": {
   "first_seen": "2026-07-30",
@@ -2730,6 +2694,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
+ },
+ "G1MK9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-06",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T16:18:31+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -2795,11 +2777,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-06",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2811,11 +2793,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-06",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4022,6 +4004,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1N2FJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-06",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 1180800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1180800
+   ]
+  ],
+  "sold_out_at": "2026-10-06",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-08",
+  "restocked_at_at": "2026-08-08T14:23:02+09:00"
  },
  "G1MLEJ/A": {
   "first_seen": "2026-07-30",
