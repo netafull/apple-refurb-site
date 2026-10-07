@@ -22,6 +22,16 @@
       "url": "https://manga.netaful.jp/"
     },
     {
+      "name": "コンビニポチ",
+      "desc": "コンビニ新商品アーカイブ",
+      "url": "https://conbini.netaful.jp/"
+    },
+    {
+      "name": "ファストフードポチ",
+      "desc": "マクド・モスの限定メニュー",
+      "url": "https://fastfood.netaful.jp/"
+    },
+    {
       "name": "ネタフル",
       "desc": "運営ブログ",
       "url": "https://netafull.net/"
