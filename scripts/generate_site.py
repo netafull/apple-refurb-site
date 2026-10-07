@@ -547,7 +547,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 
     icon_tags = []
     if has_asset("favicon.png"):
-        icon_tags.append('<link rel="icon" type="image/png" href="assets/favicon.png">')
+        icon_tags.append('<link rel="icon" type="image/png" sizes="96x96" href="assets/favicon.png">')
     if has_asset("apple-touch-icon.png"):
         icon_tags.append('<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">')
     ogp_tags = []
