@@ -1871,24 +1871,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1N2BJ/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T12:34:04+09:00",
-  "last_seen": "2026-10-07",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 782800,
-  "price_history": [
-   [
-    "2026-08-06",
-    782800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-09-09",
-  "restocked_at_at": "2026-09-09T15:42:21+09:00"
- },
  "G1MW6J/A": {
   "first_seen": "2026-08-06",
   "first_seen_at": "2026-08-06T12:34:04+09:00",
@@ -2457,11 +2439,11 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-07",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2473,11 +2455,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-07",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3153,6 +3135,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTMK3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-07",
+  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-10-07",
+  "restocked_at_at": "2026-10-07T17:42:20+09:00"
+ },
  "FTU73J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-07",
@@ -3666,6 +3670,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1N2BJ/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T12:34:04+09:00",
+  "last_seen": "2026-10-07",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+  "category": "mac",
+  "price": 782800,
+  "price_history": [
+   [
+    "2026-08-06",
+    782800
+   ]
+  ],
+  "sold_out_at": "2026-10-07",
+  "baseline": null,
+  "restocked_at": "2026-09-09",
+  "restocked_at_at": "2026-09-09T15:42:21+09:00"
  },
  "FHFE4J/A": {
   "first_seen": "2026-07-30",
@@ -4568,28 +4590,6 @@
   ],
   "sold_out_at": "2026-10-04",
   "baseline": null
- },
- "FTMK3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-04",
-  "title": "iPhone 15 128GB - イエロー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": "2026-10-04",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-01",
-  "restocked_at_at": "2026-10-01T15:42:20+09:00"
  },
  "G1K85J/A": {
   "first_seen": "2026-09-15",
