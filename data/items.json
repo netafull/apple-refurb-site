@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T00:42:22+09:00",
- "count": 209,
+ "generated_at": "2026-10-09T01:12:22+09:00",
+ "count": 208,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1089,23 +1089,6 @@
    "color": "black",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTUF3J/A",
-   "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-   "price": 134800,
-   "url": "https://www.apple.com/jp/shop/product/ftuf3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-naturaltitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUTlRWklseWFUTmtCbDVrTWFSU0xTREM2aVd6MWtuS09xQ3A3UnRNMWRxTVEvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkFYL3k3UXEzOWNWSnBIZWVHdXNVekE",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "naturaltitanium",
-   "memory": "",
-   "since": "2026-09-11"
   },
   {
    "part_number": "FTU73J/A",
