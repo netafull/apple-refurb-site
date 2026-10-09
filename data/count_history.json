@@ -784,11 +784,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 44,
-   "iphone": 18,
+   "ipad": 51,
+   "iphone": 19,
    "mac": 137,
    "watch": 11
   },
-  "total": 213
+  "total": 221
  }
 }

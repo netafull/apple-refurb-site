@@ -2279,6 +2279,40 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T12:42:19+09:00"
  },
+ "FD3Y4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-09",
+  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-08-25",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
+ },
+ "FD4A4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-10-09",
+  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-09",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2294,6 +2328,60 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "FCNH4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-09",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-07-30",
+    135800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
+ },
+ "FCNK4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-09",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-07-30",
+    135800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
+ },
+ "FCNL4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-09",
+  "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 135800,
+  "price_history": [
+   [
+    "2026-08-25",
+    135800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -2326,6 +2414,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCNN4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-09",
+  "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 148800,
+  "price_history": [
+   [
+    "2026-07-30",
+    148800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
+ },
+ "FCNQ4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-10-09",
+  "title": "13インチiPad Air（M3）Wi-Fi 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 148800,
+  "price_history": [
+   [
+    "2026-10-09",
+    148800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
  },
  "FVV93J/A": {
   "first_seen": "2026-07-30",
@@ -2994,6 +3116,24 @@
   "baseline": null,
   "restocked_at": "2026-09-11",
   "restocked_at_at": "2026-09-11T13:12:21+09:00"
+ },
+ "FTUF3J/A": {
+  "first_seen": "2026-09-11",
+  "first_seen_at": "2026-09-11T13:12:21+09:00",
+  "last_seen": "2026-10-09",
+  "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-09-11",
+    134800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:12:20+09:00"
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
@@ -3690,24 +3830,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T04:12:21+09:00"
- },
- "FTUF3J/A": {
-  "first_seen": "2026-09-11",
-  "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-10-09",
-  "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-09-11",
-    134800
-   ]
-  ],
-  "sold_out_at": "2026-10-09",
-  "baseline": null,
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T12:42:56+09:00"
  },
  "FX2J3J/A": {
   "first_seen": "2026-07-30",
@@ -6420,24 +6542,6 @@
   ],
   "sold_out_at": "2026-09-25",
   "baseline": null,
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T18:12:23+09:00"
- },
- "FCNK4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-25",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-07-30",
-    135800
-   ]
-  ],
-  "sold_out_at": "2026-09-25",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
  },
@@ -9925,22 +10029,6 @@
   "sold_out_at": "2026-09-06",
   "baseline": null
  },
- "FCNL4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-09-05",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-08-25",
-    135800
-   ]
-  ],
-  "sold_out_at": "2026-09-05",
-  "baseline": null
- },
  "G1MLGJ/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-05",
@@ -9990,24 +10078,6 @@
   ],
   "sold_out_at": "2026-09-05",
   "baseline": null
- },
- "FCNH4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-05",
-  "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 135800,
-  "price_history": [
-   [
-    "2026-07-30",
-    135800
-   ]
-  ],
-  "sold_out_at": "2026-09-05",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
  "G1JR6J/A": {
   "first_seen": "2026-08-17",
@@ -10552,24 +10622,6 @@
   "baseline": null,
   "restocked_at": "2026-08-31",
   "restocked_at_at": "2026-08-31T19:12:21+09:00"
- },
- "FCNN4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-31",
-  "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 148800,
-  "price_history": [
-   [
-    "2026-07-30",
-    148800
-   ]
-  ],
-  "sold_out_at": "2026-08-31",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T13:12:23+09:00"
  },
  "G1MK5J/A": {
   "first_seen": "2026-08-24",
@@ -11358,24 +11410,6 @@
   ],
   "sold_out_at": "2026-08-26",
   "baseline": null
- },
- "FD3Y4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-08-25",
-    62800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T03:55:44+09:00"
  },
  "FUWH3J/A": {
   "first_seen": "2026-08-25",
