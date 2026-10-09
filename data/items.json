@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T00:42:21+09:00",
- "count": 245,
+ "generated_at": "2026-10-10T01:12:19+09:00",
+ "count": 244,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1208,23 +1208,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FXVG3J/A",
-   "title": "iPhone 16 Plus 256GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvg3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWkZ2b1R0WENFVW5KNlU2QjlwbG5SU1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekNkSE1NOEd3NSsvQjNjZU54RU9rTDA",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-09-25"
   },
   {
    "part_number": "FXVL3J/A",
