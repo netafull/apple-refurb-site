@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T04:12:20+09:00",
- "count": 242,
+ "generated_at": "2026-10-10T04:42:21+09:00",
+ "count": 240,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1210,23 +1210,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FXVA3J/A",
-   "title": "iPhone 16 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 128800,
-   "url": "https://www.apple.com/jp/shop/product/fxva3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWkZ2b1R0WENFVW5KNlU2QjlwbG5SU1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekNkSE1NOEd3NSsvQjNjZU54RU9rTDA",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FXVC3J/A",
    "title": "iPhone 16 Plus 128GB - ホワイト（SIMフリー）[整備済製品]",
    "price": 128800,
@@ -2039,23 +2022,6 @@
    "capacity": "2tb",
    "screen": "16inch",
    "color": "spaceblack",
-   "memory": "128gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MK4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 991800,
-   "url": "https://www.apple.com/jp/shop/product/g1mk4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTZBR09yRmZMTEQzc3VqNWR5VDdZNmc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "silver",
    "memory": "128gb",
    "since": "2026-07-30"
   },
