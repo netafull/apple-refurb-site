@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T00:12:21+09:00",
- "count": 244,
+ "generated_at": "2026-10-10T00:42:21+09:00",
+ "count": 245,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1293,6 +1293,23 @@
    "color": "pink",
    "memory": "",
    "since": "2026-09-25"
+  },
+  {
+   "part_number": "FXVF3J/A",
+   "title": "iPhone 16 Plus 128GB - ティール（SIMフリー）[整備済製品]",
+   "price": 128800,
+   "url": "https://www.apple.com/jp/shop/product/fxvf3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-teal-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvVnBLTDdkZTdSS04yeFUySktjTC95K2crRDZqZGM3MkhLcGNkSmNLS1RPZy85S3R4M0M3WGhIQVNOK3lBdUI5K1g3YXo2NFNMV2ZpN2Fub2VrYXlsN2UvL3ZkM1FpMmdRMXVmLzZObkZQcnU",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "teal",
+   "memory": "",
+   "since": "2026-08-21"
   },
   {
    "part_number": "FU0F3J/A",
