@@ -79,6 +79,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FDH74J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-10-09",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T14:12:23+09:00"
+ },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-09",
@@ -2279,11 +2297,11 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T12:42:19+09:00"
  },
- "FXN93J/A": {
+ "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-09",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2295,11 +2313,11 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FXN63J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-09",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4022,24 +4040,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
- },
- "FDH74J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-10-07",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": "2026-10-07",
-  "baseline": null,
-  "restocked_at": "2026-10-07",
-  "restocked_at_at": "2026-10-07T11:12:21+09:00"
  },
  "FC7D4J/A": {
   "first_seen": "2026-08-24",
