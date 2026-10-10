@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T22:12:20+09:00",
+ "generated_at": "2026-10-10T22:42:21+09:00",
  "count": 228,
  "items": [
   {
@@ -853,23 +853,6 @@
    "since": "2026-08-25"
   },
   {
-   "part_number": "FD4A4J/A",
-   "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-   "price": 62800,
-   "url": "https://www.apple.com/jp/shop/product/fd4a4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-blue-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSnBSTFF4OHFHU2FPUUdGM3dnVy9RdnNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1d1WTZvVjhLMytTTUZRaW1ZT3NzUm8",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-10-09"
-  },
-  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1174,6 +1157,40 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTUC3J/A",
+   "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftuc3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvUlhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdsSDl3QTBIcEZKcHd0RXhaUmxNV3I",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "blacktitanium",
+   "memory": "",
+   "since": "2026-08-07"
+  },
+  {
+   "part_number": "FTUD3J/A",
+   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "price": 134800,
+   "url": "https://www.apple.com/jp/shop/product/ftud3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENVhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdCbERENzd1ZXhTZlRCRWh3dmxYcy8",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "whitetitanium",
+   "memory": "",
+   "since": "2026-08-01"
   },
   {
    "part_number": "FU0F3J/A",
@@ -3826,23 +3843,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-14"
-  },
-  {
-   "part_number": "FEU04J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとS/Mライトブラッシュスポーツバンド [整備済製品]",
-   "price": 53800,
-   "url": "https://www.apple.com/jp/shop/product/feu04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=400&hei=400&fmt=jpeg&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIekJZVERwaUgrWnVvYUpqeGRIT2lNQjE1dTlZczl0eUxQeit5cXR5YjdwcFB4cHk0eWpKb0FzUlhYOG1CNXZaR2VHejV5YUhaUzM5Mm5SZnJZZWsvK20",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
   },
   {
    "part_number": "FEU44J/A",
