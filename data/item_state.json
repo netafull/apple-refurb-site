@@ -489,24 +489,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FGDN4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-11",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 363800,
-  "price_history": [
-   [
-    "2026-07-30",
-    363800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-19",
-  "restocked_at_at": "2026-08-19T12:27:11+09:00"
- },
  "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-11",
@@ -524,6 +506,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
+ },
+ "FGDN4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-11",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 363800,
+  "price_history": [
+   [
+    "2026-07-30",
+    363800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-19",
+  "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
  "FX2F3J/A": {
   "first_seen": "2026-08-24",
@@ -2193,6 +2193,24 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:12:20+09:00"
  },
+ "FD4A4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-10-11",
+  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-09",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-11",
+  "restocked_at_at": "2026-10-11T01:12:19+09:00"
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3860,22 +3878,6 @@
   "first_seen_at": "2026-08-01T12:00:00+09:00",
   "restocked_at": "2026-10-10",
   "restocked_at_at": "2026-10-10T22:42:21+09:00"
- },
- "FD4A4J/A": {
-  "first_seen": "2026-10-09",
-  "first_seen_at": "2026-10-09T18:12:20+09:00",
-  "last_seen": "2026-10-10",
-  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-10-09",
-    62800
-   ]
-  ],
-  "sold_out_at": "2026-10-10",
-  "baseline": null
  },
  "FEU04J/A": {
   "first_seen": "2026-08-21",
