@@ -2193,24 +2193,6 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:12:20+09:00"
  },
- "FD4A4J/A": {
-  "first_seen": "2026-10-09",
-  "first_seen_at": "2026-10-09T18:12:20+09:00",
-  "last_seen": "2026-10-11",
-  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-10-09",
-    62800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-11",
-  "restocked_at_at": "2026-10-11T01:12:19+09:00"
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3842,6 +3824,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FD4A4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-10-11",
+  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-09",
+    62800
+   ]
+  ],
+  "sold_out_at": "2026-10-11",
+  "baseline": null,
+  "restocked_at": "2026-10-11",
+  "restocked_at_at": "2026-10-11T01:12:19+09:00"
  },
  "FTUC3J/A": {
   "first_seen": "2026-08-07",
