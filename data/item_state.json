@@ -2959,28 +2959,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-10-10",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-09",
-  "restocked_at_at": "2026-10-09T18:42:40+09:00"
- },
  "FTMH3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-10-10",
@@ -3044,6 +3022,28 @@
   "sold_out_at": null,
   "baseline": null,
   "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-10-09",
+  "restocked_at_at": "2026-10-09T18:42:40+09:00"
+ },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-10-10",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
@@ -3298,24 +3298,6 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
- },
- "FTUD3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-10-10",
-  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-01",
-    134800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-10-10",
-  "restocked_at_at": "2026-10-10T21:12:20+09:00"
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
@@ -3627,6 +3609,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FEH54J/A": {
+  "first_seen": "2026-09-11",
+  "first_seen_at": "2026-09-11T14:42:21+09:00",
+  "last_seen": "2026-10-10",
+  "title": "Apple Watch SE 3（GPSモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 35800,
+  "price_history": [
+   [
+    "2026-09-11",
+    35800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-10",
+  "restocked_at_at": "2026-10-10T21:42:20+09:00"
+ },
  "FEQX4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3880,6 +3880,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTUD3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-10-10",
+  "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-01",
+    134800
+   ]
+  ],
+  "sold_out_at": "2026-10-10",
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-10-10",
+  "restocked_at_at": "2026-10-10T21:12:20+09:00"
  },
  "FTMR3J/A": {
   "first_seen": "2026-07-31",
@@ -8956,22 +8974,6 @@
   "sold_out_at": "2026-09-13",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FEH54J/A": {
-  "first_seen": "2026-09-11",
-  "first_seen_at": "2026-09-11T14:42:21+09:00",
-  "last_seen": "2026-09-13",
-  "title": "Apple Watch SE 3（GPSモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 35800,
-  "price_history": [
-   [
-    "2026-09-11",
-    35800
-   ]
-  ],
-  "sold_out_at": "2026-09-13",
-  "baseline": null
  },
  "G1KM0J/A": {
   "first_seen": "2026-07-30",
