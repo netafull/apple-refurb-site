@@ -796,10 +796,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 49,
-   "iphone": 36,
-   "mac": 134,
+   "iphone": 38,
+   "mac": 133,
    "watch": 10
   },
-  "total": 232
+  "total": 233
  }
 }

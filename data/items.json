@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T17:42:19+09:00",
- "count": 232,
+ "generated_at": "2026-10-10T18:12:19+09:00",
+ "count": 233,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1346,6 +1346,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FYDU3J/A",
+   "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fydu3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-ultramarine-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvUzEwWDVHYUkybVJKVkYxZmJqc0xnV3NlL1VpWDFHcHBMQXVUWWdWdkZZNFB0RzNpQ0Mxc293RHpBd2NJd0FqVzd6U3I2VGRwUkpnRFQ2alBwWXpkaHkzS3pyeFZTOUFkbGFoMDY1R0M0VnI",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "ultramarine",
+   "memory": "",
+   "since": "2026-09-03"
+  },
+  {
    "part_number": "FTMN3J/A",
    "title": "iPhone 15 256GB - ブラック（SIMフリー）[整備済製品]",
    "price": 112800,
@@ -1410,6 +1427,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "blue",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTMT3J/A",
+   "title": "iPhone 15 256GB - グリーン（SIMフリー）[整備済製品]",
+   "price": 112800,
+   "url": "https://www.apple.com/jp/shop/product/ftmt3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-green-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlRabys0NUVWOWVMSm5jaWhHc0V2aDhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXpNWnlpUnEraEt5UXRiQ2FvTmw0RlE",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "green",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -3216,23 +3250,6 @@
    "since": "2026-08-24"
   },
   {
-   "part_number": "FGDR4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-   "price": 363800,
-   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -3246,6 +3263,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDR4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -3654,23 +3688,6 @@
    "capacity": "512gb",
    "screen": "15inch",
    "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWUC3J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fwuc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=eFMwY1gzMWtXOGpzWmlpdGhic2QxaUdFUTFsbnBvd1IwcFhpQnUxbFk4UzVlaGNxdjZyUHVNbUQxQ3ZuZXFsLzJoYjFUeWNpeWs0V2M2VWsxRlVDbUFoMnY2d0ZVTVhvYlJXN0ZtWTNPUzQ",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "silver",
    "memory": "16gb",
    "since": "2026-07-30"
   },
