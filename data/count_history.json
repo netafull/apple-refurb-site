@@ -817,11 +817,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 46,
+   "ipad": 45,
    "iphone": 34,
    "mac": 132,
    "watch": 7
   },
-  "total": 222
+  "total": 221
  }
 }
