@@ -505,24 +505,6 @@
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
  },
- "G1L91J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-12",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 236800,
-  "price_history": [
-   [
-    "2026-07-31",
-    236800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-12",
-  "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
  "FCX44J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -1062,22 +1044,6 @@
   "baseline": null,
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
- },
- "G1KZMJ/A": {
-  "first_seen": "2026-10-12",
-  "first_seen_at": "2026-10-12T15:12:21+09:00",
-  "last_seen": "2026-10-12",
-  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-  "category": "mac",
-  "price": 343800,
-  "price_history": [
-   [
-    "2026-10-12",
-    343800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "G1L20J/A": {
   "first_seen": "2026-08-27",
@@ -2949,22 +2915,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-12",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -2981,23 +2931,21 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MN9J/A": {
+ "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-12",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
     "2026-07-30",
-    1473800
+    1450800
    ]
   ],
   "sold_out_at": null,
   "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-06",
-  "restocked_at_at": "2026-10-06T17:12:21+09:00"
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -3016,6 +2964,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T16:18:31+09:00"
+ },
+ "G1MN9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-12",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-06",
+  "restocked_at_at": "2026-10-06T17:12:21+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -3961,24 +3927,6 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
- "FTUC3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T17:37:23+09:00",
-  "last_seen": "2026-10-12",
-  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-08-07",
-    134800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-12",
-  "restocked_at_at": "2026-10-12T20:42:20+09:00"
- },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-10-12",
@@ -4410,6 +4358,58 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L91J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-12",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 236800,
+  "price_history": [
+   [
+    "2026-07-31",
+    236800
+   ]
+  ],
+  "sold_out_at": "2026-10-12",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-10-12",
+  "restocked_at_at": "2026-10-12T15:12:21+09:00"
+ },
+ "G1KZMJ/A": {
+  "first_seen": "2026-10-12",
+  "first_seen_at": "2026-10-12T15:12:21+09:00",
+  "last_seen": "2026-10-12",
+  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+  "category": "mac",
+  "price": 343800,
+  "price_history": [
+   [
+    "2026-10-12",
+    343800
+   ]
+  ],
+  "sold_out_at": "2026-10-12",
+  "baseline": null
+ },
+ "FTUC3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T17:37:23+09:00",
+  "last_seen": "2026-10-12",
+  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-08-07",
+    134800
+   ]
+  ],
+  "sold_out_at": "2026-10-12",
+  "baseline": null,
+  "restocked_at": "2026-10-12",
+  "restocked_at_at": "2026-10-12T20:42:20+09:00"
  },
  "G1KZAJ/A": {
   "first_seen": "2026-08-04",
