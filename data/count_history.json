@@ -818,10 +818,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 45,
-   "iphone": 24,
-   "mac": 182,
+   "iphone": 22,
+   "mac": 181,
    "watch": 5
   },
-  "total": 259
+  "total": 256
  }
 }
