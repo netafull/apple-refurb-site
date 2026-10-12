@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T22:42:19+09:00",
- "count": 254,
+ "generated_at": "2026-10-12T23:12:21+09:00",
+ "count": 253,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -4115,23 +4115,6 @@
    "color": "silver",
    "memory": "16gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "G1CF9J/A",
-   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-   "price": 144800,
-   "url": "https://www.apple.com/jp/shop/product/g1cf9j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-26"
   },
   {
    "part_number": "FHFJ4J/A",
