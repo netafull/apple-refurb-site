@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T07:42:21+09:00",
- "count": 223,
+ "generated_at": "2026-10-14T08:12:21+09:00",
+ "count": 224,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -1125,6 +1125,23 @@
    "since": "2026-07-31"
   },
   {
+   "part_number": "FTU73J/A",
+   "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/ftu73j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvUlhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdsSDl3QTBIcEZKcHd0RXhaUmxNV3I",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "blacktitanium",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
    "part_number": "FTU83J/A",
    "title": "iPhone 15 Pro 128GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
    "price": 119800,
@@ -1138,6 +1155,23 @@
    "capacity": "128gb",
    "screen": "",
    "color": "whitetitanium",
+   "memory": "",
+   "since": "2026-09-11"
+  },
+  {
+   "part_number": "FTUA3J/A",
+   "title": "iPhone 15 Pro 128GB - ブルーチタニウム（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/ftua3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-bluetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYmhlWHR6Z2hrNUs1UVRoRzZ0RlJ5RnFYQU9KTkxXVmhxMlNzSm1tOS9xZTE1dTlZczl0eUxQeit5cXR5YjdwcEpXMzBVWmROTjVLL21KMWkvQmQyRWFUQ1VRMjNUNStRYmxubXRrL1R2aEM",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "bluetitanium",
    "memory": "",
    "since": "2026-09-11"
   },
@@ -3078,23 +3112,6 @@
    "color": "silver",
    "memory": "18gb",
    "since": "2026-10-06"
-  },
-  {
-   "part_number": "G1L20J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 343800,
-   "url": "https://www.apple.com/jp/shop/product/g1l20j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTNvRmR5N1k0RWNXeWI2UUNjbHVoRHc",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-27"
   },
   {
    "part_number": "G1KN5J/A",
