@@ -547,24 +547,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FDE34J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-10-14",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
-  "category": "mac",
-  "price": 318800,
-  "price_history": [
-   [
-    "2026-08-04",
-    318800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-12",
-  "restocked_at_at": "2026-10-12T15:42:22+09:00"
- },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-14",
@@ -582,6 +564,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-04",
   "restocked_at_at": "2026-08-04T15:39:19+09:00"
+ },
+ "FDE34J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-10-14",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+  "category": "mac",
+  "price": 318800,
+  "price_history": [
+   [
+    "2026-08-04",
+    318800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-12",
+  "restocked_at_at": "2026-10-12T15:42:22+09:00"
  },
  "G1KN5J/A": {
   "first_seen": "2026-08-04",
@@ -635,24 +635,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FGDN4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-14",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 363800,
-  "price_history": [
-   [
-    "2026-07-30",
-    363800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-19",
-  "restocked_at_at": "2026-08-19T12:27:11+09:00"
- },
  "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-14",
@@ -670,6 +652,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
+ },
+ "FGDN4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-14",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 363800,
+  "price_history": [
+   [
+    "2026-07-30",
+    363800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-19",
+  "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
  "G1JV1J/A": {
   "first_seen": "2026-09-28",
@@ -1040,22 +1040,6 @@
   "baseline": null,
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
- "G1FF2J/A": {
-  "first_seen": "2026-10-12",
-  "first_seen_at": "2026-10-12T15:42:22+09:00",
-  "last_seen": "2026-10-14",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 471800,
-  "price_history": [
-   [
-    "2026-10-12",
-    471800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "FX2U3J/A": {
   "first_seen": "2026-07-30",
@@ -3730,6 +3714,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FF2J/A": {
+  "first_seen": "2026-10-12",
+  "first_seen_at": "2026-10-12T15:42:22+09:00",
+  "last_seen": "2026-10-14",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 471800,
+  "price_history": [
+   [
+    "2026-10-12",
+    471800
+   ]
+  ],
+  "sold_out_at": "2026-10-14",
+  "baseline": null
  },
  "FC7C4J/A": {
   "first_seen": "2026-08-20",
