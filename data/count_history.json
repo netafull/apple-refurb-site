@@ -829,10 +829,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 45,
-   "iphone": 23,
-   "mac": 164,
+   "iphone": 22,
+   "mac": 163,
    "watch": 5
   },
-  "total": 240
+  "total": 238
  }
 }
