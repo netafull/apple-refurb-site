@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T21:12:18+09:00",
- "count": 230,
+ "generated_at": "2026-10-13T21:42:21+09:00",
+ "count": 229,
  "items": [
   {
    "part_number": "FN893J/A",
@@ -802,6 +802,23 @@
    "since": "2026-08-25"
   },
   {
+   "part_number": "FXN83J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn83j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-starlight-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWpJRnVnclN6dnVpZjMvdE5sckxoMzRLK011UnF1dVpQZGprZ1dlRG0zUUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXpJNVJGcG9KUjMyU1dtOUhxc3oyTk0",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "starlight",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1142,23 +1159,6 @@
    "since": "2026-08-07"
   },
   {
-   "part_number": "FTUA3J/A",
-   "title": "iPhone 15 Pro 128GB - ブルーチタニウム（SIMフリー）[整備済製品]",
-   "price": 119800,
-   "url": "https://www.apple.com/jp/shop/product/ftua3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-bluetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYmhlWHR6Z2hrNUs1UVRoRzZ0RlJ5RnFYQU9KTkxXVmhxMlNzSm1tOS9xZTE1dTlZczl0eUxQeit5cXR5YjdwcEpXMzBVWmROTjVLL21KMWkvQmQyRWFUQ1VRMjNUNStRYmxubXRrL1R2aEM",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-09-11"
-  },
-  {
    "part_number": "FU083J/A",
    "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 114800,
@@ -1191,23 +1191,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDU3J/A",
-   "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-ultramarine-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvUzEwWDVHYUkybVJKVkYxZmJqc0xnV3NlL1VpWDFHcHBMQXVUWWdWdkZZNFB0RzNpQ0Mxc293RHpBd2NJd0FqVzd6U3I2VGRwUkpnRFQ2alBwWXpkaHkzS3pyeFZTOUFkbGFoMDY1R0M0VnI",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-03"
   },
   {
    "part_number": "G1MY9J/A",
