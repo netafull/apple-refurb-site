@@ -933,24 +933,6 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:27:11+09:00"
  },
- "G1FC2J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-10-14",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-  "category": "mac",
-  "price": 471800,
-  "price_history": [
-   [
-    "2026-08-24",
-    471800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-12",
-  "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
  "FX2U3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-14",
@@ -3135,6 +3117,24 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
+ "FTU73J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-14",
+  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-07-30",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-14",
+  "restocked_at_at": "2026-10-14T14:12:23+09:00"
+ },
  "FTU83J/A": {
   "first_seen": "2026-09-11",
   "first_seen_at": "2026-09-11T13:12:21+09:00",
@@ -3607,6 +3607,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1FC2J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-10-14",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
+  "category": "mac",
+  "price": 471800,
+  "price_history": [
+   [
+    "2026-08-24",
+    471800
+   ]
+  ],
+  "sold_out_at": "2026-10-14",
+  "baseline": null,
+  "restocked_at": "2026-10-12",
+  "restocked_at_at": "2026-10-12T15:12:21+09:00"
+ },
  "FW1M3J/A": {
   "first_seen": "2026-08-20",
   "first_seen_at": "2026-08-20T12:08:57+09:00",
@@ -3696,24 +3714,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
- "FTU73J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-14",
-  "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-07-30",
-    119800
-   ]
-  ],
-  "sold_out_at": "2026-10-14",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-14",
-  "restocked_at_at": "2026-10-14T08:12:21+09:00"
  },
  "FTUA3J/A": {
   "first_seen": "2026-09-11",

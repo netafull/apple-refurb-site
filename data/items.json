@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T13:42:20+09:00",
+ "generated_at": "2026-10-14T14:12:23+09:00",
  "count": 217,
  "items": [
   {
@@ -1106,6 +1106,23 @@
    "color": "black",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTU73J/A",
+   "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/ftu73j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvUlhURkhuRzMvdmpnc0JhWGVuK0EwbXVYb1hLcitxejdqSmc5UXI1M3FwZjlvVzlVOG5Jc3BPRm5PbEpOUlZBcGdsSDl3QTBIcEZKcHd0RXhaUmxNV3I",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "blacktitanium",
+   "memory": "",
+   "since": "2026-07-30"
   },
   {
    "part_number": "FTU83J/A",
@@ -2636,23 +2653,6 @@
    "color": "spaceblack",
    "memory": "48gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1FC2J/A",
-   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-   "price": 471800,
-   "url": "https://www.apple.com/jp/shop/product/g1fc2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-silver-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvTXExTVkrVjUvZnVYc2Z5Vld3SUljUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQ5SU5KZXphdjAxT1VvTHRKRzlhcWM",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-08-24"
   },
   {
    "part_number": "FGDP4J/A",
