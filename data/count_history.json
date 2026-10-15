@@ -850,11 +850,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 43,
+   "ipad": 42,
    "iphone": 18,
    "mac": 138,
    "watch": 5
   },
-  "total": 207
+  "total": 206
  }
 }
