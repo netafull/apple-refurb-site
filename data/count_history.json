@@ -861,11 +861,11 @@
   "categories": {
    "appletv": 1,
    "homepod": 2,
-   "ipad": 41,
+   "ipad": 43,
    "iphone": 18,
    "mac": 136,
-   "watch": 5
+   "watch": 19
   },
-  "total": 203
+  "total": 219
  }
 }
