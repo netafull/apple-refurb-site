@@ -862,10 +862,10 @@
    "appletv": 1,
    "homepod": 2,
    "ipad": 43,
-   "iphone": 32,
-   "mac": 136,
+   "iphone": 30,
+   "mac": 135,
    "watch": 19
   },
-  "total": 233
+  "total": 230
  }
 }
