@@ -870,11 +870,11 @@
  "2026-10-17": {
   "categories": {
    "homepod": 2,
-   "ipad": 42,
-   "iphone": 22,
+   "ipad": 50,
+   "iphone": 21,
    "mac": 133,
    "watch": 18
   },
-  "total": 217
+  "total": 224
  }
 }

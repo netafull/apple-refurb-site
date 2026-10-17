@@ -2049,22 +2049,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MN8J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-17",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -2081,23 +2065,21 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MN9J/A": {
+ "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-17",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
     "2026-07-30",
-    1473800
+    1450800
    ]
   ],
   "sold_out_at": null,
   "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-06",
-  "restocked_at_at": "2026-10-06T17:12:21+09:00"
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1MK9J/A": {
   "first_seen": "2026-07-30",
@@ -2116,6 +2098,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T16:18:31+09:00"
+ },
+ "G1MN9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-17",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-06",
+  "restocked_at_at": "2026-10-06T17:12:21+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -2198,6 +2198,148 @@
   "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-10-16",
   "restocked_at_at": "2026-10-16T12:12:20+09:00"
+ },
+ "FXN63J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXN73J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXN83J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXNA3J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-28",
+    98800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FYGY3J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 128800,
+  "price_history": [
+   [
+    "2026-08-28",
+    128800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FYH23J/A": {
+  "first_seen": "2026-10-17",
+  "first_seen_at": "2026-10-17T12:12:22+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 128800,
+  "price_history": [
+   [
+    "2026-10-17",
+    128800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FYH33J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-17",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 128800,
+  "price_history": [
+   [
+    "2026-08-28",
+    128800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
@@ -2862,28 +3004,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FTMH3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-17",
-  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-10-17T11:42:21+09:00"
  },
  "FU083J/A": {
   "first_seen": "2026-07-31",
@@ -3644,6 +3764,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTMH3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-17",
+  "title": "iPhone 15 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": "2026-10-17",
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-10-17T11:42:21+09:00"
  },
  "FU0T3J/A": {
   "first_seen": "2026-07-31",
@@ -4554,24 +4696,6 @@
   "baseline": null,
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
- "FXN83J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-13",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": "2026-10-13",
-  "baseline": null,
-  "restocked_at": "2026-10-13",
-  "restocked_at_at": "2026-10-13T21:42:21+09:00"
  },
  "FYDU3J/A": {
   "first_seen": "2026-09-03",
@@ -5679,24 +5803,6 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-12",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": "2026-10-12",
-  "baseline": null,
-  "restocked_at": "2026-10-12",
-  "restocked_at_at": "2026-10-12T04:42:22+09:00"
- },
  "FD3Y4J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -5770,22 +5876,6 @@
    [
     "2026-08-06",
     570800
-   ]
-  ],
-  "sold_out_at": "2026-10-11",
-  "baseline": null
- },
- "FXN63J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-11",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
    ]
   ],
   "sold_out_at": "2026-10-11",
@@ -6366,24 +6456,6 @@
   "baseline": null,
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
- },
- "FXNA3J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-09",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-28",
-    98800
-   ]
-  ],
-  "sold_out_at": "2026-10-09",
-  "baseline": null,
-  "restocked_at": "2026-10-09",
-  "restocked_at_at": "2026-10-09T06:42:22+09:00"
  },
  "G1MJ2J/A": {
   "first_seen": "2026-08-19",
@@ -7648,24 +7720,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
- "FXN73J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-27",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": "2026-09-28",
-  "baseline": null,
-  "restocked_at": "2026-09-25",
-  "restocked_at_at": "2026-09-25T18:12:23+09:00"
  },
  "FCJC4J/A": {
   "first_seen": "2026-09-25",
@@ -10609,22 +10663,6 @@
   "restocked_at": "2026-09-07",
   "restocked_at_at": "2026-09-07T16:42:20+09:00"
  },
- "FYGY3J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-06",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 128800,
-  "price_history": [
-   [
-    "2026-08-28",
-    128800
-   ]
-  ],
-  "sold_out_at": "2026-09-06",
-  "baseline": null
- },
  "G1MLGJ/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-05",
@@ -10642,22 +10680,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-08-24",
   "restocked_at_at": "2026-08-24T12:15:28+09:00"
- },
- "FYH33J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-09-05",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 128800,
-  "price_history": [
-   [
-    "2026-08-28",
-    128800
-   ]
-  ],
-  "sold_out_at": "2026-09-05",
-  "baseline": null
  },
  "FEPH4J/A": {
   "first_seen": "2026-08-21",
