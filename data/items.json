@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T14:42:19+09:00",
- "count": 228,
+ "generated_at": "2026-10-17T15:12:20+09:00",
+ "count": 226,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -2570,23 +2570,6 @@
    "since": "2026-08-24"
   },
   {
-   "part_number": "G1FGFJ/A",
-   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 542800,
-   "url": "https://www.apple.com/jp/shop/product/g1fgfj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-spaceblack-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvQk8zVnlEd1o1SE05NWdMUEFHWVMzakluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1plWGYyOXhKTW1yaXp6SlJ5SDgybFhXNm9oamhpbmdGcHIwa2hOU3lmQkw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "36gb",
-   "since": "2026-10-12"
-  },
-  {
    "part_number": "G1MV3J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
    "price": 540800,
@@ -3605,23 +3588,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FFCX4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド [整備済製品]",
-   "price": 98800,
-   "url": "https://www.apple.com/jp/shop/product/ffcx4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-titanium-natural-sport-band-gray?wid=400&hei=400&fmt=jpeg&qlt=90&.v=UlJpQkdCWEQ4UTAvbWpRRUZwUVhCNms2cmE2V3ZqVVNaYndEM05LN1dOSG53UFkrRVZWREwwcmQ2MW9oRUYvQUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXl1eG9KL1dZdCt2bWovTHJyRlZGbEQ",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-10-09"
   },
   {
    "part_number": "FFD24J/A",
