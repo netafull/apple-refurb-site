@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T04:12:24+09:00",
- "count": 221,
+ "generated_at": "2026-10-20T04:42:19+09:00",
+ "count": 222,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1138,6 +1138,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU083J/A",
+   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fu083j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNDFMV3JmQTlIaVlLeFJOK3hudVM0dE1LWlMyVmEreEd6UVBWaXRHdkpLMWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
    "memory": "",
    "since": "2026-07-31"
   },
