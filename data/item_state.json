@@ -63,10 +63,10 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFE4J/A": {
+ "FHFC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-19",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -81,10 +81,10 @@
   "restocked_at": "2026-10-19",
   "restocked_at_at": "2026-10-19T14:42:20+09:00"
  },
- "FHFC4J/A": {
+ "FHFE4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-19",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
   "category": "mac",
   "price": 116800,
   "price_history": [
@@ -151,24 +151,6 @@
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
  },
- "FW1G3J/A": {
-  "first_seen": "2026-08-20",
-  "first_seen_at": "2026-08-20T12:08:57+09:00",
-  "last_seen": "2026-10-19",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-  "category": "mac",
-  "price": 179800,
-  "price_history": [
-   [
-    "2026-08-20",
-    179800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-19",
-  "restocked_at_at": "2026-10-19T14:42:20+09:00"
- },
  "FW1J3J/A": {
   "first_seen": "2026-08-20",
   "first_seen_at": "2026-08-20T12:08:57+09:00",
@@ -205,11 +187,11 @@
   "restocked_at": "2026-10-19",
   "restocked_at_at": "2026-10-19T14:42:20+09:00"
  },
- "FDHA4J/A": {
+ "FDH74J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
   "last_seen": "2026-10-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
   "category": "mac",
   "price": 189800,
   "price_history": [
@@ -223,11 +205,11 @@
   "restocked_at": "2026-10-19",
   "restocked_at_at": "2026-10-19T14:42:20+09:00"
  },
- "FDH74J/A": {
+ "FDHA4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
   "last_seen": "2026-10-19",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
   "category": "mac",
   "price": 189800,
   "price_history": [
@@ -3972,6 +3954,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FW1G3J/A": {
+  "first_seen": "2026-08-20",
+  "first_seen_at": "2026-08-20T12:08:57+09:00",
+  "last_seen": "2026-10-19",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
+  "category": "mac",
+  "price": 179800,
+  "price_history": [
+   [
+    "2026-08-20",
+    179800
+   ]
+  ],
+  "sold_out_at": "2026-10-19",
+  "baseline": null,
+  "restocked_at": "2026-10-19",
+  "restocked_at_at": "2026-10-19T14:42:20+09:00"
  },
  "G1L01J/A": {
   "first_seen": "2026-08-04",

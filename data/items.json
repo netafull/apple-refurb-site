@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T18:12:21+09:00",
- "count": 237,
+ "generated_at": "2026-10-19T18:42:18+09:00",
+ "count": 236,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -3573,23 +3573,6 @@
    "since": "2026-10-19"
   },
   {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1JxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FDH74J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
    "price": 189800,
@@ -3603,6 +3586,23 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
+   "memory": "16gb",
+   "since": "2026-08-04"
+  },
+  {
+   "part_number": "FDHA4J/A",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+   "price": 189800,
+   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1JxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookair",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
   },
@@ -3639,23 +3639,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "FW1G3J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 179800,
-   "url": "https://www.apple.com/jp/shop/product/fw1g3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZkZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTkwcndVbXZnc05ScUZZRTJCcXdzUDA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-20"
   },
   {
    "part_number": "FW1J3J/A",
@@ -3709,23 +3692,6 @@
    "since": "2026-08-26"
   },
   {
-   "part_number": "FHFE4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
-   "price": 116800,
-   "url": "https://www.apple.com/jp/shop/product/fhfe4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-citrus-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYWpuTGF1UmZlWm1DcjRzeXRHRjdCV0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXBBTXV1QjdZaWlad1FOUExYQ0F4MXo",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FHFC4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
    "price": 116800,
@@ -3739,6 +3705,23 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
+   "memory": "8gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FHFE4J/A",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fhfe4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-citrus-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYWpuTGF1UmZlWm1DcjRzeXRHRjdCV0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXBBTXV1QjdZaWlad1FOUExYQ0F4MXo",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookneo",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "citrus",
    "memory": "8gb",
    "since": "2026-07-30"
   },
