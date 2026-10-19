@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T23:12:22+09:00",
- "count": 227,
+ "generated_at": "2026-10-19T23:42:21+09:00",
+ "count": 224,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -785,6 +785,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -832,23 +849,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3063,23 +3063,6 @@
    "since": "2026-08-22"
   },
   {
-   "part_number": "G1H00J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 286800,
-   "url": "https://www.apple.com/jp/shop/product/g1h00j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZkZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTkwcndVbXZnc05ScUZZRTJCcXdzUDA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-10-19"
-  },
-  {
    "part_number": "G1H20J/A",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
    "price": 286800,
@@ -3454,23 +3437,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FW1K3J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スターライト",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/fw1k3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-starlight-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZllITVpkM2ZCOENYUFlZWGs3bk1CcVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2JzeVRhV3NiYnhEMVZmN2laN2hTdTZWZWZKZEpnTUg2bTJtOU9qU1hvcWw",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-26"
-  },
-  {
    "part_number": "FW1M3J/A",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - ミッドナイト",
    "price": 210800,
@@ -3503,23 +3469,6 @@
    "color": "blue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1DB0J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 210800,
-   "url": "https://www.apple.com/jp/shop/product/g1db0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-silver-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlZkZkYS9rZWU0cUg2YnE5a2VBWVh5UjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTkwcndVbXZnc05ScUZZRTJCcXdzUDA",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-10-19"
   },
   {
    "part_number": "FW1L3J/A",
@@ -3556,23 +3505,6 @@
    "since": "2026-08-26"
   },
   {
-   "part_number": "FHFE4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
-   "price": 116800,
-   "url": "https://www.apple.com/jp/shop/product/fhfe4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-citrus-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYWpuTGF1UmZlWm1DcjRzeXRHRjdCV0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXBBTXV1QjdZaWlad1FOUExYQ0F4MXo",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FHFC4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
    "price": 116800,
@@ -3586,6 +3518,23 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
+   "memory": "8gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FHFE4J/A",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fhfe4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-citrus-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYWpuTGF1UmZlWm1DcjRzeXRHRjdCV0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXBBTXV1QjdZaWlad1FOUExYQ0F4MXo",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookneo",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "citrus",
    "memory": "8gb",
    "since": "2026-07-30"
   },
