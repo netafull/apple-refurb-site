@@ -906,5 +906,15 @@
    "watch": 10
   },
   "total": 204
+ },
+ "2026-10-21": {
+  "categories": {
+   "homepod": 2,
+   "ipad": 47,
+   "iphone": 17,
+   "mac": 128,
+   "watch": 10
+  },
+  "total": 204
  }
 }
