@@ -2113,22 +2113,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-10-20",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-20",
@@ -2145,23 +2129,21 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK9J/A": {
-  "first_seen": "2026-07-30",
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
   "last_seen": "2026-10-20",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
-    "2026-07-30",
-    1473800
+    "2026-08-19",
+    1450800
    ]
   ],
   "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T16:18:31+09:00"
+  "baseline": null
  },
  "G1MN9J/A": {
   "first_seen": "2026-07-30",
@@ -2180,6 +2162,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-06",
   "restocked_at_at": "2026-10-06T17:12:21+09:00"
+ },
+ "G1MK9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-20",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T16:18:31+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -3014,6 +3014,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTU93J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T18:38:14+09:00",
+  "last_seen": "2026-10-20",
+  "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 119800,
+  "price_history": [
+   [
+    "2026-08-07",
+    119800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-20",
+  "restocked_at_at": "2026-10-20T14:42:20+09:00"
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
@@ -4160,24 +4178,6 @@
   "baseline": null,
   "restocked_at": "2026-10-19",
   "restocked_at_at": "2026-10-19T14:42:20+09:00"
- },
- "FTU93J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T18:38:14+09:00",
-  "last_seen": "2026-10-19",
-  "title": "iPhone 15 Pro 128GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 119800,
-  "price_history": [
-   [
-    "2026-08-07",
-    119800
-   ]
-  ],
-  "sold_out_at": "2026-10-19",
-  "baseline": null,
-  "restocked_at": "2026-10-19",
-  "restocked_at_at": "2026-10-19T15:12:22+09:00"
  },
  "FTUA3J/A": {
   "first_seen": "2026-09-11",
