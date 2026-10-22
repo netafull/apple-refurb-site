@@ -389,24 +389,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1L10J/A": {
-  "first_seen": "2026-08-16",
-  "first_seen_at": "2026-08-16T10:56:23+09:00",
-  "last_seen": "2026-10-22",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 312800,
-  "price_history": [
-   [
-    "2026-08-16",
-    312800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-19",
-  "restocked_at_at": "2026-10-19T14:42:20+09:00"
- },
  "FDE64J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-22",
@@ -2767,6 +2749,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTMJ3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-22",
+  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-22",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-10-22T17:42:19+09:00"
+ },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-10-22",
@@ -3280,6 +3284,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1L10J/A": {
+  "first_seen": "2026-08-16",
+  "first_seen_at": "2026-08-16T10:56:23+09:00",
+  "last_seen": "2026-10-22",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 312800,
+  "price_history": [
+   [
+    "2026-08-16",
+    312800
+   ]
+  ],
+  "sold_out_at": "2026-10-22",
+  "baseline": null,
+  "restocked_at": "2026-10-19",
+  "restocked_at_at": "2026-10-19T14:42:20+09:00"
  },
  "FTUA3J/A": {
   "first_seen": "2026-09-11",
@@ -4851,28 +4873,6 @@
    [
     "2026-09-11",
     112800
-   ]
-  ],
-  "sold_out_at": "2026-10-16",
-  "baseline": null,
-  "restocked_at": "2026-10-16",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-10-16T13:42:23+09:00"
- },
- "FTMJ3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-16",
-  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
    ]
   ],
   "sold_out_at": "2026-10-16",
