@@ -2749,23 +2749,27 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTUC3J/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T17:37:23+09:00",
+ "FTMJ3J/A": {
+  "first_seen": "2026-07-31",
   "last_seen": "2026-10-22",
-  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
   "category": "iphone",
-  "price": 134800,
+  "price": 99800,
   "price_history": [
    [
-    "2026-08-07",
-    134800
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
    ]
   ],
   "sold_out_at": null,
   "baseline": null,
   "restocked_at": "2026-10-22",
-  "restocked_at_at": "2026-10-22T18:12:19+09:00"
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-10-22T18:42:21+09:00"
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
@@ -3281,27 +3285,23 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTMJ3J/A": {
-  "first_seen": "2026-07-31",
+ "FTUC3J/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T17:37:23+09:00",
   "last_seen": "2026-10-22",
-  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
+  "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
   "category": "iphone",
-  "price": 99800,
+  "price": 134800,
   "price_history": [
    [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
+    "2026-08-07",
+    134800
    ]
   ],
   "sold_out_at": "2026-10-22",
   "baseline": null,
   "restocked_at": "2026-10-22",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-10-22T17:42:19+09:00"
+  "restocked_at_at": "2026-10-22T18:12:19+09:00"
  },
  "G1L10J/A": {
   "first_seen": "2026-08-16",
