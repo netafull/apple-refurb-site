@@ -2087,22 +2087,6 @@
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
- "FYH23J/A": {
-  "first_seen": "2026-10-17",
-  "first_seen_at": "2026-10-17T12:12:22+09:00",
-  "last_seen": "2026-10-22",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 128800,
-  "price_history": [
-   [
-    "2026-10-17",
-    128800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-22",
@@ -2749,28 +2733,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTMJ3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-22",
-  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-07-31",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-22",
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at_at": "2026-10-22T18:42:21+09:00"
- },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-10-22",
@@ -3284,6 +3246,44 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYH23J/A": {
+  "first_seen": "2026-10-17",
+  "first_seen_at": "2026-10-17T12:12:22+09:00",
+  "last_seen": "2026-10-22",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 128800,
+  "price_history": [
+   [
+    "2026-10-17",
+    128800
+   ]
+  ],
+  "sold_out_at": "2026-10-22",
+  "baseline": null
+ },
+ "FTMJ3J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-22",
+  "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-07-31",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": "2026-10-22",
+  "baseline": null,
+  "restocked_at": "2026-10-22",
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at_at": "2026-10-22T18:42:21+09:00"
  },
  "FTUC3J/A": {
   "first_seen": "2026-08-07",

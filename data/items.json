@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T18:42:21+09:00",
- "count": 198,
+ "generated_at": "2026-10-22T19:12:20+09:00",
+ "count": 196,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -734,23 +734,6 @@
    "since": "2026-08-28"
   },
   {
-   "part_number": "FYH23J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
-   "price": 128800,
-   "url": "https://www.apple.com/jp/shop/product/fyh23j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-starlight-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWpJRnVnclN6dnVpZjMvdE5sckxoMzRLK011UnF1dVpQZGprZ1dlRG0zUUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXpJNVJGcG9KUjMyU1dtOUhxc3oyTk0",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "8_3inch",
-   "color": "starlight",
-   "memory": "",
-   "since": "2026-10-17"
-  },
-  {
    "part_number": "FXNA3J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
    "price": 98800,
@@ -1121,23 +1104,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FTMJ3J/A",
-   "title": "iPhone 15 128GB - ピンク（SIMフリー）[整備済製品]",
-   "price": 99800,
-   "url": "https://www.apple.com/jp/shop/product/ftmj3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pink-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYnd0SDllNVJINlEvZSsvSkZ1VmhseXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cGVqZlRDenBOMGo3OW5GTWt4YXMzbFk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "pink",
    "memory": "",
    "since": "2026-07-31"
   },
