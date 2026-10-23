@@ -929,12 +929,12 @@
  },
  "2026-10-23": {
   "categories": {
-   "homepod": 2,
+   "homepod": 1,
    "ipad": 47,
    "iphone": 17,
    "mac": 120,
    "watch": 15
   },
-  "total": 201
+  "total": 200
  }
 }
