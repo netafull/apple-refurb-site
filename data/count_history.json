@@ -930,11 +930,11 @@
  "2026-10-23": {
   "categories": {
    "homepod": 2,
-   "ipad": 46,
+   "ipad": 47,
    "iphone": 17,
    "mac": 120,
-   "watch": 10
+   "watch": 15
   },
-  "total": 195
+  "total": 201
  }
 }
