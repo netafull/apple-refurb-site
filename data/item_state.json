@@ -1033,6 +1033,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "G1MW1J/A": {
+  "first_seen": "2026-08-08",
+  "first_seen_at": "2026-08-08T14:23:02+09:00",
+  "last_seen": "2026-10-24",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "category": "mac",
+  "price": 609800,
+  "price_history": [
+   [
+    "2026-08-08",
+    609800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-24",
+  "restocked_at_at": "2026-10-24T04:42:21+09:00"
+ },
  "G1N01J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-24",
@@ -1961,24 +1979,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-24",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2020,6 +2020,24 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-24",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-24",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4820,22 +4838,6 @@
   "baseline": null,
   "restocked_at": "2026-09-08",
   "restocked_at_at": "2026-09-08T14:12:20+09:00"
- },
- "G1MW1J/A": {
-  "first_seen": "2026-08-08",
-  "first_seen_at": "2026-08-08T14:23:02+09:00",
-  "last_seen": "2026-10-17",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
-  "category": "mac",
-  "price": 609800,
-  "price_history": [
-   [
-    "2026-08-08",
-    609800
-   ]
-  ],
-  "sold_out_at": "2026-10-17",
-  "baseline": null
  },
  "FEUW4J/A": {
   "first_seen": "2026-08-14",
