@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T21:12:19+09:00",
- "count": 200,
+ "generated_at": "2026-10-23T21:42:20+09:00",
+ "count": 199,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -528,23 +528,6 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FVX23J/A",
-   "title": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-   "price": 209800,
-   "url": "https://www.apple.com/jp/shop/product/fvx23j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-13inch-8th-gen-wifi-space-black-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnbGJSMWIvZ09YdENsL1ZLamlKSjJXTmk1amNxRVA4K3BURElZaVM4Vjdrb1ZKczh1Wm9lSDdyRUZ0TW55aGpvQlBqeGUweXFMaU52MFhzeXNLZk5hSS9oSEYyWlliWDN6cjAza1ZwemxFbmpJdyt4di9POTB6bVA4YWlKamxLbXJR",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_13",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-07"
   },
   {
    "part_number": "FVX33J/A",
