@@ -541,22 +541,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MLAJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-24",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 439800,
-  "price_history": [
-   [
-    "2026-07-30",
-    439800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FGE44J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-24",
@@ -3063,28 +3047,6 @@
   "restocked_at": "2026-10-23",
   "restocked_at_at": "2026-10-23T14:42:19+09:00"
  },
- "FFCA4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-10-24",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 73800,
-  "price_history": [
-   [
-    "2026-08-14",
-    79800
-   ],
-   [
-    "2026-10-16",
-    73800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-16",
-  "restocked_at_at": "2026-10-16T12:12:20+09:00"
- },
  "FFCJ4J/A": {
   "first_seen": "2026-10-16",
   "first_seen_at": "2026-10-16T12:12:20+09:00",
@@ -3256,6 +3218,44 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MLAJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-24",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 439800,
+  "price_history": [
+   [
+    "2026-07-30",
+    439800
+   ]
+  ],
+  "sold_out_at": "2026-10-24",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FFCA4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-10-24",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 73800,
+  "price_history": [
+   [
+    "2026-08-14",
+    79800
+   ],
+   [
+    "2026-10-16",
+    73800
+   ]
+  ],
+  "sold_out_at": "2026-10-24",
+  "baseline": null,
+  "restocked_at": "2026-10-16",
+  "restocked_at_at": "2026-10-16T12:12:20+09:00"
  },
  "FEHQ4J/A": {
   "first_seen": "2026-08-01",
