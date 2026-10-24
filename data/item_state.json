@@ -2699,27 +2699,27 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
+ "FU0N3J/A": {
+  "first_seen": "2026-07-31",
   "last_seen": "2026-10-24",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
   "category": "iphone",
-  "price": 99800,
+  "price": 126800,
   "price_history": [
    [
-    "2026-08-06",
-    90800
+    "2026-07-31",
+    119800
    ],
    [
-    "2026-09-11",
-    99800
+    "2026-09-25",
+    126800
    ]
   ],
   "sold_out_at": null,
   "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
   "restocked_at": "2026-10-24",
-  "restocked_at_at": "2026-10-24T13:42:20+09:00"
+  "restocked_at_at": "2026-10-24T14:12:20+09:00"
  },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
@@ -3274,6 +3274,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-10-24",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": "2026-10-24",
+  "baseline": null,
+  "restocked_at": "2026-10-24",
+  "restocked_at_at": "2026-10-24T13:42:20+09:00"
  },
  "FFC44J/A": {
   "first_seen": "2026-10-16",
@@ -6306,28 +6328,6 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:12:20+09:00"
- },
- "FU0N3J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-10",
-  "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 126800,
-  "price_history": [
-   [
-    "2026-07-31",
-    119800
-   ],
-   [
-    "2026-09-25",
-    126800
-   ]
-  ],
-  "sold_out_at": "2026-10-10",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-09",
-  "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
