@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T03:12:19+09:00",
- "count": 192,
+ "generated_at": "2026-10-25T03:42:20+09:00",
+ "count": 191,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1497,23 +1497,6 @@
    "color": "spaceblack",
    "memory": "128gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MYCJ/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 935800,
-   "url": "https://www.apple.com/jp/shop/product/g1mycj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpVWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTI4eUdUdmRjVUdsdUVmZzJlSDc2WVk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "4tb",
-   "screen": "16inch",
-   "color": "silver",
-   "memory": "64gb",
-   "since": "2026-08-16"
   },
   {
    "part_number": "G1N22J/A",
