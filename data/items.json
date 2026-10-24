@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T12:12:19+09:00",
- "count": 197,
+ "generated_at": "2026-10-24T12:42:20+09:00",
+ "count": 198,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1072,6 +1072,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDW3J/A",
+   "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fydw3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-08-01"
   },
   {
    "part_number": "G1MY9J/A",
