@@ -1961,24 +1961,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-24",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2020,6 +2002,24 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-24",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-24",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -2699,28 +2699,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FYDW3J/A": {
-  "first_seen": "2026-08-01",
-  "last_seen": "2026-10-24",
-  "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 126800,
-  "price_history": [
-   [
-    "2026-08-01",
-    119800
-   ],
-   [
-    "2026-09-11",
-    126800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-08-01T12:00:00+09:00",
-  "restocked_at": "2026-10-24",
-  "restocked_at_at": "2026-10-24T12:42:20+09:00"
- },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-10-24",
@@ -3290,6 +3268,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYDW3J/A": {
+  "first_seen": "2026-08-01",
+  "last_seen": "2026-10-24",
+  "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 126800,
+  "price_history": [
+   [
+    "2026-08-01",
+    119800
+   ],
+   [
+    "2026-09-11",
+    126800
+   ]
+  ],
+  "sold_out_at": "2026-10-24",
+  "baseline": null,
+  "first_seen_at": "2026-08-01T12:00:00+09:00",
+  "restocked_at": "2026-10-24",
+  "restocked_at_at": "2026-10-24T12:42:20+09:00"
  },
  "G1L10J/A": {
   "first_seen": "2026-08-16",
