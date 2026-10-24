@@ -2699,6 +2699,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FTML3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-10-24",
+  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 99800,
+  "price_history": [
+   [
+    "2026-08-06",
+    90800
+   ],
+   [
+    "2026-09-11",
+    99800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-24",
+  "restocked_at_at": "2026-10-24T13:42:20+09:00"
+ },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-10-24",
@@ -3059,22 +3081,6 @@
   "restocked_at": "2026-10-23",
   "restocked_at_at": "2026-10-23T14:42:19+09:00"
  },
- "FFC44J/A": {
-  "first_seen": "2026-10-16",
-  "first_seen_at": "2026-10-16T12:12:20+09:00",
-  "last_seen": "2026-10-24",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 73800,
-  "price_history": [
-   [
-    "2026-10-16",
-    73800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FFCA4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3268,6 +3274,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FFC44J/A": {
+  "first_seen": "2026-10-16",
+  "first_seen_at": "2026-10-16T12:12:20+09:00",
+  "last_seen": "2026-10-24",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 73800,
+  "price_history": [
+   [
+    "2026-10-16",
+    73800
+   ]
+  ],
+  "sold_out_at": "2026-10-24",
+  "baseline": null
  },
  "FYDW3J/A": {
   "first_seen": "2026-08-01",
@@ -6064,28 +6086,6 @@
   "baseline": null,
   "restocked_at": "2026-10-12",
   "restocked_at_at": "2026-10-12T15:12:21+09:00"
- },
- "FTML3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-10-12",
-  "title": "iPhone 15 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 99800,
-  "price_history": [
-   [
-    "2026-08-06",
-    90800
-   ],
-   [
-    "2026-09-11",
-    99800
-   ]
-  ],
-  "sold_out_at": "2026-10-12",
-  "baseline": null,
-  "restocked_at": "2026-10-09",
-  "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
  "FEU74J/A": {
   "first_seen": "2026-08-14",
