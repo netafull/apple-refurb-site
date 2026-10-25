@@ -2957,22 +2957,6 @@
   "restocked_at": "2026-10-23",
   "restocked_at_at": "2026-10-23T14:42:19+09:00"
  },
- "FFCJ4J/A": {
-  "first_seen": "2026-10-16",
-  "first_seen_at": "2026-10-16T12:12:20+09:00",
-  "last_seen": "2026-10-25",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 73800,
-  "price_history": [
-   [
-    "2026-10-16",
-    73800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FFCR4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3112,6 +3096,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FFCJ4J/A": {
+  "first_seen": "2026-10-16",
+  "first_seen_at": "2026-10-16T12:12:20+09:00",
+  "last_seen": "2026-10-25",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 73800,
+  "price_history": [
+   [
+    "2026-10-16",
+    73800
+   ]
+  ],
+  "sold_out_at": "2026-10-25",
+  "baseline": null
  },
  "FF8R4J/A": {
   "first_seen": "2026-10-16",
