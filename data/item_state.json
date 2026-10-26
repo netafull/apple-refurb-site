@@ -1879,22 +1879,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FK2P3J/A": {
-  "first_seen": "2026-10-26",
-  "first_seen_at": "2026-10-26T14:42:21+09:00",
-  "last_seen": "2026-10-26",
-  "title": "iPad Wi-Fi 256GB - シルバー（第9世代）[整備済製品]",
-  "category": "ipad",
-  "price": 56800,
-  "price_history": [
-   [
-    "2026-10-26",
-    56800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FK7M3J/A": {
   "first_seen": "2026-10-26",
   "first_seen_at": "2026-10-26T14:42:21+09:00",
@@ -1926,6 +1910,24 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
@@ -1981,23 +1983,23 @@
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
+ "FUWF3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
   "last_seen": "2026-10-26",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
-  "price": 84800,
+  "price": 86800,
   "price_history": [
    [
-    "2026-08-28",
-    84800
+    "2026-08-25",
+    86800
    ]
   ],
   "sold_out_at": null,
   "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FUWC3J/A": {
   "first_seen": "2026-08-25",
@@ -2035,47 +2037,11 @@
   "restocked_at": "2026-10-26",
   "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
- "FUWF3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-10-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-26",
-  "restocked_at_at": "2026-10-26T14:42:21+09:00"
- },
  "FUWG3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
   "last_seen": "2026-10-26",
   "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-25",
-    98800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-26",
-  "restocked_at_at": "2026-10-26T14:42:21+09:00"
- },
- "FUWH3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-10-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - ブルー [整備済製品]",
   "category": "ipad",
   "price": 98800,
   "price_history": [
@@ -3624,6 +3590,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FK2P3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad Wi-Fi 256GB - シルバー（第9世代）[整備済製品]",
+  "category": "ipad",
+  "price": 56800,
+  "price_history": [
+   [
+    "2026-10-26",
+    56800
+   ]
+  ],
+  "sold_out_at": "2026-10-26",
+  "baseline": null
+ },
+ "FUWH3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-25",
+    98800
+   ]
+  ],
+  "sold_out_at": "2026-10-26",
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FK2L3J/A": {
   "first_seen": "2026-10-26",
