@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T18:12:19+09:00",
- "count": 220,
+ "generated_at": "2026-10-26T18:42:28+09:00",
+ "count": 218,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1159,23 +1159,6 @@
    "since": "2026-10-26"
   },
   {
-   "part_number": "FUWF3J/A",
-   "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 86800,
-   "url": "https://www.apple.com/jp/shop/product/fuwf3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-purple-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3Z0c5aEkwbklPK1hTT1hJdWdaMnR6SlhNWGh5bGZsSTN0bHljRko0cGRCMXNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VPRDdnMmVRS2NwOGZEMWNMZWVvWmc",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FUWC3J/A",
    "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 86800,
@@ -1189,23 +1172,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
-   "part_number": "FUWD3J/A",
-   "title": "11インチiPad Air（M2）Wi‑Fi 128GB - ブルー [整備済製品]",
-   "price": 86800,
-   "url": "https://www.apple.com/jp/shop/product/fuwd3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-blue-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dnZWbGlxSkZDNm9IQ05ZbWJTQzNmaktCTkRvcWFMM25pdDZTTmhjNlV1azgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHJibTFrVXFMajVZRnA4UEVrdEtEVjE",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "blue",
    "memory": "",
    "since": "2026-08-25"
   },
@@ -1227,6 +1193,23 @@
    "since": "2026-08-25"
   },
   {
+   "part_number": "FUWF3J/A",
+   "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 86800,
+   "url": "https://www.apple.com/jp/shop/product/fuwf3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-purple-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3Z0c5aEkwbklPK1hTT1hJdWdaMnR6SlhNWGh5bGZsSTN0bHljRko0cGRCMXNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VPRDdnMmVRS2NwOGZEMWNMZWVvWmc",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "11inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-25"
+  },
+  {
    "part_number": "FK7V3J/A",
    "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
    "price": 84800,
@@ -1242,23 +1225,6 @@
    "color": "starlight",
    "memory": "",
    "since": "2026-10-26"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
   },
   {
    "part_number": "FXN63J/A",
@@ -1312,6 +1278,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya1EvTWVOYWdqZjhybCs3MU90OWExNXdYUldRZVYxMHFkRFZrQVZuaWMwSkJoeFdtRnc2U1dnNTFuc3Z3MENseXU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FK7M3J/A",
    "title": "iPad mini 6 Wi-Fi 64GB - スペースグレイ [整備済製品]",
    "price": 70800,
@@ -1340,23 +1323,6 @@
    "model": "ipad2017",
    "year": "2021",
    "capacity": "256gb",
-   "screen": "10_2inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-10-26"
-  },
-  {
-   "part_number": "FK2L3J/A",
-   "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
-   "price": 44800,
-   "url": "https://www.apple.com/jp/shop/product/fk2l3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-wifi-silver-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=UU5TTGZRRWtzNjBjQkVGdlI4eDE0dlRmZ2x0QmpNdTFrbmUvU3c2Q0N0aXdFa0VSTUdtalp5em5HUHRaQ2NaeU14MXJScFRZN3Y5OWZsRXVrN1k4cFUxVzdraUt4bytWdlZ3TUJMcEZQRDg",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2021",
-   "capacity": "64gb",
    "screen": "10_2inch",
    "color": "silver",
    "memory": "",
