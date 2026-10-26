@@ -753,22 +753,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1FF3J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-10-26",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 547800,
-  "price_history": [
-   [
-    "2026-08-24",
-    547800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FX2V3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-26",
@@ -1895,6 +1879,122 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FK2L3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
+  "category": "ipad",
+  "price": 44800,
+  "price_history": [
+   [
+    "2026-10-26",
+    44800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FK2P3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad Wi-Fi 256GB - シルバー（第9世代）[整備済製品]",
+  "category": "ipad",
+  "price": 56800,
+  "price_history": [
+   [
+    "2026-10-26",
+    56800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FD4E4J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad（A16）Wi-Fi 128GB - ピンク [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-26",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FD3Y4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-08-25",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FD4A4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-09",
+    62800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FK7M3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad mini 6 Wi-Fi 64GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 70800,
+  "price_history": [
+   [
+    "2026-10-26",
+    70800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FK7V3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-10-26",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -1967,6 +2067,418 @@
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
+ "FUWF3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWC3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWD3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWE3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWG3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-25",
+    98800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWH3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-08-25",
+    98800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FUWK3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 98800,
+  "price_history": [
+   [
+    "2026-10-26",
+    98800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FC9W4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FC9X4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FC9Y4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FCA04J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FK8K3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "iPad mini 6 Wi-Fi + Cellular 256GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 106800,
+  "price_history": [
+   [
+    "2026-10-26",
+    106800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCA14J/A": {
+  "first_seen": "2026-09-25",
+  "first_seen_at": "2026-09-25T18:12:23+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-09-25",
+    116800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FCA34J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-10-26",
+    116800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCA44J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-10-26",
+    116800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCA64J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-07-30",
+    116800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FCFV4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-08-25",
+    124800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FCFW4J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-10-26",
+    124800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCFY4J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-10-26",
+    124800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FNXE3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-10-26",
+    124800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FNXG3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi 256GB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 138800,
+  "price_history": [
+   [
+    "2026-10-26",
+    138800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FUXM3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi + Cellular 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 142800,
+  "price_history": [
+   [
+    "2026-10-26",
+    142800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCA74J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-10-26",
+    146800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FCA94J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M3）Wi-Fi 512GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-08-25",
+    146800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-26",
@@ -2015,6 +2527,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FNYE3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 162800,
+  "price_history": [
+   [
+    "2026-07-30",
+    162800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
  "FNYF3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -2033,6 +2563,38 @@
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
  },
+ "FNXH3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi 512GB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 168800,
+  "price_history": [
+   [
+    "2026-10-26",
+    168800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FUXR3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Air（M2）Wi‑Fi + Cellular 1TB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 168800,
+  "price_history": [
+   [
+    "2026-10-26",
+    168800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "FVW13J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-26",
@@ -2048,6 +2610,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYG3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 192800,
+  "price_history": [
+   [
+    "2026-07-30",
+    192800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FNYH3J/A": {
   "first_seen": "2026-07-30",
@@ -2178,6 +2758,76 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNYJ3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - スペースグレイ（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 247800,
+  "price_history": [
+   [
+    "2026-07-30",
+    247800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FNYK3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 247800,
+  "price_history": [
+   [
+    "2026-07-30",
+    247800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
+ },
+ "FVVF3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-26",
+  "title": "11インチiPad Pro（M4）Wi-Fi 1TB（標準ガラス搭載）- シルバー [整備済製品]",
+  "category": "ipad",
+  "price": 247800,
+  "price_history": [
+   [
+    "2026-10-26",
+    247800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
+ "FNXW3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-26",
+  "title": "12.9インチiPad Pro Wi-Fi 1TB - スペースグレイ（第6世代）[整備済製品]",
+  "category": "ipad",
+  "price": 275800,
+  "price_history": [
+   [
+    "2026-07-30",
+    275800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FVW53J/A": {
   "first_seen": "2026-07-30",
@@ -3060,6 +3710,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FF3J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-10-26",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 547800,
+  "price_history": [
+   [
+    "2026-08-24",
+    547800
+   ]
+  ],
+  "sold_out_at": "2026-10-26",
+  "baseline": null
  },
  "FYGY3J/A": {
   "first_seen": "2026-08-28",
@@ -6175,24 +6841,6 @@
   "restocked_at": "2026-10-09",
   "restocked_at_at": "2026-10-09T18:42:40+09:00"
  },
- "FD3Y4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-10-12",
-  "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-08-25",
-    62800
-   ]
-  ],
-  "sold_out_at": "2026-10-12",
-  "baseline": null,
-  "restocked_at": "2026-10-09",
-  "restocked_at_at": "2026-10-09T18:12:20+09:00"
- },
  "FF8M4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -6252,24 +6900,6 @@
   ],
   "sold_out_at": "2026-10-11",
   "baseline": null
- },
- "FD4A4J/A": {
-  "first_seen": "2026-10-09",
-  "first_seen_at": "2026-10-09T18:12:20+09:00",
-  "last_seen": "2026-10-11",
-  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-10-09",
-    62800
-   ]
-  ],
-  "sold_out_at": "2026-10-11",
-  "baseline": null,
-  "restocked_at": "2026-10-11",
-  "restocked_at_at": "2026-10-11T01:12:19+09:00"
  },
  "FEU04J/A": {
   "first_seen": "2026-08-21",
@@ -8158,22 +8788,6 @@
   "baseline": null,
   "restocked_at": "2026-09-25",
   "restocked_at_at": "2026-09-25T18:12:23+09:00"
- },
- "FCA14J/A": {
-  "first_seen": "2026-09-25",
-  "first_seen_at": "2026-09-25T18:12:23+09:00",
-  "last_seen": "2026-09-25",
-  "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-09-25",
-    116800
-   ]
-  ],
-  "sold_out_at": "2026-09-25",
-  "baseline": null
  },
  "FFEX4J/A": {
   "first_seen": "2026-08-13",
@@ -10103,24 +10717,6 @@
   "sold_out_at": "2026-09-11",
   "baseline": null
  },
- "FC9W4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-09-11",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-09-11",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-09-11",
-  "restocked_at_at": "2026-09-11T15:12:21+09:00"
- },
  "G1MX3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-09-11",
@@ -11291,42 +11887,6 @@
   "sold_out_at": "2026-08-31",
   "baseline": null
  },
- "FUWC3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-31",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": "2026-08-31",
-  "baseline": null,
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T13:12:23+09:00"
- },
- "FC9Y4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-31",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-08-31",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-31",
-  "restocked_at_at": "2026-08-31T04:42:21+09:00"
- },
  "G1MJ7J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T12:16:41+09:00",
@@ -11571,24 +12131,6 @@
   "sold_out_at": "2026-08-27",
   "baseline": null
  },
- "FUWE3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-27",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": "2026-08-27",
-  "baseline": null,
-  "restocked_at": "2026-08-27",
-  "restocked_at_at": "2026-08-27T12:25:57+09:00"
- },
  "FUWJ3J/A": {
   "first_seen": "2026-08-25",
   "first_seen_at": "2026-08-25T10:50:32+09:00",
@@ -11637,54 +12179,6 @@
   "sold_out_at": "2026-08-26",
   "baseline": null
  },
- "FUWF3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
- },
- "FCFV4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-08-25",
-    124800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
- },
- "FUWG3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-25",
-    98800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
- },
  "G1MX1J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-26",
@@ -11718,22 +12212,6 @@
   "baseline": null,
   "restocked_at": "2026-08-22",
   "restocked_at_at": "2026-08-22T12:06:07+09:00"
- },
- "FUWD3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
  },
  "G1KZKJ/A": {
   "first_seen": "2026-08-26",
@@ -11865,22 +12343,6 @@
   "sold_out_at": "2026-08-26",
   "baseline": null
  },
- "FCA94J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M3）Wi-Fi 512GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 146800,
-  "price_history": [
-   [
-    "2026-08-25",
-    146800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
- },
  "G1FB7J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
@@ -11892,22 +12354,6 @@
    [
     "2026-08-24",
     335800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null
- },
- "FUWH3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-08-26",
-  "title": "11インチiPad Air（M2）Wi‑Fi 256GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 98800,
-  "price_history": [
-   [
-    "2026-08-25",
-    98800
    ]
   ],
   "sold_out_at": "2026-08-26",
@@ -12074,42 +12520,6 @@
   ],
   "sold_out_at": "2026-08-25",
   "baseline": null
- },
- "FCA04J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-25",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
- },
- "FCA64J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-25",
-  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-07-30",
-    116800
-   ]
-  ],
-  "sold_out_at": "2026-08-25",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-25",
-  "restocked_at_at": "2026-08-25T10:50:32+09:00"
  },
  "G1DD1J/A": {
   "first_seen": "2026-08-24",
@@ -12523,22 +12933,6 @@
   "restocked_at": "2026-08-19",
   "restocked_at_at": "2026-08-19T12:58:37+09:00"
  },
- "FC9X4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Air（M3）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-08-20",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FNXP3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -12587,22 +12981,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FNYG3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 192800,
-  "price_history": [
-   [
-    "2026-07-30",
-    192800
-   ]
-  ],
-  "sold_out_at": "2026-08-20",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FVW33J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-08-20",
@@ -12613,38 +12991,6 @@
    [
     "2026-07-30",
     220800
-   ]
-  ],
-  "sold_out_at": "2026-08-20",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNYJ3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 247800,
-  "price_history": [
-   [
-    "2026-07-30",
-    247800
-   ]
-  ],
-  "sold_out_at": "2026-08-20",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNYK3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-20",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - シルバー（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 247800,
-  "price_history": [
-   [
-    "2026-07-30",
-    247800
    ]
   ],
   "sold_out_at": "2026-08-20",
@@ -13092,22 +13438,6 @@
   ],
   "sold_out_at": "2026-08-13",
   "baseline": null
- },
- "FNYE3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-08-13",
-  "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 162800,
-  "price_history": [
-   [
-    "2026-07-30",
-    162800
-   ]
-  ],
-  "sold_out_at": "2026-08-13",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
  "G1KL0J/A": {
   "first_seen": "2026-08-04",
@@ -13859,22 +14189,6 @@
    [
     "2026-07-30",
     138800
-   ]
-  ],
-  "sold_out_at": "2026-07-31",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FNXW3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-07-30",
-  "title": "12.9インチiPad Pro Wi-Fi 1TB - スペースグレイ（第6世代）[整備済製品]",
-  "category": "ipad",
-  "price": 275800,
-  "price_history": [
-   [
-    "2026-07-30",
-    275800
    ]
   ],
   "sold_out_at": "2026-07-31",
