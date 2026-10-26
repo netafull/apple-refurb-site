@@ -11,7 +11,7 @@ on:
   # (ワークフロー自体の失敗は0件)。workflow_dispatch はこの間引きの対象外。
   #
   # 発火元: Cloud Scheduler ジョブ ringo-pochi-update
-  #         (GCPプロジェクト manga-rss / asia-northeast1 / cron "12,42 * * * *" UTC)
+  #         (GCPプロジェクト manga-rss / asia-northeast1 / cron "12 * * * *" UTC。2026-10-26に30分間隔から1時間間隔へ変更)
   #
   # **間隔を変えたら config.json の文言も必ず直すこと。**
   # サイトのヘッダーと「〜について」セクションに更新頻度を書いており
