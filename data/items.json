@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T15:42:37+09:00",
- "count": 223,
+ "generated_at": "2026-10-26T16:12:23+09:00",
+ "count": 221,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1329,23 +1329,6 @@
    "since": "2026-10-26"
   },
   {
-   "part_number": "FD3Y4J/A",
-   "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
-   "price": 62800,
-   "url": "https://www.apple.com/jp/shop/product/fd3y4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-silver-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSll3SWkvSnVicEZKdlhKK0Y3VDZNcUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXlZeU5JbU1ENmJDY3BxWENia0lZN0M",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FD4A4J/A",
    "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
    "price": 62800,
@@ -1361,23 +1344,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-10-09"
-  },
-  {
-   "part_number": "FD4E4J/A",
-   "title": "iPad（A16）Wi-Fi 128GB - ピンク [整備済製品]",
-   "price": 62800,
-   "url": "https://www.apple.com/jp/shop/product/fd4e4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-pink-202512?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpS2pJaWNISmdIQXlRMEVIWG1DS0U3QXNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1ZDOFhnV1VOVjQ1SzErZzdITWlWRTY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "pink",
-   "memory": "",
-   "since": "2026-10-26"
   },
   {
    "part_number": "FK2P3J/A",
