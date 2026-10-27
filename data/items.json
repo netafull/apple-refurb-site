@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T01:12:21+09:00",
- "count": 219,
+ "generated_at": "2026-10-28T02:12:20+09:00",
+ "count": 218,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1448,23 +1448,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MN9J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 1473800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn9j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "128gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1MK9J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 1473800,
@@ -1482,10 +1465,10 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MN8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 1450800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn8j/a",
+   "part_number": "G1MN9J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+   "price": 1473800,
+   "url": "https://www.apple.com/jp/shop/product/g1mn9j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
    "category": "mac",
    "category_name": "Mac",
@@ -1514,6 +1497,23 @@
    "color": "silver",
    "memory": "128gb",
    "since": "2026-08-19"
+  },
+  {
+   "part_number": "G1MN8J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+   "price": 1450800,
+   "url": "https://www.apple.com/jp/shop/product/g1mn8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1dTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "8tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "128gb",
+   "since": "2026-07-30"
   },
   {
    "part_number": "G1MY6J/A",
@@ -3350,23 +3350,6 @@
    "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDHF4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 236800,
-   "url": "https://www.apple.com/jp/shop/product/fdhf4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-midnight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRzRmWUN2dytQNlNRK0RPVlA1N2Y3N1lLY3ZhZTUxL0tMOHhxSjgvSFVnYTE1UUxLT2t0cW42N3FvQzVqaGhrVVI5TUQzL21jdWI1S2Qzb0NoYWtienArYWpGdS9XeFgvbS9ITnNYOEhYaG4",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "midnight",
-   "memory": "16gb",
-   "since": "2026-07-30"
   },
   {
    "part_number": "FDHJ4J/A",
