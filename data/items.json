@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T18:12:20+09:00",
- "count": 237,
+ "generated_at": "2026-10-27T19:12:19+09:00",
+ "count": 235,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1072,23 +1072,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
-  },
-  {
-   "part_number": "FK7V3J/A",
-   "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fk7v3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-wifi-starlight-gallery-2022?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0ZlBpQlQwb3h0VkRmZ2J1a0V4U1RJT016cUFacHpJYjVEdzFPUGZnaGt3QXNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1dBNjFoeDZSTGczS2l1Y2dlQWJpK20",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2021",
-   "capacity": "256gb",
-   "screen": "8_3inch",
-   "color": "starlight",
-   "memory": "",
-   "since": "2026-10-26"
   },
   {
    "part_number": "FXN93J/A",
@@ -3739,23 +3722,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1JxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
   },
