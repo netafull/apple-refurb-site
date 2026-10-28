@@ -305,28 +305,6 @@
   "restocked_at": "2026-10-27",
   "restocked_at_at": "2026-10-27T12:12:20+09:00"
  },
- "G1E51J/A": {
-  "first_seen": "2026-08-22",
-  "first_seen_at": "2026-08-22T12:06:07+09:00",
-  "last_seen": "2026-10-28",
-  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
-  "category": "mac",
-  "price": 227800,
-  "price_history": [
-   [
-    "2026-08-22",
-    240800
-   ],
-   [
-    "2026-10-28",
-    227800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-28",
-  "restocked_at_at": "2026-10-28T14:12:21+09:00"
- },
  "FWUY3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-28",
@@ -368,24 +346,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1LQ0J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-28",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 253800,
-  "price_history": [
-   [
-    "2026-07-31",
-    253800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-27",
-  "restocked_at_at": "2026-10-27T12:12:20+09:00"
  },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
@@ -1042,22 +1002,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1LS3J/A": {
-  "first_seen": "2026-10-27",
-  "first_seen_at": "2026-10-27T12:12:20+09:00",
-  "last_seen": "2026-10-28",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 408800,
-  "price_history": [
-   [
-    "2026-10-27",
-    408800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
  },
  "G1K63J/A": {
   "first_seen": "2026-07-30",
@@ -2572,24 +2516,6 @@
   "baseline": null,
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
- "FUWF3J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-10-28",
-  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 86800,
-  "price_history": [
-   [
-    "2026-08-25",
-    86800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-28",
-  "restocked_at_at": "2026-10-28T14:12:21+09:00"
  },
  "FQ6W3J/A": {
   "first_seen": "2026-10-28",
@@ -4272,6 +4198,80 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1E51J/A": {
+  "first_seen": "2026-08-22",
+  "first_seen_at": "2026-08-22T12:06:07+09:00",
+  "last_seen": "2026-10-28",
+  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
+  "category": "mac",
+  "price": 227800,
+  "price_history": [
+   [
+    "2026-08-22",
+    240800
+   ],
+   [
+    "2026-10-28",
+    227800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null,
+  "restocked_at": "2026-10-28",
+  "restocked_at_at": "2026-10-28T14:12:21+09:00"
+ },
+ "G1LQ0J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-10-28",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 253800,
+  "price_history": [
+   [
+    "2026-07-31",
+    253800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-10-27",
+  "restocked_at_at": "2026-10-27T12:12:20+09:00"
+ },
+ "G1LS3J/A": {
+  "first_seen": "2026-10-27",
+  "first_seen_at": "2026-10-27T12:12:20+09:00",
+  "last_seen": "2026-10-28",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 408800,
+  "price_history": [
+   [
+    "2026-10-27",
+    408800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null
+ },
+ "FUWF3J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-28",
+  "title": "11インチiPad Air（M2）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 86800,
+  "price_history": [
+   [
+    "2026-08-25",
+    86800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null,
+  "restocked_at": "2026-10-28",
+  "restocked_at_at": "2026-10-28T14:12:21+09:00"
  },
  "FUWE3J/A": {
   "first_seen": "2026-08-25",
