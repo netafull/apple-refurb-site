@@ -387,24 +387,6 @@
   "restocked_at": "2026-10-27",
   "restocked_at_at": "2026-10-27T12:12:20+09:00"
  },
- "FDHJ4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-28",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 236800,
-  "price_history": [
-   [
-    "2026-07-30",
-    236800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-27",
-  "restocked_at_at": "2026-10-27T12:12:20+09:00"
- },
  "G1LQ0J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-10-28",
@@ -2521,24 +2503,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FK2L3J/A": {
-  "first_seen": "2026-10-26",
-  "first_seen_at": "2026-10-26T14:42:21+09:00",
-  "last_seen": "2026-10-28",
-  "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
-  "category": "ipad",
-  "price": 44800,
-  "price_history": [
-   [
-    "2026-10-26",
-    44800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-28",
-  "restocked_at_at": "2026-10-28T14:12:21+09:00"
- },
  "FPQ93J/A": {
   "first_seen": "2026-10-28",
   "first_seen_at": "2026-10-28T14:12:21+09:00",
@@ -2820,24 +2784,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FCA64J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-28",
-  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 116800,
-  "price_history": [
-   [
-    "2026-07-30",
-    116800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-26",
-  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FCFW4J/A": {
   "first_seen": "2026-10-26",
@@ -4416,6 +4362,60 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDHJ4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-28",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 236800,
+  "price_history": [
+   [
+    "2026-07-30",
+    236800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-27",
+  "restocked_at_at": "2026-10-27T12:12:20+09:00"
+ },
+ "FK2L3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-28",
+  "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
+  "category": "ipad",
+  "price": 44800,
+  "price_history": [
+   [
+    "2026-10-26",
+    44800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null,
+  "restocked_at": "2026-10-28",
+  "restocked_at_at": "2026-10-28T14:12:21+09:00"
+ },
+ "FCA64J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-10-28",
+  "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 116800,
+  "price_history": [
+   [
+    "2026-07-30",
+    116800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-26",
+  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "G1L10J/A": {
   "first_seen": "2026-08-16",
