@@ -4011,24 +4011,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FEHC4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-10-28",
-  "title": "Apple Watch SE 3（GPSモデル）- 40mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 35800,
-  "price_history": [
-   [
-    "2026-08-14",
-    35800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-23",
-  "restocked_at_at": "2026-10-23T14:42:19+09:00"
- },
  "FX4D3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-28",
@@ -4146,6 +4128,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FEHC4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-10-28",
+  "title": "Apple Watch SE 3（GPSモデル）- 40mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 35800,
+  "price_history": [
+   [
+    "2026-08-14",
+    35800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null,
+  "restocked_at": "2026-10-23",
+  "restocked_at_at": "2026-10-23T14:42:19+09:00"
  },
  "FPQ93J/A": {
   "first_seen": "2026-10-28",
