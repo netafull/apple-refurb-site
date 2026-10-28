@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T22:12:21+09:00",
- "count": 243,
+ "generated_at": "2026-10-28T23:12:20+09:00",
+ "count": 242,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -3180,23 +3180,6 @@
    "color": "skyblue",
    "memory": "24gb",
    "since": "2026-09-14"
-  },
-  {
-   "part_number": "G1K65J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-   "price": 368800,
-   "url": "https://www.apple.com/jp/shop/product/g1k65j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1ladFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "pink",
-   "memory": "32gb",
-   "since": "2026-10-28"
   },
   {
    "part_number": "G1K68J/A",

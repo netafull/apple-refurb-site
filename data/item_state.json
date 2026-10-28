@@ -881,22 +881,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1K65J/A": {
-  "first_seen": "2026-10-28",
-  "first_seen_at": "2026-10-28T14:12:21+09:00",
-  "last_seen": "2026-10-28",
-  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-  "category": "mac",
-  "price": 368800,
-  "price_history": [
-   [
-    "2026-10-28",
-    368800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1K68J/A": {
   "first_seen": "2026-10-28",
   "first_seen_at": "2026-10-28T14:12:21+09:00",
@@ -4128,6 +4112,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1K65J/A": {
+  "first_seen": "2026-10-28",
+  "first_seen_at": "2026-10-28T14:12:21+09:00",
+  "last_seen": "2026-10-28",
+  "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
+  "category": "mac",
+  "price": 368800,
+  "price_history": [
+   [
+    "2026-10-28",
+    368800
+   ]
+  ],
+  "sold_out_at": "2026-10-28",
+  "baseline": null
  },
  "FEHC4J/A": {
   "first_seen": "2026-08-14",
