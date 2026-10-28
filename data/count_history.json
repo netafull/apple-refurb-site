@@ -980,11 +980,11 @@
  "2026-10-28": {
   "categories": {
    "homepod": 1,
-   "ipad": 64,
+   "ipad": 89,
    "iphone": 16,
-   "mac": 126,
+   "mac": 147,
    "watch": 6
   },
-  "total": 213
+  "total": 259
  }
 }
