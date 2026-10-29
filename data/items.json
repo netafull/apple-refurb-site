@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T21:12:21+09:00",
- "count": 231,
+ "generated_at": "2026-10-29T22:12:19+09:00",
+ "count": 229,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1074,23 +1074,6 @@
    "since": "2026-10-26"
   },
   {
-   "part_number": "FNXG3J/A",
-   "title": "11インチiPad Pro Wi-Fi 256GB - シルバー（第4世代）[整備済製品]",
-   "price": 138800,
-   "url": "https://www.apple.com/jp/shop/product/fnxg3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUm9QZytvM1hPOWh5cVhIU1hDaWt6b1AvU3JjZHd1MTRSd0VqZnNnTGdmZmtSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2022",
-   "capacity": "256gb",
-   "screen": "11inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-10-26"
-  },
-  {
    "part_number": "FCNH4J/A",
    "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
    "price": 135800,
@@ -1480,23 +1463,6 @@
    "color": "blacktitanium",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FU0W3J/A",
-   "title": "iPhone 15 Plus 512GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 156800,
-   "url": "https://www.apple.com/jp/shop/product/fu0w3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlBVNHVUbkx0MzQxZGZsbEpQc2JtdkluU0J0WEdTMW8weGdPbHpxWFdQTi85S3R4M0M3WGhIQVNOK3lBdUI5K1pIZHdXdmdKcWs4aUd1Q2d3SHNMcVMyc2ZrNXJXRklOVythS1Rtc1B6b0Q",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-07-31"
   },
   {
    "part_number": "FU6P3J/A",
