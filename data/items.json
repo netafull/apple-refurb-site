@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T08:12:20+09:00",
- "count": 237,
+ "generated_at": "2026-10-29T09:12:20+09:00",
+ "count": 236,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2789,23 +2789,6 @@
    "color": "silver",
    "memory": "48gb",
    "since": "2026-09-23"
-  },
-  {
-   "part_number": "G1JVJJ/A",
-   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-   "price": 482800,
-   "url": "https://www.apple.com/jp/shop/product/g1jvjj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "2tb",
-   "screen": "",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-09-09"
   },
   {
    "part_number": "G1K62J/A",
