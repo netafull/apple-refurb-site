@@ -703,26 +703,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1KM2J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-10-29",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 296800,
-  "price_history": [
-   [
-    "2026-08-04",
-    311800
-   ],
-   [
-    "2026-10-28",
-    296800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FDVC4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-29",
@@ -3978,6 +3958,26 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1KM2J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-10-29",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 296800,
+  "price_history": [
+   [
+    "2026-08-04",
+    311800
+   ],
+   [
+    "2026-10-28",
+    296800
+   ]
+  ],
+  "sold_out_at": "2026-10-29",
+  "baseline": null
  },
  "FCA44J/A": {
   "first_seen": "2026-10-26",
