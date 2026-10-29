@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T00:12:21+09:00",
- "count": 228,
+ "generated_at": "2026-10-30T01:12:24+09:00",
+ "count": 226,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1108,23 +1108,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCFW4J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
-   "price": 124800,
-   "url": "https://www.apple.com/jp/shop/product/fcfw4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-cell-blue-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bU1odDJDamlvVkFEOVMrRWc3aDBGOHlhTVpTa3BzSjg3b0N0d3p3dkFPTjE1dTlZczl0eUxQeit5cXR5YjdwcE4xYTVCQlpxNHZiOEN2WlkrMGFRWTVHQmZjY08vT2N4MlFIS0lBdkxzWGg",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-10-26"
-  },
-  {
    "part_number": "FCFY4J/A",
    "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
    "price": 124800,
@@ -1548,23 +1531,6 @@
    "color": "black",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDQ3J/A",
-   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
