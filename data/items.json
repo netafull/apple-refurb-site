@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:12:23+09:00",
+ "generated_at": "2026-10-29T17:12:21+09:00",
  "count": 240,
  "items": [
   {
@@ -1210,6 +1210,40 @@
    "since": "2026-10-26"
   },
   {
+   "part_number": "FCA14J/A",
+   "title": "11インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fca14j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cVN4ckZWRm1jMDB2Mllic1N3NkQ5OFBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5MUGo0WXZBYjJ4Q01ac3NKN3Vuazc",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2025",
+   "capacity": "256gb",
+   "screen": "11inch",
+   "color": "space_gray",
+   "memory": "",
+   "since": "2026-09-25"
+  },
+  {
+   "part_number": "FCA64J/A",
+   "title": "11インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
+   "price": 116800,
+   "url": "https://www.apple.com/jp/shop/product/fca64j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dnFxZ0xtcDRxdzBOekJ3cWRNSzFWUkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHFuMzNZQXZiNjI4TkpRL21palBVSEs",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2025",
+   "capacity": "256gb",
+   "screen": "11inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-07-30"
+  },
+  {
    "part_number": "FC9W4J/A",
    "title": "11インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
    "price": 102800,
@@ -1242,6 +1276,23 @@
    "color": "purple",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FUWJ3J/A",
+   "title": "11インチiPad Air（M2）Wi‑Fi 256GB - スターライト [整備済製品]",
+   "price": 98800,
+   "url": "https://www.apple.com/jp/shop/product/fuwj3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-wifi-starlight-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3aUFDdGNrU2h5NUVkeUR1T0Jlb3RUVEFId0RLdFhBdDUwRTJSU1YyL24xNDJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkdoTVpJb3FRZ2JyZ29pbUF1c0o5QU9mbW94YnYxc1YvNXZ4emJGL0IxNFp3",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2024",
+   "capacity": "256gb",
+   "screen": "11inch",
+   "color": "starlight",
+   "memory": "",
+   "since": "2026-08-25"
   },
   {
    "part_number": "FXN63J/A",
@@ -1601,23 +1652,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FXVH3J/A",
-   "title": "iPhone 16 Plus 256GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYWVtTys2RUQrMVlZU0JJaDFIVytWR1lpOXVpL3YycGV6MVFGSDJlN2Vtdk1LWlMyVmEreEd6UVBWaXRHdkpLMXU2OHdaK2pWeVE1OW1wUng3SnZyekJpbVJwd3JsY2tPUytLMVF5RGJ3TUo",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FXVK3J/A",
    "title": "iPhone 16 Plus 256GB - ウルトラマリン（SIMフリー）[整備済製品]",
    "price": 140800,
@@ -1669,23 +1703,6 @@
    "since": "2026-09-25"
   },
   {
-   "part_number": "FYDW3J/A",
-   "title": "iPhone 16 256GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fydw3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXUjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-01"
-  },
-  {
    "part_number": "FU083J/A",
    "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 114800,
@@ -1718,23 +1735,6 @@
    "color": "black",
    "memory": "",
    "since": "2026-08-06"
-  },
-  {
-   "part_number": "FYDR3J/A",
-   "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydr3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-08-15"
   },
   {
    "part_number": "G1MY9J/A",
