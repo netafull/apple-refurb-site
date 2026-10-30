@@ -2273,6 +2273,24 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FCA94J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-10-31",
+  "title": "11インチiPad Air（M3）Wi-Fi 512GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-08-25",
+    146800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-31",
+  "restocked_at_at": "2026-10-31T07:12:29+09:00"
+ },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-31",
@@ -3898,24 +3916,6 @@
   "sold_out_at": "2026-10-31",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FCA94J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-10-31",
-  "title": "11インチiPad Air（M3）Wi-Fi 512GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 146800,
-  "price_history": [
-   [
-    "2026-08-25",
-    146800
-   ]
-  ],
-  "sold_out_at": "2026-10-31",
-  "baseline": null,
-  "restocked_at": "2026-10-26",
-  "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
  "FNXE3J/A": {
   "first_seen": "2026-10-26",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T06:12:21+09:00",
- "count": 226,
+ "generated_at": "2026-10-31T07:12:29+09:00",
+ "count": 227,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -970,6 +970,23 @@
    "color": "purple",
    "memory": "",
    "since": "2026-10-28"
+  },
+  {
+   "part_number": "FCA94J/A",
+   "title": "11インチiPad Air（M3）Wi-Fi 512GB - ブルー [整備済製品]",
+   "price": 146800,
+   "url": "https://www.apple.com/jp/shop/product/fca94j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-blue-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bXR3SE5WcXlsSzBEeFVzSXhXTk5xZ3lhTVpTa3BzSjg3b0N0d3p3dkFPTjE1dTlZczl0eUxQeit5cXR5YjdwcE4xYTVCQlpxNHZiOEN2WlkrMGFRWTdyME1EVXJrRGZNbTRMbVp1RjQ4eGU",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_11",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "11inch",
+   "color": "blue",
+   "memory": "",
+   "since": "2026-08-25"
   },
   {
    "part_number": "FNYC3J/A",
