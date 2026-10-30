@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T00:12:21+09:00",
- "count": 229,
+ "generated_at": "2026-10-31T01:12:22+09:00",
+ "count": 228,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1089,23 +1089,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FNXE3J/A",
-   "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
-   "price": 124800,
-   "url": "https://www.apple.com/jp/shop/product/fnxe3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=400&hei=400&fmt=jpeg&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUm9QZytvM1hPOWh5cVhIU1hDaWt6b1AvU3JjZHd1MTRSd0VqZnNnTGdmZmtSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2022",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-10-26"
   },
   {
    "part_number": "FCA04J/A",

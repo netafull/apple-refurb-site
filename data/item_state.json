@@ -2221,22 +2221,6 @@
   "restocked_at": "2026-10-26",
   "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
- "FNXE3J/A": {
-  "first_seen": "2026-10-26",
-  "first_seen_at": "2026-10-26T14:42:21+09:00",
-  "last_seen": "2026-10-31",
-  "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-10-26",
-    124800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-31",
@@ -3932,6 +3916,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FNXE3J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-31",
+  "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-10-26",
+    124800
+   ]
+  ],
+  "sold_out_at": "2026-10-31",
+  "baseline": null
  },
  "FWUC3J/A": {
   "first_seen": "2026-07-30",
