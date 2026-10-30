@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T16:12:19+09:00",
+ "generated_at": "2026-10-30T17:12:20+09:00",
  "count": 237,
  "items": [
   {
@@ -1244,23 +1244,6 @@
    "since": "2026-08-28"
   },
   {
-   "part_number": "FX2D3ZA/A",
-   "title": "Apple Pencil Pro [整備済製品]",
-   "price": 19800,
-   "url": "https://www.apple.com/jp/shop/product/fx2d3za/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-pencil-pro?wid=400&hei=400&fmt=jpeg&qlt=90&.v=YjVWTjEyaWRNZ3BxOFBLOGNNLzlqSVdST3JlL3ExTXRJYTArUHZhVzdVa2NEOENNc3A4dkF0RFh0REsvbE5KaGVBcUJqNzBSNmF5RUlzRnhMTW41aHZGb1lhSDQweVg0c1BQSUt0WEI3Z1U",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadaccessories",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-07"
-  },
-  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1531,6 +1514,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDX3J/A",
+   "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fydx3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "white",
+   "memory": "",
+   "since": "2026-09-03"
   },
   {
    "part_number": "G1MY9J/A",
