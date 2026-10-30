@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:12:20+09:00",
+ "generated_at": "2026-10-30T18:12:19+09:00",
  "count": 237,
  "items": [
   {
@@ -1108,6 +1108,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FYGY3J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
+   "price": 128800,
+   "url": "https://www.apple.com/jp/shop/product/fygy3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "8_3inch",
+   "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FCFY4J/A",
    "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
    "price": 124800,
@@ -1514,23 +1531,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDX3J/A",
-   "title": "iPhone 16 256GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fydx3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVRjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTQxTWlNdjR5eE5VcXRuMWNocHA1bXc",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-09-03"
   },
   {
    "part_number": "G1MY9J/A",
@@ -2672,23 +2672,6 @@
    "since": "2026-09-23"
   },
   {
-   "part_number": "G1K62J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet、Nano-textureガラス - ピンク",
-   "price": 475800,
-   "url": "https://www.apple.com/jp/shop/product/g1k62j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=400&hei=400&fmt=jpeg&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZVRLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic1ladFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "2tb",
-   "screen": "24inch",
-   "color": "pink",
-   "memory": "32gb",
-   "since": "2026-10-28"
-  },
-  {
    "part_number": "FX2U3J/A",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
    "price": 473800,
@@ -3059,6 +3042,23 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FDVF4J/A",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "price": 301800,
+   "url": "https://www.apple.com/jp/shop/product/fdvf4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookair",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "15inch",
+   "color": "starlight",
    "memory": "24gb",
    "since": "2026-07-30"
   },
