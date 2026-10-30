@@ -345,22 +345,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1E54J/A": {
-  "first_seen": "2026-10-28",
-  "first_seen_at": "2026-10-28T14:12:21+09:00",
-  "last_seen": "2026-10-30",
-  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
-  "category": "mac",
-  "price": 258800,
-  "price_history": [
-   [
-    "2026-10-28",
-    258800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1E64J/A": {
   "first_seen": "2026-10-28",
   "first_seen_at": "2026-10-28T14:12:21+09:00",
@@ -2169,6 +2153,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-30",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2210,24 +2212,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-10-30",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-30",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3988,6 +3972,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1E54J/A": {
+  "first_seen": "2026-10-28",
+  "first_seen_at": "2026-10-28T14:12:21+09:00",
+  "last_seen": "2026-10-30",
+  "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ブルー",
+  "category": "mac",
+  "price": 258800,
+  "price_history": [
+   [
+    "2026-10-28",
+    258800
+   ]
+  ],
+  "sold_out_at": "2026-10-30",
+  "baseline": null
  },
  "FDVF4J/A": {
   "first_seen": "2026-07-30",
