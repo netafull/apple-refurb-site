@@ -2203,6 +2203,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-30",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2257,24 +2275,6 @@
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-30",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
  "FC9W4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-10-30",
@@ -2311,22 +2311,6 @@
   "restocked_at": "2026-10-26",
   "restocked_at_at": "2026-10-26T14:42:21+09:00"
  },
- "FCFY4J/A": {
-  "first_seen": "2026-10-26",
-  "first_seen_at": "2026-10-26T14:42:21+09:00",
-  "last_seen": "2026-10-30",
-  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-10-26",
-    124800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FNXE3J/A": {
   "first_seen": "2026-10-26",
   "first_seen_at": "2026-10-26T14:42:21+09:00",
@@ -2342,24 +2326,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FYGY3J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-10-30",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 128800,
-  "price_history": [
-   [
-    "2026-08-28",
-    128800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-30",
-  "restocked_at_at": "2026-10-30T18:12:19+09:00"
  },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
@@ -2424,22 +2390,6 @@
    [
     "2026-10-28",
     143800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
- "FCA74J/A": {
-  "first_seen": "2026-10-26",
-  "first_seen_at": "2026-10-26T14:42:21+09:00",
-  "last_seen": "2026-10-30",
-  "title": "11インチiPad Air（M3）Wi-Fi 512GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 146800,
-  "price_history": [
-   [
-    "2026-10-26",
-    146800
    ]
   ],
   "sold_out_at": null,
@@ -4072,6 +4022,56 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCFY4J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-30",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-10-26",
+    124800
+   ]
+  ],
+  "sold_out_at": "2026-10-30",
+  "baseline": null
+ },
+ "FYGY3J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-10-30",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 128800,
+  "price_history": [
+   [
+    "2026-08-28",
+    128800
+   ]
+  ],
+  "sold_out_at": "2026-10-30",
+  "baseline": null,
+  "restocked_at": "2026-10-30",
+  "restocked_at_at": "2026-10-30T18:12:19+09:00"
+ },
+ "FCA74J/A": {
+  "first_seen": "2026-10-26",
+  "first_seen_at": "2026-10-26T14:42:21+09:00",
+  "last_seen": "2026-10-30",
+  "title": "11インチiPad Air（M3）Wi-Fi 512GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 146800,
+  "price_history": [
+   [
+    "2026-10-26",
+    146800
+   ]
+  ],
+  "sold_out_at": "2026-10-30",
+  "baseline": null
  },
  "G1K62J/A": {
   "first_seen": "2026-10-28",
