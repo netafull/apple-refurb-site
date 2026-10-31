@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T20:12:21+09:00",
- "count": 222,
+ "generated_at": "2026-10-31T21:12:20+09:00",
+ "count": 220,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1057,23 +1057,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCA04J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fca04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-wifi-purple-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dnFxZ0xtcDRxdzBOekJ3cWRNSzFWUkY0aStxMXg2aWxyV3dFeWJ3SmdNeTgvcThyMWgxemFRblVaVUJ2Vlg2MzRKWlgzZzdyUXEzcGE2bUxYbWVvdHFuMzNZQXZiNjI4TkpRL21palBVSEs",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FXN93J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
    "price": 84800,
@@ -1242,23 +1225,6 @@
    "color": "whitetitanium",
    "memory": "",
    "since": "2026-10-09"
-  },
-  {
-   "part_number": "FTUU3J/A",
-   "title": "iPhone 15 Pro 1TB - ブルーチタニウム（SIMフリー）[整備済製品]",
-   "price": 193800,
-   "url": "https://www.apple.com/jp/shop/product/ftuu3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-bluetitanium-202412?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYmhlWHR6Z2hrNUs1UVRoRzZ0RlJ5RnFYQU9KTkxXVmhxMlNzSm1tOS9xZTE1dTlZczl0eUxQeit5cXR5YjdwcEpXMzBVWmROTjVLL21KMWkvQmQyRWFUQ1VRMjNUNStRYmxubXRrL1R2aEM",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-09-11"
   },
   {
    "part_number": "FU6U3J/A",
