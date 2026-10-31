@@ -2633,24 +2633,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FVX43J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-11-01",
-  "title": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
-  "category": "ipad",
-  "price": 239800,
-  "price_history": [
-   [
-    "2026-08-04",
-    239800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-28",
-  "restocked_at_at": "2026-10-28T14:12:21+09:00"
- },
  "FVXR3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-01",
@@ -3776,6 +3758,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FVX43J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-11-01",
+  "title": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+  "category": "ipad",
+  "price": 239800,
+  "price_history": [
+   [
+    "2026-08-04",
+    239800
+   ]
+  ],
+  "sold_out_at": "2026-11-01",
+  "baseline": null,
+  "restocked_at": "2026-10-28",
+  "restocked_at_at": "2026-10-28T14:12:21+09:00"
  },
  "FCA04J/A": {
   "first_seen": "2026-07-30",
