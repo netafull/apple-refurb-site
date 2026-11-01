@@ -2025,24 +2025,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-11-02",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
- },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2061,11 +2043,11 @@
   "restocked_at": "2026-10-17",
   "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
- "FXN83J/A": {
+ "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-11-02",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -3619,6 +3601,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FDEY4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-02",
+  "title": "HomePod（第2世代）[整備済製品] - ホワイト",
+  "category": "homepod",
+  "price": 50800,
+  "price_history": [
+   [
+    "2026-07-30",
+    50800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
  "FDEW4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-02",
@@ -3637,21 +3635,23 @@
   "restocked_at": "2026-11-01",
   "restocked_at_at": "2026-11-01T22:12:20+09:00"
  },
- "FDEY4J/A": {
-  "first_seen": "2026-07-30",
+ "FXN83J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-11-02",
-  "title": "HomePod（第2世代）[整備済製品] - ホワイト",
-  "category": "homepod",
-  "price": 50800,
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
   "price_history": [
    [
-    "2026-07-30",
-    50800
+    "2026-08-28",
+    84800
    ]
   ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
+  "sold_out_at": "2026-11-02",
+  "baseline": null,
+  "restocked_at": "2026-10-17",
+  "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
  "FXN73J/A": {
   "first_seen": "2026-08-28",
