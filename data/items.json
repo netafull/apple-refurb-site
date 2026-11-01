@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T07:12:25+09:00",
- "count": 210,
+ "generated_at": "2026-11-02T08:12:23+09:00",
+ "count": 209,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -989,23 +989,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FXN63J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN93J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
    "price": 84800,
@@ -1019,6 +1002,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN63J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3548,23 +3548,6 @@
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
    "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
-   "part_number": "FEH94J/A",
-   "title": "Apple Watch SE 3（GPSモデル）- 40mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-   "price": 35800,
-   "url": "https://www.apple.com/jp/shop/product/feh94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-nc-alum-midnight-sport-band-midnight?wid=400&hei=400&fmt=jpeg&qlt=90&.v=QlR1TWJ1bWFJSXhxdGpVYU0yZEN5YzByV1g1VDFyNEp2dU1uWG9jZGtvbzR4eWFFVndzR1Eza0w1TndBdEI1cVVpV0VzMW1WN2xqZXNFYmJjVHJlS3o3UnQ0Z2d0YktNQTh3TUhDTUFJMXZFZ2I0QnBZMXBWVmdGZ3JIVHlOUmlkWlF2UjU3ajdSVDhDdFVLM3VaOGRB",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
    "year": "",
    "capacity": "",
    "screen": "",
