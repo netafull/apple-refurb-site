@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T09:12:20+09:00",
- "count": 203,
+ "generated_at": "2026-11-03T10:12:20+09:00",
+ "count": 202,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -968,23 +968,6 @@
    "capacity": "128gb",
    "screen": "13inch",
    "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCNJ4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 128GB - ブルー [整備済製品]",
-   "price": 135800,
-   "url": "https://www.apple.com/jp/shop/product/fcnj4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-blue-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3aThIZ0o0WGZWK1hhcFBpamhBNVlSQXlhTVpTa3BzSjg3b0N0d3p3dkFPTjE1dTlZczl0eUxQeit5cXR5YjdwcE4xYTVCQlpxNHZiOEN2WlkrMGFRWTVZYmpoU09hbjJIQjI3VmlDbmFjR00",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "blue",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -2621,23 +2604,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1M20J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 377800,
-   "url": "https://www.apple.com/jp/shop/product/g1m20j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NwdW0rTThNNHZVMGhTd2pTVXk3K1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "15inch",
-   "color": "skyblue",
-   "memory": "24gb",
-   "since": "2026-09-14"
-  },
-  {
    "part_number": "G1K34J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
    "price": 322800,
@@ -2670,6 +2636,23 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-10-28"
+  },
+  {
+   "part_number": "FDE64J/A",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "price": 303800,
+   "url": "https://www.apple.com/jp/shop/product/fde64j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpTjhPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQXlrSDl6V2JEeTVlcUo5bXZtOEVqZnc",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
   },
   {
    "part_number": "FDVC4J/A",
