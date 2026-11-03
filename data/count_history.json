@@ -1040,11 +1040,11 @@
  "2026-11-03": {
   "categories": {
    "homepod": 2,
-   "ipad": 64,
+   "ipad": 62,
    "iphone": 15,
-   "mac": 121,
+   "mac": 119,
    "watch": 16
   },
-  "total": 218
+  "total": 214
  }
 }

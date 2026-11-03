@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T21:12:20+09:00",
- "count": 218,
+ "generated_at": "2026-11-03T22:12:22+09:00",
+ "count": 214,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -904,23 +904,6 @@
    "since": "2026-10-28"
   },
   {
-   "part_number": "FUXR3J/A",
-   "title": "11インチiPad Air（M2）Wi‑Fi + Cellular 1TB - スペースグレイ [整備済製品]",
-   "price": 168800,
-   "url": "https://www.apple.com/jp/shop/product/fuxr3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-11inch-m2-cell-spacegray-202504?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3clJsM2hUaTJCc1YxejZwSzhtbnpDaTdsVmk1dVFtVFZUbnpCTXcvaFIvajJDbkwybnVkZnlpL01haWZQeDFJR3RlVUN5anBMYXArdTZxQXVZNFlaRkdLSDM1NE1VZWVEQmROdVZEd2NYUHdmbW94YnYxc1YvNXZ4emJGL0IxNFp3",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "11inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-10-26"
-  },
-  {
    "part_number": "FNYE3J/A",
    "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第4世代）[整備済製品]",
    "price": 162800,
@@ -1104,23 +1087,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN63J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3197,40 +3163,6 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FFEX4J/A",
-   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
-   "price": 228800,
-   "url": "https://www.apple.com/jp/shop/product/ffex4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVkhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHZZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
-  },
-  {
-   "part_number": "FFEY4J/A",
-   "title": "Studio Display [整備済製品] - 標準ガラス - VESAマウントアダプタ",
-   "price": 228800,
-   "url": "https://www.apple.com/jp/shop/product/ffey4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-vesa-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaEttNVdPZm5VckhmRUVjMlo2TCsyZEhrRnRVaW11emo1Z3B1azh5NGUwZzlpaHIrQ0hZaTQ0a3lBVm53bGROOHRhTGNPbVF4S1dKR05CRi9vck50RVJjMVF2Qm1wek9RL211RENFWDR6d1o",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
   },
   {
    "part_number": "G1E23J/A",
