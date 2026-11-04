@@ -813,24 +813,6 @@
   "restocked_at": "2026-11-04",
   "restocked_at_at": "2026-11-04T12:12:20+09:00"
  },
- "FX2J3J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-04",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-  "category": "mac",
-  "price": 379800,
-  "price_history": [
-   [
-    "2026-07-30",
-    379800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T12:12:20+09:00"
- },
  "FX2T3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-04",
@@ -1753,22 +1735,6 @@
   "restocked_at": "2026-11-04",
   "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
- "G1CDDJ/A": {
-  "first_seen": "2026-11-04",
-  "first_seen_at": "2026-11-04T11:12:22+09:00",
-  "last_seen": "2026-11-04",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 747800,
-  "price_history": [
-   [
-    "2026-11-04",
-    747800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1FUDJ/A": {
   "first_seen": "2026-09-22",
   "first_seen_at": "2026-09-22T15:12:20+09:00",
@@ -2235,22 +2201,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-11-04",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-04",
@@ -2267,23 +2217,21 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK9J/A": {
-  "first_seen": "2026-07-30",
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
   "last_seen": "2026-11-04",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
-    "2026-07-30",
-    1473800
+    "2026-08-19",
+    1450800
    ]
   ],
   "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T16:18:31+09:00"
+  "baseline": null
  },
  "G1MN9J/A": {
   "first_seen": "2026-07-30",
@@ -2302,6 +2250,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-31",
   "restocked_at_at": "2026-10-31T11:12:22+09:00"
+ },
+ "G1MK9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-04",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T16:18:31+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -3958,6 +3924,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FX2J3J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-04",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+  "category": "mac",
+  "price": 379800,
+  "price_history": [
+   [
+    "2026-07-30",
+    379800
+   ]
+  ],
+  "sold_out_at": "2026-11-04",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T12:12:20+09:00"
+ },
+ "G1CDDJ/A": {
+  "first_seen": "2026-11-04",
+  "first_seen_at": "2026-11-04T11:12:22+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 747800,
+  "price_history": [
+   [
+    "2026-11-04",
+    747800
+   ]
+  ],
+  "sold_out_at": "2026-11-04",
+  "baseline": null
  },
  "FHFA4J/A": {
   "first_seen": "2026-07-30",
