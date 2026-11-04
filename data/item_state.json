@@ -773,24 +773,6 @@
   "restocked_at": "2026-11-04",
   "restocked_at_at": "2026-11-04T12:12:20+09:00"
  },
- "G1M20J/A": {
-  "first_seen": "2026-09-14",
-  "first_seen_at": "2026-09-14T13:12:20+09:00",
-  "last_seen": "2026-11-04",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-  "category": "mac",
-  "price": 377800,
-  "price_history": [
-   [
-    "2026-09-14",
-    377800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T17:12:20+09:00"
- },
  "FX2T3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-04",
@@ -2161,22 +2143,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MK8J/A": {
-  "first_seen": "2026-08-19",
-  "first_seen_at": "2026-08-19T12:58:37+09:00",
-  "last_seen": "2026-11-04",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1450800,
-  "price_history": [
-   [
-    "2026-08-19",
-    1450800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1MN8J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-04",
@@ -2193,23 +2159,21 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1MK9J/A": {
-  "first_seen": "2026-07-30",
+ "G1MK8J/A": {
+  "first_seen": "2026-08-19",
+  "first_seen_at": "2026-08-19T12:58:37+09:00",
   "last_seen": "2026-11-04",
-  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
   "category": "mac",
-  "price": 1473800,
+  "price": 1450800,
   "price_history": [
    [
-    "2026-07-30",
-    1473800
+    "2026-08-19",
+    1450800
    ]
   ],
   "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-08-24",
-  "restocked_at_at": "2026-08-24T16:18:31+09:00"
+  "baseline": null
  },
  "G1MN9J/A": {
   "first_seen": "2026-07-30",
@@ -2228,6 +2192,24 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-31",
   "restocked_at_at": "2026-10-31T11:12:22+09:00"
+ },
+ "G1MK9J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-04",
+  "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 1473800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1473800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-08-24",
+  "restocked_at_at": "2026-08-24T16:18:31+09:00"
  },
  "G1MYGJ/A": {
   "first_seen": "2026-07-30",
@@ -3291,24 +3273,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTUF3J/A": {
-  "first_seen": "2026-09-11",
-  "first_seen_at": "2026-09-11T13:12:21+09:00",
-  "last_seen": "2026-11-04",
-  "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 134800,
-  "price_history": [
-   [
-    "2026-09-11",
-    134800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T17:12:20+09:00"
- },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-11-04",
@@ -3902,6 +3866,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1M20J/A": {
+  "first_seen": "2026-09-14",
+  "first_seen_at": "2026-09-14T13:12:20+09:00",
+  "last_seen": "2026-11-04",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 377800,
+  "price_history": [
+   [
+    "2026-09-14",
+    377800
+   ]
+  ],
+  "sold_out_at": "2026-11-04",
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T17:12:20+09:00"
+ },
+ "FTUF3J/A": {
+  "first_seen": "2026-09-11",
+  "first_seen_at": "2026-09-11T13:12:21+09:00",
+  "last_seen": "2026-11-04",
+  "title": "iPhone 15 Pro 256GB - ナチュラルチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 134800,
+  "price_history": [
+   [
+    "2026-09-11",
+    134800
+   ]
+  ],
+  "sold_out_at": "2026-11-04",
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T17:12:20+09:00"
  },
  "FW2U3J/A": {
   "first_seen": "2026-08-17",
