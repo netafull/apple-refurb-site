@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T10:12:27+09:00",
- "count": 209,
+ "generated_at": "2026-11-04T11:12:22+09:00",
+ "count": 218,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1057,6 +1057,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FXN63J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=400&hei=400&fmt=jpeg&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSUZUVzMxa2MxY3h4S1ZpaEFMMFFjMXI2TGhYaGhMVkJpQ2RGWWVURTZNbXkwVzd6RkRUK01tYk45VCtHYk1UMDY",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1448,6 +1465,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CEEJ/A",
+   "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+   "price": 1282800,
+   "url": "https://www.apple.com/jp/shop/product/g1ceej/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "8tb",
+   "screen": "",
+   "color": "",
+   "memory": "96gb",
+   "since": "2026-11-04"
+  },
+  {
    "part_number": "G1MY6J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 1264800,
@@ -1822,6 +1856,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CE4J/A",
+   "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+   "price": 823800,
+   "url": "https://www.apple.com/jp/shop/product/g1ce4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "2tb",
+   "screen": "",
+   "color": "",
+   "memory": "96gb",
+   "since": "2026-10-17"
+  },
+  {
    "part_number": "G1MW6J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
    "price": 785800,
@@ -1871,6 +1922,40 @@
    "color": "spaceblack",
    "memory": "48gb",
    "since": "2026-09-22"
+  },
+  {
+   "part_number": "FU973J/A",
+   "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+   "price": 747800,
+   "url": "https://www.apple.com/jp/shop/product/fu973j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "",
+   "memory": "96gb",
+   "since": "2026-08-04"
+  },
+  {
+   "part_number": "G1CDDJ/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 747800,
+   "url": "https://www.apple.com/jp/shop/product/g1cddj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "4tb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-11-04"
   },
   {
    "part_number": "G1N20J/A",
@@ -2128,6 +2213,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD9J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 602800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd9j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "2tb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "G1MW2J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 594800,
@@ -2366,6 +2468,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1CD5J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 526800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd5j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
+  },
+  {
    "part_number": "FFEP4J/A",
    "title": "Studio Display XDR [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
    "price": 509800,
@@ -2398,6 +2517,23 @@
    "color": "silver",
    "memory": "48gb",
    "since": "2026-09-23"
+  },
+  {
+   "part_number": "G1CD1J/A",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "price": 480800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "",
+   "memory": "64gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FX2U3J/A",
@@ -2500,6 +2636,23 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "G1CD7J/A",
+   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
+   "price": 449800,
+   "url": "https://www.apple.com/jp/shop/product/g1cd7j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "2tb",
+   "screen": "",
+   "color": "",
+   "memory": "36gb",
+   "since": "2026-11-04"
   },
   {
    "part_number": "FGE44J/A",
@@ -2655,21 +2808,21 @@
    "since": "2026-11-03"
   },
   {
-   "part_number": "FFF04J/A",
-   "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
-   "price": 329800,
-   "url": "https://www.apple.com/jp/shop/product/fff04j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-height-202206?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJak1JbUpGajlzb1ZKR29lMnp5bXgxVlhOTXoxalNTSnNHQUdNQUdnQmpmUHNCSkJFVEJwbzJjczV4ajdXUW5HY2pNZGEwYVUyTzcvZlg1UkxwTzJQS1VBbmdvVmp1aENTSG13NHJ3TkcvSGk",
+   "part_number": "FU963J/A",
+   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
+   "price": 327800,
+   "url": "https://www.apple.com/jp/shop/product/fu963j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=400&hei=400&fmt=jpeg&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJajZLUnNDY2lVbG9VOWlYU3BPOFJkL1htNzFpejIzSXMvUDdLcTNKdnVtazVEeFh6SEJnOTd6K3FNSnk2bUxBbmZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA",
    "category": "mac",
    "category_name": "Mac",
    "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
+   "model": "macstudio",
+   "year": "2025",
+   "capacity": "512gb",
+   "screen": "",
    "color": "",
-   "memory": "",
-   "since": "2026-08-13"
+   "memory": "36gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "G1K34J/A",

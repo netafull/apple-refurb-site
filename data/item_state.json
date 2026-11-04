@@ -671,23 +671,27 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FFF04J/A": {
-  "first_seen": "2026-08-13",
-  "first_seen_at": "2026-08-13T11:44:53+09:00",
+ "FU963J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
   "last_seen": "2026-11-04",
-  "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
+  "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
   "category": "mac",
-  "price": 329800,
+  "price": 327800,
   "price_history": [
    [
-    "2026-08-13",
-    329800
+    "2026-08-04",
+    355800
+   ],
+   [
+    "2026-08-26",
+    327800
    ]
   ],
   "sold_out_at": null,
   "baseline": null,
-  "restocked_at": "2026-11-03",
-  "restocked_at_at": "2026-11-03T15:12:21+09:00"
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
  "G1K60J/A": {
   "first_seen": "2026-11-03",
@@ -851,6 +855,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1CD7J/A": {
+  "first_seen": "2026-11-04",
+  "first_seen_at": "2026-11-04T11:12:22+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 449800,
+  "price_history": [
+   [
+    "2026-11-04",
+    449800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "G1MV0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-04",
@@ -947,6 +967,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1CD1J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 480800,
+  "price_history": [
+   [
+    "2026-08-04",
+    508800
+   ],
+   [
+    "2026-08-26",
+    480800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
+ },
  "G1JVKJ/A": {
   "first_seen": "2026-09-23",
   "first_seen_at": "2026-09-23T11:42:24+09:00",
@@ -982,6 +1024,28 @@
   "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-10-28",
   "restocked_at_at": "2026-10-28T14:12:21+09:00"
+ },
+ "G1CD5J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 526800,
+  "price_history": [
+   [
+    "2026-08-04",
+    554800
+   ],
+   [
+    "2026-08-26",
+    526800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
  "FGE64J/A": {
   "first_seen": "2026-07-30",
@@ -1222,6 +1286,28 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1CD9J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 602800,
+  "price_history": [
+   [
+    "2026-08-04",
+    630800
+   ],
+   [
+    "2026-11-04",
+    602800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
  "G1MW7J/A": {
   "first_seen": "2026-07-30",
@@ -1467,6 +1553,44 @@
   "sold_out_at": null,
   "baseline": null
  },
+ "FU973J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 747800,
+  "price_history": [
+   [
+    "2026-08-04",
+    763800
+   ],
+   [
+    "2026-08-26",
+    747800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
+ },
+ "G1CDDJ/A": {
+  "first_seen": "2026-11-04",
+  "first_seen_at": "2026-11-04T11:12:22+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+  "category": "mac",
+  "price": 747800,
+  "price_history": [
+   [
+    "2026-11-04",
+    747800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "G1FUDJ/A": {
   "first_seen": "2026-09-22",
   "first_seen_at": "2026-09-22T15:12:20+09:00",
@@ -1514,6 +1638,24 @@
   ],
   "sold_out_at": null,
   "baseline": null
+ },
+ "G1CE4J/A": {
+  "first_seen": "2026-10-17",
+  "first_seen_at": "2026-10-17T14:42:19+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 823800,
+  "price_history": [
+   [
+    "2026-10-17",
+    823800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
  "G1MW4J/A": {
   "first_seen": "2026-07-30",
@@ -1867,6 +2009,22 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "G1CEEJ/A": {
+  "first_seen": "2026-11-04",
+  "first_seen_at": "2026-11-04T11:12:22+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+  "category": "mac",
+  "price": 1282800,
+  "price_history": [
+   [
+    "2026-11-04",
+    1282800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null
+ },
  "G1MK8J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -1998,6 +2156,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FXN63J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-11-04",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T11:12:22+09:00"
  },
  "FCNH4J/A": {
   "first_seen": "2026-07-30",
@@ -3587,6 +3763,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FFF04J/A": {
+  "first_seen": "2026-08-13",
+  "first_seen_at": "2026-08-13T11:44:53+09:00",
+  "last_seen": "2026-11-04",
+  "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 329800,
+  "price_history": [
+   [
+    "2026-08-13",
+    329800
+   ]
+  ],
+  "sold_out_at": "2026-11-04",
+  "baseline": null,
+  "restocked_at": "2026-11-03",
+  "restocked_at_at": "2026-11-03T15:12:21+09:00"
+ },
  "FXN93J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -3716,24 +3910,6 @@
   "baseline": null,
   "restocked_at": "2026-11-03",
   "restocked_at_at": "2026-11-03T15:12:21+09:00"
- },
- "FXN63J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-11-03",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": "2026-11-03",
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T12:12:22+09:00"
  },
  "FUXR3J/A": {
   "first_seen": "2026-10-26",
@@ -6913,22 +7089,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "G1CE4J/A": {
-  "first_seen": "2026-10-17",
-  "first_seen_at": "2026-10-17T14:42:19+09:00",
-  "last_seen": "2026-10-20",
-  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 823800,
-  "price_history": [
-   [
-    "2026-10-17",
-    823800
-   ]
-  ],
-  "sold_out_at": "2026-10-20",
-  "baseline": null
- },
  "FX2F3J/A": {
   "first_seen": "2026-08-24",
   "first_seen_at": "2026-08-24T12:15:28+09:00",
@@ -7238,50 +7398,6 @@
   "baseline": null,
   "restocked_at": "2026-10-16",
   "restocked_at_at": "2026-10-16T12:12:20+09:00"
- },
- "FU973J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-10-18",
-  "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
-  "category": "mac",
-  "price": 747800,
-  "price_history": [
-   [
-    "2026-08-04",
-    763800
-   ],
-   [
-    "2026-08-26",
-    747800
-   ]
-  ],
-  "sold_out_at": "2026-10-18",
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T14:42:19+09:00"
- },
- "FU963J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-10-18",
-  "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 327800,
-  "price_history": [
-   [
-    "2026-08-04",
-    355800
-   ],
-   [
-    "2026-08-26",
-    327800
-   ]
-  ],
-  "sold_out_at": "2026-10-18",
-  "baseline": null,
-  "restocked_at": "2026-10-17",
-  "restocked_at_at": "2026-10-17T14:42:19+09:00"
  },
  "FEV64J/A": {
   "first_seen": "2026-08-14",
@@ -13059,28 +13175,6 @@
   "sold_out_at": "2026-08-26",
   "baseline": null
  },
- "G1CD1J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 480800,
-  "price_history": [
-   [
-    "2026-08-04",
-    508800
-   ],
-   [
-    "2026-08-26",
-    480800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
- },
  "G1CFAJ/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -13134,28 +13228,6 @@
   ],
   "sold_out_at": "2026-08-26",
   "baseline": null
- },
- "G1CD5J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-26",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 526800,
-  "price_history": [
-   [
-    "2026-08-04",
-    554800
-   ],
-   [
-    "2026-08-26",
-    526800
-   ]
-  ],
-  "sold_out_at": "2026-08-26",
-  "baseline": null,
-  "restocked_at": "2026-08-26",
-  "restocked_at_at": "2026-08-26T10:56:52+09:00"
  },
  "G1DT1J/A": {
   "first_seen": "2026-08-17",
@@ -14652,22 +14724,6 @@
    [
     "2026-08-04",
     543800
-   ]
-  ],
-  "sold_out_at": "2026-08-04",
-  "baseline": null
- },
- "G1CD9J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-08-04",
-  "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
-  "category": "mac",
-  "price": 630800,
-  "price_history": [
-   [
-    "2026-08-04",
-    630800
    ]
   ],
   "sold_out_at": "2026-08-04",
