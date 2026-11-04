@@ -658,7 +658,6 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <header>
 <h1><a href="./" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
-{related_html}
 </header>
 {header_ad}
 {tabs_html}
