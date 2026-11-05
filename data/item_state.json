@@ -205,6 +205,24 @@
   "restocked_at": "2026-11-04",
   "restocked_at_at": "2026-11-04T12:12:20+09:00"
  },
+ "FDVH4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-06",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 223800,
+  "price_history": [
+   [
+    "2026-07-30",
+    223800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T05:12:20+09:00"
+ },
  "FWUY3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-06",
@@ -5028,24 +5046,6 @@
   "baseline": null,
   "restocked_at": "2026-10-31",
   "restocked_at_at": "2026-10-31T14:12:20+09:00"
- },
- "FDVH4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-10-31",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 223800,
-  "price_history": [
-   [
-    "2026-07-30",
-    223800
-   ]
-  ],
-  "sold_out_at": "2026-10-31",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-27",
-  "restocked_at_at": "2026-10-27T12:12:20+09:00"
  },
  "FCA94J/A": {
   "first_seen": "2026-08-25",
