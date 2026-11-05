@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T16:12:22+09:00",
- "count": 219,
+ "generated_at": "2026-11-05T17:12:20+09:00",
+ "count": 228,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2706,6 +2706,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1JV8J/A",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "price": 420800,
+   "url": "https://www.apple.com/jp/shop/product/g1jv8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-09-09"
+  },
+  {
    "part_number": "G1K63J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
    "price": 414800,
@@ -2738,6 +2755,23 @@
    "color": "purple",
    "memory": "24gb",
    "since": "2026-08-19"
+  },
+  {
+   "part_number": "G1JV7J/A",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 405800,
+   "url": "https://www.apple.com/jp/shop/product/g1jv7j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-09-28"
   },
   {
    "part_number": "G1EJ1J/A",
@@ -2791,6 +2825,74 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "G1JV1J/A",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 375800,
+   "url": "https://www.apple.com/jp/shop/product/g1jv1j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "1tb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-09-28"
+  },
+  {
+   "part_number": "G1KZDJ/A",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "price": 375800,
+   "url": "https://www.apple.com/jp/shop/product/g1kzdj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-09-09"
+  },
+  {
+   "part_number": "G1KZCJ/A",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 359800,
+   "url": "https://www.apple.com/jp/shop/product/g1kzcj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-08-26"
+  },
+  {
+   "part_number": "G1KZMJ/A",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "price": 343800,
+   "url": "https://www.apple.com/jp/shop/product/g1kzmj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-10-12"
+  },
+  {
    "part_number": "G1K60J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
    "price": 337800,
@@ -2806,6 +2908,23 @@
    "color": "pink",
    "memory": "24gb",
    "since": "2026-11-03"
+  },
+  {
+   "part_number": "G1KZLJ/A",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 329800,
+   "url": "https://www.apple.com/jp/shop/product/g1kzlj/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "48gb",
+   "since": "2026-09-23"
   },
   {
    "part_number": "G1K34J/A",
@@ -3216,6 +3335,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FCX44J/A",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 237800,
+   "url": "https://www.apple.com/jp/shop/product/fcx44j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "24gb",
+   "since": "2026-08-26"
+  },
+  {
    "part_number": "FWUY3J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
    "price": 231800,
@@ -3401,6 +3537,23 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-08-26"
+  },
+  {
+   "part_number": "FU9E3J/A",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "price": 144800,
+   "url": "https://www.apple.com/jp/shop/product/fu9e3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUUXk4OTQvamJsMUtvK3duZGpuMFNJNzQ4WHRNcWk0amI5RjdNckNueldpUG0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macmini",
+   "year": "2024",
+   "capacity": "512gb",
+   "screen": "",
+   "color": "silver",
+   "memory": "16gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FHFD4J/A",
