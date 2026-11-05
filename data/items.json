@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T08:12:19+09:00",
- "count": 222,
+ "generated_at": "2026-11-05T09:12:33+09:00",
+ "count": 221,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1922,23 +1922,6 @@
    "color": "",
    "memory": "96gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "G1MY0J/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
-   "price": 744800,
-   "url": "https://www.apple.com/jp/shop/product/g1my0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-silver-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpVWttVlFCOEUrN0xiSDJ5REt1Z3lzOThPSkMxOStEeW1wdSszbExkeVJKZ3VUb3VPa2FUZVhQMFhDQnVBMWhwQTI4eUdUdmRjVUdsdUVmZzJlSDc2WVk",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "16inch",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-08-08"
   },
   {
    "part_number": "G1N20J/A",
