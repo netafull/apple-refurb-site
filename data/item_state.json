@@ -657,24 +657,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDVN4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-05",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 301800,
-  "price_history": [
-   [
-    "2026-07-30",
-    301800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T12:12:20+09:00"
- },
  "G1EN0J/A": {
   "first_seen": "2026-10-28",
   "first_seen_at": "2026-10-28T14:12:21+09:00",
@@ -3485,22 +3467,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FTUR3J/A": {
-  "first_seen": "2026-10-09",
-  "first_seen_at": "2026-10-09T18:42:40+09:00",
-  "last_seen": "2026-11-05",
-  "title": "iPhone 15 Pro 1TB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 193800,
-  "price_history": [
-   [
-    "2026-10-09",
-    193800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FU6Y3J/A": {
   "first_seen": "2026-09-17",
   "first_seen_at": "2026-09-17T10:42:20+09:00",
@@ -3908,6 +3874,40 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDVN4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-05",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 301800,
+  "price_history": [
+   [
+    "2026-07-30",
+    301800
+   ]
+  ],
+  "sold_out_at": "2026-11-05",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T12:12:20+09:00"
+ },
+ "FTUR3J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:42:40+09:00",
+  "last_seen": "2026-11-05",
+  "title": "iPhone 15 Pro 1TB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 193800,
+  "price_history": [
+   [
+    "2026-10-09",
+    193800
+   ]
+  ],
+  "sold_out_at": "2026-11-05",
+  "baseline": null
  },
  "G1E42J/A": {
   "first_seen": "2026-10-28",
