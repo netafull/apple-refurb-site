@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T15:12:21+09:00",
- "count": 220,
+ "generated_at": "2026-11-05T16:12:22+09:00",
+ "count": 219,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2789,23 +2789,6 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1LV0J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 377800,
-   "url": "https://www.apple.com/jp/shop/product/g1lv0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQ1RLNDVIb25yeWxTSzhxdXNNaFBBZmJGcXNRQnFCV0w3WVRjTExvdm1ic2NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "15inch",
-   "color": "starlight",
-   "memory": "24gb",
-   "since": "2026-10-27"
   },
   {
    "part_number": "G1K60J/A",
