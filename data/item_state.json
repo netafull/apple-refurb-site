@@ -15,22 +15,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FHFF4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-05",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-  "category": "mac",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FHFH4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-05",
@@ -207,24 +191,6 @@
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-05",
   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 223800,
-  "price_history": [
-   [
-    "2026-07-30",
-    223800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T12:12:20+09:00"
- },
- "FDVQ4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-05",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
   "category": "mac",
   "price": 223800,
   "price_history": [
@@ -1432,24 +1398,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1N07J/A": {
-  "first_seen": "2026-08-08",
-  "first_seen_at": "2026-08-08T14:23:02+09:00",
-  "last_seen": "2026-11-05",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 617800,
-  "price_history": [
-   [
-    "2026-08-08",
-    617800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-04",
-  "restocked_at_at": "2026-11-04T12:12:20+09:00"
  },
  "G1MMAJ/A": {
   "first_seen": "2026-07-30",
@@ -3874,6 +3822,58 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FHFF4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-05",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
+  "category": "mac",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": "2026-11-05",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDVQ4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-05",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+  "category": "mac",
+  "price": 223800,
+  "price_history": [
+   [
+    "2026-07-30",
+    223800
+   ]
+  ],
+  "sold_out_at": "2026-11-05",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T12:12:20+09:00"
+ },
+ "G1N07J/A": {
+  "first_seen": "2026-08-08",
+  "first_seen_at": "2026-08-08T14:23:02+09:00",
+  "last_seen": "2026-11-05",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 617800,
+  "price_history": [
+   [
+    "2026-08-08",
+    617800
+   ]
+  ],
+  "sold_out_at": "2026-11-05",
+  "baseline": null,
+  "restocked_at": "2026-11-04",
+  "restocked_at_at": "2026-11-04T12:12:20+09:00"
  },
  "FDVN4J/A": {
   "first_seen": "2026-07-30",

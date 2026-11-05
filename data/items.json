@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T22:12:23+09:00",
- "count": 225,
+ "generated_at": "2026-11-05T23:12:22+09:00",
+ "count": 222,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2179,23 +2179,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1N07J/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 617800,
-   "url": "https://www.apple.com/jp/shop/product/g1n07j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlN3g0ZWtQSFRIZzlKUVhXb3RzQTNxMC85S3R4M0M3WGhIQVNOK3lBdUI5K1FKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "16inch",
-   "color": "spaceblack",
-   "memory": "64gb",
-   "since": "2026-08-08"
-  },
-  {
    "part_number": "G1MW2J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 594800,
@@ -3369,23 +3352,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDVQ4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 223800,
-   "url": "https://www.apple.com/jp/shop/product/fdvq4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWkQ4eDQxcUNOL3l1WDd2VTYzMXJYbkJkRlpCNVhYU3AwTldRQldlSnpRa0NwdW0rTThNNHZVMGhTd2pTVXk3K1U",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1E20J/A",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 201800,
@@ -3518,23 +3484,6 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FHFF4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fhff4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=400&hei=400&fmt=jpeg&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNQ0J0eEJ5Mm9mdjh5RDFLZGZaNno5VktFVWtWOTN6UjdqcFR3T3hCME14OXV2MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "indigo",
    "memory": "8gb",
    "since": "2026-07-30"
   },
