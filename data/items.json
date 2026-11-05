@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T23:12:22+09:00",
- "count": 222,
+ "generated_at": "2026-11-06T00:12:20+09:00",
+ "count": 220,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1002,23 +1002,6 @@
    "capacity": "128gb",
    "screen": "11inch",
    "color": "silver",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCNH4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 128GB - スペースグレイ [整備済製品]",
-   "price": 135800,
-   "url": "https://www.apple.com/jp/shop/product/fcnh4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-spacegray-202509?wid=400&hei=400&fmt=jpeg&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3b0pJYjdHWnp3SEVyejBPNjljS0p1VVBvRDJ0NGwzQzB3b2hxRnZhMjdVbGZEaVF0ZmZnOHBxYnZ0NVMzY2tTWUxrNkxqcEdrM2x6OUZ3Z2JnTllhUU5LS3V6TDJaRUsxVG1OcG9wZ0Jjd1A",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "space_gray",
    "memory": "",
    "since": "2026-07-30"
   },
@@ -3265,23 +3248,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FCX44J/A",
-   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-   "price": 237800,
-   "url": "https://www.apple.com/jp/shop/product/fcx44j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=400&hei=400&fmt=jpeg&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUZVBBb3RncWdVcm91YTlucDlHT0U5anorcnl2V0hYTnBDZFJsUUc5VmZyZmdsbGZlRHV0Q3JlbHJxWXRlWjZpMnRwdnRJditNRFBWdkM0dkhYaTY4MUU",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-08-26"
   },
   {
    "part_number": "FWUY3J/A",
