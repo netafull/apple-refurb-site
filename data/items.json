@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T17:12:22+09:00",
- "count": 267,
+ "generated_at": "2026-11-06T18:12:21+09:00",
+ "count": 264,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2927,23 +2927,6 @@
    "since": "2026-11-03"
   },
   {
-   "part_number": "G1LY2J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-   "price": 331800,
-   "url": "https://www.apple.com/jp/shop/product/g1ly2j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-midnight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VzRmWUN2dytQNlNRK0RPVlA1N2Y3N05PUGtsSXhYYzQzWGhCbHQ5VVJhS0ZXZzlzM2cwVmJseGdsS3RYT09za3N2bUhydGh0ZkR5VStUeFJQakFuU1IrYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "midnight",
-   "memory": "32gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1EN0J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
    "price": 307800,
@@ -2974,23 +2957,6 @@
    "capacity": "1tb",
    "screen": "15inch",
    "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FDVF4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 301800,
-   "url": "https://www.apple.com/jp/shop/product/fdvf4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS3NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "15inch",
-   "color": "starlight",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -3911,23 +3877,6 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-08-26"
-  },
-  {
-   "part_number": "G1CT0J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 161800,
-   "url": "https://www.apple.com/jp/shop/product/g1ct0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m4-silver-202503?wid=800&hei=800&fmt=webp&qlt=90&.v=WlpoUU93OHdhdkJvNmxqdWVVY1FIL0ZkYS9rZWU0cUg2YnE5a2VBWVh5U09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RnZHZGNGbjJUTUZJVnBRNU91UUlScVk&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-11-06"
   },
   {
    "part_number": "FU9E3J/A",
