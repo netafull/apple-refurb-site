@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T12:12:23+09:00",
- "count": 233,
+ "generated_at": "2026-11-06T13:12:20+09:00",
+ "count": 228,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2757,23 +2757,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1JV1J/A",
-   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-   "price": 375800,
-   "url": "https://www.apple.com/jp/shop/product/g1jv1j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUYU1ZTzY4RFpJSTBEWE10WnU3Y0lFS25zSXdJWE5qWENkcDE2MnZHK1ptc3JiOFZFN3FUV0tKQTBFRm1maXhPRDlwdnRJditNRFBWdkM0dkhYaTY4MUU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-09-28"
-  },
-  {
    "part_number": "G1KZDJ/A",
    "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
    "price": 375800,
@@ -2908,23 +2891,6 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1L52J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 297800,
-   "url": "https://www.apple.com/jp/shop/product/g1l52j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "32gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "G1KJ2J/A",
@@ -3144,23 +3110,6 @@
    "capacity": "1tb",
    "screen": "13inch",
    "color": "midnight",
-   "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDHK4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 267800,
-   "url": "https://www.apple.com/jp/shop/product/fdhk4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQ2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlCZDhnSVl6OTRJcDZrRVlWaFFQblE&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "skyblue",
    "memory": "24gb",
    "since": "2026-08-04"
   },
@@ -3437,23 +3386,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDVD4J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 223800,
-   "url": "https://www.apple.com/jp/shop/product/fdvd4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3UkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS3NINnpIaFd1b2FVRXV6MmZ6R3RQakc1dDgvV3BhU1hoSzFPUEZjam5HQ2g&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1L30J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
    "price": 204800,
@@ -3556,23 +3488,6 @@
    "since": "2026-08-22"
   },
   {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FDH74J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
    "price": 189800,
@@ -3590,11 +3505,11 @@
    "since": "2026-08-04"
   },
   {
-   "part_number": "FDHE4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "part_number": "FDHA4J/A",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
    "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdhe4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-midnight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRzRmWUN2dytQNlNRK0RPVlA1N2Y3N05PUGtsSXhYYzQzWGhCbHQ5VVJhS0ZXZzlzM2cwVmJseGdsS3RYT09za2g5TUQzL21jdWI1S2Qzb0NoYWtienArYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1",
+   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
    "category": "mac",
    "category_name": "Mac",
    "shipping": "24時間以内",
@@ -3602,7 +3517,7 @@
    "year": "2026",
    "capacity": "512gb",
    "screen": "13inch",
-   "color": "midnight",
+   "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
   },
