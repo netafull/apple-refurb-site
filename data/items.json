@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T13:12:20+09:00",
- "count": 228,
+ "generated_at": "2026-11-06T14:12:22+09:00",
+ "count": 227,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1004,6 +1004,40 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FX2D3ZA/A",
+   "title": "Apple Pencil Pro [整備済製品]",
+   "price": 19800,
+   "url": "https://www.apple.com/jp/shop/product/fx2d3za/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-pencil-pro?wid=800&hei=800&fmt=webp&qlt=90&.v=YjVWTjEyaWRNZ3BxOFBLOGNNLzlqR0UrUUN5NURobTNVYnZlMXBJTTV6NFh1bEh3ZW9GdTdOcG0yazZNaDdaK2VBcUJqNzBSNmF5RUlzRnhMTW41aHZGb1lhSDQweVg0c1BQSUt0WEI3Z1U&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadaccessories",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-07"
+  },
+  {
+   "part_number": "FUWA3ZA/A",
+   "title": "Apple Pencil（USB-C）[整備済製品]",
+   "price": 12800,
+   "url": "https://www.apple.com/jp/shop/product/fuwa3za/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-pencil-usb-c?wid=800&hei=800&fmt=webp&qlt=90&.v=YjVWTjEyaWRNZ3BxOFBLOGNNLzlqUHJRZTFuZTRxb0dzOWZHZDhLVmpOMmVEL3lKSDg2bFdqdDJJSFNKbFlRNldGNWdLSCtaOGlPbUxiVHlFWlFtaGhySFg1MlprSWF0STdiLzVlYWNPVGs&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadaccessories",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-07-31"
   },
   {
    "part_number": "FU6Y3J/A",
@@ -2825,23 +2859,6 @@
    "since": "2026-11-03"
   },
   {
-   "part_number": "G1KZLJ/A",
-   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-   "price": 329800,
-   "url": "https://www.apple.com/jp/shop/product/g1kzlj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUYU1ZTzY4RFpJSTBEWE10WnU3Y0lFS25zSXdJWE5qWENkcDE2MnZHK1ptc3JiOFZFN3FUV0tKQTBFRm1maXhPRDlwdnRJditNRFBWdkM0dkhYaTY4MUU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-09-23"
-  },
-  {
    "part_number": "G1K34J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
    "price": 322800,
@@ -3386,23 +3403,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1L30J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 204800,
-   "url": "https://www.apple.com/jp/shop/product/g1l30j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "G1E20J/A",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 201800,
@@ -3501,23 +3501,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
   },

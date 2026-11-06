@@ -85,24 +85,6 @@
   "restocked_at": "2026-11-06",
   "restocked_at_at": "2026-11-06T12:12:23+09:00"
  },
- "FDHA4J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-11-06",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 189800,
-  "price_history": [
-   [
-    "2026-08-04",
-    189800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-06",
-  "restocked_at_at": "2026-11-06T12:12:23+09:00"
- },
  "FDHH4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -224,24 +206,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1L30J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T15:39:19+09:00",
-  "last_seen": "2026-11-06",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 204800,
-  "price_history": [
-   [
-    "2026-08-04",
-    204800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-06",
-  "restocked_at_at": "2026-11-06T12:12:23+09:00"
  },
  "FDV94J/A": {
   "first_seen": "2026-07-30",
@@ -816,24 +780,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "G1KZLJ/A": {
-  "first_seen": "2026-09-23",
-  "first_seen_at": "2026-09-23T11:42:24+09:00",
-  "last_seen": "2026-11-06",
-  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 329800,
-  "price_history": [
-   [
-    "2026-09-23",
-    329800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-05",
-  "restocked_at_at": "2026-11-05T17:12:20+09:00"
  },
  "G1K60J/A": {
   "first_seen": "2026-11-03",
@@ -2385,6 +2331,42 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FUWA3ZA/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-11-06",
+  "title": "Apple Pencil（USB-C）[整備済製品]",
+  "category": "ipad",
+  "price": 12800,
+  "price_history": [
+   [
+    "2026-07-31",
+    12800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T14:12:22+09:00"
+ },
+ "FX2D3ZA/A": {
+  "first_seen": "2026-08-07",
+  "first_seen_at": "2026-08-07T14:20:27+09:00",
+  "last_seen": "2026-11-06",
+  "title": "Apple Pencil Pro [整備済製品]",
+  "category": "ipad",
+  "price": 19800,
+  "price_history": [
+   [
+    "2026-08-07",
+    19800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T14:12:22+09:00"
+ },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-06",
@@ -3927,6 +3909,60 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FDHA4J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-11-06",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 189800,
+  "price_history": [
+   [
+    "2026-08-04",
+    189800
+   ]
+  ],
+  "sold_out_at": "2026-11-06",
+  "baseline": null,
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T12:12:23+09:00"
+ },
+ "G1L30J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T15:39:19+09:00",
+  "last_seen": "2026-11-06",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 204800,
+  "price_history": [
+   [
+    "2026-08-04",
+    204800
+   ]
+  ],
+  "sold_out_at": "2026-11-06",
+  "baseline": null,
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T12:12:23+09:00"
+ },
+ "G1KZLJ/A": {
+  "first_seen": "2026-09-23",
+  "first_seen_at": "2026-09-23T11:42:24+09:00",
+  "last_seen": "2026-11-06",
+  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 329800,
+  "price_history": [
+   [
+    "2026-09-23",
+    329800
+   ]
+  ],
+  "sold_out_at": "2026-11-06",
+  "baseline": null,
+  "restocked_at": "2026-11-05",
+  "restocked_at_at": "2026-11-05T17:12:20+09:00"
+ },
  "FDHE4J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -5280,24 +5316,6 @@
   "baseline": null,
   "restocked_at": "2026-10-24",
   "restocked_at_at": "2026-10-24T04:42:21+09:00"
- },
- "FX2D3ZA/A": {
-  "first_seen": "2026-08-07",
-  "first_seen_at": "2026-08-07T14:20:27+09:00",
-  "last_seen": "2026-10-31",
-  "title": "Apple Pencil Pro [整備済製品]",
-  "category": "ipad",
-  "price": 19800,
-  "price_history": [
-   [
-    "2026-08-07",
-    19800
-   ]
-  ],
-  "sold_out_at": "2026-10-31",
-  "baseline": null,
-  "restocked_at": "2026-10-31",
-  "restocked_at_at": "2026-10-31T14:12:20+09:00"
  },
  "FCA94J/A": {
   "first_seen": "2026-08-25",
@@ -7176,24 +7194,6 @@
   "baseline": null,
   "restocked_at": "2026-10-24",
   "restocked_at_at": "2026-10-24T13:42:20+09:00"
- },
- "FUWA3ZA/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-23",
-  "title": "Apple Pencil（USB-C）[整備済製品]",
-  "category": "ipad",
-  "price": 12800,
-  "price_history": [
-   [
-    "2026-07-31",
-    12800
-   ]
-  ],
-  "sold_out_at": "2026-10-23",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-23",
-  "restocked_at_at": "2026-10-23T14:42:19+09:00"
  },
  "FEP94J/A": {
   "first_seen": "2026-08-21",
