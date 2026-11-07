@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T14:12:22+09:00",
- "count": 238,
+ "generated_at": "2026-11-07T15:12:29+09:00",
+ "count": 240,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1225,6 +1225,40 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU083J/A",
+   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fu083j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNUI1MGhlSDJaYkU1RXlETU05Q05ZQnZjRDZ3U3RCY3ZWM1JDUm5wVzZQNWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDQ3J/A",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",

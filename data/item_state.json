@@ -3325,6 +3325,50 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FU083J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-11-07",
+  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-11-07",
+  "restocked_at_at": "2026-11-07T15:12:29+09:00"
+ },
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-11-07",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-06",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-07",
+  "restocked_at_at": "2026-11-07T15:12:29+09:00"
+ },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-11-07",
@@ -6121,28 +6165,6 @@
   "restocked_at": "2026-10-30",
   "restocked_at_at": "2026-10-30T09:12:19+09:00"
  },
- "FU083J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-10-30",
-  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": "2026-10-30",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-10-29",
-  "restocked_at_at": "2026-10-29T15:12:21+09:00"
- },
  "FCFW4J/A": {
   "first_seen": "2026-10-26",
   "first_seen_at": "2026-10-26T14:42:21+09:00",
@@ -6158,28 +6180,6 @@
   ],
   "sold_out_at": "2026-10-30",
   "baseline": null
- },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-10-30",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": "2026-10-30",
-  "baseline": null,
-  "restocked_at": "2026-10-29",
-  "restocked_at_at": "2026-10-29T15:12:21+09:00"
  },
  "FNXG3J/A": {
   "first_seen": "2026-10-26",
