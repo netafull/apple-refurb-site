@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T16:12:20+09:00",
- "count": 238,
+ "generated_at": "2026-11-07T17:12:42+09:00",
+ "count": 236,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1223,23 +1223,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU083J/A",
-   "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu083j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNUI1MGhlSDJaYkU1RXlETU05Q05ZQnZjRDZ3U3RCY3ZWM1JDUm5wVzZQNWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -3552,23 +3535,6 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FHFF4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fhff4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNRDhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "indigo",
    "memory": "8gb",
    "since": "2026-07-30"
   },
