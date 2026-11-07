@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T11:12:34+09:00",
- "count": 240,
+ "generated_at": "2026-11-07T12:12:20+09:00",
+ "count": 238,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -3216,23 +3216,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FDH84J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 236800,
-   "url": "https://www.apple.com/jp/shop/product/fdh84j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXRWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rm5vRmR5N1k0RWNXeWI2UUNjbHVoRHc&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FDHC4J/A",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
    "price": 236800,
@@ -3518,23 +3501,6 @@
    "capacity": "512gb",
    "screen": "13inch",
    "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
    "memory": "16gb",
    "since": "2026-08-04"
   },
