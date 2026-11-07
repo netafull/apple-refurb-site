@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:12:19+09:00",
+ "generated_at": "2026-11-08T07:12:18+09:00",
  "count": 254,
  "items": [
   {
@@ -1208,6 +1208,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDQ3J/A",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
@@ -3146,23 +3163,6 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-08-04"
-  },
-  {
-   "part_number": "FDE64J/A",
-   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 303800,
-   "url": "https://www.apple.com/jp/shop/product/fde64j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpT09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmlrSDl6V2JEeTVlcUo5bXZtOEVqZnc&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2025",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
   },
   {
    "part_number": "FDVC4J/A",
