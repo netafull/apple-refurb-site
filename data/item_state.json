@@ -49,24 +49,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FU9D3J/A": {
-  "first_seen": "2026-08-04",
-  "first_seen_at": "2026-08-04T12:52:56+09:00",
-  "last_seen": "2026-11-07",
-  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-04",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-07",
-  "restocked_at_at": "2026-11-07T13:12:22+09:00"
- },
  "FCYT4J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -1580,24 +1562,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1N08J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-07",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-  "category": "mac",
-  "price": 693800,
-  "price_history": [
-   [
-    "2026-07-30",
-    693800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-06",
-  "restocked_at_at": "2026-11-06T17:12:22+09:00"
  },
  "G1MH3J/A": {
   "first_seen": "2026-09-14",
@@ -4078,6 +4042,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FU9D3J/A": {
+  "first_seen": "2026-08-04",
+  "first_seen_at": "2026-08-04T12:52:56+09:00",
+  "last_seen": "2026-11-07",
+  "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-04",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-11-07",
+  "baseline": null,
+  "restocked_at": "2026-11-07",
+  "restocked_at_at": "2026-11-07T13:12:22+09:00"
+ },
+ "G1N08J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-07",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+  "category": "mac",
+  "price": 693800,
+  "price_history": [
+   [
+    "2026-07-30",
+    693800
+   ]
+  ],
+  "sold_out_at": "2026-11-07",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T17:12:22+09:00"
  },
  "FHFF4J/A": {
   "first_seen": "2026-07-30",
