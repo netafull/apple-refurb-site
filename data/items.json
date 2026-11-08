@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T19:12:21+09:00",
- "count": 238,
+ "generated_at": "2026-11-08T20:12:20+09:00",
+ "count": 235,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -904,23 +904,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCJ14J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-   "price": 157800,
-   "url": "https://www.apple.com/jp/shop/product/fcj14j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-cell-spacegray-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3cGNLSmhFT29hM3dUenNuVVdEZmVHa1BvRDJ0NGwzQzB3b2hxRnZhMjdVbGpxUU1BZThoV290WnJLZlUvZm1hV0E4bm1RcmlWRWp2eDN1WHNkSjNmUlpZNXJaYWwwQndUSEprUk1YQmJQTGg&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FNYC3J/A",
    "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）[整備済製品]",
    "price": 146800,
@@ -953,23 +936,6 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FD4A4J/A",
-   "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-   "price": 62800,
-   "url": "https://www.apple.com/jp/shop/product/fd4a4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-blue-202512?wid=800&hei=800&fmt=webp&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSnBSTFF4OHFHU2FPUUdGM3dnVy9RdnpuVDY4SmJiQ3NXV0dUU3loNlM2UkUxSlgrVWMrMzU1OXo2c2JyNjJZTGl1WTZvVjhLMytTTUZRaW1ZT3NzUm8&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-10-09"
   },
   {
    "part_number": "FU6Y3J/A",
@@ -2738,23 +2704,6 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1FB8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-   "price": 427800,
-   "url": "https://www.apple.com/jp/shop/product/g1fb8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m4-silver-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=WjJGMFJHUEgwNFoydzVmZ0IxN1AvTXExTVkrVjUvZnVYc2Z5Vld3SUljU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rm85SU5KZXphdjAxT1VvTHRKRzlhcWM&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-08-24"
   },
   {
    "part_number": "G1JV8J/A",

@@ -989,24 +989,6 @@
   "restocked_at": "2026-11-05",
   "restocked_at_at": "2026-11-05T17:12:20+09:00"
  },
- "G1FB8J/A": {
-  "first_seen": "2026-08-24",
-  "first_seen_at": "2026-08-24T12:15:28+09:00",
-  "last_seen": "2026-11-08",
-  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
-  "category": "mac",
-  "price": 427800,
-  "price_history": [
-   [
-    "2026-08-24",
-    427800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-07",
-  "restocked_at_at": "2026-11-07T19:12:21+09:00"
- },
  "G1MHAJ/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-08",
@@ -2493,24 +2475,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FD4A4J/A": {
-  "first_seen": "2026-10-09",
-  "first_seen_at": "2026-10-09T18:12:20+09:00",
-  "last_seen": "2026-11-08",
-  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
-  "category": "ipad",
-  "price": 62800,
-  "price_history": [
-   [
-    "2026-10-09",
-    62800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-08",
-  "restocked_at_at": "2026-11-08T19:12:21+09:00"
- },
  "FNYC3J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-08",
@@ -2542,24 +2506,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "FCJ14J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-08",
-  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 157800,
-  "price_history": [
-   [
-    "2026-07-30",
-    157800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-10-28",
-  "restocked_at_at": "2026-10-28T14:12:21+09:00"
  },
  "FVV93J/A": {
   "first_seen": "2026-07-30",
@@ -4104,6 +4050,60 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FB8J/A": {
+  "first_seen": "2026-08-24",
+  "first_seen_at": "2026-08-24T12:15:28+09:00",
+  "last_seen": "2026-11-08",
+  "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
+  "category": "mac",
+  "price": 427800,
+  "price_history": [
+   [
+    "2026-08-24",
+    427800
+   ]
+  ],
+  "sold_out_at": "2026-11-08",
+  "baseline": null,
+  "restocked_at": "2026-11-07",
+  "restocked_at_at": "2026-11-07T19:12:21+09:00"
+ },
+ "FD4A4J/A": {
+  "first_seen": "2026-10-09",
+  "first_seen_at": "2026-10-09T18:12:20+09:00",
+  "last_seen": "2026-11-08",
+  "title": "iPad（A16）Wi-Fi 128GB - ブルー [整備済製品]",
+  "category": "ipad",
+  "price": 62800,
+  "price_history": [
+   [
+    "2026-10-09",
+    62800
+   ]
+  ],
+  "sold_out_at": "2026-11-08",
+  "baseline": null,
+  "restocked_at": "2026-11-08",
+  "restocked_at_at": "2026-11-08T19:12:21+09:00"
+ },
+ "FCJ14J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-08",
+  "title": "13インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 157800,
+  "price_history": [
+   [
+    "2026-07-30",
+    157800
+   ]
+  ],
+  "sold_out_at": "2026-11-08",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-10-28",
+  "restocked_at_at": "2026-10-28T14:12:21+09:00"
  },
  "FCJ34J/A": {
   "first_seen": "2026-07-30",
