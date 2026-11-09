@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T00:12:22+09:00",
- "count": 226,
+ "generated_at": "2026-11-10T01:12:21+09:00",
+ "count": 225,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2808,23 +2808,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FGDR4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-   "price": 363800,
-   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -2838,6 +2821,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDR4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -3450,23 +3450,6 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FHFF4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fhff4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNRDhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "indigo",
    "memory": "8gb",
    "since": "2026-07-30"
   },
