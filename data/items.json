@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T17:12:21+09:00",
- "count": 230,
+ "generated_at": "2026-11-09T18:12:22+09:00",
+ "count": 228,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2604,23 +2604,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1CD7J/A",
-   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
-   "price": 449800,
-   "url": "https://www.apple.com/jp/shop/product/g1cd7j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-202503?wid=800&hei=800&fmt=webp&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJblVYUldZVGpRdm9BNTE3QzhtQTZabFVPamR0bXdENXdTSE94cTg0YXRNNktIUVAzR1RRbGMzNGFpcU5zWkpRNnZSMkhFYVFnRWh2ZTdTcGVQWVRHTTA&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macstudio",
-   "year": "2025",
-   "capacity": "2tb",
-   "screen": "",
-   "color": "",
-   "memory": "36gb",
-   "since": "2026-11-04"
-  },
-  {
    "part_number": "FGE44J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 441800,
@@ -3469,23 +3452,6 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-08-22"
-  },
-  {
-   "part_number": "FDHH4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スカイブルー",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdhh4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQ2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlCZDhnSVl6OTRJcDZrRVlWaFFQblE&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "skyblue",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FCYT4J/A",
