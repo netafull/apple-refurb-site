@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:12:23+09:00",
+ "generated_at": "2026-11-09T17:12:21+09:00",
  "count": 230,
  "items": [
   {
@@ -936,23 +936,6 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FD3Y4J/A",
-   "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
-   "price": 62800,
-   "url": "https://www.apple.com/jp/shop/product/fd3y4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-silver-202512?wid=800&hei=800&fmt=webp&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSll3SWkvSnVicEZKdlhKK0Y3VDZNcWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1dZeU5JbU1ENmJDY3BxWENia0lZN0M&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipad2017",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "10_9inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FU6Y3J/A",
@@ -3486,6 +3469,23 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-08-22"
+  },
+  {
+   "part_number": "FDHH4J/A",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スカイブルー",
+   "price": 189800,
+   "url": "https://www.apple.com/jp/shop/product/fdhh4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQ2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlCZDhnSVl6OTRJcDZrRVlWaFFQblE&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookair",
+   "year": "2026",
+   "capacity": "512gb",
+   "screen": "13inch",
+   "color": "skyblue",
+   "memory": "16gb",
+   "since": "2026-08-04"
   },
   {
    "part_number": "FCYT4J/A",
