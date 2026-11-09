@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T22:12:22+09:00",
- "count": 227,
+ "generated_at": "2026-11-09T23:12:22+09:00",
+ "count": 226,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2808,23 +2808,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FGDN4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
-   "price": 363800,
-   "url": "https://www.apple.com/jp/shop/product/fgdn4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RnFBR09yRmZMTEQzc3VqNWR5VDdZNmc&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDR4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
    "price": 363800,
@@ -2838,6 +2821,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "spaceblack",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDN4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdn4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01RWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RnFBR09yRmZMTEQzc3VqNWR5VDdZNmc&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "silver",
    "memory": "24gb",
    "since": "2026-07-30"
   },
@@ -3384,23 +3384,6 @@
    "color": "silver",
    "memory": "16gb",
    "since": "2026-08-22"
-  },
-  {
-   "part_number": "FWUC3J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
-   "price": 197800,
-   "url": "https://www.apple.com/jp/shop/product/fwuc3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-silver-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=eFMwY1gzMWtXOGpzWmlpdGhic2Qxcll4dDkwYXoxTFU5R1h3SmdLdTlaQ2VEL3lKSDg2bFdqdDJJSFNKbFlRNmppU2w4VFNSVERQaklTcWlPMFlGdXdoMnY2d0ZVTVhvYlJXN0ZtWTNPUzQ&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-07-30"
   },
   {
    "part_number": "FWUE3J/A",
