@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T19:12:21+09:00",
- "count": 229,
+ "generated_at": "2026-11-09T20:12:19+09:00",
+ "count": 230,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -938,6 +938,23 @@
    "since": "2026-07-30"
   },
   {
+   "part_number": "FD3Y4J/A",
+   "title": "iPad（A16）Wi-Fi 128GB - シルバー [整備済製品]",
+   "price": 62800,
+   "url": "https://www.apple.com/jp/shop/product/fd3y4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-11inch-11th-gen-wifi-silver-202512?wid=800&hei=800&fmt=webp&qlt=90&.v=YWtDZmdaY3QyRC90TnNIaC9CQVNBMnRGY2hGV2RCOGNkRzVDeVViYXhpSll3SWkvSnVicEZKdlhKK0Y3VDZNcWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1dZeU5JbU1ENmJDY3BxWENia0lZN0M&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipad2017",
+   "year": "2025",
+   "capacity": "128gb",
+   "screen": "10_9inch",
+   "color": "silver",
+   "memory": "",
+   "since": "2026-08-25"
+  },
+  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1172,6 +1189,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU0F3J/A",
+   "title": "iPhone 15 Plus 256GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fu0f3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-black-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUnUzOERHcWhsT0Q0TFUxazRScFIrNUI1MGhlSDJaYkU1RXlETU05Q05ZQnZjRDZ3U3RCY3ZWM1JDUm5wVzZQNWc1Z0VlL0lsa2RvcENKTllISi9zQTlkdXhxVnBTM3VtYVhsNmlkS0NUV00&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "black",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -3877,23 +3911,6 @@
    "color": "",
    "memory": "",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FEH94J/A",
-   "title": "Apple Watch SE 3（GPSモデル）- 40mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
-   "price": 35800,
-   "url": "https://www.apple.com/jp/shop/product/feh94j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-nc-alum-midnight-sport-band-midnight?wid=800&hei=800&fmt=webp&qlt=90&.v=QlR1TWJ1bWFJSXhxdGpVYU0yZEN5YzByV1g1VDFyNEp2dU1uWG9jZGtvbzR4eWFFVndzR1Eza0w1TndBdEI1cXJMTW84dGwxRmNCMjhKR0d2OHM3a0c4NktHSjB2TEo4eldxNG9zUFVSR2pFZ2I0QnBZMXBWVmdGZ3JIVHlOUmlkWlF2UjU3ajdSVDhDdFVLM3VaOGRB&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   }
  ]
 }
