@@ -324,7 +324,7 @@ def build_events(
 # 無効化できないため、リンクごとにdata-google-vignette="false"を付与する
 def render_item(it: dict, tag: str | None = None) -> str:
     img = (
-        f'<img src="{esc(it.get("image"))}" alt="" loading="lazy">'
+        f'<img src="{esc(it.get("image"))}" alt="{esc(clean_title(it["title"]))}" loading="lazy">'
         if it.get("image")
         else "<img alt=''>"
     )
@@ -409,6 +409,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     today = generated.date()
     items = data["items"]
     site_url = CONFIG.get("site_url", "")
+    # 検索結果用の説明文。ヘッダーに出す短い site_description とは別に持つ
+    meta_description = CONFIG.get("meta_description") or CONFIG["site_description"]
 
     sections = []
 
@@ -637,7 +639,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(page_title)}</title>
-<meta name="description" content="{esc(CONFIG["site_description"])}">
+<meta name="description" content="{esc(meta_description)}">
 <link rel="canonical" href="{esc(site_url)}">
 {gsv_tag}
 {ga_tag}
@@ -645,7 +647,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 {chr(10).join(icon_tags)}
 <meta property="og:type" content="website">
 <meta property="og:title" content="{esc(page_title)}">
-<meta property="og:description" content="{esc(CONFIG["site_description"])}">
+<meta property="og:description" content="{esc(meta_description)}">
 <meta property="og:url" content="{esc(site_url)}">
 <meta property="og:site_name" content="{esc(CONFIG["site_title"])}">
 <meta property="og:locale" content="ja_JP">
