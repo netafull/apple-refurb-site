@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T08:12:24+09:00",
- "count": 224,
+ "generated_at": "2026-11-10T09:12:19+09:00",
+ "count": 223,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -1244,23 +1244,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MN9J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 1473800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn9j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "8tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "128gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1MK9J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 1473800,
@@ -1278,10 +1261,10 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1MN8J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 1450800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn8j/a",
+   "part_number": "G1MN9J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+   "price": 1473800,
+   "url": "https://www.apple.com/jp/shop/product/g1mn9j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
    "category": "mac",
    "category_name": "Mac",
@@ -1310,6 +1293,23 @@
    "color": "silver",
    "memory": "128gb",
    "since": "2026-08-19"
+  },
+  {
+   "part_number": "G1MN8J/A",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
+   "price": 1450800,
+   "url": "https://www.apple.com/jp/shop/product/g1mn8j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "8tb",
+   "screen": "14inch",
+   "color": "spaceblack",
+   "memory": "128gb",
+   "since": "2026-07-30"
   },
   {
    "part_number": "G1MY6J/A",
@@ -3730,23 +3730,6 @@
    "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
    "price": 41800,
    "url": "https://www.apple.com/jp/shop/product/fep64j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-cell-alum-starlight-sport-band-starlight?wid=800&hei=800&fmt=webp&qlt=90&.v=a1NaZ2NwK3E2aGJSdjBLd284NkEwQXArMHp6NmpJWDZReVlVR0o2eDh0Tm5JZ0c1Z1hmM2hBS0twb1I0WkhYMHZjbXordkM5QldRZ3FBVGtZKy9YOGhlNlVmQjZnVzdzMm1iYVRveUh0bjZRTnpyb2w4UDJWSTFMWUtFaDhJbDVQUkpuQ1hDNmhFVElnNWhuRCtCbTFB&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
-  },
-  {
-   "part_number": "FEP74J/A",
-   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとM/Lスターライトスポーツバンド [整備済製品]",
-   "price": 41800,
-   "url": "https://www.apple.com/jp/shop/product/fep74j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-cell-alum-starlight-sport-band-starlight?wid=800&hei=800&fmt=webp&qlt=90&.v=a1NaZ2NwK3E2aGJSdjBLd284NkEwQXArMHp6NmpJWDZReVlVR0o2eDh0Tm5JZ0c1Z1hmM2hBS0twb1I0WkhYMHZjbXordkM5QldRZ3FBVGtZKy9YOGhlNlVmQjZnVzdzMm1iYVRveUh0bjZRTnpyb2w4UDJWSTFMWUtFaDhJbDVQUkpuQ1hDNmhFVElnNWhuRCtCbTFB&traceId=1",
    "category": "watch",
    "category_name": "Apple Watch",
