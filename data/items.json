@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:12:21+09:00",
+ "generated_at": "2026-11-10T11:12:19+09:00",
  "count": 222,
  "items": [
   {
@@ -1174,6 +1174,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTMN3J/A",
+   "title": "iPhone 15 256GB - ブラック（SIMフリー）[整備済製品]",
+   "price": 112800,
+   "url": "https://www.apple.com/jp/shop/product/ftmn3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-black-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZCs3VGlxUitScDZ1SzhNYW00VmdGNk9wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RnI4dEFmaFZ1c25Ua2czT05aWWpPU1U&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "black",
+   "memory": "",
+   "since": "2026-08-06"
   },
   {
    "part_number": "G1MY9J/A",
@@ -2806,23 +2823,6 @@
    "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1K60J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-   "price": 337800,
-   "url": "https://www.apple.com/jp/shop/product/g1k60j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZGVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS29adFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "24inch",
-   "color": "pink",
-   "memory": "24gb",
-   "since": "2026-11-03"
   },
   {
    "part_number": "G1EN0J/A",
