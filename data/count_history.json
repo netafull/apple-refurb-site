@@ -1119,12 +1119,12 @@
  },
  "2026-11-11": {
   "categories": {
-   "homepod": 1,
-   "ipad": 55,
+   "homepod": 2,
+   "ipad": 54,
    "iphone": 13,
-   "mac": 128,
+   "mac": 127,
    "watch": 19
   },
-  "total": 216
+  "total": 215
  }
 }

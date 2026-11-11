@@ -1,7 +1,24 @@
 {
- "generated_at": "2026-11-11T22:12:22+09:00",
- "count": 216,
+ "generated_at": "2026-11-11T23:12:30+09:00",
+ "count": 215,
  "items": [
+  {
+   "part_number": "FDEW4J/A",
+   "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
+   "price": 50800,
+   "url": "https://www.apple.com/jp/shop/product/fdew4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-homepod-midnight-202305?wid=800&hei=800&fmt=webp&qlt=90&.v=cmFobXVvclUvREQ5SHMrcFIwLzBvM2o3RDBnMGN4NXM2L0VLS3VPK2UyUnNOODhnSjhaWkRCNnpWVzlJdWpGdjl4VGJTa0Z6K25XajlIZ3dxUWxxaFk0THErenZpejRFN0FLVEdjWEFsdmc&traceId=1",
+   "category": "homepod",
+   "category_name": "HomePod",
+   "shipping": "24時間以内",
+   "model": "",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "midnight",
+   "memory": "",
+   "since": "2026-07-30"
+  },
   {
    "part_number": "FDEY4J/A",
    "title": "HomePod（第2世代）[整備済製品] - ホワイト",
@@ -938,23 +955,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FCNL4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
-   "price": 135800,
-   "url": "https://www.apple.com/jp/shop/product/fcnl4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dDdNVWJ6aEt3Z1M2TENqZmt0dEdUR21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZzhldnRERERzWnJUTWJvdTcyMWRUNk0&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "13inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-25"
-  },
-  {
    "part_number": "FU6Y3J/A",
    "title": "iPhone 15 Pro Max 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
    "price": 211800,
@@ -1633,23 +1633,6 @@
    "color": "spaceblack",
    "memory": "128gb",
    "since": "2026-11-04"
-  },
-  {
-   "part_number": "G1MN4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-   "price": 991800,
-   "url": "https://www.apple.com/jp/shop/product/g1mn4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "2tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "128gb",
-   "since": "2026-07-30"
   },
   {
    "part_number": "G1N2CJ/A",
