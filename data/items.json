@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:12:21+09:00",
+ "generated_at": "2026-11-11T18:12:20+09:00",
  "count": 218,
  "items": [
   {
@@ -936,6 +936,23 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FCNL4J/A",
+   "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+   "price": 135800,
+   "url": "https://www.apple.com/jp/shop/product/fcnl4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dDdNVWJ6aEt3Z1M2TENqZmt0dEdUR21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZzhldnRERERzWnJUTWJvdTcyMWRUNk0&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadair_13",
+   "year": "2025",
+   "capacity": "128gb",
+   "screen": "13inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-25"
   },
   {
    "part_number": "FU6Y3J/A",
@@ -3629,23 +3646,6 @@
    "price": 46800,
    "url": "https://www.apple.com/jp/shop/product/fepj4j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-cell-alum-midnight-sport-band-midnight?wid=800&hei=800&fmt=webp&qlt=90&.v=NnpkbGhOTksydmJUV2ZGSndOUnZxblMxZVBFUzR2RCtINUdMQXBMcDRlUWpNUmMyQXNWR2xhVGF5T2UxaW9FRW53cTFxcHAwS0VjVnRaeTFYUHR4WDZkVWdvdWVUc3ErdFRTZ1FzZ1FqNVNqdkdsU2pIaFNSM3NUTWtCVTcwOWpyMGxHeUJnLzdvb2dGUDBQMEoyM1h3&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-21"
-  },
-  {
-   "part_number": "FEP64J/A",
-   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
-   "price": 41800,
-   "url": "https://www.apple.com/jp/shop/product/fep64j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-40-se-3-cell-alum-starlight-sport-band-starlight?wid=800&hei=800&fmt=webp&qlt=90&.v=a1NaZ2NwK3E2aGJSdjBLd284NkEwQXArMHp6NmpJWDZReVlVR0o2eDh0Tm5JZ0c1Z1hmM2hBS0twb1I0WkhYMHZjbXordkM5QldRZ3FBVGtZKy9YOGhlNlVmQjZnVzdzMm1iYVRveUh0bjZRTnpyb2w4UDJWSTFMWUtFaDhJbDVQUkpuQ1hDNmhFVElnNWhuRCtCbTFB&traceId=1",
    "category": "watch",
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
