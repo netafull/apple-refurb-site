@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:12:22+09:00",
+ "generated_at": "2026-11-12T11:12:22+09:00",
  "count": 211,
  "items": [
   {
@@ -1174,6 +1174,23 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FTU83J/A",
+   "title": "iPhone 15 Pro 128GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "price": 119800,
+   "url": "https://www.apple.com/jp/shop/product/ftu83j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENlQyUmcxZENxTlRGTmYxYW1JYWQrR25nLzhpUi9PcFZvN2RpQjBpWldFT280a3BmRTBrVXd6NHlFcW9qdEdCYnNCbERENzd1ZXhTZlRCRWh3dmxYcy8&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15pro",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "whitetitanium",
+   "memory": "",
+   "since": "2026-09-11"
   },
   {
    "part_number": "G1MY9J/A",
@@ -3163,23 +3180,6 @@
    "color": "starlight",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1E20J/A",
-   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
-   "price": 201800,
-   "url": "https://www.apple.com/jp/shop/product/g1e20j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-silver-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=eFMwY1gzMWtXOGpzWmlpdGhic2Qxcll4dDkwYXoxTFU5R1h3SmdLdTlaQ2VEL3lKSDg2bFdqdDJJSFNKbFlRNmppU2w4VFNSVERQaklTcWlPMFlGdXdoMnY2d0ZVTVhvYlJXN0ZtWTNPUzQ&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "256gb",
-   "screen": "24inch",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-22"
   },
   {
    "part_number": "FWUE3J/A",
