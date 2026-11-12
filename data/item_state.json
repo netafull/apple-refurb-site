@@ -543,10 +543,10 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FGDR4J/A": {
+ "FGDN4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-12",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -561,10 +561,10 @@
   "restocked_at": "2026-11-07",
   "restocked_at_at": "2026-11-07T19:12:21+09:00"
  },
- "FGDN4J/A": {
+ "FGDR4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-12",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
   "category": "mac",
   "price": 363800,
   "price_history": [
@@ -3525,24 +3525,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDEW4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-12",
-  "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
-  "category": "homepod",
-  "price": 50800,
-  "price_history": [
-   [
-    "2026-07-30",
-    50800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-11",
-  "restocked_at_at": "2026-11-11T23:12:30+09:00"
- },
  "FDEY4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-12",
@@ -3558,6 +3540,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDEW4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-12",
+  "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
+  "category": "homepod",
+  "price": 50800,
+  "price_history": [
+   [
+    "2026-07-30",
+    50800
+   ]
+  ],
+  "sold_out_at": "2026-11-12",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-11",
+  "restocked_at_at": "2026-11-11T23:12:30+09:00"
  },
  "G1MM3J/A": {
   "first_seen": "2026-07-30",

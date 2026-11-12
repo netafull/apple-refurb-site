@@ -1,24 +1,7 @@
 {
- "generated_at": "2026-11-12T13:12:20+09:00",
- "count": 208,
+ "generated_at": "2026-11-12T14:12:21+09:00",
+ "count": 207,
  "items": [
-  {
-   "part_number": "FDEW4J/A",
-   "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
-   "price": 50800,
-   "url": "https://www.apple.com/jp/shop/product/fdew4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-homepod-midnight-202305?wid=800&hei=800&fmt=webp&qlt=90&.v=cmFobXVvclUvREQ5SHMrcFIwLzBvM2o3RDBnMGN4NXM2L0VLS3VPK2UyUnNOODhnSjhaWkRCNnpWVzlJdWpGdjl4VGJTa0Z6K25XajlIZ3dxUWxxaFk0THErenZpejRFN0FLVEdjWEFsdmc&traceId=1",
-   "category": "homepod",
-   "category_name": "HomePod",
-   "shipping": "24時間以内",
-   "model": "",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "midnight",
-   "memory": "",
-   "since": "2026-07-30"
-  },
   {
    "part_number": "FDEY4J/A",
    "title": "HomePod（第2世代）[整備済製品] - ホワイト",
@@ -2706,23 +2689,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FGDR4J/A",
-   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
-   "price": 363800,
-   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "14inch",
-   "color": "spaceblack",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FGDN4J/A",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 363800,
@@ -2736,6 +2702,23 @@
    "capacity": "1tb",
    "screen": "14inch",
    "color": "silver",
+   "memory": "24gb",
+   "since": "2026-07-30"
+  },
+  {
+   "part_number": "FGDR4J/A",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 363800,
+   "url": "https://www.apple.com/jp/shop/product/fgdr4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01THNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUdTck5IOExYUkZTTTR4dU5FanJ0dnp4SHlwUEZPWnJlYlE2SWFhTWJwTHU&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookpro",
+   "year": "2026",
+   "capacity": "1tb",
+   "screen": "14inch",
+   "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
   },
