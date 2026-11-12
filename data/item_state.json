@@ -3229,24 +3229,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FEHG4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-12",
-  "title": "Apple Watch SE 3（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 39800,
-  "price_history": [
-   [
-    "2026-07-30",
-    39800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-06",
-  "restocked_at_at": "2026-11-06T15:12:19+09:00"
- },
  "FEP94J/A": {
   "first_seen": "2026-08-21",
   "first_seen_at": "2026-08-21T15:02:06+09:00",
@@ -3638,6 +3620,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FEHG4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-12",
+  "title": "Apple Watch SE 3（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 39800,
+  "price_history": [
+   [
+    "2026-07-30",
+    39800
+   ]
+  ],
+  "sold_out_at": "2026-11-12",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T15:12:19+09:00"
  },
  "G1FW4J/A": {
   "first_seen": "2026-11-06",

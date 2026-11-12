@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T08:12:21+09:00",
- "count": 212,
+ "generated_at": "2026-11-12T09:12:23+09:00",
+ "count": 211,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -3588,23 +3588,6 @@
    "color": "",
    "memory": "",
    "since": "2026-08-21"
-  },
-  {
-   "part_number": "FEHG4J/A",
-   "title": "Apple Watch SE 3（GPSモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド [整備済製品]",
-   "price": 39800,
-   "url": "https://www.apple.com/jp/shop/product/fehg4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-44-se-3-nc-alum-starlight-sport-band-starlight?wid=800&hei=800&fmt=webp&qlt=90&.v=Z2VZc2VtVnFXam9ZZ0t1YkNEWFR6T1Z6bnBsQXlmQ1JlLzNRTjN5bis0b1A4cGZ3Q2I5QjJxdkFhb2tIR0JEYXFHUXMrZ0dpRFhKT1A1OXB1blBRZWFkVWdvdWVUc3ErdFRTZ1FzZ1FqNVNqdkdsU2pIaFNSM3NUTWtCVTcwOWpxVWx5aXVhMFFUTzBmdEV4SEVDQU9R&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchse3",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
   }
  ]
 }
