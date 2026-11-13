@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T15:12:21+09:00",
- "count": 201,
+ "generated_at": "2026-11-13T16:12:21+09:00",
+ "count": 200,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -2874,23 +2874,6 @@
    "color": "green",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FWV53J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - ピンク",
-   "price": 261800,
-   "url": "https://www.apple.com/jp/shop/product/fwv53j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-pink-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnV010MVE1ZzhCeUlSL005dFhNNXpvZGVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS29adFZreStoOFY0RFZNUmQzMWc5emk1dDgvV3BhU1hoSzFPUEZjam5HQ2g&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "24inch",
-   "color": "pink",
-   "memory": "16gb",
-   "since": "2026-10-28"
   },
   {
    "part_number": "G1EH1J/A",
