@@ -31,22 +31,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FGN93J/A": {
-  "first_seen": "2026-11-11",
-  "first_seen_at": "2026-11-11T13:12:20+09:00",
-  "last_seen": "2026-11-13",
-  "title": "13.3インチMacBook Air [整備済製品] 8コアCPUと7コアGPUを搭載したApple M1チップ - シルバー",
-  "category": "mac",
-  "price": 110800,
-  "price_history": [
-   [
-    "2026-11-11",
-    110800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "FCYT4J/A": {
   "first_seen": "2026-08-26",
   "first_seen_at": "2026-08-26T10:56:52+09:00",
@@ -3234,6 +3218,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FGN93J/A": {
+  "first_seen": "2026-11-11",
+  "first_seen_at": "2026-11-11T13:12:20+09:00",
+  "last_seen": "2026-11-13",
+  "title": "13.3インチMacBook Air [整備済製品] 8コアCPUと7コアGPUを搭載したApple M1チップ - シルバー",
+  "category": "mac",
+  "price": 110800,
+  "price_history": [
+   [
+    "2026-11-11",
+    110800
+   ]
+  ],
+  "sold_out_at": "2026-11-13",
+  "baseline": null
  },
  "FHFA4J/A": {
   "first_seen": "2026-07-30",

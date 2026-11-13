@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T18:12:26+09:00",
- "count": 189,
+ "generated_at": "2026-11-13T19:12:22+09:00",
+ "count": 188,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -2874,23 +2874,6 @@
    "color": "silver",
    "memory": "24gb",
    "since": "2026-08-26"
-  },
-  {
-   "part_number": "FGN93J/A",
-   "title": "13.3インチMacBook Air [整備済製品] 8コアCPUと7コアGPUを搭載したApple M1チップ - シルバー",
-   "price": 110800,
-   "url": "https://www.apple.com/jp/shop/product/fgn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-macbook-air-silver-m1-202010?wid=800&hei=800&fmt=webp&qlt=90&.v=QkJpMElmU3Z2QTUxaWlZMkpyNUtsamJDNWVHZlA1NnIvN29iQ0F6anFXVENsUm1RTWtScUN6Q3RHY21jWVV4WmJ6b29ZblM4c256TmFyaWl3OVJFYUt0V01SMXlqc2hCTXhITHdzZ2dyNlFoUzdWQU92aU9nNTZMaEw4cVRSa1E&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2020",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "silver",
-   "memory": "8gb",
-   "since": "2026-11-11"
   },
   {
    "part_number": "FHFD4J/A",
