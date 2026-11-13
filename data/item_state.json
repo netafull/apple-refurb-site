@@ -753,22 +753,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FFEL4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-13",
-  "title": "Studio Display XDR [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
-  "category": "mac",
-  "price": 465800,
-  "price_history": [
-   [
-    "2026-07-30",
-    465800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "FGDP4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-13",
@@ -3464,6 +3448,22 @@
    ]
   ],
   "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FFEL4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-13",
+  "title": "Studio Display XDR [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 465800,
+  "price_history": [
+   [
+    "2026-07-30",
+    465800
+   ]
+  ],
+  "sold_out_at": "2026-11-13",
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
