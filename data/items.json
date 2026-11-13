@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T08:12:21+09:00",
- "count": 206,
+ "generated_at": "2026-11-13T09:12:21+09:00",
+ "count": 205,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -3044,23 +3044,6 @@
    "color": "skyblue",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1LQ0J/A",
-   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-   "price": 253800,
-   "url": "https://www.apple.com/jp/shop/product/g1lq0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rms3Y0czSVNtZnZuMFAvNHZmM1RYd1k&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "15inch",
-   "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-31"
   },
   {
    "part_number": "FWUY3J/A",
