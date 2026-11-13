@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 # 実行内で完結する一時ファイル。post_to_wordpress.pyが読んだら役目を終える
 data/new_arrivals.json
+
+# 秘密情報（2026-11-13監査対応で追加）
+.env
+.env.*
+!.env.example
