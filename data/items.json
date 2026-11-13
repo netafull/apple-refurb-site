@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T14:12:23+09:00",
- "count": 202,
+ "generated_at": "2026-11-13T15:12:21+09:00",
+ "count": 201,
  "items": [
   {
    "part_number": "FDEY4J/A",
@@ -834,23 +834,6 @@
    "color": "space_gray",
    "memory": "",
    "since": "2026-10-26"
-  },
-  {
-   "part_number": "FNXJ3J/A",
-   "title": "11インチiPad Pro Wi-Fi 512GB - シルバー（第4世代）[整備済製品]",
-   "price": 168800,
-   "url": "https://www.apple.com/jp/shop/product/fnxj3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUnlOQTJvU0pKNDJ3ZVZKb1I1WkdNczUyTGQvczVjTzVnd1B6UVQwaE1kY2dSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadpro_11",
-   "year": "2022",
-   "capacity": "512gb",
-   "screen": "11inch",
-   "color": "silver",
-   "memory": "",
-   "since": "2026-10-28"
   },
   {
    "part_number": "FNYE3J/A",
