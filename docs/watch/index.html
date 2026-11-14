@@ -60,9 +60,11 @@ main h1.ptitle { font-size: 20px; margin: 2px 0 4px; padding-left: 10px;
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 /* 製品ライン別ページへの案内。ラインページと同じ軸の絞り込みだった
    カテゴリタブは廃止し、カテゴリナビはこのピル型リンクに一本化した
-   (オーナー決定 2026-11-14)。見た目は関連サイト(.sites)のピルに揃える */
-.line-links { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
-  align-items: baseline; }
+   (オーナー決定 2026-11-14)。見た目は関連サイト(.sites)のピルに揃える。
+   置き場所は他サイト(家電ポチのピルナビ)に合わせてヘッダーの外、
+   ヘッダー広告の下にし、ヘッダーと本文の列幅(960px)に揃える */
+.line-links { max-width: 960px; margin: 12px auto 0; padding: 0 16px;
+  display: flex; gap: 8px; flex-wrap: wrap; align-items: baseline; }
 .line-links .lbl { font-size: 12px; color: var(--muted); }
 .line-links a { font-size: 12px; padding: 3px 10px; border-radius: 999px;
   border: 1px solid var(--line); background: var(--card);
@@ -159,14 +161,6 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <header>
 <p class="brand"><a href="../" data-google-vignette="false"><img src="../assets/logo.png" alt="" width="44" height="44">林檎ポチ</a></p>
 <p>Apple公式の整備済製品ストアを1時間ごとにチェックして、新規入荷・再入荷・値下げ・売り切れをお届けします ｜ 在庫185件 ｜ 最終更新: 2026年11月14日 22:12</p>
-<nav class="line-links" aria-label="製品ライン別"><span class="lbl">製品ライン別の在庫・入荷履歴</span>
-<a href="../mac/" data-google-vignette="false">Mac<span class="n">101件</span></a>
-<a href="../ipad/" data-google-vignette="false">iPad<span class="n">53件</span></a>
-<a href="../iphone/" data-google-vignette="false">iPhone<span class="n">13件</span></a>
-<a href="../watch/" data-google-vignette="false" aria-current="page">Apple Watch<span class="n">16件</span></a>
-<a href="../appletv/" data-google-vignette="false">Apple TV<span class="n">0件</span></a>
-<a href="../homepod/" data-google-vignette="false">HomePod<span class="n">2件</span></a>
-</nav>
 </header>
 <div class="ad-slot">
 <ins class="adsbygoogle"
@@ -176,6 +170,14 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
      data-ad-format="rectangle"
      data-full-width-responsive="true"></ins>
 </div>
+<nav class="line-links" aria-label="製品ライン別"><span class="lbl">製品ライン別の在庫・入荷履歴</span>
+<a href="../mac/" data-google-vignette="false">Mac<span class="n">101件</span></a>
+<a href="../ipad/" data-google-vignette="false">iPad<span class="n">53件</span></a>
+<a href="../iphone/" data-google-vignette="false">iPhone<span class="n">13件</span></a>
+<a href="../watch/" data-google-vignette="false" aria-current="page">Apple Watch<span class="n">16件</span></a>
+<a href="../appletv/" data-google-vignette="false">Apple TV<span class="n">0件</span></a>
+<a href="../homepod/" data-google-vignette="false">HomePod<span class="n">2件</span></a>
+</nav>
 <main>
 <h1 class="ptitle">Apple Watch整備済製品の在庫と入荷履歴</h1>
 <p class="lead-line">現在の在庫は16件、これまでの入荷履歴は109件です。</p>

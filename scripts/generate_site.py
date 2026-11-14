@@ -63,9 +63,11 @@ main h1.ptitle { font-size: 20px; margin: 2px 0 4px; padding-left: 10px;
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 /* 製品ライン別ページへの案内。ラインページと同じ軸の絞り込みだった
    カテゴリタブは廃止し、カテゴリナビはこのピル型リンクに一本化した
-   (オーナー決定 2026-11-14)。見た目は関連サイト(.sites)のピルに揃える */
-.line-links { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
-  align-items: baseline; }
+   (オーナー決定 2026-11-14)。見た目は関連サイト(.sites)のピルに揃える。
+   置き場所は他サイト(家電ポチのピルナビ)に合わせてヘッダーの外、
+   ヘッダー広告の下にし、ヘッダーと本文の列幅(960px)に揃える */
+.line-links { max-width: 960px; margin: 12px auto 0; padding: 0 16px;
+  display: flex; gap: 8px; flex-wrap: wrap; align-items: baseline; }
 .line-links .lbl { font-size: 12px; color: var(--muted); }
 .line-links a { font-size: 12px; padding: 3px 10px; border-radius: 999px;
   border: 1px solid var(--line); background: var(--card);
@@ -763,9 +765,9 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <header>
 <h1><a href="./" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
-{lines_nav}
 </header>
 {header_ad}
+{lines_nav}
 <main>
 {chr(10).join(sections)}
 {about_html}
@@ -1076,9 +1078,9 @@ def generate_category_html(
 <header>
 <p class="brand"><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></p>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
-{lines_nav}
 </header>
 {header_ad}
+{lines_nav}
 <main>
 <h1 class="ptitle">{esc(name)}整備済製品の在庫と入荷履歴</h1>
 <p class="lead-line">現在の在庫は{len(rows)}件、これまでの入荷履歴は{len(hist_events)}件です。</p>
