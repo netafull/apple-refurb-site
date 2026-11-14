@@ -57,11 +57,16 @@ header .brand { font-size: 24px; font-weight: 700; }
 header .brand a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 header .brand img { width: 44px; height: 44px; }
-header h1.ptitle { font-size: 21px; margin-top: 8px; }
+main h1.ptitle { font-size: 21px; margin: 2px 0 4px; }
+.lead-line { color: var(--muted); font-size: 13px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
-header .line-links { font-size: 12px; }
-header .line-links a { color: var(--accent); text-decoration: none; }
-header .line-links a:hover { text-decoration: underline; }
+.line-links { font-size: 12px; color: var(--muted); }
+.line-links a { color: var(--accent); text-decoration: none; }
+.line-links a:hover { text-decoration: underline; }
+/* 個別ページではライン別リンクをヘッダーの外(広告の下)に置くため、
+   本文の列幅に合わせる */
+.line-links.nav-line { max-width: 960px; margin: 12px auto 0;
+  padding: 0 16px; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
 .sites .lbl { font-size: 12px; color: var(--muted); }
@@ -1047,7 +1052,7 @@ def generate_category_html(
         for c in line_categories()
     )
     lines_nav = (
-        f'<p class="line-links">製品ライン別の在庫・入荷履歴：{line_links}</p>'
+        f'<p class="line-links nav-line">製品ライン別の在庫・入荷履歴：{line_links}</p>'
     )
 
     about = CONFIG.get("about") or []
@@ -1124,12 +1129,13 @@ def generate_category_html(
 <body>
 <header>
 <p class="brand"><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></p>
-<h1 class="ptitle">{esc(name)}整備済製品の在庫と入荷履歴</h1>
-<p>在庫{len(rows)}件 ｜ 最終更新: {updated}</p>
-{lines_nav}
+<p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
 </header>
 {header_ad}
+{lines_nav}
 <main>
+<h1 class="ptitle">{esc(name)}整備済製品の在庫と入荷履歴</h1>
+<p class="lead-line">現在の在庫は{len(rows)}件、これまでの入荷履歴は{len(hist_events)}件です。</p>
 {chr(10).join(sections)}
 {about_html}
 </main>
