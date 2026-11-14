@@ -13671,6 +13671,14 @@
    "kind": "restock",
    "date": "2026-11-15",
    "price": 35800
+  },
+  {
+   "part_number": "FEHC4J/A",
+   "category": "watch",
+   "title": "Apple Watch SE 3（GPSモデル）- 40mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 35800
   }
  ]
 }
