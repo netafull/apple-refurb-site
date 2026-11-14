@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T12:12:20+09:00",
- "count": 187,
+ "generated_at": "2026-11-14T13:12:21+09:00",
+ "count": 185,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1958,23 +1958,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1N07J/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 617800,
-   "url": "https://www.apple.com/jp/shop/product/g1n07j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUFKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "16inch",
-   "color": "spaceblack",
-   "memory": "64gb",
-   "since": "2026-08-08"
-  },
-  {
    "part_number": "G1FU4J/A",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
    "price": 595800,
@@ -3095,23 +3078,6 @@
    "color": "",
    "memory": "",
    "since": "2026-10-30"
-  },
-  {
-   "part_number": "FEU74J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-   "price": 53800,
-   "url": "https://www.apple.com/jp/shop/product/feu74j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3A1UktTV0U4S1BFeFhUNFFhejBXaTFsVDJxanA0dFNWd0lKUDVFY0JXc24&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FEPH4J/A",
