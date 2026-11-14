@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T23:12:24+09:00",
- "count": 185,
+ "generated_at": "2026-11-15T00:12:20+09:00",
+ "count": 184,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -2500,23 +2500,6 @@
    "color": "silver",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FD2Q4J/A",
-   "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
-   "price": 292800,
-   "url": "https://www.apple.com/jp/shop/product/fd2q4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-imac-touch-id-green-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=bkJMZndVZ3FmczBxSlhwVSsrTHZnWGpOQXY5THVCZGFxajdwQzdUR3BLY1ljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeURMdzVkWTNJSnp4L2R4VkJJRnJOTlQ0TjVYSTlBSTJEWFRmd2Q1ejdzcUw&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "imac",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "24inch",
-   "color": "green",
-   "memory": "24gb",
-   "since": "2026-10-28"
   },
   {
    "part_number": "FD2U4J/A",
