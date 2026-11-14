@@ -50,12 +50,13 @@ header h1 a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 /* ロゴは文字とほぼ同じ高さに揃える */
 header h1 img { width: 44px; height: 44px; }
-/* 個別ページではサイト名を見出しにせず小さなブランド行として出し、
-   ページの主題を h1 にする(SEOのための見出し階層。オーナー指示 2026-11-14) */
-header .brand { font-size: 15px; font-weight: 700; }
+/* 個別ページではサイト名を見出し要素にしないだけで、見た目はトップと
+   同じ大きさに揃える。ページの主題の h1 はその下に出す
+   (SEOのための見出し階層。オーナー指示 2026-11-14) */
+header .brand { font-size: 24px; font-weight: 700; }
 header .brand a { color: var(--text); text-decoration: none;
-  display: inline-flex; align-items: center; gap: 6px; }
-header .brand img { width: 26px; height: 26px; }
+  display: inline-flex; align-items: center; gap: 8px; }
+header .brand img { width: 44px; height: 44px; }
 header h1.ptitle { font-size: 21px; margin-top: 8px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 header .line-links { font-size: 12px; }
