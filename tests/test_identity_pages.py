@@ -6,6 +6,7 @@
 """
 
 import json
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -154,6 +155,27 @@ class CategoryPageTest(unittest.TestCase):
             cat, data, state, events, log, count_history
         )
 
+    def test_current_line_pill_is_highlighted(self):
+        out = self.page()
+        nav = re.search(
+            r'<nav class="line-links"[^>]*>(.*?)</nav>', out, re.S
+        )
+        self.assertIsNotNone(nav)
+        # 自分(Mac)のピルだけが aria-current でハイライトされる
+        # (style内のセレクタ文字列と区別するため nav の中だけを数える)
+        self.assertEqual(nav.group(1).count('aria-current="page"'), 1)
+        self.assertIn(
+            '<a href="../mac/" data-google-vignette="false" '
+            'aria-current="page">Mac<span class="n">',
+            nav.group(1),
+        )
+        # 他ラインのピルには付かない
+        self.assertIn(
+            '<a href="../ipad/" data-google-vignette="false">iPad'
+            '<span class="n">',
+            nav.group(1),
+        )
+
     def test_canonical_and_title(self):
         out = self.page()
         self.assertIn(
@@ -202,6 +224,36 @@ class TopAndSitemapTest(unittest.TestCase):
         _, html_text = self.real_page()
         for cat in generate_site.line_categories():
             self.assertIn(f'href="{cat["slug"]}/"', html_text)
+
+    def test_top_has_no_filter_tabs(self):
+        _, html_text = self.real_page()
+        # 絞り込みタブは廃止済み(ラインページと同じ軸のため)。
+        # タブのボタンも .tabs ナビも出ない
+        self.assertNotIn("data-target", html_text)
+        self.assertNotIn('class="tabs"', html_text)
+
+    def test_top_line_nav_is_pills_with_counts(self):
+        _, html_text = self.real_page()
+        nav = re.search(
+            r'<nav class="line-links"[^>]*>(.*?)</nav>', html_text, re.S
+        )
+        self.assertIsNotNone(nav)
+        # ピルは config の定義順に6ラインぶん並ぶ
+        links = re.findall(r'<a href="([a-z]+)/"', nav.group(1))
+        self.assertEqual(
+            links, [c["slug"] for c in generate_site.line_categories()]
+        )
+        # 各ピルに件数が付く
+        self.assertEqual(nav.group(1).count('<span class="n">'), 6)
+        self.assertIn("件</span>", nav.group(1))
+        # トップではどのピルもハイライトしない
+        self.assertNotIn("aria-current", nav.group(1))
+
+    def test_top_ads_reload_on_details_toggle(self):
+        _, html_text = self.real_page()
+        # タブ廃止後も、閉じたセクションを開いたときに広告を流し込む
+        self.assertIn("function syncAds()", html_text)
+        self.assertIn('addEventListener("toggle"', html_text)
 
     def test_sitemap_includes_line_pages(self):
         data, _ = self.real_page()

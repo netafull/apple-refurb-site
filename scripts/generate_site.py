@@ -61,9 +61,21 @@ main h1.ptitle { font-size: 20px; margin: 2px 0 4px; padding-left: 10px;
   border-left: 4px solid var(--accent); }
 .lead-line { color: var(--muted); font-size: 13px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
-.line-links { font-size: 12px; color: var(--muted); }
-.line-links a { color: var(--accent); text-decoration: none; }
-.line-links a:hover { text-decoration: underline; }
+/* 製品ライン別ページへの案内。ラインページと同じ軸の絞り込みだった
+   カテゴリタブは廃止し、カテゴリナビはこのピル型リンクに一本化した
+   (オーナー決定 2026-11-14)。見た目は関連サイト(.sites)のピルに揃える */
+.line-links { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
+  align-items: baseline; }
+.line-links .lbl { font-size: 12px; color: var(--muted); }
+.line-links a { font-size: 12px; padding: 3px 10px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card);
+  color: var(--text); text-decoration: none; }
+.line-links a:hover { border-color: var(--accent); color: var(--accent); }
+.line-links a .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
+/* ラインページでは自分自身のピルを、旧タブの選択中と同じ濃色で示す */
+.line-links a[aria-current="page"] { background: var(--text); color: var(--bg);
+  border-color: var(--text); font-weight: 600; }
+.line-links a[aria-current="page"] .n { color: var(--bg); opacity: .7; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
 .sites .lbl { font-size: 12px; color: var(--muted); }
@@ -85,32 +97,6 @@ summary:hover h2 { color: var(--accent); }
 details > .grid, details > .empty, details > .cmeta, details > .gone {
   margin-top: 12px; }
 .cmeta { color: var(--muted); font-size: 12px; }
-/* カテゴリの絞り込みタブ。281件が縦に続くと目的の機種に辿り着けないため。
-   別ページを作らずCSSで表示を切り替えるので、URLは1つのままで
-   コンテンツも全てDOMに残る(検索エンジンからは従来どおり全件見える) */
-/* 狭い画面では折り返すと縦に伸びて商品が押し下げられるため横スクロールにする。
-   ただしPCはマウスホイールが縦スクロールに使われ、スクロールバーも隠している
-   ので横に動かす手段が無くなる。広い画面では折り返しに切り替える */
-.tabs { display: flex; gap: 6px; margin: 20px auto 4px; padding: 0 16px;
-  max-width: 960px; overflow-x: auto; scrollbar-width: none;
-  -webkit-overflow-scrolling: touch; }
-.tabs::-webkit-scrollbar { display: none; }
-.tabs button { flex: 0 0 auto; white-space: nowrap; }
-@media (min-width: 700px) {
-  .tabs { flex-wrap: wrap; overflow-x: visible; }
-}
-.tabs button { font-size: 13px; padding: 5px 12px; border-radius: 999px;
-  border: 1px solid var(--line); background: var(--card); color: var(--text);
-  cursor: pointer; font-family: inherit; }
-.tabs button:hover { border-color: var(--accent); }
-.tabs button[aria-selected="true"] { background: var(--text); color: var(--bg);
-  border-color: var(--text); font-weight: 600; }
-.tabs button .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
-.tabs button[aria-selected="true"] .n { color: var(--bg); opacity: .7; }
-.tabs button:disabled { opacity: .4; cursor: default; }
-/* JSが無い環境ではタブを出さない(全件表示のままにする) */
-.tabs { display: none; }
-.js .tabs { display: flex; }
 /* カテゴリ見出しの前日比。運営者が在庫の動きを追うための表示 */
 .delta { font-size: 12px; font-weight: 600; margin-left: 6px; }
 .delta.up { color: var(--new); }
@@ -489,8 +475,8 @@ def render_ad_slot() -> str:
     Auto adsはサブドメイン単位でヴィネット/アンカー広告を無効化できな
     かったため除外し、代わりにこの広告ユニット1種類をヘッダー直下と
     カード一覧に手動で配置する。adsense_ad_slotが未設定なら何も出さない。
-    読み込みを促すpushはタブで隠れた枠を避ける必要があるため、枠ごとの
-    インラインscriptではなくページ下部のsyncAds()がまとめて行う
+    読み込みを促すpushは閉じたセクションで隠れた枠を避ける必要があるため、
+    枠ごとのインラインscriptではなくページ下部のsyncAds()がまとめて行う
     """
     ad_slot = CONFIG.get("adsense_ad_slot", "")
     adsense_id = CONFIG.get("adsense_client_id", "")
@@ -682,31 +668,18 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         else ""
     )
 
-    # カテゴリの絞り込みタブ。件数を添え、0件は押せないようにする
-    tab_defs = [("all", "すべて", len(items))]
-    for i, cat in enumerate(cats):
-        tab_defs.append((f"c{i}", cat["name"], len(by_cat.get(cat["slug"]) or [])))
-    buttons = "\n".join(
-        f'<button type="button" data-target="{tid}" '
-        f'aria-selected="{"true" if tid == "all" else "false"}"'
-        f'{" disabled" if n == 0 and tid != "all" else ""}>'
-        f'{esc(name)}<span class="n">{n}</span></button>'
-        for tid, name, n in tab_defs
-    )
-    tabs_html = f'<nav class="tabs" aria-label="カテゴリ">\n{buttons}\n</nav>'
-
-    # 製品ライン別ページ(固定URL)への案内。タブは同じページ内の絞り込みで、
-    # こちらはカテゴリごとの在庫と入荷履歴を持つ別ページへの導線。
-    # タブと見た目が被らないよう、ピル型にせずヘッダー内のテキストリンクにする
-    # (オーナー指摘 2026-11-14)。並び順はセクション側(在庫の有無で入れ替わる)に
-    # 引きずられず config の定義順にする
-    line_links = " ｜ ".join(
+    # 製品ライン別ページ(固定URL)への案内。ラインページと同じ軸の絞り込み
+    # だったカテゴリタブは廃止し、トップのカテゴリナビはこのピル型リンクに
+    # 一本化した(オーナー決定 2026-11-14)。並び順はセクション側(在庫の有無で
+    # 入れ替わる)に引きずられず config の定義順にする
+    line_links = "\n".join(
         f'<a href="{esc(c["slug"])}/" data-google-vignette="false">'
-        f'{esc(c["name"])}</a>'
+        f'{esc(c["name"])}<span class="n">{len(by_cat.get(c["slug"]) or [])}件</span></a>'
         for c in line_categories()
     )
     lines_nav = (
-        f'<p class="line-links">製品ライン別の在庫・入荷履歴：{line_links}</p>'
+        f'<nav class="line-links" aria-label="製品ライン別">'
+        f'<span class="lbl">製品ライン別の在庫・入荷履歴</span>\n{line_links}\n</nav>'
     )
 
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
@@ -793,7 +766,6 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 {lines_nav}
 </header>
 {header_ad}
-{tabs_html}
 <main>
 {chr(10).join(sections)}
 {about_html}
@@ -807,10 +779,7 @@ Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 {related_html}
 </footer>
 <script>
-// カテゴリタブ。該当セクション以外を隠すだけで、DOMからは取り除かない。
-// 「すべて」に戻せば元通りになり、検索エンジンには常に全件が見えている
-document.documentElement.classList.add("js");
-// 広告は表示中のセクションのぶんだけ読み込む。隠れたまま処理されると
+// 広告は見えているセクションのぶんだけ読み込む。隠れたまま処理されると
 // 幅0で失敗し、あとで表示しても二度と入らないので、隠れている枠は
 // adsbygoogleクラスを外してAdSenseの対象から一時的に除外しておく。
 // pushはDOM順に未処理の枠へ結び付くため、押した枠には印を付けて
@@ -827,37 +796,13 @@ function syncAds() {{
     (adsbygoogle = window.adsbygoogle || []).push({{}});
   }});
 }}
-(function () {{
-  var tabs = document.querySelector(".tabs");
-  if (!tabs) return;
-  var sections = Array.prototype.slice.call(
-    document.querySelectorAll("main > details")
-  );
-  function apply(target) {{
-    sections.forEach(function (s) {{
-      // 新着と売り切れは全体に関わる情報なので「すべて」のときだけ出す
-      s.style.display =
-        target === "all" || s.id === target ? "" : "none";
-    }});
-    tabs.querySelectorAll("button").forEach(function (b) {{
-      b.setAttribute(
-        "aria-selected", b.dataset.target === target ? "true" : "false"
-      );
-    }});
-    if (history.replaceState) {{
-      history.replaceState(null, "", target === "all" ? location.pathname : "#" + target);
-    }}
-    syncAds();
-  }}
-  tabs.addEventListener("click", function (e) {{
-    var b = e.target.closest("button");
-    if (!b || b.disabled) return;
-    apply(b.dataset.target);
+// セクションの見え方は details の開閉だけで決まる(旧カテゴリタブは廃止)。
+// 閉じたセクション内の枠は、開いたタイミングで改めて流し込む
+document.querySelectorAll("details").forEach(function (d) {{
+  d.addEventListener("toggle", function () {{
+    if (d.open) syncAds();
   }});
-  // URLのハッシュで直接そのカテゴリを開けるようにする
-  var initial = location.hash.replace("#", "");
-  if (initial && document.getElementById(initial)) apply(initial);
-}})();
+}});
 syncAds();
 </script>
 </body>
@@ -1043,13 +988,17 @@ def generate_category_html(
     by_cat: dict[str, list[dict]] = {}
     for it in items:
         by_cat.setdefault(it["category"], []).append(it)
-    line_links = " ｜ ".join(
-        f'<a href="../{esc(c["slug"])}/" data-google-vignette="false">'
-        f'{esc(c["name"])}</a>'
+    # 製品ライン別ページへの案内(トップと共通のピル型)。自分自身のラインは
+    # aria-current で示し、CSSで濃色にハイライトする
+    line_links = "\n".join(
+        f'<a href="../{esc(c["slug"])}/" data-google-vignette="false"'
+        f'{" aria-current=\"page\"" if c["slug"] == slug else ""}>'
+        f'{esc(c["name"])}<span class="n">{len(by_cat.get(c["slug"]) or [])}件</span></a>'
         for c in line_categories()
     )
     lines_nav = (
-        f'<p class="line-links">製品ライン別の在庫・入荷履歴：{line_links}</p>'
+        f'<nav class="line-links" aria-label="製品ライン別">'
+        f'<span class="lbl">製品ライン別の在庫・入荷履歴</span>\n{line_links}\n</nav>'
     )
 
     about = CONFIG.get("about") or []
