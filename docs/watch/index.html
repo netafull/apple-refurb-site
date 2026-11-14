@@ -47,6 +47,13 @@ header h1 a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 /* ロゴは文字とほぼ同じ高さに揃える */
 header h1 img { width: 44px; height: 44px; }
+/* 個別ページではサイト名を見出しにせず小さなブランド行として出し、
+   ページの主題を h1 にする(SEOのための見出し階層。オーナー指示 2026-11-14) */
+header .brand { font-size: 15px; font-weight: 700; }
+header .brand a { color: var(--text); text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px; }
+header .brand img { width: 26px; height: 26px; }
+header h1.ptitle { font-size: 21px; margin-top: 8px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 header .line-links { font-size: 12px; }
 header .line-links a { color: var(--accent); text-decoration: none; }
@@ -161,8 +168,9 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 </head>
 <body>
 <header>
-<h1><a href="../" data-google-vignette="false"><img src="../assets/logo.png" alt="" width="44" height="44">林檎ポチ</a></h1>
-<p>Apple Watch整備済製品の現在の在庫と入荷履歴 ｜ 在庫16件 ｜ 最終更新: 2026年11月14日 22:12</p>
+<p class="brand"><a href="../" data-google-vignette="false"><img src="../assets/logo.png" alt="" width="44" height="44">林檎ポチ</a></p>
+<h1 class="ptitle">Apple Watch整備済製品の在庫と入荷履歴</h1>
+<p>在庫16件 ｜ 最終更新: 2026年11月14日 22:12</p>
 <p class="line-links">製品ライン別の在庫・入荷履歴：<a href="../mac/" data-google-vignette="false">Mac</a> ｜ <a href="../ipad/" data-google-vignette="false">iPad</a> ｜ <a href="../iphone/" data-google-vignette="false">iPhone</a> ｜ <a href="../watch/" data-google-vignette="false">Apple Watch</a> ｜ <a href="../appletv/" data-google-vignette="false">Apple TV</a> ｜ <a href="../homepod/" data-google-vignette="false">HomePod</a></p>
 </header>
 <div class="ad-slot">

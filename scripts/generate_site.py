@@ -50,6 +50,13 @@ header h1 a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 /* ロゴは文字とほぼ同じ高さに揃える */
 header h1 img { width: 44px; height: 44px; }
+/* 個別ページではサイト名を見出しにせず小さなブランド行として出し、
+   ページの主題を h1 にする(SEOのための見出し階層。オーナー指示 2026-11-14) */
+header .brand { font-size: 15px; font-weight: 700; }
+header .brand a { color: var(--text); text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px; }
+header .brand img { width: 26px; height: 26px; }
+header h1.ptitle { font-size: 21px; margin-top: 8px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 header .line-links { font-size: 12px; }
 header .line-links a { color: var(--accent); text-decoration: none; }
@@ -1115,8 +1122,9 @@ def generate_category_html(
 </head>
 <body>
 <header>
-<h1><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
-<p>{esc(name)}整備済製品の現在の在庫と入荷履歴 ｜ 在庫{len(rows)}件 ｜ 最終更新: {updated}</p>
+<p class="brand"><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></p>
+<h1 class="ptitle">{esc(name)}整備済製品の在庫と入荷履歴</h1>
+<p>在庫{len(rows)}件 ｜ 最終更新: {updated}</p>
 {lines_nav}
 </header>
 {header_ad}
