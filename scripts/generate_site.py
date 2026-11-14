@@ -57,7 +57,8 @@ header .brand { font-size: 24px; font-weight: 700; }
 header .brand a { color: var(--text); text-decoration: none;
   display: inline-flex; align-items: center; gap: 8px; }
 header .brand img { width: 44px; height: 44px; }
-main h1.ptitle { font-size: 21px; margin: 2px 0 4px; }
+main h1.ptitle { font-size: 20px; margin: 2px 0 4px; padding-left: 10px;
+  border-left: 4px solid var(--accent); }
 .lead-line { color: var(--muted); font-size: 13px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
 .line-links { font-size: 12px; color: var(--muted); }
