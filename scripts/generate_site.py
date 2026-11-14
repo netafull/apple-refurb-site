@@ -19,6 +19,11 @@ CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 ITEMS_PATH = ROOT / "data" / "items.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
 HISTORY_PATH = ROOT / "data" / "count_history.json"
+# 入荷・再入荷・売り切れの出来事を追記専用で貯める台帳。
+# item_state.json は保持期間(365日)を過ぎた売り切れ商品を落とすため、
+# そこから導出した出来事をこちらへ移して残す。生成のたびに state と
+# 突き合わせて未記録ぶんだけ足すので、同じ出来事は二重に記録されない
+EVENT_HISTORY_PATH = ROOT / "data" / "event_history.json"
 DOCS = ROOT / "docs"
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
@@ -147,6 +152,11 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 .about h2 { font-size: 14px; border-left-width: 3px; margin-bottom: 8px;
   color: var(--text); }
 .about p { margin-top: 8px; }
+/* 製品ラインページの在庫数推移。日次で1行ずつ増えるだけの地味な表 */
+.counts { border-collapse: collapse; font-size: 13px; color: var(--muted); }
+.counts th, .counts td { padding: 3px 12px 3px 0;
+  border-bottom: 1px solid var(--line); text-align: left; font-weight: 400; }
+.counts td.n, .counts th.n { text-align: right; }
 """
 
 
@@ -215,16 +225,21 @@ def delta_html(slug: str, now: int, prev: dict) -> str:
     return f'<span class="delta {cls}">{diff:+d}</span>'
 
 
+def load_count_history() -> dict:
+    """count_history.json の全体を返す。読めなければ空。"""
+    try:
+        return json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
 def load_prev_counts(today: datetime.date) -> dict:
     """前日のカテゴリ別件数を返す。運営者が在庫の動きを追うための材料。
 
     GitHub Actionsは発火をスキップすることがあり前日ぶんが無い場合もあるので、
     直近の過去日を遡って探し、見つからなければ空を返す(比較を出さない)。
     """
-    try:
-        history = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
-        return {}
+    history = load_count_history()
     past = sorted(d for d in history if d < today.isoformat())
     if not past:
         return {}
@@ -318,6 +333,94 @@ def build_events(
     drops.sort(key=lambda x: x["off"], reverse=True)
     gone.sort(key=lambda x: (x.get("sold_out_at") or "", x.get("price", 0)), reverse=True)
     return {"arrivals": arrivals, "drops": drops, "gone": gone, "baseline": baseline}
+
+
+def line_categories() -> list[dict]:
+    """個別ページを作る製品ライン。トップに節を出すカテゴリと揃える。
+
+    accessories は他カテゴリと品揃えが重複し、トップでも独立した節として
+    出していないため、個別ページも作らない。
+    """
+    return [c for c in CONFIG["categories"] if c.get("display", True)]
+
+
+def price_at(entry: dict, day: str) -> int:
+    """その日に効いていた価格。価格履歴は変化した日だけを記録しているため、
+    対象日以前の最後の記録がその日の価格になる。"""
+    price = entry.get("price") or 0
+    for d, p in entry.get("price_history") or []:
+        if d <= day:
+            price = p
+        else:
+            break
+    return price
+
+
+def derive_events_from_state(state: dict) -> list[dict]:
+    """item_state.json から「初入荷」「再入荷」「売り切れ」の出来事を導出する。
+
+    state は各商品について最新の状態しか持たないため、ここで拾えるのは
+    初入荷日・直近の再入荷日・直近の売り切れ日まで。過去の売り切れ→再入荷の
+    繰り返しは state の時点で上書きされて消えている(台帳への移行後は、
+    生成のたびに移すので繰り返しも残るようになる)。
+    記録開始日に一括登録された baseline 商品の初入荷は出来事として扱わない
+    (その日に「入荷した」わけではないため)。ただし売り切れ・再入荷は
+    記録開始後の一出来事なので対象に含める。
+    """
+    out = []
+    for part, entry in state.items():
+        base = {
+            "part_number": part,
+            "category": entry.get("category") or "",
+            "title": entry.get("title") or "",
+        }
+        first = entry.get("first_seen")
+        if first and not entry.get("baseline"):
+            out.append({**base, "kind": "arrival", "date": first,
+                        "price": price_at(entry, first)})
+        restocked = entry.get("restocked_at")
+        if restocked:
+            out.append({**base, "kind": "restock", "date": restocked,
+                        "price": price_at(entry, restocked)})
+        gone = entry.get("sold_out_at")
+        if gone:
+            out.append({**base, "kind": "sold_out", "date": gone,
+                        "price": price_at(entry, gone)})
+    return out
+
+
+def merge_event_history(existing: list[dict], derived: list[dict]) -> list[dict]:
+    """台帳に未記録の出来事だけを足す。同一商品・同一種別・同一日は同じ出来事。"""
+    seen = {(e["part_number"], e["kind"], e["date"]) for e in existing}
+    merged = list(existing)
+    for e in derived:
+        key = (e["part_number"], e["kind"], e["date"])
+        if key not in seen:
+            seen.add(key)
+            merged.append(e)
+    merged.sort(key=lambda e: (e["date"], e["part_number"], e["kind"]))
+    return merged
+
+
+def load_event_history() -> list[dict]:
+    """出来事の台帳を読む。無い場合は空。
+
+    壊れている場合は例外のまま上げる。黙って空として上書きすると
+    蓄積した履歴が全損するため、生成を止めて気付けるようにする
+    (fetch_refurb.py が state の破損で中止するのと同じ考え方)。
+    """
+    try:
+        raw = EVENT_HISTORY_PATH.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        return []
+    return json.loads(raw).get("events") or []
+
+
+def save_event_history(events: list[dict]) -> None:
+    EVENT_HISTORY_PATH.write_text(
+        json.dumps({"events": events}, ensure_ascii=False, indent=1),
+        encoding="utf-8",
+    )
 
 
 # AdSenseダッシュボードではvignette(全画面)広告をサブドメイン単位で
@@ -579,6 +682,18 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
     )
     tabs_html = f'<nav class="tabs" aria-label="カテゴリ">\n{buttons}\n</nav>'
 
+    # 製品ライン別ページ(固定URL)への案内。タブは同じページ内の絞り込みで、
+    # こちらはカテゴリごとの在庫と入荷履歴を持つ別ページへの導線。
+    # 並び順はセクション側(在庫の有無で入れ替わる)に引きずられず config の定義順にする
+    line_links = "\n".join(
+        f'<a href="{esc(c["slug"])}/" data-google-vignette="false">'
+        f'{esc(c["name"])}<span class="lbl"> {len(by_cat.get(c["slug"]) or [])}件</span></a>'
+        for c in line_categories()
+    )
+    lines_nav = (
+        f'<nav class="sites"><span class="lbl">製品ライン別</span>\n{line_links}\n</nav>'
+    )
+
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
     # 検索エンジンやAIが「このサイトは何者か」を判断できるようにする
     about = CONFIG.get("about") or []
@@ -661,6 +776,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <h1><a href="./" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
 </header>
+{lines_nav}
 {header_ad}
 {tabs_html}
 <main>
@@ -727,6 +843,304 @@ function syncAds() {{
   var initial = location.hash.replace("#", "");
   if (initial && document.getElementById(initial)) apply(initial);
 }})();
+syncAds();
+</script>
+</body>
+</html>
+"""
+
+
+def generate_category_html(
+    cat: dict, data: dict, state: dict, events: dict,
+    event_log: list[dict], count_history: dict,
+) -> str:
+    """製品ラインごとの固定URLページ。在庫一覧+入荷履歴+在庫数の推移。
+
+    トップは「今の全体」を見る場所で、こちらは1ラインの縦の履歴を残す場所。
+    データはすべて既存の取得結果(items/state/count_history/出来事の台帳)から
+    組み立てるため、この関数のために外部へ取りに行くことはない。
+    相対リンクはトップより1階層深いぶん "../" を付ける。
+    """
+    slug = cat["slug"]
+    name = cat["name"]
+    generated = datetime.datetime.fromisoformat(data["generated_at"]).astimezone(JST)
+    updated = generated.strftime("%Y年%m月%d日 %H:%M")
+    today = generated.date()
+    items = data["items"]
+    site_url = CONFIG.get("site_url", "")
+    page_url = f"{site_url}{slug}/"
+    base_url = CONFIG.get("base_url", "https://www.apple.com")
+
+    rows = [it for it in items if it["category"] == slug]
+    # トップのカテゴリ節と同じ並び(入荷日降順→同日内は価格昇順)
+    rows = sorted(rows, key=lambda x: x["price"])
+    rows.sort(key=lambda x: x.get("since") or "", reverse=True)
+    new_parts = {a["part_number"] for a in events["arrivals"]}
+    in_stock = {it["part_number"] for it in items}
+
+    past = sorted(d for d in count_history if d < today.isoformat())
+    prev_counts = (count_history[past[-1]] or {}).get("categories") or {} if past else {}
+
+    sections = []
+
+    official = f"{base_url}/jp/shop/refurbished/{slug}"
+    if rows:
+        body = (
+            '<div class="grid">\n'
+            + intersperse_ads(
+                [render_item(r, tag="new" if r["part_number"] in new_parts else None)
+                 for r in rows]
+            )
+            + "\n</div>"
+        )
+    else:
+        body = '<p class="empty">現在在庫はありません。</p>'
+    sections.append(
+        '<details open id="stock">\n'
+        f'<summary><h2>現在の在庫 ({len(rows)}件)'
+        f'{delta_html(slug, len(rows), prev_counts)}</h2></summary>\n'
+        f'<p class="cmeta">価格は取得時点のものです。購入前に'
+        f'<a href="{esc(official)}" data-google-vignette="false" target="_blank" rel="noopener">'
+        f'Apple公式の{esc(name)}整備済製品ページ</a>で最新の在庫をご確認ください</p>\n'
+        f'{body}\n</details>'
+    )
+
+    gone = [g for g in events["gone"] if g.get("category") == slug]
+    if gone:
+        lis = "\n".join(
+            f'<li>{md(g.get("sold_out_at") or "")} ・ &yen;{int(g.get("price") or 0):,} ・ {esc(clean_title(g.get("title") or ""))}</li>'
+            for g in gone
+        )
+        sections.append(
+            '<details id="gone">\n'
+            f'<summary><h2>❌ 最近売り切れ ({len(gone)}件)</h2></summary>\n'
+            f'<p class="cmeta">直近{CONFIG.get("sold_out_days", 7)}日以内に'
+            '在庫が無くなった商品です。再入荷することがあります</p>\n'
+            f'<ul class="gone">\n{lis}\n</ul>\n</details>'
+        )
+
+    # 入荷履歴。台帳は state の保持期間を超えても残るため、売り切れた商品の
+    # 入荷もここに残り続ける。状態は現在の state から引く(台帳に移された後に
+    # state から落ちた商品は状態を付けない)
+    hist_events = [
+        e for e in event_log
+        if e.get("category") == slug and e.get("kind") in ("arrival", "restock")
+    ]
+    hist_events.sort(key=lambda e: (e["date"], e.get("price") or 0), reverse=True)
+    if hist_events:
+        def hist_line(e: dict) -> str:
+            kind = "再入荷" if e["kind"] == "restock" else "入荷"
+            status = ""
+            if e["part_number"] in in_stock:
+                status = " ・ 在庫あり"
+            else:
+                entry = state.get(e["part_number"]) or {}
+                if entry.get("sold_out_at"):
+                    status = f' ・ {md(entry["sold_out_at"])}売り切れ'
+            return (
+                f'<li>{md(e["date"])} ・ {kind} ・ &yen;{int(e.get("price") or 0):,}'
+                f' ・ {esc(clean_title(e.get("title") or ""))}{status}</li>'
+            )
+
+        lis = "\n".join(hist_line(e) for e in hist_events)
+        start_note = ""
+        if count_history:
+            d0 = datetime.date.fromisoformat(min(count_history))
+            start_note = (
+                f'{d0.year}年{d0.month}月{d0.day}日の記録開始時点で既にあった在庫は含みません。'
+            )
+        sections.append(
+            '<details open id="history">\n'
+            f'<summary><h2>📦 入荷履歴 ({len(hist_events)}件)</h2></summary>\n'
+            f'<p class="cmeta">初入荷と再入荷の記録です。{start_note}'
+            '売り切れた商品の入荷も履歴として残しています</p>\n'
+            f'<ul class="gone">\n{lis}\n</ul>\n</details>'
+        )
+
+    if count_history:
+        trs = "\n".join(
+            f'<tr><td>{esc(day)}</td>'
+            f'<td class="n">{int((count_history[day].get("categories") or {}).get(slug, 0))}</td></tr>'
+            for day in sorted(count_history, reverse=True)
+        )
+        sections.append(
+            '<details id="counts">\n'
+            '<summary><h2>📈 在庫数の推移</h2></summary>\n'
+            '<table class="counts">\n'
+            '<tr><th>日付</th><th class="n">在庫数</th></tr>\n'
+            f'{trs}\n</table>\n</details>'
+        )
+
+    page_title = f'{name}整備済製品の在庫と入荷履歴｜{CONFIG["site_title"]}'
+    meta_description = (
+        f'Apple公式の整備済製品ストアの{name}について、現在の在庫と価格、'
+        '入荷・再入荷の履歴、在庫数の推移をまとめています。'
+    )
+
+    gsv = CONFIG.get("google_site_verification", "")
+    gsv_tag = (
+        f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
+    )
+    policy_url = CONFIG.get("policy_url", "")
+    policy_link = (
+        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
+        if policy_url
+        else ""
+    )
+    adsense_id = CONFIG.get("adsense_client_id", "")
+    adsense_tag = (
+        '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
+        f'adsbygoogle.js?client={esc(adsense_id)}" crossorigin="anonymous"></script>'
+        if adsense_id
+        else ""
+    )
+    header_ad = render_ad_slot()
+
+    ga_id = CONFIG.get("ga_measurement_id")
+    ga_tag = ""
+    if ga_id:
+        ga_tag = (
+            f'<script async src="https://www.googletagmanager.com/gtag/js?id={esc(ga_id)}"></script>\n'
+            "<script>window.dataLayer=window.dataLayer||[];"
+            "function gtag(){dataLayer.push(arguments);}"
+            f"gtag('js',new Date());gtag('config','{esc(ga_id)}');</script>"
+        )
+
+    icon_tags = []
+    if has_asset("favicon.png"):
+        icon_tags.append('<link rel="icon" type="image/png" sizes="96x96" href="../assets/favicon.png">')
+    if has_asset("apple-touch-icon.png"):
+        icon_tags.append('<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">')
+    ogp_tags = []
+    if has_asset("ogp.jpg"):
+        ogp_tags = [
+            f'<meta property="og:image" content="{esc(site_url)}assets/ogp.jpg">',
+            '<meta property="og:image:width" content="1200">',
+            '<meta property="og:image:height" content="630">',
+            '<meta name="twitter:card" content="summary_large_image">',
+        ]
+    logo = (
+        '<img src="../assets/logo.png" alt="" width="44" height="44">'
+        if has_asset("logo.png")
+        else ""
+    )
+
+    by_cat: dict[str, list[dict]] = {}
+    for it in items:
+        by_cat.setdefault(it["category"], []).append(it)
+    line_links = "\n".join(
+        f'<a href="../{esc(c["slug"])}/" data-google-vignette="false">'
+        f'{esc(c["name"])}<span class="lbl"> {len(by_cat.get(c["slug"]) or [])}件</span></a>'
+        for c in line_categories()
+    )
+    lines_nav = (
+        f'<nav class="sites"><span class="lbl">製品ライン別</span>\n{line_links}\n</nav>'
+    )
+
+    about = CONFIG.get("about") or []
+    about_html = ""
+    if about:
+        paras = "\n".join(f"<p>{esc(x)}</p>" for x in about)
+        about_html = (
+            f'<section class="about">\n'
+            f'<h2>{esc(CONFIG["site_title"])}について</h2>\n{paras}\n</section>'
+        )
+
+    related = CONFIG.get("related_sites") or []
+    related_html = ""
+    if related:
+        links = "\n".join(
+            f'<a href="{esc(s["url"])}" data-google-vignette="false">{esc(s["name"])}'
+            + (f'<span class="lbl"> {esc(s["desc"])}</span>' if s.get("desc") else "")
+            + "</a>"
+            for s in related
+        )
+        related_html = f'<nav class="sites"><span class="lbl">関連サイト</span>\n{links}\n</nav>'
+
+    json_ld = json.dumps(
+        [
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": CONFIG["site_title"],
+                "url": site_url,
+                "description": CONFIG["site_description"],
+                "dateModified": generated.isoformat(timespec="seconds"),
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                "name": f"{name}の整備済製品の在庫",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": i + 1,
+                        "name": clean_title(r["title"]),
+                        "url": r["url"],
+                    }
+                    for i, r in enumerate(rows)
+                ],
+            },
+        ],
+        ensure_ascii=False,
+    ).replace("</", "<\\/")
+
+    return f"""<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{esc(page_title)}</title>
+<meta name="description" content="{esc(meta_description)}">
+<link rel="canonical" href="{esc(page_url)}">
+{gsv_tag}
+{ga_tag}
+{adsense_tag}
+{chr(10).join(icon_tags)}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{esc(page_title)}">
+<meta property="og:description" content="{esc(meta_description)}">
+<meta property="og:url" content="{esc(page_url)}">
+<meta property="og:site_name" content="{esc(CONFIG["site_title"])}">
+<meta property="og:locale" content="ja_JP">
+{chr(10).join(ogp_tags)}
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<script type="application/ld+json">{json_ld}</script>
+<style>{CSS}</style>
+</head>
+<body>
+<header>
+<h1><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
+<p>{esc(name)}整備済製品の現在の在庫と入荷履歴 ｜ 在庫{len(rows)}件 ｜ 最終更新: {updated}</p>
+</header>
+{lines_nav}
+{header_ad}
+<main>
+{chr(10).join(sections)}
+{about_html}
+</main>
+<footer>
+価格・在庫は取得時点のものです。整備済製品は在庫が少なく売り切れが早いため、
+購入前にApple公式サイトで最新の状況をご確認ください。
+当サイトはApple Inc.とは一切関係のない非公式サイトです。
+Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
+{policy_link}｜ <a href="../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+{related_html}
+</footer>
+<script>
+document.documentElement.classList.add("js");
+function syncAds() {{
+  document.querySelectorAll("ins[data-ad-slot]").forEach(function (ins) {{
+    if (ins.dataset.pushed) return;
+    if (ins.offsetParent === null) {{
+      ins.classList.remove("adsbygoogle");
+      return;
+    }}
+    ins.classList.add("adsbygoogle");
+    ins.dataset.pushed = "1";
+    (adsbygoogle = window.adsbygoogle || []).push({{}});
+  }});
+}}
 syncAds();
 </script>
 </body>
@@ -812,14 +1226,24 @@ def generate_rss(data: dict, events: dict) -> str:
 
 def generate_sitemap(data: dict) -> str:
     site_url = CONFIG.get("site_url", "")
+    lastmod = data["generated_at"][:10]
+    cat_urls = "".join(
+        f"""<url>
+<loc>{esc(site_url)}{esc(c["slug"])}/</loc>
+<lastmod>{lastmod}</lastmod>
+<changefreq>hourly</changefreq>
+</url>
+"""
+        for c in line_categories()
+    )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>{esc(site_url)}</loc>
-<lastmod>{data["generated_at"][:10]}</lastmod>
+<lastmod>{lastmod}</lastmod>
 <changefreq>hourly</changefreq>
 </url>
-</urlset>
+{cat_urls}</urlset>
 """
 
 
@@ -833,8 +1257,25 @@ def main() -> int:
     today = generated.date()
     events = build_events(data["items"], state, today, generated)
 
+    # 出来事の台帳を最新の state と突き合わせて更新する。state 側は保持期間で
+    # 商品が落ちるため、導出した出来事は生成のたびに台帳へ移しておく
+    event_log = merge_event_history(
+        load_event_history(), derive_events_from_state(state)
+    )
+    save_event_history(event_log)
+    count_history = load_count_history()
+
     DOCS.mkdir(parents=True, exist_ok=True)
     (DOCS / "index.html").write_text(generate_html(data, state, events), encoding="utf-8")
+    pages = []
+    for cat in line_categories():
+        page = generate_category_html(
+            cat, data, state, events, event_log, count_history
+        )
+        cat_dir = DOCS / cat["slug"]
+        cat_dir.mkdir(parents=True, exist_ok=True)
+        (cat_dir / "index.html").write_text(page, encoding="utf-8")
+        pages.append(f"{cat['slug']}/index.html")
     (DOCS / "rss.xml").write_text(generate_rss(data, events), encoding="utf-8")
     (DOCS / "sitemap.xml").write_text(generate_sitemap(data), encoding="utf-8")
     (DOCS / "robots.txt").write_text(
@@ -850,9 +1291,11 @@ def main() -> int:
     # 姉妹2サイトはアーティファクト方式なのでこの問題は起きない
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     print(
-        f"generated: index.html, rss.xml, sitemap.xml, robots.txt, CNAME, .nojekyll "
+        f"generated: index.html, rss.xml, sitemap.xml, robots.txt, CNAME, .nojekyll, "
+        f"{', '.join(pages)} "
         f"(在庫{data['count']}件 / 新着{len(events['arrivals'])}件 "
-        f"値下げ{len(events['drops'])}件 売り切れ{len(events['gone'])}件)"
+        f"値下げ{len(events['drops'])}件 売り切れ{len(events['gone'])}件 / "
+        f"出来事の台帳{len(event_log)}件)"
     )
     return 0
 
