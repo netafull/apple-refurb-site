@@ -51,6 +51,9 @@ header h1 a { color: var(--text); text-decoration: none;
 /* ロゴは文字とほぼ同じ高さに揃える */
 header h1 img { width: 44px; height: 44px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
+header .line-links { font-size: 12px; }
+header .line-links a { color: var(--accent); text-decoration: none; }
+header .line-links a:hover { text-decoration: underline; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
 .sites .lbl { font-size: 12px; color: var(--muted); }
@@ -684,14 +687,16 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 
     # 製品ライン別ページ(固定URL)への案内。タブは同じページ内の絞り込みで、
     # こちらはカテゴリごとの在庫と入荷履歴を持つ別ページへの導線。
-    # 並び順はセクション側(在庫の有無で入れ替わる)に引きずられず config の定義順にする
-    line_links = "\n".join(
+    # タブと見た目が被らないよう、ピル型にせずヘッダー内のテキストリンクにする
+    # (オーナー指摘 2026-11-14)。並び順はセクション側(在庫の有無で入れ替わる)に
+    # 引きずられず config の定義順にする
+    line_links = " ｜ ".join(
         f'<a href="{esc(c["slug"])}/" data-google-vignette="false">'
-        f'{esc(c["name"])}<span class="lbl"> {len(by_cat.get(c["slug"]) or [])}件</span></a>'
+        f'{esc(c["name"])}</a>'
         for c in line_categories()
     )
     lines_nav = (
-        f'<nav class="sites"><span class="lbl">製品ライン別</span>\n{line_links}\n</nav>'
+        f'<p class="line-links">製品ライン別の在庫・入荷履歴：{line_links}</p>'
     )
 
     # サイトの説明。データ元・更新頻度・掲載基準・運営者を明記して、
@@ -775,8 +780,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 <header>
 <h1><a href="./" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(CONFIG["site_description"])} ｜ 在庫{len(items)}件 ｜ 最終更新: {updated}</p>
-</header>
 {lines_nav}
+</header>
 {header_ad}
 {tabs_html}
 <main>
@@ -1028,13 +1033,13 @@ def generate_category_html(
     by_cat: dict[str, list[dict]] = {}
     for it in items:
         by_cat.setdefault(it["category"], []).append(it)
-    line_links = "\n".join(
+    line_links = " ｜ ".join(
         f'<a href="../{esc(c["slug"])}/" data-google-vignette="false">'
-        f'{esc(c["name"])}<span class="lbl"> {len(by_cat.get(c["slug"]) or [])}件</span></a>'
+        f'{esc(c["name"])}</a>'
         for c in line_categories()
     )
     lines_nav = (
-        f'<nav class="sites"><span class="lbl">製品ライン別</span>\n{line_links}\n</nav>'
+        f'<p class="line-links">製品ライン別の在庫・入荷履歴：{line_links}</p>'
     )
 
     about = CONFIG.get("about") or []
@@ -1112,8 +1117,8 @@ def generate_category_html(
 <header>
 <h1><a href="../" data-google-vignette="false">{logo}{esc(CONFIG["site_title"])}</a></h1>
 <p>{esc(name)}整備済製品の現在の在庫と入荷履歴 ｜ 在庫{len(rows)}件 ｜ 最終更新: {updated}</p>
-</header>
 {lines_nav}
+</header>
 {header_ad}
 <main>
 {chr(10).join(sections)}

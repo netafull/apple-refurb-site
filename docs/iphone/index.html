@@ -48,6 +48,9 @@ header h1 a { color: var(--text); text-decoration: none;
 /* ロゴは文字とほぼ同じ高さに揃える */
 header h1 img { width: 44px; height: 44px; }
 header p { color: var(--muted); font-size: 13px; margin-top: 4px; }
+header .line-links { font-size: 12px; }
+header .line-links a { color: var(--accent); text-decoration: none; }
+header .line-links a:hover { text-decoration: underline; }
 .sites { margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;
   align-items: baseline; }
 .sites .lbl { font-size: 12px; color: var(--muted); }
@@ -160,15 +163,8 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px;
 <header>
 <h1><a href="../" data-google-vignette="false"><img src="../assets/logo.png" alt="" width="44" height="44">林檎ポチ</a></h1>
 <p>iPhone整備済製品の現在の在庫と入荷履歴 ｜ 在庫13件 ｜ 最終更新: 2026年11月14日 22:12</p>
+<p class="line-links">製品ライン別の在庫・入荷履歴：<a href="../mac/" data-google-vignette="false">Mac</a> ｜ <a href="../ipad/" data-google-vignette="false">iPad</a> ｜ <a href="../iphone/" data-google-vignette="false">iPhone</a> ｜ <a href="../watch/" data-google-vignette="false">Apple Watch</a> ｜ <a href="../appletv/" data-google-vignette="false">Apple TV</a> ｜ <a href="../homepod/" data-google-vignette="false">HomePod</a></p>
 </header>
-<nav class="sites"><span class="lbl">製品ライン別</span>
-<a href="../mac/" data-google-vignette="false">Mac<span class="lbl"> 101件</span></a>
-<a href="../ipad/" data-google-vignette="false">iPad<span class="lbl"> 53件</span></a>
-<a href="../iphone/" data-google-vignette="false">iPhone<span class="lbl"> 13件</span></a>
-<a href="../watch/" data-google-vignette="false">Apple Watch<span class="lbl"> 16件</span></a>
-<a href="../appletv/" data-google-vignette="false">Apple TV<span class="lbl"> 0件</span></a>
-<a href="../homepod/" data-google-vignette="false">HomePod<span class="lbl"> 2件</span></a>
-</nav>
 <div class="ad-slot">
 <ins class="adsbygoogle"
      style="display:block"
