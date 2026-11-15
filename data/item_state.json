@@ -533,24 +533,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FDVF4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-15",
-  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-  "category": "mac",
-  "price": 301800,
-  "price_history": [
-   [
-    "2026-07-30",
-    301800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-15",
-  "restocked_at_at": "2026-11-15T11:12:22+09:00"
- },
  "FDVU4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-15",
@@ -3081,24 +3063,6 @@
   "restocked_at": "2026-11-06",
   "restocked_at_at": "2026-11-06T15:12:19+09:00"
  },
- "FEPJ4J/A": {
-  "first_seen": "2026-08-21",
-  "first_seen_at": "2026-08-21T15:02:06+09:00",
-  "last_seen": "2026-11-15",
-  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 46800,
-  "price_history": [
-   [
-    "2026-08-21",
-    46800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-06",
-  "restocked_at_at": "2026-11-06T15:12:19+09:00"
- },
  "FFC24J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3374,6 +3338,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDVF4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-15",
+  "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+  "category": "mac",
+  "price": 301800,
+  "price_history": [
+   [
+    "2026-07-30",
+    301800
+   ]
+  ],
+  "sold_out_at": "2026-11-15",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-15",
+  "restocked_at_at": "2026-11-15T11:12:22+09:00"
+ },
+ "FEPJ4J/A": {
+  "first_seen": "2026-08-21",
+  "first_seen_at": "2026-08-21T15:02:06+09:00",
+  "last_seen": "2026-11-15",
+  "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmミッドナイトアルミニウムケースとM/Lミッドナイトスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 46800,
+  "price_history": [
+   [
+    "2026-08-21",
+    46800
+   ]
+  ],
+  "sold_out_at": "2026-11-15",
+  "baseline": null,
+  "restocked_at": "2026-11-06",
+  "restocked_at_at": "2026-11-06T15:12:19+09:00"
  },
  "FDHH4J/A": {
   "first_seen": "2026-08-04",
