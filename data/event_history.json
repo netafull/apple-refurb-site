@@ -13737,6 +13737,14 @@
    "price": 189800
   },
   {
+   "part_number": "FDHA4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 189800
+  },
+  {
    "part_number": "FDHC4J/A",
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
@@ -14085,6 +14093,14 @@
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
    "kind": "restock",
+   "date": "2026-11-15",
+   "price": 236800
+  },
+  {
+   "part_number": "G1L31J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
    "date": "2026-11-15",
    "price": 236800
   },

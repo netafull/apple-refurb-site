@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T18:12:28+09:00",
- "count": 199,
+ "generated_at": "2026-11-15T19:12:21+09:00",
+ "count": 197,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -2927,23 +2927,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1L31J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 236800,
-   "url": "https://www.apple.com/jp/shop/product/g1l31j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "24gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FWUY3J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - グリーン",
    "price": 231800,
@@ -3027,23 +3010,6 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-08-22"
-  },
-  {
-   "part_number": "FDHA4J/A",
-   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
-   "price": 189800,
-   "url": "https://www.apple.com/jp/shop/product/fdha4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba13-m5-starlight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=NkFvZHZ6L2RKYi9tTHovZkJ0VkVXQkdDVVZSQmZhUmNkQnlYZ0RMQUJGQmVFR3BNVCtOSS9iaVo4aVVFYkF3VnlPWjFvdU5EZVdwUnRCZ2RHSDBFS2hxVzNLdGZhT0xYTkVqMGJ2Q2V0cmlIaWV5SG1KWWRSb1RMSkNqUDJYZHY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookair",
-   "year": "2026",
-   "capacity": "512gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "16gb",
-   "since": "2026-08-04"
   },
   {
    "part_number": "FDHH4J/A",
