@@ -13697,6 +13697,14 @@
    "price": 189800
   },
   {
+   "part_number": "FDH74J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 189800
+  },
+  {
    "part_number": "FDH84J/A",
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
@@ -13757,6 +13765,14 @@
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
    "kind": "restock",
+   "date": "2026-11-15",
+   "price": 267800
+  },
+  {
+   "part_number": "FDHG4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
    "date": "2026-11-15",
    "price": 267800
   },
@@ -13857,6 +13873,14 @@
    "price": 269800
   },
   {
+   "part_number": "FRX33J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 11コアCPUと14コアGPUを搭載したApple M3 Proチップ - スペースブラック",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 269800
+  },
+  {
    "part_number": "FTU73J/A",
    "category": "iphone",
    "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
@@ -13897,6 +13921,14 @@
    "price": 305800
   },
   {
+   "part_number": "FX2E3J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 305800
+  },
+  {
    "part_number": "G1AG3J/A",
    "category": "mac",
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと30コアGPUを搭載したApple M3 Maxチップ - スペースブラック",
@@ -13933,6 +13965,14 @@
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
    "kind": "restock",
+   "date": "2026-11-15",
+   "price": 410800
+  },
+  {
+   "part_number": "G1KK3J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "kind": "sold_out",
    "date": "2026-11-15",
    "price": 410800
   },
@@ -14105,6 +14145,14 @@
    "price": 253800
   },
   {
+   "part_number": "G1LT0J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 253800
+  },
+  {
    "part_number": "G1LT1J/A",
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
@@ -14189,6 +14237,14 @@
    "category": "mac",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
    "kind": "restock",
+   "date": "2026-11-15",
+   "price": 805800
+  },
+  {
+   "part_number": "G1N24J/A",
+   "category": "mac",
+   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - スペースブラック",
+   "kind": "sold_out",
    "date": "2026-11-15",
    "price": 805800
   }
