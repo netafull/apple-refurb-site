@@ -13687,6 +13687,14 @@
    "kind": "restock",
    "date": "2026-11-15",
    "price": 119800
+  },
+  {
+   "part_number": "FTU73J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Pro 128GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-15",
+   "price": 119800
   }
  ]
 }
