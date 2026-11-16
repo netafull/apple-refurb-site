@@ -14345,6 +14345,14 @@
    "price": 123800
   },
   {
+   "part_number": "FD1X4J/A",
+   "category": "iphone",
+   "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 123800
+  },
+  {
    "part_number": "FDE64J/A",
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
@@ -14393,10 +14401,26 @@
    "price": 134800
   },
   {
+   "part_number": "FTUC3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Pro 256GB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 134800
+  },
+  {
    "part_number": "FTUD3J/A",
    "category": "iphone",
    "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-16",
+   "price": 134800
+  },
+  {
+   "part_number": "FTUD3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-16",
    "price": 134800
   },
@@ -14525,6 +14549,14 @@
    "category": "iphone",
    "title": "iPhone 16 Plus 256GB - ホワイト（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-16",
+   "price": 140800
+  },
+  {
+   "part_number": "FXVH3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 Plus 256GB - ホワイト（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-16",
    "price": 140800
   },
