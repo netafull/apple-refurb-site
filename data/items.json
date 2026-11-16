@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T00:12:28+09:00",
- "count": 192,
+ "generated_at": "2026-11-17T01:12:22+09:00",
+ "count": 191,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1174,23 +1174,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU0J3J/A",
-   "title": "iPhone 15 Plus 256GB - イエロー（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fu0j3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-yellow-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZWgwdXA4TmJkWDhsY2puZGdrSzZ0Mk9IdEVHVDFtY0lDaHYrVEs5YkgrK2J6b29ZblM4c256TmFyaWl3OVJFYUF1dmJjT0pUMysvZGJLc1JuWm5kZmlTK3Y1UkFRclBkdDN6VVdRei9KVE8&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "yellow",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "FU083J/A",
