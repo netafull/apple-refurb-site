@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T19:12:22+09:00",
- "count": 201,
+ "generated_at": "2026-11-16T20:12:21+09:00",
+ "count": 200,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1395,23 +1395,6 @@
    "color": "green",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDR3J/A",
-   "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydr3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-white-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY2l4N0lEL1BnMUZQd3AyL1VYM2RVR09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rm8xTWlNdjR5eE5VcXRuMWNocHA1bXc&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "white",
-   "memory": "",
-   "since": "2026-08-15"
   },
   {
    "part_number": "G1MY9J/A",
