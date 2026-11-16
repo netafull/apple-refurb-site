@@ -14465,6 +14465,14 @@
    "price": 114800
   },
   {
+   "part_number": "FU0E3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Plus 128GB - グリーン（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 114800
+  },
+  {
    "part_number": "FU0F3J/A",
    "category": "iphone",
    "title": "iPhone 15 Plus 256GB - ブラック（SIMフリー）[整備済製品]",
@@ -14497,10 +14505,26 @@
    "price": 126800
   },
   {
+   "part_number": "FU0N3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 126800
+  },
+  {
    "part_number": "FU0Q3J/A",
    "category": "iphone",
    "title": "iPhone 15 Plus 256GB - グリーン（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-16",
+   "price": 126800
+  },
+  {
+   "part_number": "FU0Q3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Plus 256GB - グリーン（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-16",
    "price": 126800
   },
