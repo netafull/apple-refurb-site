@@ -1176,5 +1176,15 @@
    "watch": 15
   },
   "total": 192
+ },
+ "2026-11-17": {
+  "categories": {
+   "homepod": 2,
+   "ipad": 53,
+   "iphone": 19,
+   "mac": 103,
+   "watch": 15
+  },
+  "total": 192
  }
 }
