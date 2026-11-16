@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T17:12:21+09:00",
- "count": 206,
+ "generated_at": "2026-11-16T18:12:31+09:00",
+ "count": 205,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1206,23 +1206,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "pink",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
-   "part_number": "FXVK3J/A",
-   "title": "iPhone 16 Plus 256GB - ウルトラマリン（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvk3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-ultramarine-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvZGd5N2VrWDA3VG80UFcwbTBCdkxEMStKZVlMeDB0R05ZNm4rSm0zN044SlZEbzNiWnNBK2NFaHpzYXZPR3JUT29VVXNER2M2dlFBNFFFb3lWaVNSemJ1QlBUb3hvcHBscmxmM1BPYnBIMVk&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "ultramarine",
    "memory": "",
    "since": "2026-09-25"
   },
