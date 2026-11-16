@@ -14521,6 +14521,14 @@
    "price": 128800
   },
   {
+   "part_number": "FXVC3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 Plus 128GB - ホワイト（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 128800
+  },
+  {
    "part_number": "FXVD3J/A",
    "category": "iphone",
    "title": "iPhone 16 Plus 128GB - ピンク（SIMフリー）[整備済製品]",
@@ -14569,6 +14577,14 @@
    "price": 140800
   },
   {
+   "part_number": "FXVJ3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 140800
+  },
+  {
    "part_number": "FXVK3J/A",
    "category": "iphone",
    "title": "iPhone 16 Plus 256GB - ウルトラマリン（SIMフリー）[整備済製品]",
@@ -14609,6 +14625,14 @@
    "price": 172800
   },
   {
+   "part_number": "FXVP3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 Plus 512GB - ホワイト（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-16",
+   "price": 172800
+  },
+  {
    "part_number": "FYDR3J/A",
    "category": "iphone",
    "title": "iPhone 16 128GB - ホワイト（SIMフリー）[整備済製品]",
@@ -14621,6 +14645,14 @@
    "category": "iphone",
    "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-16",
+   "price": 114800
+  },
+  {
+   "part_number": "FYDU3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-16",
    "price": 114800
   },
