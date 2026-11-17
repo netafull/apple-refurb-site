@@ -15159,6 +15159,14 @@
    "kind": "restock",
    "date": "2026-11-17",
    "price": 326800
+  },
+  {
+   "part_number": "G1MK8J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-17",
+   "price": 1450800
   }
  ]
 }
