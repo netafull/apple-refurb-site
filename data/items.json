@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T08:12:21+09:00",
- "count": 190,
+ "generated_at": "2026-11-17T09:12:22+09:00",
+ "count": 189,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1206,23 +1206,6 @@
    "capacity": "128gb",
    "screen": "",
    "color": "yellow",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU0D3J/A",
-   "title": "iPhone 15 Plus 128GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu0d3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlBVNHVUbkx0MzQxZGZsbEpQc2Jtc1ljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeUpIZHdXdmdKcWs4aUd1Q2d3SHNMcVMyc2ZrNXJXRklOVythS1Rtc1B6b0Q&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "blue",
    "memory": "",
    "since": "2026-07-31"
   },
