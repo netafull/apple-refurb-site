@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T22:12:29+09:00",
- "count": 188,
+ "generated_at": "2026-11-17T23:12:26+09:00",
+ "count": 187,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -2379,23 +2379,6 @@
    "capacity": "1tb",
    "screen": "16inch",
    "color": "silver",
-   "memory": "24gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "G1MZ0J/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
-   "price": 464800,
-   "url": "https://www.apple.com/jp/shop/product/g1mz0j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUFKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "1tb",
-   "screen": "16inch",
-   "color": "spaceblack",
    "memory": "24gb",
    "since": "2026-07-30"
   },
