@@ -14737,6 +14737,142 @@
    "price": 410800
   },
   {
+   "part_number": "FDE34J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 303800
+  },
+  {
+   "part_number": "FDE44J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 232800
+  },
+  {
+   "part_number": "FDE64J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 303800
+  },
+  {
+   "part_number": "FDH74J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 189800
+  },
+  {
+   "part_number": "FDH94J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 267800
+  },
+  {
+   "part_number": "FDHA4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 189800
+  },
+  {
+   "part_number": "FDHC4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 236800
+  },
+  {
+   "part_number": "FDHE4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 189800
+  },
+  {
+   "part_number": "FDHF4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 236800
+  },
+  {
+   "part_number": "FDHH4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 189800
+  },
+  {
+   "part_number": "FDHK4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 267800
+  },
+  {
+   "part_number": "FHFA4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 102800
+  },
+  {
+   "part_number": "FHFC4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 116800
+  },
+  {
+   "part_number": "FHFE4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シトラス",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 116800
+  },
+  {
+   "part_number": "FHFF4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 102800
+  },
+  {
+   "part_number": "FHFG4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - インディゴ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 116800
+  },
+  {
+   "part_number": "FHFJ4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - ブラッシュ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 116800
+  },
+  {
    "part_number": "FU083J/A",
    "category": "iphone",
    "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
@@ -14759,6 +14895,70 @@
    "kind": "sold_out",
    "date": "2026-11-17",
    "price": 126800
+  },
+  {
+   "part_number": "FU973J/A",
+   "category": "mac",
+   "title": "Mac Studio [整備済製品] 28コアCPUと60コアGPUを搭載したApple M3 Ultraチップ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 747800
+  },
+  {
+   "part_number": "FU9D3J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 114800
+  },
+  {
+   "part_number": "G1CD5J/A",
+   "category": "mac",
+   "title": "Mac Studio [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 526800
+  },
+  {
+   "part_number": "G1CE6J/A",
+   "category": "mac",
+   "title": "Mac Studio [整備済製品] 32コアCPUと80コアGPUを搭載したApple M3 Ultraチップ",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 1053800
+  },
+  {
+   "part_number": "G1KK2J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スペースブラック",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 333800
+  },
+  {
+   "part_number": "G1KK5J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - スペースブラック",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 326800
+  },
+  {
+   "part_number": "G1KN2J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 333800
+  },
+  {
+   "part_number": "G1KN5J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ、 Nano-textureディスプレイ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-17",
+   "price": 326800
   }
  ]
 }
