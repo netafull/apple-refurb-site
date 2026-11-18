@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T14:12:21+09:00",
- "count": 183,
+ "generated_at": "2026-11-18T15:12:31+09:00",
+ "count": 182,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1803,23 +1803,6 @@
    "color": "spaceblack",
    "memory": "48gb",
    "since": "2026-11-04"
-  },
-  {
-   "part_number": "G1FSFJ/A",
-   "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - シルバー",
-   "price": 719800,
-   "url": "https://www.apple.com/jp/shop/product/g1fsfj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m4-silver-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=d04ycXJNT3FjYU8yTmdpcGxNTTc2OHExTVkrVjUvZnVYc2Z5Vld3SUljU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmhEYkoxU2ZPdGIyVlBtdm5vOGZ2K00&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "16inch",
-   "color": "silver",
-   "memory": "64gb",
-   "since": "2026-11-06"
   },
   {
    "part_number": "G1JVYJ/A",

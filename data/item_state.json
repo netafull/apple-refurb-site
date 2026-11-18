@@ -1111,22 +1111,6 @@
   "restocked_at": "2026-09-28",
   "restocked_at_at": "2026-09-28T14:42:21+09:00"
  },
- "G1FSFJ/A": {
-  "first_seen": "2026-11-06",
-  "first_seen_at": "2026-11-06T17:12:22+09:00",
-  "last_seen": "2026-11-18",
-  "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 719800,
-  "price_history": [
-   [
-    "2026-11-06",
-    719800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null
- },
  "G1FFAJ/A": {
   "first_seen": "2026-11-04",
   "first_seen_at": "2026-11-04T12:12:20+09:00",
@@ -3156,6 +3140,22 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1FSFJ/A": {
+  "first_seen": "2026-11-06",
+  "first_seen_at": "2026-11-06T17:12:22+09:00",
+  "last_seen": "2026-11-18",
+  "title": "16インチMacBook Pro [整備済製品] 16コアCPUと40コアGPUを搭載したApple M4 Maxチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 719800,
+  "price_history": [
+   [
+    "2026-11-06",
+    719800
+   ]
+  ],
+  "sold_out_at": "2026-11-18",
+  "baseline": null
  },
  "FDH74J/A": {
   "first_seen": "2026-08-04",
