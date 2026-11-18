@@ -15201,6 +15201,14 @@
    "price": 102800
   },
   {
+   "part_number": "FHFA4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-18",
+   "price": 102800
+  },
+  {
    "part_number": "FHFF4J/A",
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
@@ -15487,6 +15495,14 @@
    "kind": "sold_out",
    "date": "2026-11-18",
    "price": 326800
+  },
+  {
+   "part_number": "G1MLAJ/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "kind": "sold_out",
+   "date": "2026-11-18",
+   "price": 439800
   }
  ]
 }
