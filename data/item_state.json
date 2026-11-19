@@ -2515,6 +2515,28 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FU083J/A": {
+  "first_seen": "2026-07-31",
+  "last_seen": "2026-11-19",
+  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-07-31",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "first_seen_at": "2026-07-31T12:00:00+09:00",
+  "restocked_at": "2026-11-19",
+  "restocked_at_at": "2026-11-19T18:12:21+09:00"
+ },
  "FU093J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-11-19",
@@ -3759,28 +3781,6 @@
   "first_seen": "2026-07-31",
   "last_seen": "2026-11-17",
   "title": "iPhone 15 Plus 128GB - ブルー（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-07-31",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": "2026-11-17",
-  "baseline": null,
-  "first_seen_at": "2026-07-31T12:00:00+09:00",
-  "restocked_at": "2026-11-16",
-  "restocked_at_at": "2026-11-16T15:12:19+09:00"
- },
- "FU083J/A": {
-  "first_seen": "2026-07-31",
-  "last_seen": "2026-11-17",
-  "title": "iPhone 15 Plus 128GB - ブラック（SIMフリー）[整備済製品]",
   "category": "iphone",
   "price": 114800,
   "price_history": [
