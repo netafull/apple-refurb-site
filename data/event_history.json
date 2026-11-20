@@ -15591,6 +15591,22 @@
    "kind": "sold_out",
    "date": "2026-11-20",
    "price": 102800
+  },
+  {
+   "part_number": "FUWA3ZA/A",
+   "category": "ipad",
+   "title": "Apple Pencil（USB-C）[整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 12800
+  },
+  {
+   "part_number": "FXN63J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 84800
   }
  ]
 }

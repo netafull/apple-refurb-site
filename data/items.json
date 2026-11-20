@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T11:12:19+09:00",
- "count": 174,
+ "generated_at": "2026-11-20T12:12:29+09:00",
+ "count": 176,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -936,6 +936,40 @@
    "color": "silver",
    "memory": "",
    "since": "2026-07-30"
+  },
+  {
+   "part_number": "FXN63J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn63j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1cwVzd6RkRUK01tYk45VCtHYk1UMDY&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "space_gray",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FUWA3ZA/A",
+   "title": "Apple Pencil（USB-C）[整備済製品]",
+   "price": 12800,
+   "url": "https://www.apple.com/jp/shop/product/fuwa3za/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-apple-pencil-usb-c?wid=800&hei=800&fmt=webp&qlt=90&.v=YjVWTjEyaWRNZ3BxOFBLOGNNLzlqUHJRZTFuZTRxb0dzOWZHZDhLVmpOMmVEL3lKSDg2bFdqdDJJSFNKbFlRNldGNWdLSCtaOGlPbUxiVHlFWlFtaGhySFg1MlprSWF0STdiLzVlYWNPVGs&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadaccessories",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-07-31"
   },
   {
    "part_number": "FU6Y3J/A",
