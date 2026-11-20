@@ -15823,6 +15823,14 @@
    "kind": "sold_out",
    "date": "2026-11-20",
    "price": 594800
+  },
+  {
+   "part_number": "FHFJ4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - ブラッシュ",
+   "kind": "restock",
+   "date": "2026-11-21",
+   "price": 116800
   }
  ]
 }
