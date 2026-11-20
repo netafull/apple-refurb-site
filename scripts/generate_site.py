@@ -255,10 +255,15 @@ def load_prev_counts(today: datetime.date) -> dict:
 
 def build_events(
     items: list[dict], state: dict, today: datetime.date,
-    now: datetime.datetime,
+    now: datetime.datetime, new_hours: float | None = None,
 ) -> dict:
-    """在庫一覧と履歴を突き合わせて「入荷」「値下げ」「売り切れ」を作る。"""
-    new_hours = CONFIG.get("new_arrival_hours", 24)
+    """在庫一覧と履歴を突き合わせて「入荷」「値下げ」「売り切れ」を作る。
+
+    new_hours は新着とみなす時間(省略時は config の new_arrival_hours)。
+    feed.json は3日分が要るので、そちらは広い窓を渡す
+    """
+    if new_hours is None:
+        new_hours = CONFIG.get("new_arrival_hours", 24)
     drop_days = CONFIG.get("price_drop_days", 14)
     gone_days = CONFIG.get("sold_out_days", 7)
 
@@ -1223,6 +1228,73 @@ def generate_sitemap(data: dict) -> str:
 """
 
 
+FEED_MAX_ITEMS = 20
+FEED_DAYS = 3
+
+
+def generate_feed_data(data: dict, state: dict, now: datetime.datetime) -> dict:
+    """ポチフルのダッシュボード用 feed.json(仕様 v1)。
+
+    1件 = 新しく掲載された(初検出または再入荷した)整備済製品。トップの「新着入荷」と
+    同じ判定(初回ベースラインは除外)を、直近3日以内に広げたもの。
+    日付は入荷の日(JST)。url はその製品ラインのページ(/mac/ など)。
+    画像はサイトが既に表示している Apple の商品画像(アフィリエイトは無いので
+    image_link は付けない)。Apple のサイトには取りに行かない
+    """
+    now = now.astimezone(JST)
+    today = now.date()
+    site_url = CONFIG.get("site_url", "")
+    site_name = CONFIG.get("site_title", "")
+    slugs = {c["slug"] for c in line_categories()}
+    events = build_events(
+        data["items"], state, today, now, new_hours=FEED_DAYS * 24
+    )
+    rows = []
+    seen: set[str] = set()
+    for it in events["arrivals"]:
+        part = it["part_number"]
+        if part in seen:
+            continue
+        seen.add(part)
+        at = it.get("event_at") or ""
+        sort_at = ""
+        d = None
+        try:
+            dt = datetime.datetime.fromisoformat(at).astimezone(JST)
+            d, sort_at = dt.date(), dt.isoformat()
+        except (TypeError, ValueError):
+            try:
+                d = datetime.date.fromisoformat(it.get("event_date") or "")
+                sort_at = d.isoformat()
+            except ValueError:
+                continue
+        if not 0 <= (today - d).days <= FEED_DAYS - 1:
+            continue
+        cat = it.get("category")
+        row = {
+            "id": f"apple:{part}",
+            "title": clean_title(it["title"]),
+            "url": f"{site_url}{cat}/" if cat in slugs else site_url,
+            "date": d.isoformat(),
+            "note": f"¥{int(it['price']):,}",
+        }
+        if it.get("image"):
+            row["image"] = it["image"]
+        row["source"] = "apple"
+        row["source_name"] = site_name
+        row["icon"] = None
+        rows.append((sort_at, row))
+    rows.sort(key=lambda r: r[0], reverse=True)
+    return {
+        "version": 1,
+        "site": "apple",
+        "site_name": site_name,
+        "site_url": site_url,
+        "generated": now.isoformat(timespec="seconds"),
+        "items": [r[1] for r in rows[:FEED_MAX_ITEMS]],
+    }
+
+
 def main() -> int:
     data = json.loads(ITEMS_PATH.read_text(encoding="utf-8"))
     try:
@@ -1253,6 +1325,12 @@ def main() -> int:
         (cat_dir / "index.html").write_text(page, encoding="utf-8")
         pages.append(f"{cat['slug']}/index.html")
     (DOCS / "rss.xml").write_text(generate_rss(data, events), encoding="utf-8")
+    (DOCS / "feed.json").write_text(
+        json.dumps(
+            generate_feed_data(data, state, generated), ensure_ascii=False, indent=2
+        ),
+        encoding="utf-8",
+    )
     (DOCS / "sitemap.xml").write_text(generate_sitemap(data), encoding="utf-8")
     (DOCS / "robots.txt").write_text(
         f"User-agent: *\nAllow: /\nSitemap: {CONFIG.get('site_url', '')}sitemap.xml\n",
@@ -1267,7 +1345,7 @@ def main() -> int:
     # 姉妹2サイトはアーティファクト方式なのでこの問題は起きない
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     print(
-        f"generated: index.html, rss.xml, sitemap.xml, robots.txt, CNAME, .nojekyll, "
+        f"generated: index.html, rss.xml, feed.json, sitemap.xml, robots.txt, CNAME, .nojekyll, "
         f"{', '.join(pages)} "
         f"(在庫{data['count']}件 / 新着{len(events['arrivals'])}件 "
         f"値下げ{len(events['drops'])}件 売り切れ{len(events['gone'])}件 / "
