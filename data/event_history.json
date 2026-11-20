@@ -15569,12 +15569,196 @@
    "price": 296800
   },
   {
+   "part_number": "FDVK4J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
+   "date": "2026-11-20",
+   "price": 270800
+  },
+  {
+   "part_number": "FEHN4J/A",
+   "category": "watch",
+   "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 39800
+  },
+  {
+   "part_number": "FEQT4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEQU4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEQW4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEU44J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEU64J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEU74J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 53800
+  },
+  {
+   "part_number": "FEUW4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 56800
+  },
+  {
+   "part_number": "FEUX4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 56800
+  },
+  {
+   "part_number": "FEV04J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 56800
+  },
+  {
+   "part_number": "FEV44J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 56800
+  },
+  {
+   "part_number": "FF834J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF854J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF8A4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF8C4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF8F4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF8H4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 67800
+  },
+  {
+   "part_number": "FF8N4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 91800
+  },
+  {
    "part_number": "FF8N4J/A",
    "category": "watch",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド [整備済製品]",
    "kind": "sold_out",
    "date": "2026-11-20",
    "price": 91800
+  },
+  {
+   "part_number": "FF8R4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスレートチタニウムケースとS/Mブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 91800
+  },
+  {
+   "part_number": "FF8X4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmゴールドチタニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 91800
+  },
+  {
+   "part_number": "FFC44J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 73800
+  },
+  {
+   "part_number": "FFCA4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-20",
+   "price": 73800
   },
   {
    "part_number": "FHFA4J/A",
@@ -15605,6 +15789,14 @@
    "category": "ipad",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "kind": "restock",
+   "date": "2026-11-20",
+   "price": 84800
+  },
+  {
+   "part_number": "FXN63J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-20",
    "price": 84800
   }
