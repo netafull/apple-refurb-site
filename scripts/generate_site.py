@@ -16,6 +16,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+
+# ポチシリーズ全体の一覧ページ(ポチフル)へのリンク。関連サイトの直後に1行で出す
+SERIES_INDEX_HTML = (
+    '<nav class="sites"><span class="lbl">ポチシリーズ一覧：</span>\n'
+    '<a href="https://pochi.netaful.jp/" data-google-vignette="false">ポチフル</a>\n</nav>'
+)
 ITEMS_PATH = ROOT / "data" / "items.json"
 STATE_PATH = ROOT / "data" / "item_state.json"
 HISTORY_PATH = ROOT / "data" / "count_history.json"
@@ -779,6 +785,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 {policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
+{SERIES_INDEX_HTML}
 </footer>
 <script>
 // 広告は見えているセクションのぶんだけ読み込む。隠れたまま処理されると
@@ -1094,6 +1101,7 @@ def generate_category_html(
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
 {policy_link}｜ <a href="../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
+{SERIES_INDEX_HTML}
 </footer>
 <script>
 document.documentElement.classList.add("js");
