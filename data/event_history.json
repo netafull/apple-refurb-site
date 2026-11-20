@@ -15799,6 +15799,14 @@
    "kind": "sold_out",
    "date": "2026-11-20",
    "price": 84800
+  },
+  {
+   "part_number": "G1JV8J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "kind": "sold_out",
+   "date": "2026-11-20",
+   "price": 420800
   }
  ]
 }
