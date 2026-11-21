@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-21T13:12:23+09:00",
+  "generated": "2026-11-21T14:12:27+09:00",
   "items": [
     {
       "id": "apple:FF8N4J/A",
@@ -138,17 +138,6 @@
       "icon": null
     },
     {
-      "id": "apple:FEUX4J/A",
-      "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド",
-      "url": "https://apple.netaful.jp/watch/",
-      "date": "2026-11-20",
-      "note": "¥56,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-jet-sport-band-black?wid=800&hei=800&fmt=webp&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKTTIrb0FJM2hvRXB1b3gvSERZUVQ2UVMwQSs0cWdQTzI1T0ZSTmY3R0MvaUY3cFI4SHFCYnV6YVp0cE9qSWUyZm9Fc3FPdm9zdnlHbVlONW9hcU1heEdnSFdCcWl1VWRCTlluNldPL3cxTGQ&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
       "id": "apple:FEV04J/A",
       "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド",
       "url": "https://apple.netaful.jp/watch/",
@@ -217,6 +206,17 @@
     {
       "id": "apple:FEU64J/A",
       "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド",
+      "url": "https://apple.netaful.jp/watch/",
+      "date": "2026-11-20",
+      "note": "¥53,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWRMblhMWkU4R3p1QUo5SUJHUjhZWTM&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FEU74J/A",
+      "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド",
       "url": "https://apple.netaful.jp/watch/",
       "date": "2026-11-20",
       "note": "¥53,800",
