@@ -3,19 +3,8 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-21T08:12:28+09:00",
+  "generated": "2026-11-21T09:12:21+09:00",
   "items": [
-    {
-      "id": "apple:FHFJ4J/A",
-      "title": "MacBook Neo Apple A18 Pro チップ、Touch ID - ブラッシュ",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-21",
-      "note": "¥116,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-blush-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYlFFbmNPeWduQ0ZxekRqemRjQVpwd29NVTcxc0h4TlorZUlMZEEwOTJNOGJ6b29ZblM4c256TmFyaWl3OVJFYUVIMS9hcHV1V3NBSFZrMVJzRmFFRWNDaVQ0RU5FQ2JUWGRpRHcwQkZ1Nno&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
     {
       "id": "apple:FF8N4J/A",
       "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmナチュラルチタニウムケースとM/Lストーングレイスポーツバンド",
@@ -221,6 +210,17 @@
       "date": "2026-11-20",
       "note": "¥53,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FEU64J/A",
+      "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド",
+      "url": "https://apple.netaful.jp/watch/",
+      "date": "2026-11-20",
+      "note": "¥53,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWRMblhMWkU4R3p1QUo5SUJHUjhZWTM&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
