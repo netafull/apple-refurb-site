@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-21T18:12:24+09:00",
+  "generated": "2026-11-21T19:12:27+09:00",
   "items": [
     {
       "id": "apple:FF8N4J/A",
@@ -83,6 +83,17 @@
       "icon": null
     },
     {
+      "id": "apple:FF8F4J/A",
+      "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド",
+      "url": "https://apple.netaful.jp/watch/",
+      "date": "2026-11-20",
+      "note": "¥67,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
       "id": "apple:FF8A4J/A",
       "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド",
       "url": "https://apple.netaful.jp/watch/",
@@ -100,17 +111,6 @@
       "date": "2026-11-20",
       "note": "¥67,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-space-sport-band-black?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMlRiL3FZQ2VjR2J1bjRsZWxnYW9hOGd1NWh5QTdDMVBXeW04TTZpV0xYT25nLzhpUi9PcFZvN2RpQjBpWldFT25vZnRHRWtVMklsSVA1ZForLzQxMEw4eXZDL2Q1M1lrMGpKb2pYL1hFcEo&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:FF8F4J/A",
-      "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド",
-      "url": "https://apple.netaful.jp/watch/",
-      "date": "2026-11-20",
-      "note": "¥67,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
