@@ -1232,6 +1232,16 @@ FEED_MAX_ITEMS = 20
 FEED_DAYS = 3
 
 
+def feed_price_note(it: dict, drop: dict | None) -> str:
+    """feed.json の note。直近に値下げがあれば「¥84,800→¥71,800（15%OFF）」、
+    無ければ現在価格だけ。was/off は build_events の drops(price_history由来)"""
+    price = int(it["price"])
+    if drop and drop.get("was") and drop["was"] > price:
+        off = drop.get("off") or round((drop["was"] - price) / drop["was"] * 100)
+        return f"¥{int(drop['was']):,}→¥{price:,}（{off}%OFF）"
+    return f"¥{price:,}"
+
+
 def generate_feed_data(data: dict, state: dict, now: datetime.datetime) -> dict:
     """ポチフルのダッシュボード用 feed.json(仕様 v1)。
 
@@ -1249,6 +1259,10 @@ def generate_feed_data(data: dict, state: dict, now: datetime.datetime) -> dict:
     events = build_events(
         data["items"], state, today, now, new_hours=FEED_DAYS * 24
     )
+    # 値下げが直近にあった型番は note を「旧価格→現価格（◯%OFF）」にする。
+    # Apple に新品価格のデータは無く、比べる相手は自分の price_history だけ。
+    # 新種の項目は増やさず、入荷の note を濃くするだけ
+    drops_by_part = {d["part_number"]: d for d in events["drops"]}
     rows = []
     seen: set[str] = set()
     for it in events["arrivals"]:
@@ -1276,7 +1290,7 @@ def generate_feed_data(data: dict, state: dict, now: datetime.datetime) -> dict:
             "title": clean_title(it["title"]),
             "url": f"{site_url}{cat}/" if cat in slugs else site_url,
             "date": d.isoformat(),
-            "note": f"¥{int(it['price']):,}",
+            "note": feed_price_note(it, drops_by_part.get(part)),
         }
         if it.get("image"):
             row["image"] = it["image"]

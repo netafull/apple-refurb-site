@@ -57,6 +57,29 @@ class FeedTest(unittest.TestCase):
         f = self.feed(items, state)
         self.assertEqual([i["id"] for i in f["items"]], ["apple:NEW", "apple:RE", "apple:MID"])
 
+    def test_note_shows_recent_drop(self):
+        # 入荷かつ直近に値下げ(84,800→71,800)あり → 旧価格→現価格。値下げなしは価格だけ
+        state = {
+            "D": {"first_seen": "2026-11-20", "first_seen_at": "2026-11-20T09:00:00+09:00",
+                  "price_history": [["2026-11-18", 84800], ["2026-11-20", 71800]]},
+            "N": {"first_seen": "2026-11-20", "first_seen_at": "2026-11-20T09:00:00+09:00",
+                  "price_history": [["2026-11-20", 98800]]},
+            "UP": {"first_seen": "2026-11-20", "first_seen_at": "2026-11-20T09:00:00+09:00",
+                   "price_history": [["2026-11-18", 60000], ["2026-11-20", 98800]]},
+        }
+        f = self.feed([item("D", price=71800), item("N"), item("UP")], state)
+        notes = {i["id"]: i["note"] for i in f["items"]}
+        self.assertEqual(notes["apple:D"], "¥84,800→¥71,800（15%OFF）")
+        self.assertEqual(notes["apple:N"], "¥98,800")
+        self.assertEqual(notes["apple:UP"], "¥98,800")  # 値上げは出さない
+
+    def test_drop_without_arrival_adds_no_item(self):
+        # 入荷でない(古い)商品の値下げは、feed に新しい項目を増やさない
+        state = {"OLD": {"first_seen": "2026-10-01", "first_seen_at": "2026-10-01T09:00:00+09:00",
+                         "price_history": [["2026-11-18", 84800], ["2026-11-20", 71800]]}}
+        f = self.feed([item("OLD", price=71800, since="2026-10-01")], state)
+        self.assertEqual(f["items"], [])
+
     def test_max_20(self):
         state = {f"P{n}": {"first_seen": "2026-11-20", "first_seen_at": "2026-11-20T10:00:00+09:00"} for n in range(30)}
         f = self.feed([item(f"P{n}") for n in range(30)], state)
