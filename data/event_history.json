@@ -15881,6 +15881,30 @@
    "price": 307800
   },
   {
+   "part_number": "FFEW4J/A",
+   "category": "mac",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+   "kind": "restock",
+   "date": "2026-11-22",
+   "price": 288800
+  },
+  {
+   "part_number": "FFEX4J/A",
+   "category": "mac",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
+   "kind": "restock",
+   "date": "2026-11-22",
+   "price": 228800
+  },
+  {
+   "part_number": "FFF04J/A",
+   "category": "mac",
+   "title": "Studio Display [整備済製品] - Nano-textureガラス - 傾きと高さを調整できるスタンド",
+   "kind": "restock",
+   "date": "2026-11-22",
+   "price": 329800
+  },
+  {
    "part_number": "G1JVKJ/A",
    "category": "mac",
    "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
