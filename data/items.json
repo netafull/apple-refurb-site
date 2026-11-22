@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T23:12:24+09:00",
- "count": 189,
+ "generated_at": "2026-11-23T00:12:25+09:00",
+ "count": 187,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1941,23 +1941,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "G1FU4J/A",
-   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
-   "price": 595800,
-   "url": "https://www.apple.com/jp/shop/product/g1fu4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m4-spaceblack-202502?wid=800&hei=800&fmt=webp&qlt=90&.v=d04ycXJNT3FjYU8yTmdpcGxNTTc2eE8zVnlEd1o1SE05NWdMUEFHWVMzZ1ljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeU1mT3lDcEt1YU9kd3dlU3pPejJGQUFUUFRyb2RjNHk0akgzMk1vc0ErMzk&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2024",
-   "capacity": "2tb",
-   "screen": "16inch",
-   "color": "spaceblack",
-   "memory": "48gb",
-   "since": "2026-11-06"
-  },
-  {
    "part_number": "FGDQ4J/A",
    "title": "14インチMacBook Pro [整備済製品] 18コアCPUと32コアGPUを搭載したApple M5 Maxチップ - シルバー",
    "price": 593800,
@@ -2636,23 +2619,6 @@
    "color": "pink",
    "memory": "16gb",
    "since": "2026-07-30"
-  },
-  {
-   "part_number": "FFEX4J/A",
-   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
-   "price": 228800,
-   "url": "https://www.apple.com/jp/shop/product/ffex4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=800&hei=800&fmt=webp&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVXd1UE9qSnNuaDFaMzAxYzg4WFF4VnAxU0NpNTVPeXI2MU5LQkN5QkNQbFBZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
   },
   {
    "part_number": "FCYT4J/A",

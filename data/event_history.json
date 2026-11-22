@@ -15935,6 +15935,22 @@
    "kind": "sold_out",
    "date": "2026-11-22",
    "price": 497800
+  },
+  {
+   "part_number": "FFEX4J/A",
+   "category": "mac",
+   "title": "Studio Display [整備済製品] - 標準ガラス - 傾きを調整できるスタンド",
+   "kind": "sold_out",
+   "date": "2026-11-23",
+   "price": 228800
+  },
+  {
+   "part_number": "G1FU4J/A",
+   "category": "mac",
+   "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+   "kind": "sold_out",
+   "date": "2026-11-23",
+   "price": 595800
   }
  ]
 }
