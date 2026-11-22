@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:12:25+09:00",
+ "generated_at": "2026-11-22T19:12:25+09:00",
  "count": 190,
  "items": [
   {
@@ -1155,6 +1155,23 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU0N3J/A",
+   "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
+   "price": 126800,
+   "url": "https://www.apple.com/jp/shop/product/fu0n3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlBVNHVUbkx0MzQxZGZsbEpQc2Jtc1ljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeUpIZHdXdmdKcWs4aUd1Q2d3SHNMcVMyc2ZrNXJXRklOVythS1Rtc1B6b0Q&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "256gb",
+   "screen": "",
+   "color": "blue",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -3034,23 +3051,6 @@
    "price": 67800,
    "url": "https://www.apple.com/jp/shop/product/ff8h4j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWRMblhMWkU4R3p1QUo5SUJHUjhZWTM&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
-   "part_number": "FEUW4J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 46mmジェットブラックアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
-   "price": 56800,
-   "url": "https://www.apple.com/jp/shop/product/feuw4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-46-s11-alum-jet-sport-band-black?wid=800&hei=800&fmt=webp&qlt=90&.v=Q2hsSWF4YmFoait0ZmZ1WHI5SkpKTTIrb0FJM2hvRXB1b3gvSERZUVQ2UVMwQSs0cWdQTzI1T0ZSTmY3R0MvaUY3cFI4SHFCYnV6YVp0cE9qSWUyZm9Fc3FPdm9zdnlHbVlONW9hcU1heEdnSFdCcWl1VWRCTlluNldPL3cxTGQ&traceId=1",
    "category": "watch",
    "category_name": "Apple Watch",
    "shipping": "24時間以内",
