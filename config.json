@@ -118,7 +118,6 @@
     }
   ],
   "state_retention_days": 365,
-  "policy_url": "https://netaful.jp/policy.html",
   "adsense_client_id": "ca-pub-2195959398357532",
   "adsense_ad_slot": "1215675017",
   "wordpress": {

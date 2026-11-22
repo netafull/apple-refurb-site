@@ -631,16 +631,6 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
 
-    # メディアポリシー(プライバシーポリシー・AdSenseのCookie告知を含む)は
-    # netaful.jp/policy.html に既にある。3サイトとも netaful.jp 配下なので
-    # 各サイトに複製せずリンクで参照する
-    policy_url = CONFIG.get("policy_url", "")
-    policy_link = (
-        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
-        if policy_url
-        else ""
-    )
-
     # AdSenseの広告コード。ads.txtはルートドメイン(netaful.jp)のものが
     # サブドメインにも適用されるため、各サイトでの設置は不要
     adsense_id = CONFIG.get("adsense_client_id", "")
@@ -788,7 +778,8 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-{policy_link}｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
 </footer>
@@ -955,12 +946,6 @@ def generate_category_html(
     gsv_tag = (
         f'<meta name="google-site-verification" content="{esc(gsv)}">' if gsv else ""
     )
-    policy_url = CONFIG.get("policy_url", "")
-    policy_link = (
-        f'｜ <a href="{esc(policy_url)}" data-google-vignette="false" style="color:inherit">メディアポリシー</a>\n'
-        if policy_url
-        else ""
-    )
     adsense_id = CONFIG.get("adsense_client_id", "")
     adsense_tag = (
         '<script async src="https://pagead2.googlesyndication.com/pagead/js/'
@@ -1104,7 +1089,8 @@ def generate_category_html(
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-{policy_link}｜ <a href="../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
+当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+｜ <a href="../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
 </footer>
