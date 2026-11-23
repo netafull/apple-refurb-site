@@ -778,7 +778,7 @@ def generate_html(data: dict, state: dict, events: dict) -> str:
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+当サイトはGoogle AdSenseを掲載し、Googleアナリティクスを使っています。いずれもCookieを使うことがあります。
 ｜ <a href="rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
@@ -1089,7 +1089,7 @@ def generate_category_html(
 購入前にApple公式サイトで最新の状況をご確認ください。
 当サイトはApple Inc.とは一切関係のない非公式サイトです。
 Apple、Mac、iPad、iPhoneなどはApple Inc.の商標です。
-当サイトは広告（Google AdSense）を掲載し、アクセス解析（Googleアナリティクス）を使っています。いずれもCookieを使うことがあります。
+当サイトはGoogle AdSenseを掲載し、Googleアナリティクスを使っています。いずれもCookieを使うことがあります。
 ｜ <a href="../rss.xml" data-google-vignette="false" style="color:inherit">RSS</a>
 {related_html}
 {SERIES_INDEX_HTML}
