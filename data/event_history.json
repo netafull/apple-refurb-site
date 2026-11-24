@@ -15985,6 +15985,78 @@
    "price": 670800
   },
   {
+   "part_number": "FCA04J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 102800
+  },
+  {
+   "part_number": "FCFV4J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 124800
+  },
+  {
+   "part_number": "FCFW4J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 124800
+  },
+  {
+   "part_number": "FCFY4J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 124800
+  },
+  {
+   "part_number": "FCNL4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 135800
+  },
+  {
+   "part_number": "FCNN4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 148800
+  },
+  {
+   "part_number": "FCNP4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 256GB - ブルー [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 148800
+  },
+  {
+   "part_number": "FCNQ4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 256GB - スターライト [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 148800
+  },
+  {
+   "part_number": "FCNR4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 148800
+  },
+  {
    "part_number": "FCR24J/A",
    "category": "mac",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
@@ -16009,6 +16081,14 @@
    "price": 123800
   },
   {
+   "part_number": "FEP94J/A",
+   "category": "watch",
+   "title": "Apple Watch SE 3（GPS + Cellularモデル）- 40mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 41800
+  },
+  {
    "part_number": "FFEL4J/A",
    "category": "mac",
    "title": "Studio Display XDR [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
@@ -16023,6 +16103,70 @@
    "kind": "restock",
    "date": "2026-11-24",
    "price": 406800
+  },
+  {
+   "part_number": "FK7V3J/A",
+   "category": "ipad",
+   "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 84800
+  },
+  {
+   "part_number": "FNXD3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 128GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 124800
+  },
+  {
+   "part_number": "FNXE3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 124800
+  },
+  {
+   "part_number": "FNXF3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 138800
+  },
+  {
+   "part_number": "FNXG3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 256GB - シルバー（第4世代）[整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 138800
+  },
+  {
+   "part_number": "FNXT3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 256GB - シルバー（第6世代）[整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 189800
+  },
+  {
+   "part_number": "FNXV3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 512GB - シルバー（第6世代）[整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 220800
+  },
+  {
+   "part_number": "FQ6K3J/A",
+   "category": "ipad",
+   "title": "iPad Wi-Fi + Cellular 64GB - ブルー（第10世代）[整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 74800
   },
   {
    "part_number": "FTUD3J/A",
@@ -16105,6 +16249,30 @@
    "price": 156800
   },
   {
+   "part_number": "FVX43J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 239800
+  },
+  {
+   "part_number": "FVXU3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 270800
+  },
+  {
+   "part_number": "FWRG3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 311800
+  },
+  {
    "part_number": "FWUG3J/A",
    "category": "mac",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - ピンク",
@@ -16135,6 +16303,70 @@
    "kind": "restock",
    "date": "2026-11-24",
    "price": 261800
+  },
+  {
+   "part_number": "FXN63J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 84800
+  },
+  {
+   "part_number": "FXN73J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 84800
+  },
+  {
+   "part_number": "FXN83J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 84800
+  },
+  {
+   "part_number": "FXN93J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 84800
+  },
+  {
+   "part_number": "FXNA3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 98800
+  },
+  {
+   "part_number": "FXNC3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - ブルー [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 98800
+  },
+  {
+   "part_number": "FXND3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スターライト [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 98800
+  },
+  {
+   "part_number": "FXNE3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - パープル [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 98800
   },
   {
    "part_number": "FXVE3J/A",
@@ -16191,6 +16423,30 @@
    "kind": "restock",
    "date": "2026-11-24",
    "price": 114800
+  },
+  {
+   "part_number": "FYGY3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 128800
+  },
+  {
+   "part_number": "FYH13J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - ブルー [整備済製品]",
+   "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 128800
+  },
+  {
+   "part_number": "FYH23J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-24",
+   "price": 128800
   },
   {
    "part_number": "FYJF3J/A",
