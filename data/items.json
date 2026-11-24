@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T15:12:27+09:00",
- "count": 208,
+ "generated_at": "2026-11-24T16:14:10+09:00",
+ "count": 205,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1174,40 +1174,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FXVJ3J/A",
-   "title": "iPhone 16 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvj3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-pink-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvVzRndE94dVcyZzFwYkNoWW9lSE1tTEkwRGFoSWtuamJCNVVtaEhsa1l5em5ZdDMremx3N21EQS9OQlBTRXgxeVBBV3ZHem9yMWtoVXdJQ0t3L0Y0M1lyVHF2MHBJUFRRbkJVSW5yQUI3VXc&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "pink",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
-   "part_number": "FTUD3J/A",
-   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
-   "price": 134800,
-   "url": "https://www.apple.com/jp/shop/product/ftud3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-whitetitanium-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOUllHMHQvMVRaS3BIb3dKSVRYaFFENlQyUmcxZENxTlRGTmYxYW1JYWQrR25nLzhpUi9PcFZvN2RpQjBpWldFT280a3BmRTBrVXd6NHlFcW9qdEdCYnNCbERENzd1ZXhTZlRCRWh3dmxYcy8&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "whitetitanium",
-   "memory": "",
-   "since": "2026-08-01"
   },
   {
    "part_number": "FU0H3J/A",
@@ -2961,23 +2927,6 @@
    "since": "2026-08-22"
   },
   {
-   "part_number": "FYJG3J/A",
-   "title": "Apple Studio Display - 標準ガラス、傾きを調整できるスタンド [整備済製品]",
-   "price": 186800,
-   "url": "https://www.apple.com/jp/shop/product/fyjg3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-202206?wid=800&hei=800&fmt=webp&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJaFlPSndNaDdoR0gxdTVrVXNkVjlWVXd1UE9qSnNuaDFaMzAxYzg4WFF4VnAxU0NpNTVPeXI2MU5LQkN5QkNQbFBZYTF4d0R4eGVnN1ZYN25OMnA4OEh0TkcyK2t0blgzTEJ4MGt1QldVUUY&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2022",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
-  },
-  {
    "part_number": "FCYT4J/A",
    "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
    "price": 175800,
@@ -3301,6 +3250,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3333,23 +3299,6 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
-  },
-  {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",

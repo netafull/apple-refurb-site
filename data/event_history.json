@@ -16033,6 +16033,14 @@
    "price": 134800
   },
   {
+   "part_number": "FTUD3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 134800
+  },
+  {
    "part_number": "FTUH3J/A",
    "category": "iphone",
    "title": "iPhone 15 Pro 512GB - ブラックチタニウム（SIMフリー）[整備済製品]",
@@ -16153,6 +16161,14 @@
    "price": 140800
   },
   {
+   "part_number": "FXVJ3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 140800
+  },
+  {
    "part_number": "FXVK3J/A",
    "category": "iphone",
    "title": "iPhone 16 Plus 256GB - ウルトラマリン（SIMフリー）[整備済製品]",
@@ -16189,6 +16205,14 @@
    "category": "mac",
    "title": "Apple Studio Display - 標準ガラス、傾きを調整できるスタンド [整備済製品]",
    "kind": "restock",
+   "date": "2026-11-24",
+   "price": 186800
+  },
+  {
+   "part_number": "FYJG3J/A",
+   "category": "mac",
+   "title": "Apple Studio Display - 標準ガラス、傾きを調整できるスタンド [整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-24",
    "price": 186800
   },
