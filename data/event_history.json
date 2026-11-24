@@ -16121,6 +16121,14 @@
    "price": 406800
   },
   {
+   "part_number": "FFEN4J/A",
+   "category": "mac",
+   "title": "Studio Display XDR [整備済製品] - 標準ガラス - VESAマウントアダプタ",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 406800
+  },
+  {
    "part_number": "FK7V3J/A",
    "category": "ipad",
    "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
@@ -16253,6 +16261,14 @@
    "category": "iphone",
    "title": "iPhone 15 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-24",
+   "price": 126800
+  },
+  {
+   "part_number": "FU0H3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-24",
    "price": 126800
   },
@@ -16485,6 +16501,14 @@
    "category": "mac",
    "title": "Apple Studio Display - 標準ガラス、傾きと高さを調整できるスタンド [整備済製品]",
    "kind": "restock",
+   "date": "2026-11-24",
+   "price": 227800
+  },
+  {
+   "part_number": "FYJF3J/A",
+   "category": "mac",
+   "title": "Apple Studio Display - 標準ガラス、傾きと高さを調整できるスタンド [整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-24",
    "price": 227800
   },

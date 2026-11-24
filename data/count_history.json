@@ -1249,13 +1249,12 @@
  },
  "2026-11-24": {
   "categories": {
-   "accessories": 1,
    "homepod": 2,
    "ipad": 81,
-   "iphone": 15,
-   "mac": 102,
+   "iphone": 14,
+   "mac": 101,
    "watch": 29
   },
-  "total": 230
+  "total": 227
  }
 }

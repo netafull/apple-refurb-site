@@ -1,24 +1,7 @@
 {
- "generated_at": "2026-11-24T22:12:21+09:00",
- "count": 230,
+ "generated_at": "2026-11-24T23:12:23+09:00",
+ "count": 227,
  "items": [
-  {
-   "part_number": "FYJF3J/A",
-   "title": "Apple Studio Display - 標準ガラス、傾きと高さを調整できるスタンド [整備済製品]",
-   "price": 227800,
-   "url": "https://www.apple.com/jp/shop/product/fyjf3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-studio-display-tilt-height-202206?wid=800&hei=800&fmt=webp&qlt=90&.v=SHNkQVBCNFdPWW5Id3MyYjJjL2FJak1JbUpGajlzb1ZKR29lMnp5bXgxVlhOTXoxalNTSnNHQUdNQUdnQmpmUHpuVDY4SmJiQ3NXV0dUU3loNlM2UkUxSlgrVWMrMzU1OXo2c2JyNjJZTGdBbmdvVmp1aENTSG13NHJ3TkcvSGk&traceId=1",
-   "category": "accessories",
-   "category_name": "アクセサリ",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-13"
-  },
   {
    "part_number": "FDEW4J/A",
    "title": "HomePod（第2世代）[整備済製品] - ミッドナイト",
@@ -1363,6 +1346,23 @@
    "since": "2026-10-26"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -1410,23 +1410,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -1648,23 +1631,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "bluetitanium",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU0H3J/A",
-   "title": "iPhone 15 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fu0h3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-pink-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOYjlUZHByUElwUm1lbVZiSjk4UzdEUVljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeUhLdHlVbEdDbnJwZmpoNkxqMWdsQURJNXVnTUExRktaZ050ZVlSTzNDcG8&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "pink",
    "memory": "",
    "since": "2026-07-31"
   },
@@ -2825,23 +2791,6 @@
    "since": "2026-08-19"
   },
   {
-   "part_number": "FFEN4J/A",
-   "title": "Studio Display XDR [整備済製品] - 標準ガラス - VESAマウントアダプタ",
-   "price": 406800,
-   "url": "https://www.apple.com/jp/shop/product/ffen4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MFEN4?wid=800&hei=800&fmt=webp&qlt=90&.v=TENaT0x6UWx1RWZIZU1nelZPVXdrYWRVZ291ZVRzcSt0VFNnUXNnUWo1UWZ3d1lxekI0WWRuQkNDNVVjRFFVdHhyTFM4SWxqQ1JFcDh0c0k4a2Ivenc&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "display",
-   "year": "2026",
-   "capacity": "",
-   "screen": "27inch",
-   "color": "",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "G1EJ1J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 383800,
@@ -3692,6 +3641,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3724,23 +3690,6 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
-  },
-  {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",
