@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T14:12:27+09:00",
- "count": 214,
+ "generated_at": "2026-11-24T15:12:27+09:00",
+ "count": 208,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1091,23 +1091,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FTUH3J/A",
-   "title": "iPhone 15 Pro 512GB - ブラックチタニウム（SIMフリー）[整備済製品]",
-   "price": 163800,
-   "url": "https://www.apple.com/jp/shop/product/ftuh3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvU1QyUmcxZENxTlRGTmYxYW1JYWQrR25nLzhpUi9PcFZvN2RpQjBpWldFT280a3BmRTBrVXd6NHlFcW9qdEdCYnNsSDl3QTBIcEZKcHd0RXhaUmxNV3I&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15pro",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "blacktitanium",
-   "memory": "",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FU0W3J/A",
    "title": "iPhone 15 Plus 512GB - ブルー（SIMフリー）[整備済製品]",
    "price": 156800,
@@ -1210,23 +1193,6 @@
    "since": "2026-09-25"
   },
   {
-   "part_number": "FXVK3J/A",
-   "title": "iPhone 16 Plus 256GB - ウルトラマリン（SIMフリー）[整備済製品]",
-   "price": 140800,
-   "url": "https://www.apple.com/jp/shop/product/fxvk3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-ultramarine-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvZGd5N2VrWDA3VG80UFcwbTBCdkxEMStKZVlMeDB0R05ZNm4rSm0zN044SlZEbzNiWnNBK2NFaHpzYXZPR3JUT29VVXNER2M2dlFBNFFFb3lWaVNSemJ1QlBUb3hvcHBscmxmM1BPYnBIMVk&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FTUD3J/A",
    "title": "iPhone 15 Pro 256GB - ホワイトチタニウム（SIMフリー）[整備済製品]",
    "price": 134800,
@@ -1244,23 +1210,6 @@
    "since": "2026-08-01"
   },
   {
-   "part_number": "FXVE3J/A",
-   "title": "iPhone 16 Plus 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
-   "price": 128800,
-   "url": "https://www.apple.com/jp/shop/product/fxve3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-plus-ultramarine-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvZGd5N2VrWDA3VG80UFcwbTBCdkxEMStKZVlMeDB0R05ZNm4rSm0zN044SlZEbzNiWnNBK2NFaHpzYXZPR3JUT29VVXNER2M2dlFBNFFFb3lWaVNSemJ1QlBUb3hvcHBscmxmM1BPYnBIMVk&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "ultramarine",
-   "memory": "",
-   "since": "2026-09-25"
-  },
-  {
    "part_number": "FU0H3J/A",
    "title": "iPhone 15 Plus 256GB - ピンク（SIMフリー）[整備済製品]",
    "price": 126800,
@@ -1274,57 +1223,6 @@
    "capacity": "256gb",
    "screen": "",
    "color": "pink",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FU0N3J/A",
-   "title": "iPhone 15 Plus 256GB - ブルー（SIMフリー）[整備済製品]",
-   "price": 126800,
-   "url": "https://www.apple.com/jp/shop/product/fu0n3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-blue-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWlBVNHVUbkx0MzQxZGZsbEpQc2Jtc1ljZG5QZmJlUTZUNkI2cldmNVBMWG5ZdDMremx3N21EQS9OQlBTRXgxeUpIZHdXdmdKcWs4aUd1Q2d3SHNMcVMyc2ZrNXJXRklOVythS1Rtc1B6b0Q&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "256gb",
-   "screen": "",
-   "color": "blue",
-   "memory": "",
-   "since": "2026-07-31"
-  },
-  {
-   "part_number": "FD1X4J/A",
-   "title": "iPhone 16e 512GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 123800,
-   "url": "https://www.apple.com/jp/shop/product/fd1x4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16e-black-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvYlhkQzI3UUtUMWd3QTZLREszUDJPUnNOODhnSjhaWkRCNnpWVzlJdWpGdjl4VGJTa0Z6K25XajlIZ3dxUWxxaGErbFJtS0FiYVZOdWd0bUVBbHczdG8&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16e",
-   "year": "",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-21"
-  },
-  {
-   "part_number": "FU0A3J/A",
-   "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu0a3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-yellow-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZWgwdXA4TmJkWDhsY2puZGdrSzZ0Mk9IdEVHVDFtY0lDaHYrVEs5YkgrK2J6b29ZblM4c256TmFyaWl3OVJFYUF1dmJjT0pUMysvZGJLc1JuWm5kZmlTK3Y1UkFRclBkdDN6VVdRei9KVE8&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone15plus",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "yellow",
    "memory": "",
    "since": "2026-07-31"
   },
