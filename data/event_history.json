@@ -16201,6 +16201,14 @@
    "price": 163800
   },
   {
+   "part_number": "FTUQ3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Pro 1TB - ブラックチタニウム（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 193800
+  },
+  {
    "part_number": "FU0A3J/A",
    "category": "iphone",
    "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
@@ -16509,6 +16517,14 @@
    "category": "mac",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - オレンジ",
    "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 227800
+  },
+  {
+   "part_number": "G1E81J/A",
+   "category": "mac",
+   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - オレンジ",
+   "kind": "sold_out",
    "date": "2026-11-24",
    "price": 227800
   },
