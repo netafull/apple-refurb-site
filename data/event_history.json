@@ -16033,6 +16033,14 @@
    "price": 135800
   },
   {
+   "part_number": "FCNL4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-24",
+   "price": 135800
+  },
+  {
    "part_number": "FCNN4J/A",
    "category": "ipad",
    "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
@@ -16173,6 +16181,14 @@
    "category": "ipad",
    "title": "iPad Wi-Fi + Cellular 64GB - ブルー（第10世代）[整備済製品]",
    "kind": "arrival",
+   "date": "2026-11-24",
+   "price": 74800
+  },
+  {
+   "part_number": "FQ6K3J/A",
+   "category": "ipad",
+   "title": "iPad Wi-Fi + Cellular 64GB - ブルー（第10世代）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-24",
    "price": 74800
   },

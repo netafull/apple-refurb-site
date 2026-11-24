@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-24T19:12:26+09:00",
+  "generated": "2026-11-24T20:12:26+09:00",
   "items": [
     {
       "id": "apple:FWRG3J/A",
@@ -127,17 +127,6 @@
       "icon": null
     },
     {
-      "id": "apple:FCNL4J/A",
-      "title": "13インチiPad Air（M3）Wi-Fi 128GB - パープル",
-      "url": "https://apple.netaful.jp/ipad/",
-      "date": "2026-11-24",
-      "note": "¥135,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dDdNVWJ6aEt3Z1M2TENqZmt0dEdUR21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZzhldnRERERzWnJUTWJvdTcyMWRUNk0&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
       "id": "apple:FYGY3J/A",
       "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ",
       "url": "https://apple.netaful.jp/ipad/",
@@ -221,6 +210,17 @@
       "date": "2026-11-24",
       "note": "¥124,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUnlOQTJvU0pKNDJ3ZVZKb1I1WkdNczUyTGQvczVjTzVnd1B6UVQwaE1kY2dSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FXNA3J/A",
+      "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥98,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1cwVzd6RkRUK01tYk45VCtHYk1UMDY&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
