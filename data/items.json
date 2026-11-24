@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T23:12:23+09:00",
- "count": 227,
+ "generated_at": "2026-11-25T00:12:27+09:00",
+ "count": 226,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1329,40 +1329,6 @@
    "since": "2026-11-24"
   },
   {
-   "part_number": "FK7V3J/A",
-   "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fk7v3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-wifi-starlight-gallery-2022?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0ZlBpQlQwb3h0VkRmZ2J1a0V4U1RJT016cUFacHpJYjVEdzFPUGZnaGt3QXpuVDY4SmJiQ3NXV0dUU3loNlM2UkUxSlgrVWMrMzU1OXo2c2JyNjJZTGlBNjFoeDZSTGczS2l1Y2dlQWJpK20&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2021",
-   "capacity": "256gb",
-   "screen": "8_3inch",
-   "color": "starlight",
-   "memory": "",
-   "since": "2026-10-26"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
    "part_number": "FXN63J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
    "price": 84800,
@@ -1410,6 +1376,23 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -3641,23 +3624,6 @@
    "since": "2026-08-28"
   },
   {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3690,6 +3656,23 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
+  },
+  {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",

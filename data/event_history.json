@@ -16639,6 +16639,14 @@
    "kind": "restock",
    "date": "2026-11-24",
    "price": 445800
+  },
+  {
+   "part_number": "FK7V3J/A",
+   "category": "ipad",
+   "title": "iPad mini 6 Wi-Fi 256GB - スターライト [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 84800
   }
  ]
 }
