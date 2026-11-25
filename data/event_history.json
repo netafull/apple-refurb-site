@@ -16913,6 +16913,14 @@
    "price": 301800
   },
   {
+   "part_number": "FEHN4J/A",
+   "category": "watch",
+   "title": "Apple Watch SE 3（GPSモデル）- 44mmミッドナイトアルミニウムケースとS/Mミッドナイトスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 39800
+  },
+  {
    "part_number": "FGDN4J/A",
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
@@ -17057,6 +17065,14 @@
    "price": 114800
   },
   {
+   "part_number": "FU9D3J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 114800
+  },
+  {
    "part_number": "FU9E3J/A",
    "category": "mac",
    "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
@@ -17133,6 +17149,14 @@
    "category": "mac",
    "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 375800
+  },
+  {
+   "part_number": "G1JV1J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 375800
   },
@@ -17345,6 +17369,14 @@
    "price": 253800
   },
   {
+   "part_number": "G1LT0J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 253800
+  },
+  {
    "part_number": "G1LW0J/A",
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
@@ -17389,6 +17421,14 @@
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 253800
+  },
+  {
+   "part_number": "G1LZ0J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 253800
   },
