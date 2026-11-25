@@ -17679,6 +17679,14 @@
    "kind": "restock",
    "date": "2026-11-25",
    "price": 782800
+  },
+  {
+   "part_number": "FDVH4J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 223800
   }
  ]
 }
