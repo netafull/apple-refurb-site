@@ -3,8 +3,19 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-25T09:12:18+09:00",
+  "generated": "2026-11-25T10:12:23+09:00",
   "items": [
+    {
+      "id": "apple:FTUH3J/A",
+      "title": "iPhone 15 Pro 512GB - ブラックチタニウム（SIMフリー）",
+      "url": "https://apple.netaful.jp/iphone/",
+      "date": "2026-11-25",
+      "note": "¥163,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-pro-blacktitanium-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOWHVNTFN5d3c0eUpkaGNHMEJlYUYvU1QyUmcxZENxTlRGTmYxYW1JYWQrR25nLzhpUi9PcFZvN2RpQjBpWldFT280a3BmRTBrVXd6NHlFcW9qdEdCYnNsSDl3QTBIcEZKcHd0RXhaUmxNV3I&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
     {
       "id": "apple:FWRG3J/A",
       "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- シルバー",
@@ -210,17 +221,6 @@
       "date": "2026-11-24",
       "note": "¥124,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUnlOQTJvU0pKNDJ3ZVZKb1I1WkdNczUyTGQvczVjTzVnd1B6UVQwaE1kY2dSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:FXNA3J/A",
-      "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ",
-      "url": "https://apple.netaful.jp/ipad/",
-      "date": "2026-11-24",
-      "note": "¥98,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-spacegray-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WVdGWCtuTUlmNzZWcFdRTVczdVFIYncrZEFJa2sxZ29pNWhNNVROSXZlSWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1cwVzd6RkRUK01tYk45VCtHYk1UMDY&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
