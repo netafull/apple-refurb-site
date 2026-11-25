@@ -17681,6 +17681,14 @@
    "price": 782800
   },
   {
+   "part_number": "FDHF4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 236800
+  },
+  {
    "part_number": "FDVH4J/A",
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
@@ -17695,6 +17703,14 @@
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 270800
+  },
+  {
+   "part_number": "G1KZCJ/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 359800
   }
  ]
 }

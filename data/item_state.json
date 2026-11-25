@@ -273,24 +273,6 @@
   "restocked_at": "2026-11-25",
   "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
- "FDHF4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-26",
-  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
-  "category": "mac",
-  "price": 236800,
-  "price_history": [
-   [
-    "2026-07-30",
-    236800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-25",
-  "restocked_at_at": "2026-11-25T15:12:20+09:00"
- },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-26",
@@ -826,24 +808,6 @@
   "baseline": null,
   "restocked_at": "2026-11-24",
   "restocked_at_at": "2026-11-24T13:12:21+09:00"
- },
- "G1KZCJ/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-11-26",
-  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 359800,
-  "price_history": [
-   [
-    "2026-08-26",
-    359800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-25",
-  "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
  "G1K15J/A": {
   "first_seen": "2026-08-19",
@@ -3915,6 +3879,28 @@
   "restocked_at": "2026-11-20",
   "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-11-26",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 67800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ],
+   [
+    "2026-09-10",
+    67800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-20",
+  "restocked_at_at": "2026-11-20T13:12:19+09:00"
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3952,28 +3938,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-11-26",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 67800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ],
-   [
-    "2026-09-10",
-    67800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-20",
-  "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
  "FF8H4J/A": {
   "first_seen": "2026-08-14",
@@ -4314,6 +4278,42 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FDHF4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-26",
+  "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+  "category": "mac",
+  "price": 236800,
+  "price_history": [
+   [
+    "2026-07-30",
+    236800
+   ]
+  ],
+  "sold_out_at": "2026-11-26",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-25",
+  "restocked_at_at": "2026-11-25T15:12:20+09:00"
+ },
+ "G1KZCJ/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-11-26",
+  "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 359800,
+  "price_history": [
+   [
+    "2026-08-26",
+    359800
+   ]
+  ],
+  "sold_out_at": "2026-11-26",
+  "baseline": null,
+  "restocked_at": "2026-11-25",
+  "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
  "FDVK4J/A": {
   "first_seen": "2026-07-30",
