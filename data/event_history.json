@@ -16857,6 +16857,14 @@
    "price": 236800
   },
   {
+   "part_number": "FDHJ4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 236800
+  },
+  {
    "part_number": "FDV94J/A",
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
@@ -16901,6 +16909,14 @@
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 301800
+  },
+  {
+   "part_number": "FDVN4J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 301800
   },
@@ -17125,6 +17141,14 @@
    "category": "mac",
    "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 449800
+  },
+  {
+   "part_number": "G1CD7J/A",
+   "category": "mac",
+   "title": "Mac Studio [整備済製品] 14コアCPUと32コアGPUを搭載したApple M4 Maxチップ",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 449800
   },
