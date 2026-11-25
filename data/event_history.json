@@ -17121,6 +17121,14 @@
    "price": 144800
   },
   {
+   "part_number": "G1E25J/A",
+   "category": "mac",
+   "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 304800
+  },
+  {
    "part_number": "G1E70J/A",
    "category": "mac",
    "title": "24インチiMac [整備済製品] 8コアCPUと8コアGPUを搭載したApple M4チップ、ギガビットEthernet - パープル",
@@ -17437,6 +17445,14 @@
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 284800
+  },
+  {
+   "part_number": "G1LZ1J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 284800
   },
