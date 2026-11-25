@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T05:12:31+09:00",
+  "generated": "2026-11-26T06:12:20+09:00",
   "items": [
     {
       "id": "apple:G1N2BJ/A",
@@ -100,17 +100,6 @@
       "date": "2026-11-25",
       "note": "¥303,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-spaceblack-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01SGpGdDQ3MlJ0TWtkZHQyRXBvVWVPSUZiSGRqb3llS1RWenhVTTgzcVJBMm5ZdDMremx3N21EQS9OQlBTRXgxeU82QUhjOTN0TWVSTFVaMWxPaDRJR3lzc2VPRkY3bzB2TlBiNHV3Z2hzYkg&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:FDE64J/A",
-      "title": "14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥303,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpT09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmlrSDl6V2JEeTVlcUo5bXZtOEVqZnc&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
@@ -221,6 +210,17 @@
       "date": "2026-11-25",
       "note": "¥102,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYllDQUIwMnV0STF0WFRmN05vUUc0cjhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXFJa1Evbk5jTUkvY1BFNEk1c3RMc3Q&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FHFF4J/A",
+      "title": "MacBook Neo Apple A18 Pro チップ - インディゴ",
+      "url": "https://apple.netaful.jp/mac/",
+      "date": "2026-11-25",
+      "note": "¥102,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNRDhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
