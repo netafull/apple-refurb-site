@@ -16657,6 +16657,14 @@
    "price": 177800
   },
   {
+   "part_number": "FCFW4J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - ブルー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 124800
+  },
+  {
    "part_number": "FCNN4J/A",
    "category": "ipad",
    "title": "13インチiPad Air（M3）Wi-Fi 256GB - スペースグレイ [整備済製品]",
@@ -16741,6 +16749,14 @@
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 189800
+  },
+  {
+   "part_number": "FDHA4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 189800
   },
@@ -17229,6 +17245,14 @@
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 236800
+  },
+  {
+   "part_number": "G1L61J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 236800
   },
