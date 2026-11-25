@@ -16777,6 +16777,14 @@
    "price": 189800
   },
   {
+   "part_number": "FDHE4J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと8コアGPUを搭載したApple M5チップ - ミッドナイト",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 189800
+  },
+  {
    "part_number": "FDHF4J/A",
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
@@ -16933,6 +16941,14 @@
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 116800
+  },
+  {
+   "part_number": "FHFC4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ、Touch ID - シルバー",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 116800
   },
@@ -17241,6 +17257,14 @@
    "price": 204800
   },
   {
+   "part_number": "G1L90J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 204800
+  },
+  {
    "part_number": "G1L91J/A",
    "category": "mac",
    "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
@@ -17417,6 +17441,14 @@
    "price": 455800
   },
   {
+   "part_number": "G1MHEJ/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-25",
+   "price": 455800
+  },
+  {
    "part_number": "G1MHFJ/A",
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
@@ -17469,6 +17501,14 @@
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
    "kind": "restock",
+   "date": "2026-11-25",
+   "price": 531800
+  },
+  {
+   "part_number": "G1MLGJ/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "kind": "sold_out",
    "date": "2026-11-25",
    "price": 531800
   },
