@@ -327,24 +327,6 @@
   "restocked_at": "2026-11-25",
   "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
- "FCX44J/A": {
-  "first_seen": "2026-08-26",
-  "first_seen_at": "2026-08-26T10:56:52+09:00",
-  "last_seen": "2026-11-25",
-  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-  "category": "mac",
-  "price": 237800,
-  "price_history": [
-   [
-    "2026-08-26",
-    237800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-25",
-  "restocked_at_at": "2026-11-25T15:12:20+09:00"
- },
  "G1DF0J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-25",
@@ -659,24 +641,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FFEW4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-25",
-  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
-  "category": "mac",
-  "price": 288800,
-  "price_history": [
-   [
-    "2026-07-30",
-    288800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-22",
-  "restocked_at_at": "2026-11-22T12:12:23+09:00"
- },
  "FCR24J/A": {
   "first_seen": "2026-08-19",
   "first_seen_at": "2026-08-19T12:58:37+09:00",
@@ -795,28 +759,6 @@
   "restocked_at": "2026-11-25",
   "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
- "FDE64J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-25",
-  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-  "category": "mac",
-  "price": 303800,
-  "price_history": [
-   [
-    "2026-07-30",
-    318800
-   ],
-   [
-    "2026-10-28",
-    303800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-25",
-  "restocked_at_at": "2026-11-25T15:12:20+09:00"
- },
  "FDE34J/A": {
   "first_seen": "2026-08-04",
   "first_seen_at": "2026-08-04T15:39:19+09:00",
@@ -836,6 +778,28 @@
   ],
   "sold_out_at": null,
   "baseline": null,
+  "restocked_at": "2026-11-25",
+  "restocked_at_at": "2026-11-25T15:12:20+09:00"
+ },
+ "FDE64J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-25",
+  "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+  "category": "mac",
+  "price": 303800,
+  "price_history": [
+   [
+    "2026-07-30",
+    318800
+   ],
+   [
+    "2026-10-28",
+    303800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
   "restocked_at": "2026-11-25",
   "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
@@ -1306,24 +1270,6 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
- "G1MHFJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-25",
-  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
-  "category": "mac",
-  "price": 478800,
-  "price_history": [
-   [
-    "2026-07-30",
-    478800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-25",
-  "restocked_at_at": "2026-11-25T15:12:20+09:00"
  },
  "G1AG3J/A": {
   "first_seen": "2026-11-15",
@@ -2299,6 +2245,24 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FXN93J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-11-25",
+  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+  "category": "ipad",
+  "price": 84800,
+  "price_history": [
+   [
+    "2026-08-28",
+    84800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-24",
+  "restocked_at_at": "2026-11-24T17:12:27+09:00"
+ },
  "FXN63J/A": {
   "first_seen": "2026-08-28",
   "first_seen_at": "2026-08-28T13:12:50+09:00",
@@ -2340,24 +2304,6 @@
   "first_seen_at": "2026-08-28T13:12:50+09:00",
   "last_seen": "2026-11-25",
   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
-  "category": "ipad",
-  "price": 84800,
-  "price_history": [
-   [
-    "2026-08-28",
-    84800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-24",
-  "restocked_at_at": "2026-11-24T17:12:27+09:00"
- },
- "FXN93J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-11-25",
-  "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
   "category": "ipad",
   "price": 84800,
   "price_history": [
@@ -4015,28 +3961,6 @@
   "restocked_at": "2026-11-20",
   "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
- "FEV44J/A": {
-  "first_seen": "2026-08-28",
-  "first_seen_at": "2026-08-28T13:12:50+09:00",
-  "last_seen": "2026-11-25",
-  "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 56800,
-  "price_history": [
-   [
-    "2026-08-28",
-    65800
-   ],
-   [
-    "2026-09-10",
-    56800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-20",
-  "restocked_at_at": "2026-11-20T13:12:19+09:00"
- },
  "FF834J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -4480,6 +4404,82 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCX44J/A": {
+  "first_seen": "2026-08-26",
+  "first_seen_at": "2026-08-26T10:56:52+09:00",
+  "last_seen": "2026-11-25",
+  "title": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+  "category": "mac",
+  "price": 237800,
+  "price_history": [
+   [
+    "2026-08-26",
+    237800
+   ]
+  ],
+  "sold_out_at": "2026-11-25",
+  "baseline": null,
+  "restocked_at": "2026-11-25",
+  "restocked_at_at": "2026-11-25T15:12:20+09:00"
+ },
+ "FFEW4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-25",
+  "title": "Studio Display [整備済製品] - 標準ガラス - 傾きと高さを調整できるスタンド",
+  "category": "mac",
+  "price": 288800,
+  "price_history": [
+   [
+    "2026-07-30",
+    288800
+   ]
+  ],
+  "sold_out_at": "2026-11-25",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-22",
+  "restocked_at_at": "2026-11-22T12:12:23+09:00"
+ },
+ "G1MHFJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-25",
+  "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
+  "category": "mac",
+  "price": 478800,
+  "price_history": [
+   [
+    "2026-07-30",
+    478800
+   ]
+  ],
+  "sold_out_at": "2026-11-25",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-25",
+  "restocked_at_at": "2026-11-25T15:12:20+09:00"
+ },
+ "FEV44J/A": {
+  "first_seen": "2026-08-28",
+  "first_seen_at": "2026-08-28T13:12:50+09:00",
+  "last_seen": "2026-11-25",
+  "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 56800,
+  "price_history": [
+   [
+    "2026-08-28",
+    65800
+   ],
+   [
+    "2026-09-10",
+    56800
+   ]
+  ],
+  "sold_out_at": "2026-11-25",
+  "baseline": null,
+  "restocked_at": "2026-11-20",
+  "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
  "G1LZ1J/A": {
   "first_seen": "2026-09-07",
