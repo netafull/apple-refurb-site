@@ -17721,6 +17721,14 @@
    "price": 301800
   },
   {
+   "part_number": "FDVD4J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 223800
+  },
+  {
    "part_number": "FDVH4J/A",
    "category": "mac",
    "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト",
@@ -17745,6 +17753,14 @@
    "price": 301800
   },
   {
+   "part_number": "FXN63J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 84800
+  },
+  {
    "part_number": "FYDU3J/A",
    "category": "iphone",
    "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
@@ -17759,6 +17775,14 @@
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 267800
+  },
+  {
+   "part_number": "G1H80J/A",
+   "category": "mac",
+   "title": "13インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 222800
   },
   {
    "part_number": "G1KZCJ/A",
