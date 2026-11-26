@@ -3,19 +3,8 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T22:12:28+09:00",
+  "generated": "2026-11-26T23:12:27+09:00",
   "items": [
-    {
-      "id": "apple:FDE64J/A",
-      "title": "14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-26",
-      "note": "¥303,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpT09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmlrSDl6V2JEeTVlcUo5bXZtOEVqZnc&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
     {
       "id": "apple:G1MJ4J/A",
       "title": "14インチMacBook Pro 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
@@ -221,6 +210,17 @@
       "date": "2026-11-24",
       "note": "¥124,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-cell-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bDIxL0thZzg2UVRVUHp5QW5FYnF4S21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZy9RcFZxUUp3bERVb0pPZ3NKZWhZTnk&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FNXD3J/A",
+      "title": "11インチiPad Pro Wi-Fi 128GB - スペースグレイ（第4世代）",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥124,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-spacegray-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQTBsYjF2Q1hxUjlkOUpsQ015MjBTZ2xjKzZ6a01yWmdXSWN1OEdwV25GOWlNS0N1dUh5SXR4TktnWkdHa2NuSVFNbUdRdE1uMDRuenRkQUVjOURmMm1hL256YWdNcGRBK1d4UVhCYnBMS3dR&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
