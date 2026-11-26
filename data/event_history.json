@@ -17945,6 +17945,14 @@
    "price": 782800
   },
   {
+   "part_number": "FEU44J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-27",
+   "price": 53800
+  },
+  {
    "part_number": "FEV04J/A",
    "category": "watch",
    "title": "Apple Watch Series 11（GPSモデル）- 46mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
@@ -17957,6 +17965,14 @@
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
    "kind": "restock",
+   "date": "2026-11-27",
+   "price": 102800
+  },
+  {
+   "part_number": "FHFA4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+   "kind": "sold_out",
    "date": "2026-11-27",
    "price": 102800
   },
