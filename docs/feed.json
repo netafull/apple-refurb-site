@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T16:12:30+09:00",
+  "generated": "2026-11-26T17:12:23+09:00",
   "items": [
     {
       "id": "apple:G1MJ4J/A",
@@ -34,17 +34,6 @@
       "date": "2026-11-25",
       "note": "¥408,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-midnight-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VzRmWUN2dytQNlNRK0RPVlA1N2Y3N05PUGtsSXhYYzQzWGhCbHQ5VVJhS0ZXZzlzM2cwVmJseGdsS3RYT09za3N2bUhydGh0ZkR5VStUeFJQakFuU1IrYWpGdS9XeFgvbS9ITnNYOEhYaG4&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:G1M23J/A",
-      "title": "15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥408,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlwdW0rTThNNHZVMGhTd2pTVXk3K1U&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
@@ -221,6 +210,17 @@
       "date": "2026-11-24",
       "note": "¥128,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-blue-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWJNcU5FeWdCbGd6UXlTLzFRVGMxREZGNFhqdXhLbjVQcEo4T1JKWU1VRG5nLzhpUi9PcFZvN2RpQjBpWldFT3BraGtMT2ZlUkJRUXROamxjM2VjVlN0bXM1ZmVaN0xZU1ZSS3hoc2dYNDQ&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FYH23J/A",
+      "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥128,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-starlight-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWpJRnVnclN6dnVpZjMvdE5sckxoMzRLK011UnF1dVpQZGprZ1dlRG0zUWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1hJNVJGcG9KUjMyU1dtOUhxc3oyTk0&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
