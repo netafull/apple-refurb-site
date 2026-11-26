@@ -17761,6 +17761,14 @@
    "price": 53800
   },
   {
+   "part_number": "FHFA4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 102800
+  },
+  {
    "part_number": "FHFF4J/A",
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
@@ -17773,6 +17781,14 @@
    "category": "ipad",
    "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-26",
+   "price": 44800
+  },
+  {
+   "part_number": "FK2L3J/A",
+   "category": "ipad",
+   "title": "iPad Wi-Fi 64GB - シルバー（第9世代）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-26",
    "price": 44800
   },
@@ -17831,6 +17847,14 @@
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 420800
+  },
+  {
+   "part_number": "G1JVYJ/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 711800
   },
   {
    "part_number": "G1KZCJ/A",
