@@ -3,15 +3,15 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T14:12:31+09:00",
+  "generated": "2026-11-26T15:12:26+09:00",
   "items": [
     {
-      "id": "apple:G1N2BJ/A",
-      "title": "16インチMacBook Pro 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - スペースブラック",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥782,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-spaceblack-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpYnNSbmd1eG5SQ2hJT2p2dGxDNGJlNXc3cktFeUtxVnN6Nmh5SDVyeU96Nm5ZdDMremx3N21EQS9OQlBTRXgxeUFKSGpwS2IzbW9GRnhuTmJPeUJKa0xXcXVqdkEwa1dyZWtYOGQzeVl6SUs&traceId=1",
+      "id": "apple:FK2L3J/A",
+      "title": "iPad Wi-Fi 64GB - シルバー（第9世代）",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-26",
+      "note": "¥44,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-wifi-silver-2022?wid=800&hei=800&fmt=webp&qlt=90&.v=UU5TTGZRRWtzNjBjQkVGdlI4eDE0dlRmZ2x0QmpNdTFrbmUvU3c2Q0N0ak9kUHJ3bHRzS3haWVpOTEtIcExwRVRVbGY1Uno3Zm5uM1BxeHV2clpndUUxVzdraUt4bytWdlZ3TUJMcEZQRDg&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
@@ -56,17 +56,6 @@
       "date": "2026-11-25",
       "note": "¥408,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlwdW0rTThNNHZVMGhTd2pTVXk3K1U&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:G1KZLJ/A",
-      "title": "Mac mini 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥329,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUYU1ZTzY4RFpJSTBEWE10WnU3Y0lFS25zSXdJWE5qWENkcDE2MnZHK1ptc3JiOFZFN3FUV0tKQTBFRm1maXhPRDlwdnRJditNRFBWdkM0dkhYaTY4MUU&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
@@ -221,6 +210,17 @@
       "date": "2026-11-24",
       "note": "¥138,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-spacegray-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQTBsYjF2Q1hxUjlkOUpsQ015MjBTZ2xjKzZ6a01yWmdXSWN1OEdwV25GOWlNS0N1dUh5SXR4TktnWkdHa2NuSVFNbUdRdE1uMDRuenRkQUVjOURmMm1hL256YWdNcGRBK1d4UVhCYnBMS3dR&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FNXG3J/A",
+      "title": "11インチiPad Pro Wi-Fi 256GB - シルバー（第4世代）",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥138,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-pro-11inch-4th-gen-wifi-silver-202409?wid=800&hei=800&fmt=webp&qlt=90&.v=NlFPcjRNNHN6R2NSYmRWVHhzR3RnakVWTUt2U3gxLzFZYjhEYkFER2pxQ0FzYWZmQkM1YVlKbG1YcDZFSnlSUnlOQTJvU0pKNDJ3ZVZKb1I1WkdNczUyTGQvczVjTzVnd1B6UVQwaE1kY2dSTkJTT04ySmNUTU9Hb3pMZXBsQVdScUJkUFdickkyZkVDTzhoZXlCWEd3&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
