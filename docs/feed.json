@@ -3,7 +3,7 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T19:12:20+09:00",
+  "generated": "2026-11-26T20:12:21+09:00",
   "items": [
     {
       "id": "apple:G1MJ4J/A",
@@ -50,34 +50,12 @@
       "icon": null
     },
     {
-      "id": "apple:G1HF0J/A",
-      "title": "15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M4チップ - スカイブルー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥286,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m4-skyblue-202503?wid=800&hei=800&fmt=webp&qlt=90&.v=aXh2djVPaDJVSUtvM2FsZmN0NGxlWlUvTlk5V2lDV2FaRTlna2QycTZYRnNOODhnSjhaWkRCNnpWVzlJdWpGdjl4VGJTa0Z6K25XajlIZ3dxUWxxaFhyaVpad2dWZDNFK2ZLODRTQXphejA&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
       "id": "apple:FDV94J/A",
       "title": "15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
       "url": "https://apple.netaful.jp/mac/",
       "date": "2026-11-25",
       "note": "¥223,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rms3Y0czSVNtZnZuMFAvNHZmM1RYd1k&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:FDVQ4J/A",
-      "title": "15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥223,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-blue-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3U2FSOUVwai9sMDN6YXBVTWUwd1VJWUdyNGVHQk1LRGMzc2hlRVpsWWhBTWk5SGhrZjlNVDEvQUJHaFZKbmlDaXlwdW0rTThNNHZVMGhTd2pTVXk3K1U&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
@@ -221,6 +199,28 @@
       "date": "2026-11-24",
       "note": "¥128,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-starlight-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0WWpJRnVnclN6dnVpZjMvdE5sckxoMzRLK011UnF1dVpQZGprZ1dlRG0zUWJEZlBJQ2ZHV1F3ZXMxVnZTTG94Yi9jVTIwcEJjL3Axby9SNE1La0phb1hJNVJGcG9KUjMyU1dtOUhxc3oyTk0&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FCFV4J/A",
+      "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥124,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-cell-spacegray-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3blE0TlNBOXFINFhVV2dYU1pLc0VQRVBvRDJ0NGwzQzB3b2hxRnZhMjdVbGpxUU1BZThoV290WnJLZlUvZm1hV0E4bm1RcmlWRWp2eDN1WHNkSjNmUlpGSGJnNW1DZDNYVDVRYldla1Yyd2k&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FCFY4J/A",
+      "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル",
+      "url": "https://apple.netaful.jp/ipad/",
+      "date": "2026-11-24",
+      "note": "¥124,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-cell-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bDIxL0thZzg2UVRVUHp5QW5FYnF4S21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZy9RcFZxUUp3bERVb0pPZ3NKZWhZTnk&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
