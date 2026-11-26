@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T07:12:21+09:00",
- "count": 212,
+ "generated_at": "2026-11-27T08:12:20+09:00",
+ "count": 210,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1004,23 +1004,6 @@
    "color": "blue",
    "memory": "",
    "since": "2026-08-25"
-  },
-  {
-   "part_number": "FCNQ4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 256GB - スターライト [整備済製品]",
-   "price": 148800,
-   "url": "https://www.apple.com/jp/shop/product/fcnq4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-starlight-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3bGREY0dLREZSVjFzWTNUY09FWGRwSW55d0NSTkJKQUZ6Z1ZLc3ZpVThFVGpxUU1BZThoV290WnJLZlUvZm1hV0E4bm1RcmlWRWp2eDN1WHNkSjNmUllBYXVCMTFMUFFUZTV6MmtnZnRQSEs&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "starlight",
-   "memory": "",
-   "since": "2026-10-09"
   },
   {
    "part_number": "FCNR4J/A",
@@ -3165,23 +3148,6 @@
    "since": "2026-07-30"
   },
   {
-   "part_number": "FHFF4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fhff4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNRDhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "indigo",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
    "part_number": "FHFH4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - ブラッシュ",
    "price": 102800,
@@ -3471,23 +3437,6 @@
    "since": "2026-08-28"
   },
   {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3520,6 +3469,23 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
+  },
+  {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",
