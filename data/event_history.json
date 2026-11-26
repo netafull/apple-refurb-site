@@ -17692,6 +17692,14 @@
    "part_number": "FDE64J/A",
    "category": "mac",
    "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "restock",
+   "date": "2026-11-26",
+   "price": 303800
+  },
+  {
+   "part_number": "FDE64J/A",
+   "category": "mac",
+   "title": "14インチMacBook Pro [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 303800
@@ -17711,6 +17719,14 @@
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 236800
+  },
+  {
+   "part_number": "FDV94J/A",
+   "category": "mac",
+   "title": "15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 223800
   },
   {
    "part_number": "FDVC4J/A",

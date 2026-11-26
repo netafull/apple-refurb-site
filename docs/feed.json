@@ -3,8 +3,19 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-26T21:12:20+09:00",
+  "generated": "2026-11-26T22:12:28+09:00",
   "items": [
+    {
+      "id": "apple:FDE64J/A",
+      "title": "14インチMacBook Pro 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
+      "url": "https://apple.netaful.jp/mac/",
+      "date": "2026-11-26",
+      "note": "¥303,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpT09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmlrSDl6V2JEeTVlcUo5bXZtOEVqZnc&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
     {
       "id": "apple:G1MJ4J/A",
       "title": "14インチMacBook Pro 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
@@ -45,17 +56,6 @@
       "date": "2026-11-25",
       "note": "¥296,800",
       "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp14-m5-silver-202511?wid=800&hei=800&fmt=webp&qlt=90&.v=dXdxeU1SM0NxV0Nlb3NIeVRObG01TkgvR1c1TXVnUDM4QkcrQllKQjVpT09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmlrSDl6V2JEeTVlcUo5bXZtOEVqZnc&traceId=1",
-      "source": "apple",
-      "source_name": "林檎ポチ",
-      "icon": null
-    },
-    {
-      "id": "apple:FDV94J/A",
-      "title": "15インチMacBook Air 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー",
-      "url": "https://apple.netaful.jp/mac/",
-      "date": "2026-11-25",
-      "note": "¥223,800",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mba15-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=RzRDeEhDSzJOVmhSUDI1ZktlVUQ3VWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rms3Y0czSVNtZnZuMFAvNHZmM1RYd1k&traceId=1",
       "source": "apple",
       "source_name": "林檎ポチ",
       "icon": null
