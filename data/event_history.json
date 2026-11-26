@@ -17753,6 +17753,22 @@
    "price": 301800
   },
   {
+   "part_number": "FHFF4J/A",
+   "category": "mac",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 102800
+  },
+  {
+   "part_number": "FU9E3J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 144800
+  },
+  {
    "part_number": "FXN63J/A",
    "category": "ipad",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スペースグレイ [整備済製品]",
@@ -17783,6 +17799,22 @@
    "kind": "sold_out",
    "date": "2026-11-26",
    "price": 222800
+  },
+  {
+   "part_number": "G1JV7J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 405800
+  },
+  {
+   "part_number": "G1JV8J/A",
+   "category": "mac",
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "kind": "sold_out",
+   "date": "2026-11-26",
+   "price": 420800
   },
   {
    "part_number": "G1KZCJ/A",

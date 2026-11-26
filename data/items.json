@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T13:12:27+09:00",
- "count": 229,
+ "generated_at": "2026-11-26T14:12:31+09:00",
+ "count": 225,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1295,6 +1295,23 @@
    "since": "2026-11-24"
   },
   {
+   "part_number": "FXN93J/A",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
+   "price": 84800,
+   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
+   "category": "ipad",
+   "category_name": "iPad",
+   "shipping": "24時間以内",
+   "model": "ipadmini6",
+   "year": "2024",
+   "capacity": "128gb",
+   "screen": "8_3inch",
+   "color": "purple",
+   "memory": "",
+   "since": "2026-08-28"
+  },
+  {
    "part_number": "FXN73J/A",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
    "price": 84800,
@@ -1325,23 +1342,6 @@
    "capacity": "128gb",
    "screen": "8_3inch",
    "color": "starlight",
-   "memory": "",
-   "since": "2026-08-28"
-  },
-  {
-   "part_number": "FXN93J/A",
-   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - パープル [整備済製品]",
-   "price": 84800,
-   "url": "https://www.apple.com/jp/shop/product/fxn93j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-mini-7th-gen-wifi-purple-202603?wid=800&hei=800&fmt=webp&qlt=90&.v=dElmSGF2ODJXckVVcy9wNmZBVXE0V0dpdjFUVDI2aDRqbnlTb1IrZEM3NW9mRUtKeUdpMWUxeHcyVjZwVXVya0JxK0hoZ1RDZzNON0lYaEdaV0lRREl2UjRaSC9URTlmd0FSb1ZTWjRnb3RoeFdtRnc2U1dnNTFuc3Z3MENseXU&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadmini6",
-   "year": "2024",
-   "capacity": "128gb",
-   "screen": "8_3inch",
-   "color": "purple",
    "memory": "",
    "since": "2026-08-28"
   },
@@ -2672,23 +2672,6 @@
    "since": "2026-08-19"
   },
   {
-   "part_number": "G1JV8J/A",
-   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
-   "price": 420800,
-   "url": "https://www.apple.com/jp/shop/product/g1jv8j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUYU1ZTzY4RFpJSTBEWE10WnU3Y0lFS25zSXdJWE5qWENkcDE2MnZHK1ptc3JiOFZFN3FUV0tKQTBFRm1maXhPRDlwdnRJditNRFBWdkM0dkhYaTY4MUU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-09-09"
-  },
-  {
    "part_number": "G1K13J/A",
    "title": "24インチiMac [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet - シルバー",
    "price": 414800,
@@ -2772,23 +2755,6 @@
    "color": "skyblue",
    "memory": "32gb",
    "since": "2026-09-19"
-  },
-  {
-   "part_number": "G1JV7J/A",
-   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-   "price": 405800,
-   "url": "https://www.apple.com/jp/shop/product/g1jv7j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-pro-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUYU1ZTzY4RFpJSTBEWE10WnU3Y0lFS25zSXdJWE5qWENkcDE2MnZHK1ptc3JiOFZFN3FUV0tKQTBFRm1maXhPRDlwdnRJditNRFBWdkM0dkhYaTY4MUU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "1tb",
-   "screen": "",
-   "color": "silver",
-   "memory": "48gb",
-   "since": "2026-09-28"
   },
   {
    "part_number": "G1EJ1J/A",
@@ -3352,23 +3318,6 @@
    "since": "2026-08-26"
   },
   {
-   "part_number": "FU9E3J/A",
-   "title": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-   "price": 144800,
-   "url": "https://www.apple.com/jp/shop/product/fu9e3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-mini-202501?wid=800&hei=800&fmt=webp&qlt=90&.v=MUZqZ3JUM0g1Wk9tcDV3bml3ODVUVWwrTUt5M1dvbStMc2JKRWpJS0ZoMytZSlBBQkx6RDgwNDVIVmEySld6Tm0yRkkrVHUrOGtna0dDMk1MQVpsNjY1RDRKeWZrK3psTHgvVFlCTUF0dUU&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macmini",
-   "year": "2024",
-   "capacity": "512gb",
-   "screen": "",
-   "color": "silver",
-   "memory": "16gb",
-   "since": "2026-08-04"
-  },
-  {
    "part_number": "FHFA4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
    "price": 102800,
@@ -3399,23 +3348,6 @@
    "capacity": "256gb",
    "screen": "13inch",
    "color": "citrus",
-   "memory": "8gb",
-   "since": "2026-07-30"
-  },
-  {
-   "part_number": "FHFF4J/A",
-   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - インディゴ",
-   "price": 102800,
-   "url": "https://www.apple.com/jp/shop/product/fhff4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-indigo-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xZTZmdldtQTZla096VGlTcHp4bXJNRDhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXF4NVVsckRFNVFNSVZpVms5Mzdaamo&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookneo",
-   "year": "2026",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "indigo",
    "memory": "8gb",
    "since": "2026-07-30"
   },
@@ -3709,6 +3641,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3741,23 +3690,6 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
-  },
-  {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",
