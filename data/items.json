@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:12:20+09:00",
+ "generated_at": "2026-11-27T19:12:27+09:00",
  "count": 220,
  "items": [
   {
@@ -1499,21 +1499,21 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FU0A3J/A",
-   "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
+   "part_number": "FYDQ3J/A",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
    "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fu0a3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-yellow-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZWgwdXA4TmJkWDhsY2puZGdrSzZ0Mk9IdEVHVDFtY0lDaHYrVEs5YkgrK2J6b29ZblM4c256TmFyaWl3OVJFYUF1dmJjT0pUMysvZGJLc1JuWm5kZmlTK3Y1UkFRclBkdDN6VVdRei9KVE8&traceId=1",
+   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk&traceId=1",
    "category": "iphone",
    "category_name": "iPhone",
    "shipping": "24時間以内",
-   "model": "iphone15plus",
+   "model": "iphone16",
    "year": "",
    "capacity": "128gb",
    "screen": "",
-   "color": "yellow",
+   "color": "black",
    "memory": "",
-   "since": "2026-07-31"
+   "since": "2026-08-06"
   },
   {
    "part_number": "FYDU3J/A",
@@ -3437,6 +3437,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3469,23 +3486,6 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
-  },
-  {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FF8H4J/A",

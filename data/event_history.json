@@ -18105,6 +18105,14 @@
    "price": 114800
   },
   {
+   "part_number": "FU0A3J/A",
+   "category": "iphone",
+   "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-27",
+   "price": 114800
+  },
+  {
    "part_number": "FX2D3ZA/A",
    "category": "ipad",
    "title": "Apple Pencil Pro [整備済製品]",
@@ -18127,6 +18135,14 @@
    "kind": "sold_out",
    "date": "2026-11-27",
    "price": 84800
+  },
+  {
+   "part_number": "FYDQ3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+   "kind": "restock",
+   "date": "2026-11-27",
+   "price": 114800
   },
   {
    "part_number": "FYDU3J/A",
