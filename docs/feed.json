@@ -3,8 +3,41 @@
   "site": "apple",
   "site_name": "林檎ポチ",
   "site_url": "https://apple.netaful.jp/",
-  "generated": "2026-11-27T16:12:28+09:00",
+  "generated": "2026-11-27T17:12:26+09:00",
   "items": [
+    {
+      "id": "apple:FU0A3J/A",
+      "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）",
+      "url": "https://apple.netaful.jp/iphone/",
+      "date": "2026-11-27",
+      "note": "¥114,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-yellow-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZWgwdXA4TmJkWDhsY2puZGdrSzZ0Mk9IdEVHVDFtY0lDaHYrVEs5YkgrK2J6b29ZblM4c256TmFyaWl3OVJFYUF1dmJjT0pUMysvZGJLc1JuWm5kZmlTK3Y1UkFRclBkdDN6VVdRei9KVE8&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FYDU3J/A",
+      "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）",
+      "url": "https://apple.netaful.jp/iphone/",
+      "date": "2026-11-27",
+      "note": "¥114,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-ultramarine-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvUzEwWDVHYUkybVJKVkYxZmJqc0xnWEV0Z3ZDN1E2TlZCMVB3cTFtb3ZDdGJ6b29ZblM4c256TmFyaWl3OVJFYUx6U3I2VGRwUkpnRFQ2alBwWXpkaHkzS3pyeFZTOUFkbGFoMDY1R0M0VnI&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
+    {
+      "id": "apple:FYDV3J/A",
+      "title": "iPhone 16 128GB - ティール（SIMフリー）",
+      "url": "https://apple.netaful.jp/iphone/",
+      "date": "2026-11-27",
+      "note": "¥114,800",
+      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-teal-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWmF3WDJWWUM4S1RKbFZDTldJT2dsL09kUHJ3bHRzS3haWVpOTEtIcExwRVRVbGY1Uno3Zm5uM1BxeHV2clpndUphU0FmZTR0UjlNVnFmVUtXSnNIckE&traceId=1",
+      "source": "apple",
+      "source_name": "林檎ポチ",
+      "icon": null
+    },
     {
       "id": "apple:FEPE4J/A",
       "title": "Apple Watch SE 3（GPS + Cellularモデル）- 44mmスターライトアルミニウムケースとS/Mスターライトスポーツバンド",

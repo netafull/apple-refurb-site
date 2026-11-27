@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T16:12:28+09:00",
- "count": 218,
+ "generated_at": "2026-11-27T17:12:26+09:00",
+ "count": 220,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1006,23 +1006,6 @@
    "since": "2026-08-25"
   },
   {
-   "part_number": "FCNR4J/A",
-   "title": "13インチiPad Air（M3）Wi-Fi 256GB - パープル [整備済製品]",
-   "price": 148800,
-   "url": "https://www.apple.com/jp/shop/product/fcnr4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-2nd-gen-wifi-purple-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3dDdNVWJ6aEt3Z1M2TENqZmt0dEdUR21ram1tOFFoTWZoMHVjTE5qRW1zN3A3Q01DRnpZMXduYWRldHJ4dm1acksyL0ZSTzZrMWlpUU5CQlpuNHNUZzhldnRERERzWnJUTWJvdTcyMWRUNk0&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_13",
-   "year": "2025",
-   "capacity": "256gb",
-   "screen": "13inch",
-   "color": "purple",
-   "memory": "",
-   "since": "2026-10-28"
-  },
-  {
    "part_number": "FNYC3J/A",
    "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）[整備済製品]",
    "price": 146800,
@@ -1514,6 +1497,57 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
+  },
+  {
+   "part_number": "FU0A3J/A",
+   "title": "iPhone 15 Plus 128GB - イエロー（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fu0a3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-15-plus-yellow-202412?wid=800&hei=800&fmt=webp&qlt=90&.v=dkRYUzNIZktUUlpiYVJibmhmNTFOZWgwdXA4TmJkWDhsY2puZGdrSzZ0Mk9IdEVHVDFtY0lDaHYrVEs5YkgrK2J6b29ZblM4c256TmFyaWl3OVJFYUF1dmJjT0pUMysvZGJLc1JuWm5kZmlTK3Y1UkFRclBkdDN6VVdRei9KVE8&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone15plus",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "yellow",
+   "memory": "",
+   "since": "2026-07-31"
+  },
+  {
+   "part_number": "FYDU3J/A",
+   "title": "iPhone 16 128GB - ウルトラマリン（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fydu3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-ultramarine-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvUzEwWDVHYUkybVJKVkYxZmJqc0xnWEV0Z3ZDN1E2TlZCMVB3cTFtb3ZDdGJ6b29ZblM4c256TmFyaWl3OVJFYUx6U3I2VGRwUkpnRFQ2alBwWXpkaHkzS3pyeFZTOUFkbGFoMDY1R0M0VnI&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "ultramarine",
+   "memory": "",
+   "since": "2026-09-03"
+  },
+  {
+   "part_number": "FYDV3J/A",
+   "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
+   "price": 114800,
+   "url": "https://www.apple.com/jp/shop/product/fydv3j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-teal-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWmF3WDJWWUM4S1RKbFZDTldJT2dsL09kUHJ3bHRzS3haWVpOTEtIcExwRVRVbGY1Uno3Zm5uM1BxeHV2clpndUphU0FmZTR0UjlNVnFmVUtXSnNIckE&traceId=1",
+   "category": "iphone",
+   "category_name": "iPhone",
+   "shipping": "24時間以内",
+   "model": "iphone16",
+   "year": "",
+   "capacity": "128gb",
+   "screen": "",
+   "color": "teal",
+   "memory": "",
+   "since": "2026-09-03"
   },
   {
    "part_number": "G1MY9J/A",
