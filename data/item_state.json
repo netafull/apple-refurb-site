@@ -1771,24 +1771,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FCFV4J/A": {
-  "first_seen": "2026-08-25",
-  "first_seen_at": "2026-08-25T10:50:32+09:00",
-  "last_seen": "2026-11-27",
-  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-  "category": "ipad",
-  "price": 124800,
-  "price_history": [
-   [
-    "2026-08-25",
-    124800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-24",
-  "restocked_at_at": "2026-11-24T17:12:27+09:00"
- },
  "FCFY4J/A": {
   "first_seen": "2026-10-26",
   "first_seen_at": "2026-10-26T14:42:21+09:00",
@@ -3866,6 +3848,24 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FCFV4J/A": {
+  "first_seen": "2026-08-25",
+  "first_seen_at": "2026-08-25T10:50:32+09:00",
+  "last_seen": "2026-11-27",
+  "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
+  "category": "ipad",
+  "price": 124800,
+  "price_history": [
+   [
+    "2026-08-25",
+    124800
+   ]
+  ],
+  "sold_out_at": "2026-11-27",
+  "baseline": null,
+  "restocked_at": "2026-11-24",
+  "restocked_at_at": "2026-11-24T17:12:27+09:00"
  },
  "FX2D3ZA/A": {
   "first_seen": "2026-08-07",

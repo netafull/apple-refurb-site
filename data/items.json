@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T13:12:27+09:00",
- "count": 219,
+ "generated_at": "2026-11-27T14:12:20+09:00",
+ "count": 218,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1140,23 +1140,6 @@
    "color": "starlight",
    "memory": "",
    "since": "2026-10-17"
-  },
-  {
-   "part_number": "FCFV4J/A",
-   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - スペースグレイ [整備済製品]",
-   "price": 124800,
-   "url": "https://www.apple.com/jp/shop/product/fcfv4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-ipad-air-7th-gen-cell-spacegray-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=ejFkbU9MZ3c3VG10WjJvMnd0Uit3blE0TlNBOXFINFhVV2dYU1pLc0VQRVBvRDJ0NGwzQzB3b2hxRnZhMjdVbGpxUU1BZThoV290WnJLZlUvZm1hV0E4bm1RcmlWRWp2eDN1WHNkSjNmUlpGSGJnNW1DZDNYVDVRYldla1Yyd2k&traceId=1",
-   "category": "ipad",
-   "category_name": "iPad",
-   "shipping": "24時間以内",
-   "model": "ipadair_11",
-   "year": "2025",
-   "capacity": "128gb",
-   "screen": "11inch",
-   "color": "space_gray",
-   "memory": "",
-   "since": "2026-08-25"
   },
   {
    "part_number": "FCFY4J/A",
