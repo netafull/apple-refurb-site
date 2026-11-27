@@ -18193,6 +18193,22 @@
    "price": 617800
   },
   {
+   "part_number": "FCFY4J/A",
+   "category": "ipad",
+   "title": "11インチiPad Air（M3）Wi-Fi + Cellular 128GB - パープル [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 124800
+  },
+  {
+   "part_number": "FCNP4J/A",
+   "category": "ipad",
+   "title": "13インチiPad Air（M3）Wi-Fi 256GB - ブルー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 148800
+  },
+  {
    "part_number": "FHFA4J/A",
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
@@ -18201,12 +18217,572 @@
    "price": 102800
   },
   {
+   "part_number": "FNXD3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 128GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 124800
+  },
+  {
+   "part_number": "FNXE3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 128GB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 124800
+  },
+  {
+   "part_number": "FNXF3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 256GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 138800
+  },
+  {
+   "part_number": "FNXG3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 256GB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 138800
+  },
+  {
+   "part_number": "FNXH3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 512GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 168800
+  },
+  {
+   "part_number": "FNXK3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 1TB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 226800
+  },
+  {
+   "part_number": "FNXL3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 1TB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 226800
+  },
+  {
+   "part_number": "FNXM3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 2TB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 281800
+  },
+  {
+   "part_number": "FNXN3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi 2TB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 281800
+  },
+  {
+   "part_number": "FNXP3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 128GB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 174800
+  },
+  {
+   "part_number": "FNXQ3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 128GB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 174800
+  },
+  {
+   "part_number": "FNXR3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 256GB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 189800
+  },
+  {
+   "part_number": "FNXT3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 256GB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 189800
+  },
+  {
+   "part_number": "FNXV3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 512GB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 220800
+  },
+  {
+   "part_number": "FNXW3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 1TB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 275800
+  },
+  {
+   "part_number": "FNXY3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 2TB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 329800
+  },
+  {
+   "part_number": "FNY03J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi 2TB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 329800
+  },
+  {
+   "part_number": "FNYC3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 146800
+  },
+  {
+   "part_number": "FNYD3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 146800
+  },
+  {
+   "part_number": "FNYE3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 162800
+  },
+  {
+   "part_number": "FNYF3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 256GB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 162800
+  },
+  {
+   "part_number": "FNYG3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 192800
+  },
+  {
+   "part_number": "FNYH3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 512GB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 192800
+  },
+  {
+   "part_number": "FNYJ3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 247800
+  },
+  {
+   "part_number": "FNYK3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 1TB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 247800
+  },
+  {
+   "part_number": "FNYL3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 2TB - スペースグレイ（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 301800
+  },
+  {
+   "part_number": "FNYM3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro Wi-Fi + Cellular 2TB - シルバー（第4世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 301800
+  },
+  {
+   "part_number": "FP1X3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 198800
+  },
+  {
+   "part_number": "FP1Y3J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi + Cellular 128GB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 198800
+  },
+  {
+   "part_number": "FP263J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi + Cellular 2TB - スペースグレイ（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 350800
+  },
+  {
+   "part_number": "FP273J/A",
+   "category": "ipad",
+   "title": "12.9インチiPad Pro Wi-Fi + Cellular 2TB - シルバー（第6世代）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 350800
+  },
+  {
+   "part_number": "FVV93J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 159800
+  },
+  {
+   "part_number": "FVW13J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 190800
+  },
+  {
+   "part_number": "FVW23J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 190800
+  },
+  {
+   "part_number": "FVW33J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 220800
+  },
+  {
+   "part_number": "FVW43J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 220800
+  },
+  {
+   "part_number": "FVW53J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 278800
+  },
+  {
+   "part_number": "FVW63J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 278800
+  },
+  {
+   "part_number": "FVW73J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 336800
+  },
+  {
+   "part_number": "FVW83J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 336800
+  },
+  {
+   "part_number": "FVX23J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 209800
+  },
+  {
+   "part_number": "FVX33J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 256GB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 209800
+  },
+  {
+   "part_number": "FVX43J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 239800
+  },
+  {
+   "part_number": "FVX63J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 297800
+  },
+  {
+   "part_number": "FVX73J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 297800
+  },
+  {
+   "part_number": "FVX83J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 355800
+  },
+  {
+   "part_number": "FVX93J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 2TB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 355800
+  },
+  {
+   "part_number": "FVXR3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 256GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 239800
+  },
+  {
+   "part_number": "FVXU3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 512GB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 270800
+  },
+  {
+   "part_number": "FVXW3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 328800
+  },
+  {
+   "part_number": "FVXY3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 385800
+  },
+  {
+   "part_number": "FVY03J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（標準ガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 385800
+  },
+  {
+   "part_number": "FWRF3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 311800
+  },
+  {
+   "part_number": "FWRG3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 311800
+  },
+  {
+   "part_number": "FWRP3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 292800
+  },
+  {
+   "part_number": "FWRQ3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 292800
+  },
+  {
+   "part_number": "FWRR3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 349800
+  },
+  {
+   "part_number": "FWRT3J/A",
+   "category": "ipad",
+   "title": "11インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 349800
+  },
+  {
+   "part_number": "FWRY3J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 341800
+  },
+  {
+   "part_number": "FWT03J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 1TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 341800
+  },
+  {
+   "part_number": "FWT13J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- スペースブラック [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 399800
+  },
+  {
+   "part_number": "FWT23J/A",
+   "category": "ipad",
+   "title": "13インチiPad Pro（M4）Wi-Fi + Cellular 2TB（Nano-textureガラス搭載）- シルバー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 399800
+  },
+  {
    "part_number": "FXN73J/A",
    "category": "ipad",
    "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - ブルー [整備済製品]",
    "kind": "sold_out",
    "date": "2026-11-28",
    "price": 84800
+  },
+  {
+   "part_number": "FXN83J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 128GB - スターライト [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 84800
+  },
+  {
+   "part_number": "FXNA3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スペースグレイ [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 98800
+  },
+  {
+   "part_number": "FXNC3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - ブルー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 98800
+  },
+  {
+   "part_number": "FXND3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - スターライト [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 98800
+  },
+  {
+   "part_number": "FXNE3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 256GB - パープル [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 98800
+  },
+  {
+   "part_number": "FYGY3J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 128800
+  },
+  {
+   "part_number": "FYH13J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - ブルー [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 128800
+  },
+  {
+   "part_number": "FYH23J/A",
+   "category": "ipad",
+   "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スターライト [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 128800
   },
   {
    "part_number": "G1KM2J/A",
