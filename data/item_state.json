@@ -1,4 +1,22 @@
 {
+ "FHFA4J/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-27",
+  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+  "category": "mac",
+  "price": 102800,
+  "price_history": [
+   [
+    "2026-07-30",
+    102800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00",
+  "restocked_at": "2026-11-27",
+  "restocked_at_at": "2026-11-27T22:12:19+09:00"
+ },
  "FHFD4J/A": {
   "first_seen": "2026-07-30",
   "last_seen": "2026-11-27",
@@ -2891,28 +2909,6 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
- "FYDQ3J/A": {
-  "first_seen": "2026-08-06",
-  "first_seen_at": "2026-08-06T13:48:17+09:00",
-  "last_seen": "2026-11-27",
-  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-08-06",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-27",
-  "restocked_at_at": "2026-11-27T19:12:27+09:00"
- },
  "FYDU3J/A": {
   "first_seen": "2026-09-03",
   "first_seen_at": "2026-09-03T11:42:19+09:00",
@@ -3393,28 +3389,6 @@
   "restocked_at": "2026-11-27",
   "restocked_at_at": "2026-11-27T12:12:28+09:00"
  },
- "FEQU4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-11-27",
-  "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 53800,
-  "price_history": [
-   [
-    "2026-08-14",
-    60800
-   ],
-   [
-    "2026-11-20",
-    53800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-20",
-  "restocked_at_at": "2026-11-20T13:12:19+09:00"
- },
  "FEQW4J/A": {
   "first_seen": "2026-11-20",
   "first_seen_at": "2026-11-20T13:12:19+09:00",
@@ -3497,6 +3471,28 @@
   "restocked_at": "2026-11-20",
   "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
+ "FF8F4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-11-27",
+  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 67800,
+  "price_history": [
+   [
+    "2026-08-14",
+    74800
+   ],
+   [
+    "2026-09-10",
+    67800
+   ]
+  ],
+  "sold_out_at": null,
+  "baseline": null,
+  "restocked_at": "2026-11-20",
+  "restocked_at_at": "2026-11-20T13:12:19+09:00"
+ },
  "FF8A4J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3534,28 +3530,6 @@
   ],
   "sold_out_at": null,
   "baseline": null
- },
- "FF8F4J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-11-27",
-  "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 67800,
-  "price_history": [
-   [
-    "2026-08-14",
-    74800
-   ],
-   [
-    "2026-09-10",
-    67800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-20",
-  "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
  "FF8H4J/A": {
   "first_seen": "2026-08-14",
@@ -3897,6 +3871,50 @@
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
  },
+ "FYDQ3J/A": {
+  "first_seen": "2026-08-06",
+  "first_seen_at": "2026-08-06T13:48:17+09:00",
+  "last_seen": "2026-11-27",
+  "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-08-06",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-11-27",
+  "baseline": null,
+  "restocked_at": "2026-11-27",
+  "restocked_at_at": "2026-11-27T19:12:27+09:00"
+ },
+ "FEQU4J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-11-27",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 53800,
+  "price_history": [
+   [
+    "2026-08-14",
+    60800
+   ],
+   [
+    "2026-11-20",
+    53800
+   ]
+  ],
+  "sold_out_at": "2026-11-27",
+  "baseline": null,
+  "restocked_at": "2026-11-20",
+  "restocked_at_at": "2026-11-20T13:12:19+09:00"
+ },
  "FU0A3J/A": {
   "first_seen": "2026-07-31",
   "last_seen": "2026-11-27",
@@ -4026,24 +4044,6 @@
   "baseline": null,
   "restocked_at": "2026-11-24",
   "restocked_at_at": "2026-11-24T17:12:27+09:00"
- },
- "FHFA4J/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-27",
-  "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
-  "category": "mac",
-  "price": 102800,
-  "price_history": [
-   [
-    "2026-07-30",
-    102800
-   ]
-  ],
-  "sold_out_at": "2026-11-27",
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00",
-  "restocked_at": "2026-11-27",
-  "restocked_at_at": "2026-11-27T04:12:25+09:00"
  },
  "FEU44J/A": {
   "first_seen": "2026-08-14",

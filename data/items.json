@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T21:12:22+09:00",
- "count": 220,
+ "generated_at": "2026-11-27T22:12:19+09:00",
+ "count": 219,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1497,23 +1497,6 @@
    "color": "bluetitanium",
    "memory": "",
    "since": "2026-07-31"
-  },
-  {
-   "part_number": "FYDQ3J/A",
-   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydq3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-black-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvY3pCMVIvano0djhidnZ6RVNGUzBXU09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5RmdjYmkxR1IxcEMzVFVzSUw5YU9ZeVk&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "black",
-   "memory": "",
-   "since": "2026-08-06"
   },
   {
    "part_number": "FYDU3J/A",
@@ -3131,6 +3114,23 @@
    "since": "2026-08-26"
   },
   {
+   "part_number": "FHFA4J/A",
+   "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
+   "price": 102800,
+   "url": "https://www.apple.com/jp/shop/product/fhfa4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mac-neo-a18-pro-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=VFV6RG10eUMvaGwrUDMrSzU2QS8xYllDQUIwMnV0STF0WFRmN05vUUc0cjhnQUluTWJMZ2VwalpRSFRFOWUxSEl3b0s2NGZJaTNFMHFCa1lhUnljaE92MHhUK1hWTUpnN0poZDNVWCtHMXFJa1Evbk5jTUkvY1BFNEk1c3RMc3Q&traceId=1",
+   "category": "mac",
+   "category_name": "Mac",
+   "shipping": "24時間以内",
+   "model": "macbookneo",
+   "year": "2026",
+   "capacity": "256gb",
+   "screen": "13inch",
+   "color": "silver",
+   "memory": "8gb",
+   "since": "2026-07-30"
+  },
+  {
    "part_number": "FHFD4J/A",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シトラス",
    "price": 102800,
@@ -3437,6 +3437,23 @@
    "since": "2026-08-28"
   },
   {
+   "part_number": "FF8F4J/A",
+   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
+   "price": 67800,
+   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
+   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
+   "category": "watch",
+   "category_name": "Apple Watch",
+   "shipping": "24時間以内",
+   "model": "watchseries11",
+   "year": "",
+   "capacity": "",
+   "screen": "",
+   "color": "",
+   "memory": "",
+   "since": "2026-08-14"
+  },
+  {
    "part_number": "FF8A4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmスペースグレイアルミニウムケースとS/Mブラックスポーツバンド [整備済製品]",
    "price": 67800,
@@ -3471,45 +3488,11 @@
    "since": "2026-11-20"
   },
   {
-   "part_number": "FF8F4J/A",
-   "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
-   "price": 67800,
-   "url": "https://www.apple.com/jp/shop/product/ff8f4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-rose-sport-band-blush?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jMTlPaFN4dWRRYlJwVjZYanlOc0lIeXplY0lFaVJwU0R1NDFKOTJUblQ4blZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWYzM0Izci9TclE2aVJqdkVLOS9zWHo&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
    "part_number": "FF8H4J/A",
    "title": "Apple Watch Series 11（GPS + Cellularモデル）- 42mmシルバーアルミニウムケースとS/Mパープルフォグスポーツバンド [整備済製品]",
    "price": 67800,
    "url": "https://www.apple.com/jp/shop/product/ff8h4j/a",
    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWRMblhMWkU4R3p1QUo5SUJHUjhZWTM&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
-  },
-  {
-   "part_number": "FEQU4J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
-   "price": 53800,
-   "url": "https://www.apple.com/jp/shop/product/fequ4j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-jet-sport-band-black?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jODIrb0FJM2hvRXB1b3gvSERZUVQ2UVMwQSs0cWdQTzI1T0ZSTmY3R0MvaUY3cFI4SHFCYnV6YVp0cE9qSWUyZm9Fc3FPdm9zdnlHbVlONW9hcU1heEhKLzRKeUdoU21nNzllNHZwa2M3N3Q&traceId=1",
    "category": "watch",
    "category_name": "Apple Watch",
    "shipping": "24時間以内",

@@ -18049,6 +18049,14 @@
    "price": 46800
   },
   {
+   "part_number": "FEQU4J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmジェットブラックアルミニウムケースとM/Lブラックスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-27",
+   "price": 53800
+  },
+  {
    "part_number": "FEU44J/A",
    "category": "watch",
    "title": "Apple Watch Series 11（GPSモデル）- 42mmローズゴールドアルミニウムケースとM/Lライトブラッシュスポーツバンド [整備済製品]",
@@ -18141,6 +18149,14 @@
    "category": "iphone",
    "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
    "kind": "restock",
+   "date": "2026-11-27",
+   "price": 114800
+  },
+  {
+   "part_number": "FYDQ3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 128GB - ブラック（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
    "date": "2026-11-27",
    "price": 114800
   },
