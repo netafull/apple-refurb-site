@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28T13:12:22+09:00",
- "count": 214,
+ "generated_at": "2026-11-28T14:12:28+09:00",
+ "count": 211,
  "items": [
   {
    "part_number": "FDEW4J/A",
@@ -1465,23 +1465,6 @@
    "since": "2026-07-31"
   },
   {
-   "part_number": "FYDV3J/A",
-   "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
-   "price": 114800,
-   "url": "https://www.apple.com/jp/shop/product/fydv3j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-iphone-16-teal-202509?wid=800&hei=800&fmt=webp&qlt=90&.v=V1BDbkFTZDNiSWFzd0lpYlliN2cvWmF3WDJWWUM4S1RKbFZDTldJT2dsL09kUHJ3bHRzS3haWVpOTEtIcExwRVRVbGY1Uno3Zm5uM1BxeHV2clpndUphU0FmZTR0UjlNVnFmVUtXSnNIckE&traceId=1",
-   "category": "iphone",
-   "category_name": "iPhone",
-   "shipping": "24時間以内",
-   "model": "iphone16",
-   "year": "",
-   "capacity": "128gb",
-   "screen": "",
-   "color": "teal",
-   "memory": "",
-   "since": "2026-09-03"
-  },
-  {
    "part_number": "G1MY9J/A",
    "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ、Nano-textureディスプレイ - シルバー",
    "price": 1509800,
@@ -1718,23 +1701,6 @@
    "color": "silver",
    "memory": "48gb",
    "since": "2026-09-14"
-  },
-  {
-   "part_number": "G1MYFJ/A",
-   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-   "price": 1180800,
-   "url": "https://www.apple.com/jp/shop/product/g1myfj/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-mbp16-m5-silver-202606?wid=800&hei=800&fmt=webp&qlt=90&.v=TGFvMzVxTG1qaGZ0MGErRmlGQ3ZpVWttVlFCOEUrN0xiSDJ5REt1Z3lzK09wQXdCN3lGYWkxbXNwOVQ5K1pwWUR5ZVpDdUpVU08vSGU1ZXgwbmQ5Rm04eUdUdmRjVUdsdUVmZzJlSDc2WVk&traceId=1",
-   "category": "mac",
-   "category_name": "Mac",
-   "shipping": "24時間以内",
-   "model": "macbookpro",
-   "year": "2026",
-   "capacity": "4tb",
-   "screen": "16inch",
-   "color": "silver",
-   "memory": "128gb",
-   "since": "2026-07-30"
   },
   {
    "part_number": "G1FW2J/A",
@@ -3435,23 +3401,6 @@
    "color": "",
    "memory": "",
    "since": "2026-11-20"
-  },
-  {
-   "part_number": "FEU74J/A",
-   "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-   "price": 53800,
-   "url": "https://www.apple.com/jp/shop/product/feu74j/a",
-   "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/refurb-42-s11-alum-silver-sport-band-fog?wid=800&hei=800&fmt=webp&qlt=90&.v=T3BNQWdRRzNGWE1xcVgzeFJ6b29jempmV0Jtalg0cm0zdnQvTjlTY1VuWGpXTlV6bHptTVZkTkIza2JVQkdNZlZEbzNiWnNBK2NFaHpzYXZPR3JUT3YyY1RXZE5BSE1TeVhOcXNSanIyNWRMblhMWkU4R3p1QUo5SUJHUjhZWTM&traceId=1",
-   "category": "watch",
-   "category_name": "Apple Watch",
-   "shipping": "24時間以内",
-   "model": "watchseries11",
-   "year": "",
-   "capacity": "",
-   "screen": "",
-   "color": "",
-   "memory": "",
-   "since": "2026-08-14"
   },
   {
    "part_number": "FEPE4J/A",

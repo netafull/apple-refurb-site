@@ -18225,6 +18225,14 @@
    "price": 148800
   },
   {
+   "part_number": "FEU74J/A",
+   "category": "watch",
+   "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 53800
+  },
+  {
    "part_number": "FHFA4J/A",
    "category": "mac",
    "title": "MacBook Neo [整備済製品] Apple A18 Pro チップ - シルバー",
@@ -19321,6 +19329,14 @@
    "price": 114800
   },
   {
+   "part_number": "FYDV3J/A",
+   "category": "iphone",
+   "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 114800
+  },
+  {
    "part_number": "FYGY3J/A",
    "category": "ipad",
    "title": "iPad mini（A17 Pro）Wi‑Fi 512GB - スペースグレイ [整備済製品]",
@@ -19375,6 +19391,14 @@
    "kind": "sold_out",
    "date": "2026-11-28",
    "price": 296800
+  },
+  {
+   "part_number": "G1MYFJ/A",
+   "category": "mac",
+   "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+   "kind": "sold_out",
+   "date": "2026-11-28",
+   "price": 1180800
   }
  ]
 }

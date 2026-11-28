@@ -1421,22 +1421,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "G1MYFJ/A": {
-  "first_seen": "2026-07-30",
-  "last_seen": "2026-11-28",
-  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
-  "category": "mac",
-  "price": 1180800,
-  "price_history": [
-   [
-    "2026-07-30",
-    1180800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": true,
-  "first_seen_at": "2026-07-30T12:00:00+09:00"
- },
  "G1FSMJ/A": {
   "first_seen": "2026-11-04",
   "first_seen_at": "2026-11-04T12:12:20+09:00",
@@ -2925,28 +2909,6 @@
   "restocked_at": "2026-11-28",
   "restocked_at_at": "2026-11-28T08:12:21+09:00"
  },
- "FYDV3J/A": {
-  "first_seen": "2026-09-03",
-  "first_seen_at": "2026-09-03T11:42:19+09:00",
-  "last_seen": "2026-11-28",
-  "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
-  "category": "iphone",
-  "price": 114800,
-  "price_history": [
-   [
-    "2026-09-03",
-    105800
-   ],
-   [
-    "2026-09-11",
-    114800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-27",
-  "restocked_at_at": "2026-11-27T17:12:26+09:00"
- },
  "FU6P3J/A": {
   "first_seen": "2026-08-01",
   "last_seen": "2026-11-28",
@@ -3399,28 +3361,6 @@
   "sold_out_at": null,
   "baseline": null
  },
- "FEU74J/A": {
-  "first_seen": "2026-08-14",
-  "first_seen_at": "2026-08-14T13:59:18+09:00",
-  "last_seen": "2026-11-28",
-  "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
-  "category": "watch",
-  "price": 53800,
-  "price_history": [
-   [
-    "2026-08-14",
-    60800
-   ],
-   [
-    "2026-10-09",
-    53800
-   ]
-  ],
-  "sold_out_at": null,
-  "baseline": null,
-  "restocked_at": "2026-11-20",
-  "restocked_at_at": "2026-11-20T13:12:19+09:00"
- },
  "FF834J/A": {
   "first_seen": "2026-08-14",
   "first_seen_at": "2026-08-14T13:59:18+09:00",
@@ -3864,6 +3804,66 @@
   "sold_out_at": null,
   "baseline": true,
   "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "G1MYFJ/A": {
+  "first_seen": "2026-07-30",
+  "last_seen": "2026-11-28",
+  "title": "16インチMacBook Pro [整備済製品] 18コアCPUと40コアGPUを搭載したApple M5 Maxチップ - シルバー",
+  "category": "mac",
+  "price": 1180800,
+  "price_history": [
+   [
+    "2026-07-30",
+    1180800
+   ]
+  ],
+  "sold_out_at": "2026-11-28",
+  "baseline": true,
+  "first_seen_at": "2026-07-30T12:00:00+09:00"
+ },
+ "FYDV3J/A": {
+  "first_seen": "2026-09-03",
+  "first_seen_at": "2026-09-03T11:42:19+09:00",
+  "last_seen": "2026-11-28",
+  "title": "iPhone 16 128GB - ティール（SIMフリー）[整備済製品]",
+  "category": "iphone",
+  "price": 114800,
+  "price_history": [
+   [
+    "2026-09-03",
+    105800
+   ],
+   [
+    "2026-09-11",
+    114800
+   ]
+  ],
+  "sold_out_at": "2026-11-28",
+  "baseline": null,
+  "restocked_at": "2026-11-27",
+  "restocked_at_at": "2026-11-27T17:12:26+09:00"
+ },
+ "FEU74J/A": {
+  "first_seen": "2026-08-14",
+  "first_seen_at": "2026-08-14T13:59:18+09:00",
+  "last_seen": "2026-11-28",
+  "title": "Apple Watch Series 11（GPSモデル）- 42mmシルバーアルミニウムケースとM/Lパープルフォグスポーツバンド [整備済製品]",
+  "category": "watch",
+  "price": 53800,
+  "price_history": [
+   [
+    "2026-08-14",
+    60800
+   ],
+   [
+    "2026-10-09",
+    53800
+   ]
+  ],
+  "sold_out_at": "2026-11-28",
+  "baseline": null,
+  "restocked_at": "2026-11-20",
+  "restocked_at_at": "2026-11-20T13:12:19+09:00"
  },
  "FYDU3J/A": {
   "first_seen": "2026-09-03",
